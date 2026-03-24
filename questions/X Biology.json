@@ -1,0 +1,450 @@
+[
+  {
+    "question": "The hormone that induces vigorous contractions of the uterus in a pregnant mother is:",
+    "choices": [
+      "Oestrogen",
+      "Prolactin",
+      "Oxytocin",
+      "Progesterone"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Oxytocin is the hormone responsible for stimulating strong uterine contractions during labour and childbirth."
+  },
+  {
+    "question": "The hormone that affects urination is:",
+    "choices": [
+      "Adrenaline",
+      "Vasopressin",
+      "Oestrogen",
+      "Thyroxine"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Vasopressin is produced by the posterior pituitary gland. Also known as ADH (Anti-diuretic hormone), it plays a role in reabsorption of water in kidneys."
+  },
+  {
+    "question": "Gigantism and Acromegaly are due to:",
+    "choices": [
+      "Hypersecretion of Growth hormone",
+      "Hypersecretion of Thyroxine",
+      "Hyposecretion of Growth hormone",
+      "Hyposecretion of Thyroxine"
+    ],
+    "answer": 0,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Acromegaly and Gigantism are disorders in which the pituitary gland produces too much Growth hormone."
+  },
+  {
+    "question": "Islets of Langerhans are located in:",
+    "choices": [
+      "Liver",
+      "Pituitary gland",
+      "Spleen",
+      "Pancreas"
+    ],
+    "answer": 3,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Islets of Langerhans are endocrine cells present in the Pancreas. They have three types of cells: alpha, beta and delta cells."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Deficiency of Antidiuretic hormone causes an increase in urination.<br><b>Reason (R):</b> Antidiuretic hormone acts on the kidney to reabsorb water from the kidney tubules.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are False"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "ADH helps the kidneys reabsorb water, so less urine is made. If there is not enough ADH, water is not reabsorbed properly, causing more urine to be produced — so both A and R are true."
+  },
+  {
+    "question": "Observe the following picture. Identify the defect and the cause of the defect.<br><img src=\"questions/images/X_Biology/image001.jpg\" alt=\"Goitre image\" style=\"max-width:280px\" />",
+    "choices": [
+      "Simple goitre, under secretion of thyroxine.",
+      "Ex-ophthalmic goitre, over secretion of thyroxine.",
+      "Simple goitre, over secretion of thyroxine.",
+      "Ex-ophthalmic goitre, under secretion of thyroxine."
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Ex-ophthalmic goitre is caused by the over secretion of thyroxine hormone from the thyroid gland. It results in symptoms like protruding eyes, increased metabolism, and swelling in the neck (goitre)."
+  },
+  {
+    "question": "Which endocrine gland is referred to as the 'master gland'?",
+    "choices": [
+      "Thyroid gland",
+      "Adrenal gland",
+      "Pituitary gland",
+      "Pancreas"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The pituitary gland is called the master gland because it secretes hormones that regulate and control the activity of most other endocrine glands in the body."
+  },
+  {
+    "question": "Insulin is secreted by which cells of the Pancreas?",
+    "choices": [
+      "Alpha cells",
+      "Beta cells",
+      "Delta cells",
+      "Acinar cells"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Beta cells of the Islets of Langerhans in the pancreas secrete insulin, which lowers blood sugar by promoting glucose uptake and storing it as glycogen."
+  },
+  {
+    "question": "Glucagon is secreted by which cells of the Islets of Langerhans?",
+    "choices": [
+      "Beta cells",
+      "Delta cells",
+      "Alpha cells",
+      "Gamma cells"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Alpha cells of the Islets of Langerhans secrete glucagon, which raises blood sugar by promoting the breakdown of glycogen (glycogenolysis) in the liver."
+  },
+  {
+    "question": "Dwarfism in a child is caused by:",
+    "choices": [
+      "Hypersecretion of Growth hormone",
+      "Hyposecretion of Thyroxine",
+      "Hyposecretion of Growth hormone",
+      "Hypersecretion of Insulin"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Dwarfism results from hyposecretion (under-secretion) of Growth hormone during childhood, causing the person to have stunted growth and proportionally small stature."
+  },
+  {
+    "question": "Cretinism is caused by:",
+    "choices": [
+      "Hypersecretion of Growth hormone in childhood",
+      "Hyposecretion of Thyroxine in children",
+      "Hyposecretion of Insulin",
+      "Hypersecretion of ADH"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Cretinism is a condition caused by deficiency (hyposecretion) of thyroxine in infants and young children. It leads to stunted physical and mental growth."
+  },
+  {
+    "question": "Myxoedema is caused by:",
+    "choices": [
+      "Hypersecretion of Thyroxine in adults",
+      "Hyposecretion of Growth hormone in adults",
+      "Hyposecretion of Thyroxine in adults",
+      "Hypersecretion of Insulin"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Myxoedema is caused by hyposecretion of thyroxine in adults. It leads to low metabolic rate, weight gain, swelling of the skin, and mental sluggishness."
+  },
+  {
+    "question": "Which hormone is called the 'emergency hormone' or 'fight-or-flight hormone'?",
+    "choices": [
+      "Thyroxine",
+      "Insulin",
+      "Oxytocin",
+      "Adrenaline"
+    ],
+    "answer": 3,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Adrenaline (Epinephrine), secreted by the adrenal medulla, is called the emergency hormone because it prepares the body for any emergency by increasing heart rate, blood pressure, and blood sugar levels."
+  },
+  {
+    "question": "Simple goitre is caused by:",
+    "choices": [
+      "Oversecretion of thyroxine",
+      "Deficiency of iodine in diet",
+      "Deficiency of calcium in diet",
+      "Hypersecretion of Growth hormone"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Simple goitre is caused by a deficiency of iodine in the diet. Without iodine, the thyroid gland cannot synthesise thyroxine and compensates by enlarging, causing a visible swelling in the neck."
+  },
+  {
+    "question": "Diabetes mellitus is caused by:",
+    "choices": [
+      "Hyposecretion of ADH",
+      "Hypersecretion of Glucagon",
+      "Hyposecretion of Insulin",
+      "Hypersecretion of Thyroxine"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Diabetes mellitus is caused by insufficient secretion of insulin by the beta cells of the pancreas, resulting in high blood sugar levels (hyperglycaemia) and glucose appearing in the urine."
+  },
+  {
+    "question": "Which of the following is a mixed gland (both exocrine and endocrine)?",
+    "choices": [
+      "Thyroid gland",
+      "Pituitary gland",
+      "Adrenal gland",
+      "Pancreas"
+    ],
+    "answer": 3,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The pancreas is a mixed gland. Its exocrine part secretes digestive enzymes into the duodenum, while its endocrine part (Islets of Langerhans) secretes hormones like insulin and glucagon directly into the blood."
+  },
+  {
+    "question": "Where are the adrenal glands located?",
+    "choices": [
+      "In the neck, in front of the trachea",
+      "At the base of the brain",
+      "On top of each kidney",
+      "In the abdominal cavity, near the liver"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The adrenal glands (also called suprarenal glands) are a pair of glands located on top of each kidney. Each gland has two parts: the outer cortex and the inner medulla."
+  },
+  {
+    "question": "Which mineral is essential for the synthesis of Thyroxine?",
+    "choices": [
+      "Calcium",
+      "Iodine",
+      "Iron",
+      "Phosphorus"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Iodine is an essential component of thyroxine (T4) and triiodothyronine (T3). Without adequate iodine, the thyroid gland cannot produce sufficient thyroxine, leading to goitre."
+  },
+  {
+    "question": "Testosterone is secreted by:",
+    "choices": [
+      "Adrenal cortex",
+      "Leydig cells of the testes",
+      "Beta cells of the pancreas",
+      "Anterior pituitary"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Testosterone is the male sex hormone secreted by the Leydig cells (interstitial cells) of the testes. It is responsible for the development of secondary sexual characters in males."
+  },
+  {
+    "question": "The hormone that promotes milk secretion in nursing mothers is:",
+    "choices": [
+      "Oxytocin",
+      "Oestrogen",
+      "Prolactin",
+      "Progesterone"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Prolactin is secreted by the anterior pituitary gland and is responsible for stimulating and maintaining milk production (lactation) in the mammary glands after childbirth."
+  },
+  {
+    "question": "Which hormone is responsible for regulating the calcium level in the blood?",
+    "choices": [
+      "Thyroxine",
+      "Insulin",
+      "Parathormone (PTH)",
+      "Adrenaline"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Parathormone (PTH) is secreted by the parathyroid glands. It regulates calcium and phosphate levels in the blood by stimulating the release of calcium from bones and increasing calcium absorption in the kidney."
+  },
+  {
+    "question": "The hormone that controls the sleep-wake cycle is secreted by:",
+    "choices": [
+      "Thyroid gland",
+      "Pineal gland",
+      "Pituitary gland",
+      "Adrenal gland"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Melatonin is secreted by the pineal gland. It regulates the circadian rhythm (sleep-wake cycle) and is released in higher amounts in darkness to induce sleep."
+  },
+  {
+    "question": "Which of the following is the correct sequence when blood sugar rises after a meal?",
+    "choices": [
+      "Glucagon release → Glycogen breakdown → Blood sugar rises further",
+      "Insulin release → Glucose uptake by cells → Blood sugar falls",
+      "ADH release → Water reabsorption → Blood sugar stabilises",
+      "Adrenaline release → Glycogen synthesis → Blood sugar falls"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "When blood sugar rises, beta cells of the pancreas secrete insulin. Insulin stimulates cells to take up glucose from the blood and promotes its storage as glycogen in the liver, thereby lowering blood sugar back to normal."
+  },
+  {
+    "question": "Which of the following pairs is correctly matched?",
+    "choices": [
+      "Cretinism — Hypersecretion of thyroxine",
+      "Gigantism — Hyposecretion of Growth hormone",
+      "Diabetes mellitus — Hyposecretion of ADH",
+      "Myxoedema — Hyposecretion of thyroxine in adults"
+    ],
+    "answer": 3,
+    "chapter": "Endocrine System",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Myxoedema is caused by hyposecretion of thyroxine in adults. Cretinism is due to hyposecretion of thyroxine in children. Gigantism is due to hypersecretion of Growth hormone. Diabetes mellitus is due to hyposecretion of insulin."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The pancreas is described as a heterocrine gland.<br><b>Reason (R):</b> The pancreas has both exocrine cells (secreting digestive enzymes) and endocrine cells (Islets of Langerhans secreting hormones).",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "The pancreas is correctly called a heterocrine (or mixed) gland because it has both exocrine functions (releasing digestive enzymes like amylase, lipase into the duodenum via a duct) and endocrine functions (Islets of Langerhans releasing insulin and glucagon directly into the bloodstream). R correctly explains why A is true."
+  },
+  {
+    "question": "<b>Assertion (A):</b> People living in hilly regions are more prone to simple goitre.<br><b>Reason (R):</b> Iodine is deficient in the soil, food, and drinking water of hilly regions.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Both statements are true and R directly explains A. Iodine is deficient in the rocky soil and glacial meltwater of hilly regions, so food grown there and local drinking water both lack iodine. This leads to insufficient thyroxine synthesis and enlargement of the thyroid gland (simple goitre)."
+  },
+  {
+    "question": "A patient shows symptoms of increased urine output, excessive thirst, and dehydration, but normal blood sugar levels. Which hormone is likely deficient?",
+    "choices": [
+      "Insulin",
+      "Glucagon",
+      "Antidiuretic hormone (ADH)",
+      "Thyroxine"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Normal blood sugar rules out diabetes mellitus (insulin deficiency). The symptoms of excess dilute urine, thirst, and dehydration with normal blood glucose point to diabetes insipidus, caused by deficiency of ADH (Vasopressin). Without ADH, the kidneys cannot reabsorb water efficiently."
+  },
+  {
+    "question": "Which of the following is NOT a function of Thyroxine?",
+    "choices": [
+      "Regulates basal metabolic rate",
+      "Controls physical and mental growth in children",
+      "Lowers blood glucose levels",
+      "Influences heart rate and body temperature"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Lowering blood glucose is the function of Insulin, not Thyroxine. Thyroxine regulates basal metabolic rate (BMR), promotes normal growth and mental development in children, and influences heart rate and heat production."
+  },
+  {
+    "question": "Acromegaly differs from Gigantism in that Acromegaly occurs due to hypersecretion of Growth hormone:",
+    "choices": [
+      "Before puberty",
+      "During childhood",
+      "After the growth plates have closed (in adults)",
+      "During the foetal stage"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Gigantism occurs when excess Growth hormone is produced before the growth plates close (in childhood), causing abnormal overall height. Acromegaly occurs in adults after the growth plates have already fused, so bones cannot lengthen but instead thicken, causing enlargement of hands, feet, and facial features."
+  },
+  {
+    "question": "Which of the following hormones is secreted by the adrenal cortex?",
+    "choices": [
+      "Adrenaline",
+      "Noradrenaline",
+      "Cortisol",
+      "Melatonin"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The adrenal cortex secretes corticosteroid hormones such as Cortisol (a glucocorticoid), Aldosterone (a mineralocorticoid), and sex hormones. Adrenaline and Noradrenaline are secreted by the adrenal medulla (inner part). Melatonin is from the pineal gland."
+  },
+  {
+    "question": "Insulin : Beta cells :: Glucagon : ?",
+    "choices": [
+      "Delta cells",
+      "Alpha cells",
+      "Acinar cells",
+      "Leydig cells"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "This is an analogy question. Just as Insulin is secreted by Beta cells of the Islets of Langerhans, Glucagon is secreted by the Alpha cells of the Islets of Langerhans in the pancreas."
+  },
+  {
+    "question": "The full form of ACTH is:",
+    "choices": [
+      "Adrenocorticotropic Hormone",
+      "Anti-Cortisol Thyroid Hormone",
+      "Adrenal Cortex Triggering Hormone",
+      "Anterior Cortisol Trophic Hormone"
+    ],
+    "answer": 0,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "ACTH stands for Adrenocorticotropic Hormone. It is secreted by the anterior pituitary gland and stimulates the adrenal cortex to produce cortisol and other corticosteroids."
+  }
+]

@@ -1,0 +1,275 @@
+[
+  {
+    "question": "Who was the first President of the United States?",
+    "choices": [
+      "George Washington",
+      "John Adams",
+      "Thomas Jefferson",
+      "Benjamin Franklin"
+    ],
+    "chapter": "American History",
+    "complexity": "low",
+    "category": "Recall"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "choices": [
+      "1943",
+      "1944",
+      "1945",
+      "1946"
+    ],
+    "answer": 2,
+    "chapter": "World History",
+    "complexity": "low",
+    "category": "Recall"
+  },
+  {
+    "question": "What is the largest country in the world by land area?",
+    "choices": [
+      "Russia",
+      "China",
+      "United States",
+      "Canada"
+    ],
+    "chapter": "World Geography",
+    "complexity": "low",
+    "category": "Recall"
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "choices": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Canberra"
+    ],
+    "answer": 3,
+    "chapter": "World Geography",
+    "complexity": "low",
+    "category": "Recall"
+  },
+  {
+    "question": "Who wrote the play \"Romeo and Juliet\"?",
+    "choices": [
+      "William Shakespeare",
+      "Charles Dickens",
+      "Mark Twain",
+      "Jane Austen"
+    ],
+    "chapter": "Literature",
+    "complexity": "low",
+    "category": "Recall"
+  },
+  {
+    "question": "In \"To Kill a Mockingbird\", who is the narrator of the story?",
+    "choices": [
+      "Scout Finch",
+      "Jem Finch",
+      "Atticus Finch",
+      "Dill Harris"
+    ],
+    "chapter": "Literature",
+    "complexity": "medium",
+    "category": "Recall"
+  },
+  {
+    "question": "Which river is traditionally considered the longest in the world?",
+    "choices": [
+      "Nile",
+      "Amazon",
+      "Mississippi",
+      "Yangtze"
+    ],
+    "chapter": "World Geography",
+    "complexity": "medium",
+    "category": "Recall"
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "choices": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 2,
+    "chapter": "World Geography",
+    "complexity": "low",
+    "category": "Recall"
+  },
+  {
+    "question": "Which ancient wonder was located in Alexandria, Egypt?",
+    "choices": [
+      "The Lighthouse of Alexandria",
+      "The Colosseum",
+      "The Hanging Gardens",
+      "The Statue of Zeus"
+    ],
+    "chapter": "World History",
+    "complexity": "medium",
+    "category": "Recall"
+  },
+  {
+    "question": "What language is the most widely spoken (by native speakers) in the world?",
+    "choices": [
+      "English",
+      "Spanish",
+      "Hindi",
+      "Mandarin Chinese"
+    ],
+    "answer": 3,
+    "chapter": "World Culture",
+    "complexity": "medium",
+    "category": "Application"
+  },
+  {
+    "question": "What is the value of π (pi) rounded to two decimal places? ",
+    "choices": [
+      "3.14",
+      "3.12",
+      "3.16",
+      "3.41"
+    ],
+    "chapter": "Mathematics",
+    "complexity": "low",
+    "category": "Recall",
+    "duration": 5
+  },
+  {
+    "question": "What is the square root of 144?",
+    "choices": [
+      "12",
+      "11",
+      "13",
+      "14"
+    ],
+    "chapter": "Mathematics",
+    "complexity": "low",
+    "category": "Recall",
+    "reason": "The square root of a number is a value that, when multiplied by itself, gives the original number. In this case, 12 x 12 = 144, so the square root of 144 is 12."
+  },
+  {
+    "question": "If x + 5 = 12, what is the value of x?",
+    "choices": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "chapter": "Algebra",
+    "complexity": "low",
+    "category": "Application"
+  },
+  {
+    "question": "What is 15% of 200?",
+    "choices": [
+      "30",
+      "25",
+      "35",
+      "40"
+    ],
+    "chapter": "Mathematics",
+    "complexity": "medium",
+    "category": "Application"
+  },
+  {
+    "question": "A triangle has angles measuring 90° and 45°. What is the third angle?",
+    "choices": [
+      "45°",
+      "30°",
+      "60°",
+      "55°"
+    ],
+    "chapter": "Geometry",
+    "complexity": "medium",
+    "category": "Application",
+    "duration": 25
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "choices": [
+      "Au",
+      "Gd",
+      "Go",
+      "Ag"
+    ],
+    "chapter": "Chemistry",
+    "complexity": "low",
+    "category": "Recall"
+  },
+  {
+    "question": "What organelle is known as the 'powerhouse of the cell'?",
+    "choices": [
+      "Mitochondria",
+      "Nucleus",
+      "Ribosome",
+      "Golgi apparatus"
+    ],
+    "chapter": "Biology",
+    "complexity": "low",
+    "category": "Recall"
+  },
+  {
+    "question": "What is the process by which plants make their own food using sunlight?",
+    "choices": [
+      "Photosynthesis",
+      "Respiration",
+      "Fermentation",
+      "Transpiration"
+    ],
+    "chapter": "Biology",
+    "complexity": "low",
+    "category": "Recall"
+  },
+  {
+    "question": "Approximately how many bones are in the adult human body?",
+    "choices": [
+      "206",
+      "182",
+      "196",
+      "216"
+    ],
+    "chapter": "Biology",
+    "complexity": "medium",
+    "category": "Recall"
+  },
+  {
+    "question": "What is the approximate speed of light in a vacuum?",
+    "choices": [
+      "300,000 km/s",
+      "30,000 km/s",
+      "3,000,000 km/s",
+      "3,000 km/s"
+    ],
+    "chapter": "Physics",
+    "complexity": "medium",
+    "category": "Recall",
+    "duration": 15
+  },
+  {
+    "question": "Which planet in our solar system has the most moons?",
+    "choices": [
+      "Saturn",
+      "Jupiter",
+      "Uranus",
+      "Neptune"
+    ],
+    "chapter": "Astronomy",
+    "complexity": "medium",
+    "category": "HOTS",
+    "duration": 40
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "choices": [
+      "Diamond",
+      "Gold",
+      "Iron",
+      "Quartz"
+    ],
+    "chapter": "Chemistry",
+    "complexity": "low",
+    "category": "Recall"
+  }
+]

@@ -1,0 +1,1720 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quiz Creator</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css" crossorigin="anonymous" />
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js" crossorigin="anonymous"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      min-height: 100vh;
+      background: linear-gradient(135deg, #1a1a2e, #16213e, #0f3460);
+      background-size: 300% 300%;
+      animation: bgShift 14s ease infinite;
+      color: #e2e8f0;
+    }
+    @keyframes bgShift { 0%,100%{background-position:0% 50%} 50%{background-position:100% 50%} }
+    .page { max-width: 1100px; margin: 0 auto; padding: 24px 16px 60px; }
+    .header { text-align: center; margin-bottom: 32px; }
+    .header h1 { font-size: clamp(2rem,6vw,3rem); font-weight:900; color:#fff; text-shadow:0 4px 24px rgba(0,0,0,.35); letter-spacing:-1px; }
+    .header p  { color:rgba(255,255,255,.65); margin-top:6px; font-size:1rem; }
+    .card { background:rgba(255,255,255,.06); backdrop-filter:blur(12px); border:1px solid rgba(255,255,255,.14); border-radius:16px; padding:28px; margin-bottom:24px; }
+    .card-title { font-size:1.15rem; font-weight:700; color:#fff; margin-bottom:20px; display:flex; align-items:center; gap:8px; }
+    .card-title .badge { background:linear-gradient(135deg,#7c3aed,#3b82f6); color:#fff; border-radius:50px; padding:2px 12px; font-size:.78rem; font-weight:700; }
+    .form-grid { display:grid; grid-template-columns:1fr 1fr; gap:16px; }
+    .form-grid.three { grid-template-columns:1fr 1fr 1fr; }
+    .form-full { grid-column:1/-1; }
+    .field { display:flex; flex-direction:column; gap:6px; }
+    .field label { font-size:.85rem; font-weight:600; color:rgba(255,255,255,.75); text-transform:uppercase; letter-spacing:.5px; }
+    .field label .req  { color:#f87171; margin-left:3px; }
+    .field label .hint { font-size:.75rem; font-weight:400; color:rgba(255,255,255,.45); text-transform:none; letter-spacing:0; margin-left:6px; }
+    input[type="text"], input[type="number"], select {
+      background:rgba(255,255,255,.08); border:1px solid rgba(255,255,255,.18); border-radius:10px;
+      padding:10px 14px; color:#e2e8f0; font-family:inherit; font-size:.95rem;
+      transition:border-color .2s,background .2s; width:100%;
+    }
+    input[type="text"]:focus, input[type="number"]:focus, select:focus { outline:none; border-color:#7c3aed; background:rgba(255,255,255,.11); }
+    input[type="text"]::placeholder { color:rgba(255,255,255,.3); }
+    select { cursor:pointer; }
+    select option { background:#16213e; color:#e2e8f0; }
+
+    /* ===== WYSIWYG EDITOR ===== */
+    .wysiwyg-wrap { border:1px solid rgba(255,255,255,.3); border-radius:10px; overflow:hidden; background:#fff; transition:border-color .2s; }
+    .wysiwyg-wrap:focus-within { border-color:#7c3aed; background:#fff; }
+    .wysiwyg-toolbar {
+      display:flex; flex-wrap:wrap; gap:2px; padding:5px 7px;
+      background:#f1f5f9; border-bottom:1px solid #dde1e7;
+      align-items:center; user-select:none;
+    }
+    .wysiwyg-toolbar .tb-sep { width:1px; height:20px; background:#ccc; margin:0 3px; }
+    .tb-btn {
+      background:transparent; border:1px solid transparent; border-radius:6px;
+      color:#374151; cursor:pointer; font-family:inherit;
+      font-size:.8rem; font-weight:700; min-width:28px; height:27px; padding:0 6px;
+      display:flex; align-items:center; justify-content:center;
+      transition:background .12s,color .12s,border-color .12s; white-space:nowrap;
+    }
+    .tb-btn:hover { background:#e2e8f0; color:#111; border-color:#c7d0db; }
+    .tb-btn:active { background:rgba(124,58,237,.15); }
+    /* sup/sub inside a flex button: vertical-align is ignored on flex items,
+       so use position:relative + line-height:0 to get proper raising/lowering */
+    .tb-btn sup, .tb-btn sub { position:relative; vertical-align:baseline; line-height:0; font-size:.6em; }
+    .tb-btn sup { top:-0.5em; }
+    .tb-btn sub { bottom:-0.3em; }
+    .tb-btn.latex-btn { color:#7c3aed; font-style:italic; font-size:.88rem; }
+    .tb-btn.latex-btn:hover { color:#5b21b6; background:rgba(124,58,237,.1); }
+    /* Color picker buttons */
+    .tb-color-wrap { position:relative; display:inline-flex; align-items:stretch; border-radius:6px; overflow:hidden; border:1px solid transparent; transition:border-color .12s; }
+    .tb-color-wrap:hover { border-color:#c7d0db; }
+    .tb-color-apply { background:transparent; border:none; cursor:pointer; font-family:inherit; font-size:.8rem; font-weight:700; color:#374151; padding:0 5px; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:1px; min-width:24px; height:27px; transition:background .12s; }
+    .tb-color-apply:hover { background:#e2e8f0; }
+    .tb-color-drop { background:transparent; border:none; border-left:1px solid #dde1e7; cursor:pointer; color:#666; font-size:.6rem; padding:0 3px; display:flex; align-items:center; justify-content:center; height:27px; transition:background .12s; }
+    .tb-color-drop:hover { background:#e2e8f0; color:#111; }
+    .tb-color-swatch { display:inline-block; width:13px; height:4px; border-radius:2px; pointer-events:none; }
+    .wysiwyg-editor {
+      min-height:80px; padding:10px 14px;
+      color:#1a1a2e; font-size:.95rem; line-height:1.6;
+      outline:none; overflow-wrap:break-word; word-break:break-word; background:#fff;
+    }
+    .wysiwyg-editor.compact { min-height:44px; max-height:120px; overflow-y:auto; }
+    .wysiwyg-editor:empty::before { content:attr(data-placeholder); color:#aaa; pointer-events:none; }
+    /* ===== RAW EDITOR ===== */
+    .raw-editor { display:none; width:100%; resize:vertical; min-height:80px; background:#fff; border:none; padding:10px 14px; color:#1a1a2e; font-family:'Courier New',monospace; font-size:.88rem; line-height:1.6; outline:none; }
+    .raw-editor.compact { min-height:44px; max-height:200px; }
+    .raw-editor::placeholder { color:#aaa; }
+    .wysiwyg-wrap.raw-mode .wysiwyg-toolbar { display:none; }
+    .wysiwyg-wrap.raw-mode .wysiwyg-editor  { display:none; }
+    .wysiwyg-wrap.raw-mode .raw-editor      { display:block; }
+    /* editor mode toggle button */
+    .editor-mode-toggle { background:rgba(255,255,255,.08); border:1px solid rgba(255,255,255,.2); border-radius:50px; padding:3px 14px; font-size:.75rem; color:rgba(255,255,255,.7); cursor:pointer; font-family:inherit; font-weight:600; transition:background .15s,color .15s,border-color .15s; white-space:nowrap; }
+    .editor-mode-toggle:hover { background:rgba(255,255,255,.14); color:#fff; border-color:rgba(255,255,255,.4); }
+    .editor-mode-toggle.raw-active { background:rgba(124,58,237,.2); color:#c4b5fd; border-color:rgba(124,58,237,.5); }
+    .wysiwyg-editor strong { font-weight:700; }
+    .wysiwyg-editor em     { font-style:italic; }
+    .wysiwyg-editor u      { text-decoration:underline; }
+    .wysiwyg-editor s      { text-decoration:line-through; }
+    .wysiwyg-editor sup    { vertical-align:super; font-size:.75em; }
+    .wysiwyg-editor sub    { vertical-align:sub; font-size:.75em; }
+    .wysiwyg-editor code   { background:rgba(0,0,0,.07); border-radius:4px; padding:1px 5px; font-family:monospace; font-size:.9em; }
+    .wysiwyg-editor pre    { background:#f1f5f9; border-radius:8px; padding:10px 14px; font-family:monospace; font-size:.88em; overflow-x:auto; }
+    .wysiwyg-editor ul, .wysiwyg-editor ol { margin-left:22px; }
+    .wysiwyg-editor blockquote { border-left:3px solid #7c3aed; padding-left:12px; color:#555; }
+    .wysiwyg-editor img { max-width:100%; border-radius:6px; }
+    .wysiwyg-editor table { border-collapse:collapse; }
+    .wysiwyg-editor td, .wysiwyg-editor th { border:1px solid #ccc; padding:4px 8px; }
+    /* LaTeX source tags in the editor — styled like code for visibility */
+    .wysiwyg-editor latex {
+      display:inline; background:#ede9fe; color:#5b21b6;
+      border:1px solid #c4b5fd; border-radius:4px;
+      padding:1px 5px; font-family:monospace; font-size:.88em;
+      white-space:pre-wrap; cursor:default;
+    }
+    .wysiwyg-editor latex[display] {
+      display:block; background:#f5f3ff; color:#4c1d95;
+      border:1px solid #c4b5fd; border-radius:6px;
+      padding:6px 12px; margin:4px 0; font-size:.9em; text-align:center;
+    }
+    /* Toolbar disabled state when caret is inside <latex> */
+    .wysiwyg-toolbar.in-latex .tb-btn,
+    .wysiwyg-toolbar.in-latex .tb-color-apply,
+    .wysiwyg-toolbar.in-latex .tb-color-drop {
+      opacity:.3; pointer-events:none; cursor:not-allowed;
+    }
+    .wysiwyg-toolbar.in-latex::after {
+      content:'Formatting disabled inside LaTeX';
+      font-size:.7rem; color:#7c3aed; font-style:italic;
+      margin-left:6px; white-space:nowrap; align-self:center;
+    }
+
+    /* ===== CHOICES ===== */
+    .choices-list { display:flex; flex-direction:column; gap:10px; }
+    .choice-row { display:flex; align-items:flex-start; gap:10px; }
+    .choice-radio-wrap { display:flex; flex-direction:column; align-items:center; padding-top:36px; gap:4px; flex-shrink:0; }
+    .choice-radio-wrap input[type="radio"] { width:18px; height:18px; accent-color:#7c3aed; cursor:pointer; }
+    .choice-label-idx { font-size:.72rem; font-weight:700; color:rgba(255,255,255,.5); }
+    .choice-row .wysiwyg-wrap { flex:1; }
+    .choice-row .btn-icon { margin-top:34px; flex-shrink:0; }
+
+    /* ===== BUTTONS ===== */
+    .btn { border:none; border-radius:50px; font-family:inherit; font-weight:700; cursor:pointer; transition:transform .12s,box-shadow .12s,background .15s,opacity .15s; }
+    .btn:active { transform:translateY(1px); }
+    .btn:disabled { opacity:.45; cursor:not-allowed; transform:none; }
+    .btn-primary { background:linear-gradient(135deg,#7c3aed,#3b82f6); color:#fff; padding:12px 32px; font-size:1rem; box-shadow:0 6px 22px rgba(124,58,237,.4); }
+    .btn-primary:hover:not(:disabled) { transform:translateY(-2px); box-shadow:0 10px 28px rgba(124,58,237,.52); }
+    .btn-success { background:linear-gradient(135deg,#059669,#10b981); color:#fff; padding:12px 32px; font-size:1rem; box-shadow:0 6px 22px rgba(5,150,105,.4); }
+    .btn-success:hover:not(:disabled) { transform:translateY(-2px); box-shadow:0 10px 28px rgba(5,150,105,.52); }
+    .btn-outline { background:transparent; color:rgba(255,255,255,.82); border:2px solid rgba(255,255,255,.3); padding:10px 22px; font-size:.9rem; }
+    .btn-outline:hover { background:rgba(255,255,255,.08); border-color:rgba(255,255,255,.6); color:#fff; }
+    .btn-icon { background:rgba(255,255,255,.08); border:1px solid rgba(255,255,255,.15); color:rgba(255,255,255,.7); border-radius:8px; width:34px; height:34px; display:flex; align-items:center; justify-content:center; cursor:pointer; font-size:1rem; transition:background .15s,color .15s; flex-shrink:0; }
+    .btn-icon:hover { background:rgba(239,68,68,.25); color:#f87171; border-color:rgba(239,68,68,.4); }
+    .btn-icon.add  { background:rgba(124,58,237,.15); color:#a78bfa; border-color:rgba(124,58,237,.3); }
+    .btn-icon.add:hover { background:rgba(124,58,237,.28); color:#c4b5fd; }
+    .btn-icon.move { background:rgba(255,255,255,.06); color:rgba(255,255,255,.55); }
+    .btn-icon.move:hover { background:rgba(255,255,255,.12); color:#fff; }
+    .btn-icon.edit { background:rgba(59,130,246,.15); color:#60a5fa; border-color:rgba(59,130,246,.3); }
+    .btn-icon.edit:hover { background:rgba(59,130,246,.28); color:#93c5fd; }
+
+    .action-row { display:flex; gap:12px; flex-wrap:wrap; align-items:center; justify-content:flex-end; margin-top:20px; }
+    .action-row .left { margin-right:auto; }
+
+    /* ===== PREVIEW ===== */
+    .preview-box { background:rgba(255,255,255,.96); color:#1a1a2e; border-radius:12px; padding:18px 20px; font-size:.95rem; line-height:1.6; min-height:60px; }
+    .preview-box .preview-q { font-weight:600; margin-bottom:12px; }
+    .preview-box blockquote { border-left:4px solid #7c3aed; margin:6px 0; padding:4px 12px; color:#4a4a6a; background:rgba(124,58,237,.06); border-radius:0 6px 6px 0; }
+    .preview-box code { background:rgba(0,0,0,.07); border-radius:4px; padding:1px 5px; font-family:monospace; font-size:.9em; }
+    .preview-box ul, .preview-box ol { margin-left:22px; }
+    .preview-box li { margin:2px 0; }
+    .preview-box .preview-choice { display:flex; align-items:flex-start; gap:10px; padding:8px 12px; border-radius:8px; border:2px solid #e2e8f0; margin-bottom:6px; }
+    .preview-box .preview-choice.correct { border-color:#10b981; background:rgba(16,185,129,.08); }
+    .preview-box .preview-choice .choice-letter { font-weight:700; color:#7c3aed; min-width:22px; }
+    .preview-box .preview-reason { margin-top:14px; padding:10px 14px; background:rgba(16,185,129,.08); border-left:4px solid #10b981; border-radius:0 8px 8px 0; font-size:.88rem; color:#065f46; }
+    .preview-box .preview-reason-lbl { font-weight:700; font-size:.78rem; text-transform:uppercase; letter-spacing:.05em; color:#10b981; margin-bottom:4px; }
+    .preview-placeholder { color:rgba(255,255,255,.3); font-style:italic; text-align:center; padding:20px; }
+
+    /* ===== QUESTION LIST ===== */
+    .q-list { display:flex; flex-direction:column; gap:10px; }
+    .q-item { background:rgba(255,255,255,.06); border:1px solid rgba(255,255,255,.12); border-radius:12px; padding:14px 16px; display:flex; align-items:flex-start; gap:12px; transition:border-color .2s; }
+    .q-item:hover { border-color:rgba(255,255,255,.25); }
+    .q-item.editing { border-color:#7c3aed; background:rgba(124,58,237,.08); }
+    .q-num { background:linear-gradient(135deg,#7c3aed,#3b82f6); color:#fff; border-radius:50%; width:30px; height:30px; display:flex; align-items:center; justify-content:center; font-size:.85rem; font-weight:700; flex-shrink:0; }
+    .q-body { flex:1; min-width:0; }
+    .q-text { font-size:.9rem; color:rgba(255,255,255,.9); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; margin-bottom:4px; }
+    .q-meta { font-size:.75rem; color:rgba(255,255,255,.4); display:flex; gap:10px; flex-wrap:wrap; }
+    .q-meta span { background:rgba(255,255,255,.07); border-radius:50px; padding:1px 8px; }
+    .q-actions { display:flex; gap:6px; flex-shrink:0; align-items:center; }
+    .empty-state { text-align:center; padding:36px 20px; color:rgba(255,255,255,.35); }
+    .empty-state .icon { font-size:2.5rem; margin-bottom:10px; }
+    .empty-state p { font-size:.95rem; }
+
+    .top-bar { display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap; margin-bottom:24px; }
+    .q-count-pill { background:rgba(255,255,255,.1); border:1px solid rgba(255,255,255,.2); border-radius:50px; padding:6px 18px; font-size:.9rem; font-weight:700; color:rgba(255,255,255,.85); }
+    .section-sep { border:none; border-top:1px solid rgba(255,255,255,.1); margin:20px 0; }
+
+    /* ===== TOAST ===== */
+    .toast { position:fixed; bottom:30px; right:30px; background:rgba(30,30,60,.97); border:1px solid rgba(255,255,255,.15); color:#fff; border-radius:12px; padding:12px 22px; font-size:.9rem; font-weight:600; opacity:0; transform:translateY(20px); transition:opacity .25s,transform .25s; pointer-events:none; z-index:1100; max-width:320px; }
+    .toast.show { opacity:1; transform:translateY(0); }
+    .toast.success { border-color:#10b981; }
+    .toast.error   { border-color:#f87171; }
+    /* Duration field clamped-to-minimum highlight */
+    @keyframes warnPulse { 0%,100%{border-color:#f87171;background:rgba(248,113,113,.18)} 50%{border-color:#fbbf24;background:rgba(251,191,36,.18)} }
+    .field-warn { animation:warnPulse .4s ease 3; border-color:#f87171 !important; }
+    /* Validation error highlight */
+    @keyframes shake { 0%,100%{transform:translateX(0)} 20%,60%{transform:translateX(-6px)} 40%,80%{transform:translateX(6px)} }
+    .field-error { animation:shake .35s ease; border-color:#f87171 !important; box-shadow:0 0 0 3px rgba(248,113,113,.3) !important; }
+
+    /* ===== IMPORT ===== */
+    .import-drop { border:2px dashed rgba(255,255,255,.22); border-radius:12px; padding:24px; text-align:center; color:rgba(255,255,255,.45); cursor:pointer; transition:border-color .2s,background .2s; }
+    .import-drop:hover, .import-drop.dragover { border-color:#7c3aed; background:rgba(124,58,237,.08); color:rgba(255,255,255,.7); }
+    .import-drop .icon { font-size:2rem; margin-bottom:8px; }
+    #import-file-input { display:none; }
+
+    /* ===== LATEX MODAL ===== */
+    .modal-overlay { display:none; position:fixed; inset:0; background:rgba(0,0,0,.65); z-index:1000; align-items:center; justify-content:center; }
+    .modal-overlay.open { display:flex; }
+    .modal-box { background:#0f172a; border:1px solid rgba(255,255,255,.18); border-radius:16px; padding:24px 28px; width:100%; box-shadow:0 24px 60px rgba(0,0,0,.6); }
+    .modal-box h3 { color:#fff; font-size:1.05rem; margin-bottom:16px; }
+    .modal-textarea { width:100%; min-height:80px; resize:vertical; background:rgba(255,255,255,.07); border:1px solid rgba(255,255,255,.18); border-radius:8px; padding:10px 12px; color:#e2e8f0; font-family:monospace; font-size:.95rem; outline:none; transition:border-color .2s; }
+    .modal-textarea:focus { border-color:#7c3aed; }
+    .modal-textarea::placeholder { color:rgba(255,255,255,.3); }
+    .modal-actions { display:flex; gap:10px; justify-content:flex-end; margin-top:16px; }
+    .preview-label { font-size:.78rem; font-weight:600; color:rgba(255,255,255,.45); text-transform:uppercase; letter-spacing:.5px; margin-bottom:6px; }
+    .latex-mode-row { display:flex; gap:16px; margin:12px 0; align-items:center; }
+    .latex-mode-row label { color:rgba(255,255,255,.75); font-size:.88rem; display:flex; gap:6px; align-items:center; cursor:pointer; }
+    .latex-preview-box { background:rgba(255,255,255,.95); color:#1a1a2e; border-radius:8px; padding:12px 16px; min-height:52px; font-size:1rem; line-height:1.6; display:flex; align-items:center; justify-content:center; flex-wrap:wrap; }
+    .latex-preview-box .latex-error { color:#dc2626; font-size:.82rem; font-family:monospace; }
+
+    /* ===== IMAGE MODAL ===== */
+    .img-field { margin-bottom:12px; }
+    .img-field label { display:block; font-size:.82rem; font-weight:600; color:rgba(255,255,255,.6); text-transform:uppercase; letter-spacing:.4px; margin-bottom:5px; }
+    .img-preview-box { margin-top:10px; text-align:center; }
+    .img-preview-box img { max-width:100%; max-height:180px; border-radius:8px; display:none; }
+
+    /* ===== TABLE MODAL ===== */
+    .table-grid-picker { display:inline-grid; gap:3px; padding:4px; background:rgba(255,255,255,.05); border-radius:8px; margin-bottom:12px; }
+    .table-grid-picker .tg-cell {
+      width:22px; height:22px; border-radius:4px;
+      background:rgba(255,255,255,.12); border:1px solid rgba(255,255,255,.18);
+      cursor:pointer; transition:background .1s,border-color .1s;
+    }
+    .table-grid-picker .tg-cell.hover { background:rgba(124,58,237,.5); border-color:#a78bfa; }
+    .table-size-label { font-size:.82rem; color:rgba(255,255,255,.55); margin-bottom:10px; min-height:1.1em; }
+    .table-options-row { display:flex; gap:16px; align-items:center; flex-wrap:wrap; margin-bottom:4px; }
+    .table-options-row label { color:rgba(255,255,255,.75); font-size:.88rem; display:flex; gap:6px; align-items:center; cursor:pointer; }
+
+    /* ===== TABLE FLOAT TOOLBAR ===== */
+    #tbl-float-bar {
+      position:fixed; z-index:800; display:none;
+      background:rgba(10,10,30,.96); border:1px solid rgba(255,255,255,.2);
+      border-radius:8px; padding:3px 6px; gap:2px;
+      align-items:center; flex-wrap:wrap;
+      box-shadow:0 6px 24px rgba(0,0,0,.55);
+    }
+    #tbl-float-bar.visible { display:flex; }
+    #tbl-float-bar .tb-btn  { height:24px; min-width:28px; font-size:.72rem; padding:0 5px; color:#374151; background:transparent; border-color:transparent; }
+    #tbl-float-bar .tb-btn.danger:hover { background:rgba(239,68,68,.25); color:#f87171; border-color:rgba(239,68,68,.4); }
+    #tbl-float-bar .tb-sep  { width:1px; height:18px; background:rgba(255,255,255,.15); margin:0 2px; flex-shrink:0; }
+    #tbl-float-bar .bar-lbl { font-size:.68rem; color:rgba(255,255,255,.38); padding:0 3px; user-select:none; white-space:nowrap; }
+
+    /* ===== JSON MODAL ===== */
+    .json-overlay { display:none; position:fixed; inset:0; background:rgba(0,0,0,.7); z-index:900; overflow-y:auto; padding:24px; }
+    .json-overlay.open { display:block; }
+
+    /* ===== MISC ===== */
+    ::-webkit-scrollbar { width:8px; }
+    ::-webkit-scrollbar-track { background:rgba(255,255,255,.04); }
+    ::-webkit-scrollbar-thumb { background:rgba(255,255,255,.18); border-radius:4px; }
+    .katex-display { margin:4px 0; }
+    @media (max-width:640px) {
+      .form-grid,.form-grid.three { grid-template-columns:1fr; }
+      .form-full { grid-column:1; }
+      .action-row { justify-content:stretch; }
+      .action-row .btn { flex:1; text-align:center; }
+      .action-row .left { flex:unset; }
+      .tb-btn { min-width:24px; height:24px; font-size:.72rem; }
+    }
+  </style>
+</head>
+<body>
+<div class="page">
+
+  <div class="header">
+    <h1>&#x270F;&#xFE0F; Quiz Creator</h1>
+    <p>Build your question set and download it as JSON ready for Quiz Challenge!</p>
+  </div>
+
+  <div class="top-bar">
+    <div class="q-count-pill">&#x1F4CB; <span id="q-count">0</span> question(s)</div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap">
+      <button class="btn btn-outline" onclick="App.triggerImport()">&#x1F4C2; Import JSON</button>
+      <button class="btn btn-success" id="btn-download" onclick="App.downloadJSON()" disabled>&#x2B07;&#xFE0F; Download JSON</button>
+    </div>
+  </div>
+
+  <!-- IMPORT -->
+  <div class="card" id="import-card">
+    <div class="card-title">&#x1F4C2; Import Existing JSON <span class="badge">Optional</span></div>
+    <div class="import-drop" id="import-drop" onclick="App.triggerImport()"
+         ondragover="App.dragOver(event)" ondragleave="App.dragLeave(event)" ondrop="App.dropFile(event)">
+      <div class="icon">&#x1F4C4;</div>
+      <p>Click or drag &amp; drop a <strong>.json</strong> question file to load and edit it</p>
+    </div>
+    <input type="file" id="import-file-input" accept=".json" onchange="App.handleImport(event)" />
+  </div>
+
+  <!-- EDITOR -->
+  <div class="card" id="editor-card">
+    <div class="card-title">
+      &#x2795; Add New Question
+      <span class="badge" id="edit-mode-badge" style="display:none">Editing #<span id="edit-idx-label"></span></span>
+      <button class="editor-mode-toggle" id="editor-mode-btn" onclick="App.toggleEditorMode()" style="margin-left:auto">&#x1F4DD; Raw HTML</button>
+    </div>
+
+    <div class="field">
+      <label>Question <span class="req">*</span>
+      </label>
+      <div id="q-editor-mount"></div>
+    </div>
+
+    <div class="field" style="margin-top:20px">
+      <label>Choices <span class="req">*</span>
+        <span class="hint">Radio = correct answer &nbsp;|&nbsp; 2&#x2013;6 choices</span>
+      </label>
+      <div class="choices-list" id="choices-list"></div>
+      <div style="margin-top:8px;display:flex;gap:8px;align-items:center">
+        <button class="btn-icon add" title="Add choice" onclick="App.addChoice()">&#xFF0B;</button>
+        <span style="font-size:.78rem;color:rgba(255,255,255,.4)">Add choice (max 6)</span>
+      </div>
+    </div>
+
+    <hr class="section-sep" />
+
+    <div class="form-grid three">
+      <div class="field">
+        <label>Chapter / Topic <span class="hint">optional</span></label>
+        <input type="text" id="f-chapter" placeholder="e.g. Chemistry" />
+      </div>
+      <div class="field">
+        <label>Category <span class="hint">optional</span></label>
+        <input type="text" id="f-category" list="category-suggestions"
+               placeholder="e.g. Recall, Application, HOTS…" autocomplete="off" />
+        <datalist id="category-suggestions">
+          <option value="Recall"></option>
+          <option value="Application"></option>
+          <option value="HOTS"></option>
+        </datalist>
+      </div>
+      <div class="field">
+        <label>Complexity <span class="hint">optional</span></label>
+        <select id="f-complexity">
+          <option value="">&#x2014; None &#x2014;</option>
+          <option value="low">Low / Easy</option>
+          <option value="medium">Medium</option>
+          <option value="hard">Hard</option>
+        </select>
+      </div>
+      <div class="field">
+        <label>Duration override <span class="hint">seconds, optional</span></label>
+        <input type="number" id="f-duration" min="10" max="600" placeholder="e.g. 30"
+               onkeydown="if(['e','E','+','-','.'].includes(event.key))event.preventDefault()"
+               oninput="this.value=this.value.replace(/[^0-9]/g,'')"
+               onblur="if(this.value!==''&&parseInt(this.value,10)<10){this.value=10;this.classList.add('field-warn');setTimeout(()=>this.classList.remove('field-warn'),1500);}" />
+      </div>
+    </div>
+
+    <hr class="section-sep" />
+    <div class="field">
+      <label>Reason <span class="hint">optional &mdash; shown after the answer is revealed; supports HTML &amp; LaTeX</span></label>
+      <div id="reason-editor-mount"></div>
+    </div>
+
+    <hr class="section-sep" />
+    <div class="field">
+      <label>Live Preview</label>
+      <div id="preview-box" class="preview-box">
+        <div class="preview-placeholder">Start typing to see a preview&#x2026;</div>
+      </div>
+    </div>
+
+    <div class="action-row">
+      <button class="btn btn-outline left" id="btn-cancel-edit" onclick="App.cancelEdit()" style="display:none">&#x2715; Cancel edit</button>
+      <button class="btn btn-outline" onclick="App.clearForm()">&#x1F5D1; Clear form</button>
+      <button class="btn btn-primary" onclick="App.saveQuestion()">&#x2714; Save Question</button>
+    </div>
+  </div>
+
+  <!-- QUESTION LIST -->
+  <div class="card">
+    <div class="card-title">&#x1F4C4; Questions in this Set</div>
+    <div id="q-list" class="q-list">
+      <div class="empty-state">
+        <div class="icon">&#x1F5C2;&#xFE0F;</div>
+        <p>No questions yet &#x2014; fill in the form above and click Save Question.</p>
+      </div>
+    </div>
+    <div class="action-row" style="margin-top:24px">
+      <button class="btn btn-outline" onclick="App.previewJSON()">&#x1F441; Preview JSON</button>
+      <button class="btn btn-success" id="btn-download2" onclick="App.downloadJSON()" disabled>&#x2B07;&#xFE0F; Download JSON</button>
+    </div>
+  </div>
+
+</div><!-- .page -->
+
+<!-- LATEX MODAL -->
+<div class="modal-overlay" id="latex-overlay" onclick="App.latexOverlayClick(event)">
+  <div class="modal-box" style="max-width:520px">
+    <h3>&#x2211; Insert LaTeX Math</h3>
+    <textarea class="modal-textarea" id="latex-input" placeholder="e.g.  x^2 + \frac{a}{b} = 0" oninput="App.latexPreview()"></textarea>
+    <div class="latex-mode-row">
+      <label><input type="radio" name="latex-mode" value="inline" checked onchange="App.latexPreview()" /> Inline</label>
+      <label><input type="radio" name="latex-mode" value="display" onchange="App.latexPreview()" /> Display (block)</label>
+    </div>
+    <div class="preview-label">Preview</div>
+    <div class="latex-preview-box" id="latex-preview-box">&#x2014;</div>
+    <div class="modal-actions">
+      <button class="btn btn-outline" onclick="App.closeLatexModal()">Cancel</button>
+      <button class="btn btn-primary" onclick="App.insertLatex()">Insert</button>
+    </div>
+  </div>
+</div>
+
+<!-- IMAGE MODAL -->
+<div class="modal-overlay" id="img-overlay" onclick="App.imgOverlayClick(event)">
+  <div class="modal-box" style="max-width:480px">
+    <h3>&#x1F5BC; Insert Image</h3>
+    <div class="img-field">
+      <label>Image URL or relative path</label>
+      <input type="text" id="img-url" placeholder="https://&#x2026; or questions/images/fig1.png" oninput="App.imgPreviewUpdate()" />
+    </div>
+    <div class="img-field">
+      <label>Alt text <span style="font-weight:400;color:rgba(255,255,255,.4);font-size:.78rem">(optional)</span></label>
+      <input type="text" id="img-alt" placeholder="Descriptive text" />
+    </div>
+    <div class="img-field">
+      <label>Width <span style="font-weight:400;color:rgba(255,255,255,.4);font-size:.78rem">(optional, e.g. 300px or 50%)</span></label>
+      <input type="text" id="img-width" placeholder="e.g. 300px" />
+    </div>
+    <div class="img-preview-box"><img id="img-preview-el" src="" alt="" /></div>
+    <div class="modal-actions">
+      <button class="btn btn-outline" onclick="App.closeImgModal()">Cancel</button>
+      <button class="btn btn-primary" onclick="App.insertImage()">Insert</button>
+    </div>
+  </div>
+</div>
+
+<!-- TABLE MODAL -->
+<div class="modal-overlay" id="table-overlay" onclick="App.tableOverlayClick(event)">
+  <div class="modal-box" style="max-width:420px">
+    <h3>&#x229E; Insert Table</h3>
+    <div class="table-size-label" id="table-size-label">Hover to select size</div>
+    <div class="table-grid-picker" id="table-grid-picker"></div>
+    <div class="table-options-row">
+      <label><input type="checkbox" id="table-header-row" checked /> Header row</label>
+      <label><input type="checkbox" id="table-borders" checked /> Borders</label>
+    </div>
+    <div class="modal-actions" style="margin-top:16px">
+      <button class="btn btn-outline" onclick="App.closeTableModal()">Cancel</button>
+      <button class="btn btn-primary" id="table-insert-btn" onclick="App.insertTable()" disabled>Insert</button>
+    </div>
+  </div>
+</div>
+
+<!-- TABLE FLOAT TOOLBAR -->
+<div id="tbl-float-bar" onmousedown="event.preventDefault()">
+  <span class="bar-lbl">Row</span>
+  <button class="tb-btn" title="Add row above" onclick="App.tblAddRowAbove()">&#x2191;&#xFF0B;</button>
+  <button class="tb-btn" title="Add row below" onclick="App.tblAddRowBelow()">&#x2193;&#xFF0B;</button>
+  <button class="tb-btn danger" title="Remove current row" onclick="App.tblRemoveRow()">&#x25AD;&#x2715;</button>
+  <span class="tb-sep"></span>
+  <span class="bar-lbl">Col</span>
+  <button class="tb-btn" title="Add column left" onclick="App.tblAddColLeft()">&#xFF0B;&#x2190;</button>
+  <button class="tb-btn" title="Add column right" onclick="App.tblAddColRight()">&#xFF0B;&#x2192;</button>
+  <button class="tb-btn danger" title="Remove current column" onclick="App.tblRemoveCol()">&#x25AF;&#x2715;</button>
+  <span class="tb-sep"></span>
+  <button class="tb-btn danger" title="Delete entire table" onclick="App.tblDeleteTable()">&#x1F5D1;&#xFE0F;</button>
+</div>
+
+<!-- JSON MODAL -->
+<div class="json-overlay" id="json-overlay" onclick="App.jsonOverlayClick(event)">
+  <div style="max-width:760px;margin:40px auto;background:#0f172a;border:1px solid rgba(255,255,255,.15);border-radius:16px;padding:28px" onclick="event.stopPropagation()">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:16px">
+      <span style="font-weight:700;font-size:1.05rem;color:#fff">&#x1F4CB; JSON Preview</span>
+      <button class="btn btn-outline" onclick="App.closeJsonModal()" style="padding:6px 16px;font-size:.85rem">&#x2715; Close</button>
+    </div>
+    <pre id="json-preview-content" style="background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.1);border-radius:10px;padding:16px;overflow:auto;max-height:60vh;font-size:.82rem;color:#a5f3fc;line-height:1.5;white-space:pre-wrap;word-break:break-word"></pre>
+    <div class="action-row" style="margin-top:16px">
+      <button class="btn btn-success" onclick="App.downloadJSON()">&#x2B07;&#xFE0F; Download JSON</button>
+    </div>
+  </div>
+</div>
+
+<div id="toast" class="toast"></div>
+
+<script>
+(function(){
+'use strict';
+
+// ── STATE ────────────────────────────────────────────────────────────
+let questions   = [];
+let editingIdx  = null;
+let choiceCount = 4;
+
+// WYSIWYG state
+let activeEditor = null;   // the focused contenteditable
+let savedRange   = null;   // selection saved before toolbar click
+let editorMode      = 'wysiwyg'; // 'wysiwyg' | 'raw'
+let questionWrap    = null;   // the wysiwyg-wrap for the question field
+let reasonWrap      = null;   // the wysiwyg-wrap for the reason field
+let insertionRange  = null;   // range snapshot taken when a modal opens, used for insertion
+
+const LETTERS = ['A','B','C','D','E','F'];
+
+// ── WYSIWYG FACTORY ──────────────────────────────────────────────────
+function createEditor(mountEl, opts) {
+  opts = opts || {};
+  const wrap = document.createElement('div');
+  wrap.className = 'wysiwyg-wrap';
+
+  // Toolbar
+  const tb = document.createElement('div');
+  tb.className = 'wysiwyg-toolbar';
+  tb.addEventListener('mousedown', e => e.preventDefault()); // keep focus in editor
+
+  function btn(label, title, fn, cls) {
+    const b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'tb-btn' + (cls ? ' '+cls : '');
+    b.title = title;
+    b.innerHTML = label;
+    b.addEventListener('click', () => {
+      if (!cls || !cls.includes('latex-btn')) {
+        restoreSel();
+        if (inLatexNow()) { toast('Formatting is not allowed inside a LaTeX block.', 'error'); return; }
+      } else {
+        restoreSel();
+      }
+      fn();
+    });
+    return b;
+  }
+  function sep() { const s=document.createElement('span'); s.className='tb-sep'; return s; }
+
+  tb.append(
+    btn('<b>B</b>',             'Bold',            () => fmt('bold')),
+    btn('<i>I</i>',             'Italic',          () => fmt('italic')),
+    btn('<u>U</u>',             'Underline',       () => fmt('underline')),
+    btn('<s>S</s>',             'Strikethrough',   () => fmt('strikeThrough')),
+    sep(),
+    btn('X<sup>2</sup>', 'Superscript', () => fmt('superscript')),
+    btn('X<sub>2</sub>', 'Subscript',   () => fmt('subscript')),
+    sep(),
+    btn('&lt;/&gt;', 'Inline code', () => wrapSel('<code>','</code>'))
+  );
+
+  // ── Color split-buttons ────────────────────────────────────────────
+  // Each color control has two parts:
+  //   [Apply btn]  — applies the currently selected color to the selection
+  //   [▾ btn]      — opens the color picker to change the saved color
+  function makeColorBtn(icon, execCmd, titleText, defaultColor) {
+    let currentColor = defaultColor;
+    let colorRange = null;
+
+    const wrap = document.createElement('span');
+    wrap.className = 'tb-color-wrap';
+
+    // Hidden input to open the OS color picker
+    const inp = document.createElement('input');
+    inp.type = 'color';
+    inp.value = defaultColor;
+    inp.style.cssText = 'position:absolute;width:1px;height:1px;opacity:0;pointer-events:none;';
+
+    const swatch = document.createElement('span');
+    swatch.className = 'tb-color-swatch';
+    swatch.style.background = defaultColor;
+
+    // ── Apply button: immediately applies currentColor to selection ──
+    const applyBtn = document.createElement('button');
+    applyBtn.type = 'button';
+    applyBtn.className = 'tb-color-apply';
+    applyBtn.title = titleText + ' (apply)';
+    applyBtn.innerHTML = icon + '<br>';
+    applyBtn.appendChild(swatch);
+
+    applyBtn.addEventListener('mousedown', e => {
+      e.preventDefault();
+      const sel = window.getSelection();
+      colorRange = (sel && sel.rangeCount > 0)
+        ? sel.getRangeAt(0).cloneRange()
+        : (savedRange ? savedRange.cloneRange() : null);
+    });
+    applyBtn.addEventListener('click', () => {
+      if (inLatexNow()) { toast('Formatting is not allowed inside a LaTeX block.', 'error'); return; }
+      if (colorRange && activeEditor) {
+        activeEditor.focus();
+        const sel = window.getSelection();
+        sel.removeAllRanges();
+        sel.addRange(colorRange);
+      }
+      document.execCommand(execCmd, false, currentColor);
+      if (activeEditor) activeEditor.dispatchEvent(new Event('input'));
+    });
+
+    // ── Drop button: opens color picker to change the color ──────────
+    const dropBtn = document.createElement('button');
+    dropBtn.type = 'button';
+    dropBtn.className = 'tb-color-drop';
+    dropBtn.title = titleText + ' (change color)';
+    dropBtn.innerHTML = '&#x25BE;'; // ▾
+
+    dropBtn.addEventListener('mousedown', e => {
+      e.preventDefault();
+      const sel = window.getSelection();
+      colorRange = (sel && sel.rangeCount > 0)
+        ? sel.getRangeAt(0).cloneRange()
+        : (savedRange ? savedRange.cloneRange() : null);
+    });
+    dropBtn.addEventListener('click', () => inp.click());
+
+    inp.addEventListener('input', () => { swatch.style.background = inp.value; });
+    inp.addEventListener('change', () => {
+      currentColor = inp.value;
+      swatch.style.background = currentColor;
+      if (inLatexNow()) { toast('Formatting is not allowed inside a LaTeX block.', 'error'); return; }
+      if (colorRange && activeEditor) {
+        activeEditor.focus();
+        const sel = window.getSelection();
+        sel.removeAllRanges();
+        sel.addRange(colorRange);
+      }
+      document.execCommand(execCmd, false, currentColor);
+      if (activeEditor) activeEditor.dispatchEvent(new Event('input'));
+    });
+
+    wrap.append(applyBtn, dropBtn, inp);
+    return wrap;
+  }
+
+  const fgWrap = makeColorBtn('A', 'foreColor', 'Text color', '#000000');
+  const bgWrap = makeColorBtn('<span style="font-size:.75em;background:#ff0;color:#333;padding:0 2px;border-radius:2px">ab</span>', 'hiliteColor', 'Highlight / background color', '#ffff00');
+
+  tb.append(
+    sep(), fgWrap, bgWrap
+  );
+
+  if (!opts.compact) {
+    tb.append(
+      sep(),
+      btn('&#x2261;', 'Bullet list',   () => fmt('insertUnorderedList')),
+      btn('1.',        'Numbered list', () => fmt('insertOrderedList')),
+      btn('<span style="border-left:2px solid currentColor;padding-left:3px;font-style:italic">&ldquo;</span>', 'Blockquote', () => wrapBlock('blockquote'))
+    );
+  }
+
+  tb.append(
+    sep(),
+    btn('&#x2211;',   'Insert LaTeX inline',   () => openLatexModal(false), 'latex-btn'),
+    btn('&#x2211;&#x25AD;', 'Insert LaTeX display block', () => openLatexModal(true), 'latex-btn')
+  );
+
+  if (!opts.compact) {
+    tb.append(btn('&#x1F5BC;', 'Insert image', () => openImgModal()));
+    tb.append(btn('&#x229E;', 'Insert table', () => openTableModal()));
+  }
+
+  tb.append(
+    sep(),
+    btn('&#x2715;<sub>fmt</sub>', 'Remove formatting', () => fmt('removeFormat'))
+  );
+
+  // Editor area
+  const ed = document.createElement('div');
+  ed.className = 'wysiwyg-editor' + ((opts.compact || opts.small) ? ' compact' : '');
+  ed.contentEditable = 'true';
+  ed.setAttribute('data-placeholder', opts.placeholder || 'Type here...');
+  ed.addEventListener('focus', () => {
+    document.execCommand('defaultParagraphSeparator', false, 'br');
+    activeEditor = ed;
+  });
+  ed.addEventListener('blur', saveSel);
+  ed.addEventListener('input', () => { if (opts.onChange) opts.onChange(); });
+
+  // Track whether caret is inside <latex> and toggle toolbar state
+  function updateLatexContext() {
+    const s = window.getSelection();
+    if (!s || !s.rangeCount || document.activeElement !== ed) {
+      tb.classList.remove('in-latex');
+      return;
+    }
+    const anchor = s.anchorNode;
+    const el = anchor.nodeType === Node.TEXT_NODE ? anchor.parentElement : anchor;
+    const inLatex = !!(el && el.closest && el.closest('latex') && ed.contains(el));
+    tb.classList.toggle('in-latex', inLatex);
+  }
+  ed.addEventListener('keyup', updateLatexContext);
+  ed.addEventListener('mouseup', updateLatexContext);
+  ed.addEventListener('focus', updateLatexContext);
+  ed.addEventListener('blur', () => tb.classList.remove('in-latex'));
+
+  // Guard: prevent formatting when caret is in <latex>
+  function inLatexNow() {
+    const s = window.getSelection();
+    if (!s || !s.rangeCount) return false;
+    const anchor = s.anchorNode;
+    const el = anchor.nodeType === Node.TEXT_NODE ? anchor.parentElement : anchor;
+    return !!(el && el.closest && el.closest('latex') && ed.contains(el));
+  }
+  // Helper: if caret is at the very end of an inline wrapper (code/etc.),
+  // move it to just after the element so the user can keep typing outside.
+  function escapeInlineWrapper(e) {
+    const s = window.getSelection();
+    if (!s || !s.rangeCount || !s.isCollapsed) return false;
+    const range = s.getRangeAt(0);
+    const anchor = range.startContainer;
+    const INLINE_TAGS = ['CODE','KBD','MARK','SPAN','B','I','U','S','SUP','SUB','STRONG','EM','LATEX'];
+    const wrapper = (anchor.nodeType === Node.TEXT_NODE ? anchor.parentElement : anchor)
+      .closest(INLINE_TAGS.join(','));
+    if (!wrapper || !ed.contains(wrapper)) return false;
+    // Check caret is at the very end of the wrapper's content
+    const atEnd = (() => {
+      if (anchor.nodeType === Node.TEXT_NODE) {
+        if (anchor !== wrapper.lastChild && anchor.nextSibling) return false;
+        if (range.startOffset < anchor.length) return false;
+        // make sure no later text exists inside the wrapper
+        let node = anchor.nextSibling;
+        while (node) {
+          if (node.textContent.replace(/\u200B/g,'').length > 0) return false;
+          node = node.nextSibling;
+        }
+        return true;
+      }
+      return range.startOffset >= wrapper.childNodes.length;
+    })();
+    if (!atEnd) return false;
+    e.preventDefault();
+    // Ensure there is a text node after the wrapper to land on
+    let after = wrapper.nextSibling;
+    if (!after || after.nodeType !== Node.TEXT_NODE) {
+      after = document.createTextNode('\u200B');
+      wrapper.parentNode.insertBefore(after, wrapper.nextSibling);
+    }
+    const r = document.createRange();
+    // Position after any ZWSP that form the exit anchor
+    const exitOffset = after.textContent.startsWith('\u200B') ? 1 : 0;
+    r.setStart(after, exitOffset); r.collapse(true);
+    s.removeAllRanges(); s.addRange(r);
+    return true;
+  }
+
+  if (opts.compact) {
+    ed.addEventListener('keydown', e => {
+      if (e.key === 'ArrowRight' || e.key === 'End') { if (escapeInlineWrapper(e)) return; }
+      if (e.key === 'Enter' && !e.shiftKey) {
+        e.preventDefault();
+        document.execCommand('insertHTML', false, '<br>');
+      }
+    });
+  } else {
+    ed.addEventListener('keydown', e => {
+      const s = window.getSelection();
+      if (!s || !s.rangeCount) return;
+      const range = s.getRangeAt(0);
+
+      // ── ArrowRight / End at end of inline wrapper → escape it ────────
+      if ((e.key === 'ArrowRight' || e.key === 'End') && range.collapsed) {
+        if (escapeInlineWrapper(e)) return;
+      }
+
+      // ── Backspace at start of <li> → remove bullet / outdent ──────────
+      if (e.key === 'Backspace' && range.collapsed) {
+        const anchor = range.startContainer;
+        const li = (anchor.nodeType === Node.TEXT_NODE ? anchor.parentElement : anchor).closest('li');
+        if (li) {
+          const isAtStart = (() => {
+            if (range.startOffset !== 0) return false;
+            let node = range.startContainer;
+            while (node && node !== li) {
+              if (node.previousSibling) return false;
+              node = node.parentNode;
+            }
+            return node === li;
+          })();
+          if (isAtStart) {
+            e.preventDefault();
+            document.execCommand('outdent', false, null);
+            if (activeEditor) activeEditor.dispatchEvent(new Event('input'));
+            refreshPreview();
+            return;
+          }
+        }
+      }
+
+      // ── Enter on empty line inside <blockquote> → exit blockquote ──────
+      // Standard double-Enter behaviour: first Enter adds a blank line inside
+      // the blockquote; second Enter (on that blank line) breaks out of it.
+      if (e.key === 'Enter' && !e.shiftKey && range.collapsed) {
+        const anchor = range.startContainer;
+        const bq = anchor.nodeType === Node.TEXT_NODE
+          ? anchor.parentElement.closest('blockquote')
+          : (anchor.closest ? anchor.closest('blockquote') : null);
+        if (bq && ed.contains(bq)) {
+          // Detect an empty line in the <br>-separator model.
+          let emptyLine = false;
+          if (anchor.nodeType === Node.TEXT_NODE && bq.contains(anchor)) {
+            const clean = t => t.replace(/\u200B/g, '').trim();
+            const textEmpty = clean(anchor.textContent) === '';
+            const prevIsBrOrNone = !anchor.previousSibling || anchor.previousSibling.nodeName === 'BR';
+            emptyLine = textEmpty && prevIsBrOrNone;
+          } else if (anchor === bq) {
+            const prevChild = range.startOffset > 0 ? bq.childNodes[range.startOffset - 1] : null;
+            emptyLine = !prevChild || prevChild.nodeName === 'BR';
+          }
+          if (emptyLine) {
+            e.preventDefault();
+            // Remove the trailing <br> / empty text node that formed the blank line.
+            if (bq.lastChild && bq.lastChild.nodeName === 'BR') bq.removeChild(bq.lastChild);
+            if (bq.lastChild && bq.lastChild.nodeType === Node.TEXT_NODE &&
+                bq.lastChild.textContent.replace(/\u200B/g, '').trim() === '') {
+              bq.removeChild(bq.lastChild);
+            }
+            // Land the caret after the blockquote.
+            let exit = bq.nextSibling;
+            if (!exit || exit.nodeType !== Node.TEXT_NODE) {
+              exit = document.createTextNode('\u200B');
+              bq.parentNode.insertBefore(exit, bq.nextSibling);
+            }
+            const r = document.createRange();
+            r.setStart(exit, 0); r.collapse(true);
+            s.removeAllRanges(); s.addRange(r);
+            activeEditor.dispatchEvent(new Event('input'));
+            refreshPreview();
+            return;
+          }
+        }
+      }
+    });
+  }
+
+  // Raw HTML textarea (shown when raw-mode is active)
+  const raw = document.createElement('textarea');
+  raw.className = 'raw-editor' + ((opts.compact || opts.small) ? ' compact' : '');
+  raw.placeholder = (opts.placeholder || '').replace(/<[^>]+>/g, '');
+  raw.addEventListener('input', () => { if (opts.onChange) opts.onChange(); });
+
+  wrap.append(tb, ed, raw);
+  if (mountEl) mountEl.appendChild(wrap);
+  wrap._ed  = ed;
+  wrap._raw = raw;
+  return wrap;
+}
+
+// ── SELECTION HELPERS ────────────────────────────────────────────────
+function saveSel() {
+  const s = window.getSelection();
+  if (s && s.rangeCount > 0) savedRange = s.getRangeAt(0).cloneRange();
+}
+function restoreSel() {
+  if (!activeEditor || !savedRange) return;
+  // If the editor still has focus the Window selection is already correct —
+  // restoring savedRange (saved at last blur) would jump the caret back to
+  // a stale position and break toolbar actions.
+  if (document.activeElement === activeEditor) return;
+  activeEditor.focus();
+  const s = window.getSelection();
+  s.removeAllRanges();
+  s.addRange(savedRange);
+}
+function fmt(cmd) {
+  restoreSel();
+  document.execCommand(cmd, false, null);
+  if (activeEditor) activeEditor.dispatchEvent(new Event('input'));
+  refreshPreview();
+}
+function wrapSel(before, after) {
+  restoreSel();
+  const s = window.getSelection();
+  if (!s || !s.rangeCount) return;
+  const range = s.getRangeAt(0);
+  const txt   = range.toString();
+
+  // Derive tag name from `before` (e.g. '<code>' → 'code')
+  const tagName = (before.match(/<([a-z][a-z0-9]*)/i) || [])[1] || 'span';
+  const wrapEl  = document.createElement(tagName);
+
+  if (txt) {
+    // Selection present: wrap the text inside the element.
+    wrapEl.textContent = txt;
+    range.deleteContents();
+  }
+  range.insertNode(wrapEl);
+
+  // Plant a Zero-Width Space text node immediately after the wrapper.
+  // This gives the browser a real text-node anchor outside the inline element,
+  // so the caret does not snap back inside <code> on the next keypress.
+  const zwsp = document.createTextNode('\u200B');
+  wrapEl.parentNode.insertBefore(zwsp, wrapEl.nextSibling);
+
+  if (txt) {
+    // Caret goes into the ZWSP node (outside the wrapper) → user types normally.
+    const r = document.createRange();
+    r.setStart(zwsp, 0); r.collapse(true);
+    s.removeAllRanges(); s.addRange(r);
+  } else {
+    // No text selected: insert the tags and plant a real text node inside so
+    // the caret lands reliably inside the element (empty element offsets are
+    // interpreted inconsistently across browsers).
+    const innerText = document.createTextNode('\u200B'); // placeholder ZWSP
+    wrapEl.appendChild(innerText);
+    range.insertNode(wrapEl);
+
+    const zwsp2 = document.createTextNode('\u200B');
+    wrapEl.parentNode.insertBefore(zwsp2, wrapEl.nextSibling);
+
+    // Caret at offset 0 of the inner text node → typing replaces the ZWSP inside.
+    const r = document.createRange();
+    r.setStart(innerText, 0); r.collapse(true);
+    s.removeAllRanges(); s.addRange(r);
+  }
+
+  if (activeEditor) activeEditor.dispatchEvent(new Event('input'));
+  refreshPreview();
+}
+function wrapBlock(tag) {
+  restoreSel();
+  const s = window.getSelection();
+  if (!s || !s.rangeCount) return;
+  const range = s.getRangeAt(0);
+  const el = document.createElement(tag);
+  el.appendChild(range.extractContents());
+  // If blockquote is empty (no selection), give it a br so the caret has
+  // something to land on.
+  if (!el.firstChild) el.appendChild(document.createElement('br'));
+  s.getRangeAt(0).insertNode(el);
+  // Plant a ZWSP text node AFTER the block element so the user can always
+  // arrow out (and double-Enter will land here too).
+  let exitNode = el.nextSibling;
+  if (!exitNode || exitNode.nodeType !== Node.TEXT_NODE) {
+    exitNode = document.createTextNode('\u200B');
+    el.parentNode.insertBefore(exitNode, el.nextSibling);
+  }
+  // Move caret to the END of the inserted block content.
+  const r = document.createRange();
+  r.selectNodeContents(el);
+  r.collapse(false);
+  s.removeAllRanges();
+  s.addRange(r);
+  if (activeEditor) activeEditor.dispatchEvent(new Event('input'));
+  refreshPreview();
+}
+
+// ── EDITOR CONTENT HELPERS ──────────────────────────────────────────
+/** Read content from a wysiwyg-wrap (respects current mode) */
+function getEditorContent(wrap) {
+  if (!wrap) return '';
+  return wrap.classList.contains('raw-mode') ? wrap._raw.value.trim() : getHTML(wrap._ed);
+}
+/** Write content into a wysiwyg-wrap (sets both sides) */
+function setEditorContent(wrap, html) {
+  if (!wrap) return;
+  wrap._ed.innerHTML = html || '';
+  wrap._raw.value    = html || '';
+}
+
+// ── GET HTML FROM EDITOR ─────────────────────────────────────────────
+function getHTML(el) {
+  if (!el) return '';
+  let h = el.innerHTML;
+  // Strip zero-width spaces planted as caret-exit anchors after inline elements.
+  h = h.replace(/\u200B|&#8203;/g, '');
+  h = h.replace(/<div><br\s*\/?><\/div>/gi, '<br>');
+  h = h.replace(/<div>([\s\S]*?)<\/div>/gi, '$1<br>');
+  h = h.replace(/^(\s*<br\s*\/?>\s*)+/i,'').replace(/(\s*<br\s*\/?>\s*)+$/i,'');
+  return h.trim();
+}
+
+// ── INIT ─────────────────────────────────────────────────────────────
+let questionEdEl = null;
+
+function init() {
+  const mount = document.getElementById('q-editor-mount');
+  const w = createEditor(mount, {
+    placeholder: 'e.g. What is the chemical symbol for <strong>water</strong>?',
+    onChange: refreshPreview
+  });
+  questionEdEl = w._ed;
+  questionWrap  = w;
+  // Create reason editor
+  const reasonMount = document.getElementById('reason-editor-mount');
+  reasonWrap = createEditor(reasonMount, {
+    placeholder: 'Optional: explain why the correct answer is right…',
+    onChange: refreshPreview,
+  });
+  buildChoiceRows(4);
+  renderList();
+}
+
+// ── CHOICE ROWS ──────────────────────────────────────────────────────
+function buildChoiceRows(n, vals, correct) {
+  choiceCount = Math.max(2, Math.min(6, n));
+  // Default to first choice selected when no correct answer is specified.
+  if (correct === undefined || correct === null) correct = 0;
+  const list = document.getElementById('choices-list');
+  list.innerHTML = '';
+  for (let i = 0; i < choiceCount; i++) {
+    list.appendChild(makeChoiceRow(i, (vals && vals[i]) || '', correct === i));
+  }
+  updateAddBtn();
+  refreshPreview();
+}
+
+function makeChoiceRow(idx, value, isCorrect) {
+  const row = document.createElement('div');
+  row.className = 'choice-row';
+  row.dataset.idx = idx;
+
+  const rw = document.createElement('div');
+  rw.className = 'choice-radio-wrap';
+  rw.innerHTML = `<input type="radio" name="correct-choice" value="${idx}" title="Mark as correct" ${isCorrect?'checked':''} />
+                  <span class="choice-label-idx">${LETTERS[idx]}</span>`;
+  rw.querySelector('input').addEventListener('change', refreshPreview);
+
+  const w = createEditor(null, { placeholder: `Choice ${LETTERS[idx]}...`, small: true, onChange: refreshPreview });
+  setEditorContent(w, value || '');
+  if (editorMode === 'raw') w.classList.add('raw-mode');
+
+  const del = document.createElement('button');
+  del.className = 'btn-icon';
+  del.title = 'Remove choice';
+  del.innerHTML = '&#x2715;';
+  del.disabled = choiceCount <= 2;
+  del.addEventListener('click', () => App.removeChoice(idx));
+
+  row.append(rw, w, del);
+  return row;
+}
+
+function getChoices() {
+  return Array.from(document.querySelectorAll('#choices-list .choice-row')).map(r => {
+    const w = r.querySelector('.wysiwyg-wrap');
+    return w ? getEditorContent(w) : '';
+  });
+}
+function getCorrect() {
+  const r = document.querySelector('#choices-list input[type="radio"]:checked');
+  return r ? parseInt(r.value, 10) : 0;
+}
+function updateAddBtn() {
+  const b = document.querySelector('.btn-icon.add');
+  if (b) b.disabled = choiceCount >= 6;
+}
+
+// ── PREVIEW ──────────────────────────────────────────────────────────
+function refreshPreview() {
+  const box = document.getElementById('preview-box');
+  const qt  = questionWrap ? getEditorContent(questionWrap) : '';
+  const ch  = getChoices();
+  const ci  = getCorrect();
+  if (!qt && ch.every(c=>!c)) {
+    box.innerHTML = '<div class="preview-placeholder">Start typing to see a preview&#x2026;</div>';
+    return;
+  }
+  let h = '';
+  if (qt) h += `<div class="preview-q">${renderLatex(qt)}</div>`;
+  ch.forEach((c,i) => {
+    if (!c) return;
+    h += `<div class="preview-choice ${i===ci&&c?'correct':''}">
+      <span class="choice-letter">${LETTERS[i]}.</span>
+      <span>${renderLatex(c)}</span></div>`;
+  });
+  const reason = reasonWrap ? getEditorContent(reasonWrap) : '';
+  if (reason) {
+    h += `<div class="preview-reason"><div class="preview-reason-lbl">Reason</div>${renderLatex(reason)}</div>`;
+  }
+  box.innerHTML = h;
+}
+
+function renderLatex(html) {
+  return html
+    .replace(/<latex\s+display(?:="")?\s*>([\s\S]*?)<\/latex>/gi, (_,t) => {
+      try { return katex.renderToString(t.trim(),{displayMode:true,throwOnError:false}); }
+      catch(e) { return '<code>'+escHtml(t)+'</code>'; }
+    })
+    .replace(/<latex>([\s\S]*?)<\/latex>/gi, (_,t) => {
+      try { return katex.renderToString(t.trim(),{displayMode:false,throwOnError:false}); }
+      catch(e) { return '<code>'+escHtml(t)+'</code>'; }
+    });
+}
+
+// ── LATEX MODAL ──────────────────────────────────────────────────────
+function openLatexModal(display) {
+  const val = display ? 'display' : 'inline';
+  document.querySelector(`input[name="latex-mode"][value="${val}"]`).checked = true;
+  // Snapshot the selection NOW, before focus moves to the modal input.
+  const sel = window.getSelection();
+  insertionRange = (sel && sel.rangeCount > 0) ? sel.getRangeAt(0).cloneRange() : savedRange;
+  // Pre-fill with selected text if any
+  const selectedText = (sel && !sel.isCollapsed) ? sel.toString().trim() : '';
+  const latexInput = document.getElementById('latex-input');
+  latexInput.value = selectedText;
+  const previewBox = document.getElementById('latex-preview-box');
+  if (selectedText) {
+    // Delete the selection — it will be replaced by the latex tag on Insert
+    const dm = display;
+    try {
+      const rendered = katex.renderToString(selectedText, { displayMode: dm, throwOnError: false });
+      previewBox.innerHTML = rendered;
+    } catch(e) {
+      previewBox.innerHTML = '&#x2014;';
+    }
+  } else {
+    previewBox.innerHTML = '&#x2014;';
+  }
+  document.getElementById('latex-overlay').classList.add('open');
+  setTimeout(() => { latexInput.focus(); latexInput.select(); }, 50);
+}
+function closeLatexModal() {
+  document.getElementById('latex-overlay').classList.remove('open');
+  if (activeEditor) activeEditor.focus();
+}
+function latexOverlayClick(e) { if (e.target.id==='latex-overlay') closeLatexModal(); }
+function latexPreview() {
+  const tex = document.getElementById('latex-input').value.trim();
+  const dm  = document.querySelector('input[name="latex-mode"]:checked').value === 'display';
+  const box = document.getElementById('latex-preview-box');
+  if (!tex) { box.innerHTML = '&#x2014;'; return; }
+  try { box.innerHTML = katex.renderToString(tex,{displayMode:dm,throwOnError:true}); }
+  catch(e) { box.innerHTML = '<span class="latex-error">&#x26A0; '+escHtml(e.message)+'</span>'; }
+}
+function insertLatex() {
+  const tex = document.getElementById('latex-input').value.trim();
+  const dm  = document.querySelector('input[name="latex-mode"]:checked').value === 'display';
+  if (!tex) { toast('Enter a LaTeX expression first.','error'); return; }
+  const tag = dm ? `<latex display>${tex}</latex>` : `<latex>${tex}</latex>`;
+  closeLatexModal();
+  // Restore the snapshot taken when the modal opened.
+  if (insertionRange && activeEditor) {
+    activeEditor.focus();
+    const s = window.getSelection();
+    s.removeAllRanges();
+    s.addRange(insertionRange);
+  } else {
+    restoreSel();
+  }
+  // Insert tag + a temporary marker span so we can move the caret out of the
+  // <latex> element; otherwise the browser leaves the caret inside it.
+  const markerId = 'ltx-caret-' + Date.now();
+  document.execCommand('insertHTML', false, tag + `<span id="${markerId}"></span>`);
+  const markerEl = document.getElementById(markerId);
+  if (markerEl) {
+    const range = document.createRange();
+    range.setStartAfter(markerEl);
+    range.collapse(true);
+    const sel = window.getSelection();
+    sel.removeAllRanges();
+    sel.addRange(range);
+    markerEl.remove();
+  }
+  if (activeEditor) activeEditor.dispatchEvent(new Event('input'));
+  refreshPreview();
+}
+
+// ── IMAGE MODAL ───────────────────────────────────────────────────────
+function openImgModal() {
+  // Snapshot the selection NOW, before focus moves to the modal input.
+  const sel = window.getSelection();
+  insertionRange = (sel && sel.rangeCount > 0) ? sel.getRangeAt(0).cloneRange() : savedRange;
+  ['img-url','img-alt','img-width'].forEach(id => document.getElementById(id).value='');
+  const p = document.getElementById('img-preview-el');
+  p.src=''; p.style.display='none';
+  document.getElementById('img-overlay').classList.add('open');
+  setTimeout(()=>document.getElementById('img-url').focus(),50);
+}
+function closeImgModal() {
+  document.getElementById('img-overlay').classList.remove('open');
+  if (activeEditor) activeEditor.focus();
+}
+function imgOverlayClick(e) { if (e.target.id==='img-overlay') closeImgModal(); }
+function imgPreviewUpdate() {
+  const url = document.getElementById('img-url').value.trim();
+  const p   = document.getElementById('img-preview-el');
+  if (url) { p.src=url; p.style.display='block'; } else { p.src=''; p.style.display='none'; }
+}
+function insertImage() {
+  const url = document.getElementById('img-url').value.trim();
+  if (!url) { toast('Enter an image URL first.','error'); return; }
+  const alt = document.getElementById('img-alt').value.trim();
+  const w   = document.getElementById('img-width').value.trim();
+  const sty = w ? ` style="max-width:100%;width:${escAttr(w)}"` : ' style="max-width:100%"';
+  const html = `<img src="${escAttr(url)}" alt="${escAttr(alt)}"${sty} />`;
+  closeImgModal();
+  // Restore the snapshot taken when the modal opened.
+  if (insertionRange && activeEditor) {
+    activeEditor.focus();
+    const s = window.getSelection();
+    s.removeAllRanges();
+    s.addRange(insertionRange);
+  } else {
+    restoreSel();
+  }
+  document.execCommand('insertHTML', false, html);
+  if (activeEditor) activeEditor.dispatchEvent(new Event('input'));
+  refreshPreview();
+}
+
+// ── TABLE MODAL ──────────────────────────────────────────────────────
+const TABLE_MAX_ROWS = 8, TABLE_MAX_COLS = 8;
+let tableSelRows = 0, tableSelCols = 0;
+
+function openTableModal() {
+  const sel = window.getSelection();
+  insertionRange = (sel && sel.rangeCount > 0) ? sel.getRangeAt(0).cloneRange() : savedRange;
+  tableSelRows = 0; tableSelCols = 0;
+  document.getElementById('table-insert-btn').disabled = true;
+  document.getElementById('table-size-label').textContent = 'Hover to select size';
+  buildTableGrid();
+  document.getElementById('table-overlay').classList.add('open');
+}
+function closeTableModal() {
+  document.getElementById('table-overlay').classList.remove('open');
+  if (activeEditor) activeEditor.focus();
+}
+function tableOverlayClick(e) { if (e.target.id === 'table-overlay') closeTableModal(); }
+function buildTableGrid() {
+  const picker = document.getElementById('table-grid-picker');
+  picker.style.gridTemplateColumns = `repeat(${TABLE_MAX_COLS}, 22px)`;
+  picker.innerHTML = '';
+  for (let r = 1; r <= TABLE_MAX_ROWS; r++) {
+    for (let c = 1; c <= TABLE_MAX_COLS; c++) {
+      const cell = document.createElement('div');
+      cell.className = 'tg-cell';
+      cell.dataset.r = r; cell.dataset.c = c;
+      cell.addEventListener('mouseover', () => highlightGrid(r, c));
+      cell.addEventListener('click', () => { tableSelRows = r; tableSelCols = c; commitGridSelect(r, c); });
+      picker.appendChild(cell);
+    }
+  }
+  picker.addEventListener('mouseleave', () => highlightGrid(tableSelRows, tableSelCols));
+}
+function highlightGrid(rows, cols) {
+  document.querySelectorAll('#table-grid-picker .tg-cell').forEach(cell => {
+    cell.classList.toggle('hover', +cell.dataset.r <= rows && +cell.dataset.c <= cols);
+  });
+  const lbl = document.getElementById('table-size-label');
+  lbl.textContent = rows && cols ? `${rows} × ${cols} table` : 'Hover to select size';
+}
+function commitGridSelect(rows, cols) {
+  tableSelRows = rows; tableSelCols = cols;
+  highlightGrid(rows, cols);
+  document.getElementById('table-insert-btn').disabled = false;
+  document.getElementById('table-size-label').textContent = `${rows} × ${cols} table selected`;
+}
+function insertTable() {
+  if (!tableSelRows || !tableSelCols) { toast('Select a table size first.', 'error'); return; }
+  const hasHeader = document.getElementById('table-header-row').checked;
+  const borders   = document.getElementById('table-borders').checked;
+  const bStyle    = borders ? ' border="1" style="border-collapse:collapse;width:100%"' : ' style="border-collapse:collapse;width:100%"';
+  const tdStyle   = borders ? ' style="border:1px solid #d1d5db;padding:6px 10px"' : ' style="padding:6px 10px"';
+  const thStyle   = borders ? ' style="border:1px solid #d1d5db;padding:6px 10px;background:#ede9fe;font-weight:700"' : ' style="padding:6px 10px;font-weight:700"';
+  let html = `<table${bStyle}>`;
+  for (let r = 1; r <= tableSelRows; r++) {
+    html += '<tr>';
+    for (let c = 1; c <= tableSelCols; c++) {
+      if (r === 1 && hasHeader) {
+        html += `<th${thStyle}>Header ${c}</th>`;
+      } else {
+        html += `<td${tdStyle}>&nbsp;</td>`;
+      }
+    }
+    html += '</tr>';
+  }
+  html += '</table><br>';
+  closeTableModal();
+  if (insertionRange && activeEditor) {
+    activeEditor.focus();
+    const s = window.getSelection();
+    s.removeAllRanges();
+    s.addRange(insertionRange);
+  } else {
+    restoreSel();
+  }
+  document.execCommand('insertHTML', false, html);
+  if (activeEditor) activeEditor.dispatchEvent(new Event('input'));
+  refreshPreview();
+}
+
+// ── TABLE FLOAT TOOLBAR ───────────────────────────────────────────────────
+function _getCaretTd() {
+  const s = window.getSelection();
+  if (!s || !s.rangeCount) return null;
+  const node = s.anchorNode;
+  const el = node.nodeType === Node.TEXT_NODE ? node.parentElement : node;
+  return el ? el.closest('td,th') : null;
+}
+function _getCaretTable() {
+  const td = _getCaretTd();
+  return td ? td.closest('table') : null;
+}
+function _placeCaret(cell) {
+  if (!cell || !activeEditor) return;
+  activeEditor.focus();
+  const r = document.createRange();
+  r.selectNodeContents(cell);
+  r.collapse(true);
+  const s = window.getSelection();
+  s.removeAllRanges();
+  s.addRange(r);
+}
+function _tblAfter(focusCell) {
+  if (focusCell) _placeCaret(focusCell);
+  else if (activeEditor) activeEditor.focus();
+  if (activeEditor) activeEditor.dispatchEvent(new Event('input'));
+  refreshPreview();
+  setTimeout(updateTblFloatBar, 0);
+}
+function updateTblFloatBar() {
+  const bar = document.getElementById('tbl-float-bar');
+  if (!bar) return;
+  const table = _getCaretTable();
+  if (!table || !activeEditor || !activeEditor.contains(table)) {
+    bar.classList.remove('visible');
+    return;
+  }
+  const rect = table.getBoundingClientRect();
+  const barH = bar.offsetHeight || 34;
+  let top = rect.top - barH - 8;
+  if (top < 4) top = rect.bottom + 6;
+  bar.style.left = Math.max(4, Math.min(rect.left, window.innerWidth - 320)) + 'px';
+  bar.style.top  = top + 'px';
+  bar.classList.add('visible');
+}
+document.addEventListener('selectionchange', () => setTimeout(updateTblFloatBar, 0));
+
+function tblAddRowAbove() {
+  const td = _getCaretTd(); if (!td) return;
+  const tr = td.closest('tr'); if (!tr) return;
+  const colIdx = Array.from(tr.querySelectorAll('td,th')).indexOf(td);
+  const cols = tr.querySelectorAll('td,th').length;
+  const newRow = document.createElement('tr');
+  for (let i = 0; i < cols; i++) {
+    const cell = document.createElement('td');
+    cell.style.cssText = td.getAttribute('style') || '';
+    cell.innerHTML = '&nbsp;';
+    newRow.appendChild(cell);
+  }
+  tr.parentNode.insertBefore(newRow, tr);
+  _tblAfter(newRow.querySelectorAll('td,th')[colIdx] || td);
+}
+function tblAddRowBelow() {
+  const td = _getCaretTd(); if (!td) return;
+  const tr = td.closest('tr'); if (!tr) return;
+  const colIdx = Array.from(tr.querySelectorAll('td,th')).indexOf(td);
+  const cols = tr.querySelectorAll('td,th').length;
+  const newRow = document.createElement('tr');
+  for (let i = 0; i < cols; i++) {
+    const cell = document.createElement('td');
+    cell.style.cssText = td.getAttribute('style') || '';
+    cell.innerHTML = '&nbsp;';
+    newRow.appendChild(cell);
+  }
+  tr.parentNode.insertBefore(newRow, tr.nextSibling);
+  _tblAfter(newRow.querySelectorAll('td,th')[colIdx] || td);
+}
+function tblRemoveRow() {
+  const td = _getCaretTd(); if (!td) return;
+  const tr = td.closest('tr'); if (!tr) return;
+  const tbody = tr.parentNode;
+  if (tbody.querySelectorAll('tr').length <= 1) {
+    toast('Cannot remove the only row — use 🗑️ Delete Table instead.', 'error'); return;
+  }
+  const colIdx = Array.from(tr.querySelectorAll('td,th')).indexOf(td);
+  const targetRow = tr.previousElementSibling || tr.nextElementSibling;
+  tr.remove();
+  const focusCell = targetRow ? targetRow.querySelectorAll('td,th')[colIdx] || targetRow.querySelector('td,th') : null;
+  _tblAfter(focusCell);
+}
+function tblAddColLeft() {
+  const td = _getCaretTd(); if (!td) return;
+  const table = td.closest('table'); if (!table) return;
+  const colIdx = Array.from(td.parentElement.querySelectorAll('td,th')).indexOf(td);
+  const rowIdx = Array.from(td.closest('tbody,table').querySelectorAll('tr')).indexOf(td.closest('tr'));
+  table.querySelectorAll('tr').forEach(tr => {
+    const cells = tr.querySelectorAll('td,th');
+    if (!cells[colIdx]) return;
+    const ref = cells[colIdx];
+    const c = document.createElement('td');
+    c.style.cssText = ref.getAttribute('style') || '';
+    c.innerHTML = '&nbsp;';
+    tr.insertBefore(c, ref);
+  });
+  // cursor stays in the original cell (now shifted one right)
+  _tblAfter(td);
+}
+function tblAddColRight() {
+  const td = _getCaretTd(); if (!td) return;
+  const table = td.closest('table'); if (!table) return;
+  const colIdx = Array.from(td.parentElement.querySelectorAll('td,th')).indexOf(td);
+  let newCell = null;
+  table.querySelectorAll('tr').forEach(tr => {
+    const cells = tr.querySelectorAll('td,th');
+    if (!cells[colIdx]) return;
+    const ref = cells[colIdx];
+    const c = document.createElement('td');
+    c.style.cssText = ref.getAttribute('style') || '';
+    c.innerHTML = '&nbsp;';
+    ref.parentNode.insertBefore(c, ref.nextSibling);
+    if (ref === td) newCell = c;
+  });
+  _tblAfter(newCell || td);
+}
+function tblRemoveCol() {
+  const td = _getCaretTd(); if (!td) return;
+  const table = td.closest('table'); if (!table) return;
+  const colIdx = Array.from(td.parentElement.querySelectorAll('td,th')).indexOf(td);
+  let tooFew = false;
+  table.querySelectorAll('tr').forEach(tr => {
+    if (tr.querySelectorAll('td,th').length <= 1) { tooFew = true; }
+  });
+  if (tooFew) { toast('Cannot remove the only column — use 🗑️ Delete Table instead.', 'error'); return; }
+  const tr = td.closest('tr');
+  const sibCells = tr.querySelectorAll('td,th');
+  const focusCell = sibCells[colIdx + 1] || sibCells[colIdx - 1] || null;
+  table.querySelectorAll('tr').forEach(tr => {
+    const cells = tr.querySelectorAll('td,th');
+    if (cells[colIdx]) cells[colIdx].remove();
+  });
+  _tblAfter(focusCell);
+}
+function tblDeleteTable() {
+  const table = _getCaretTable(); if (!table) return;
+  if (!confirm('Delete this entire table?')) return;
+  table.remove();
+  document.getElementById('tbl-float-bar').classList.remove('visible');
+  _tblAfter();
+}
+
+// ── SAVE / EDIT ───────────────────────────────────────────────────────
+function saveQuestion() {
+  // Helper: flash an element red + shake, then scroll it into view.
+  function flagError(el) {
+    el.classList.remove('field-error'); // reset in case already present
+    void el.offsetWidth;               // force reflow so animation restarts
+    el.classList.add('field-error');
+    setTimeout(() => el.classList.remove('field-error'), 2000);
+    el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  }
+
+  const qt = getEditorContent(questionWrap);
+  if (!qt) {
+    toast('Question text is required.', 'error');
+    flagError(questionWrap);
+    return;
+  }
+  const ch = getChoices();
+  const emptyChoiceRows = Array.from(document.querySelectorAll('#choices-list .choice-row'))
+    .filter((row, i) => !ch[i]);
+  if (ch.filter(c => c).length < 2) {
+    toast('At least 2 choices must have content.', 'error');
+    // Highlight every empty choice editor.
+    emptyChoiceRows.forEach(row => {
+      const wrap = row.querySelector('.wysiwyg-wrap');
+      if (wrap) flagError(wrap);
+    });
+    // Scroll to the first empty choice.
+    if (emptyChoiceRows[0]) emptyChoiceRows[0].scrollIntoView({ behavior: 'smooth', block: 'center' });
+    return;
+  }
+
+  let ci = getCorrect(), corrMap=0, corrMapped=false;
+  const final = [];
+  ch.forEach((c,i) => {
+    if (c) {
+      if (i===ci && !corrMapped) { corrMap=final.length; corrMapped=true; }
+      final.push(c);
+    }
+  });
+  if (!corrMapped) corrMap=0;
+
+  const obj = { question:qt, choices:final };
+  if (corrMap!==0) obj.answer = corrMap;
+
+  const chapter  = document.getElementById('f-chapter').value.trim();
+  const cat      = document.getElementById('f-category').value.trim();
+  const cplx     = document.getElementById('f-complexity').value;
+  const dur      = parseInt(document.getElementById('f-duration').value,10);
+
+  if (chapter) obj.chapter   = chapter;
+  if (cat) {
+    obj.category = cat;
+    // Add to datalist if not already present.
+    const dl = document.getElementById('category-suggestions');
+    const existing = Array.from(dl.options).map(o => o.value.toLowerCase());
+    if (!existing.includes(cat.toLowerCase())) {
+      const opt = document.createElement('option');
+      opt.value = cat;
+      dl.appendChild(opt);
+    }
+  }
+  if (cplx)    obj.complexity= cplx;
+  if (!isNaN(dur)&&dur>=10) obj.duration = dur;
+  const reason = reasonWrap ? getEditorContent(reasonWrap) : '';
+  if (reason) obj.reason = reason;
+
+  if (editingIdx!==null) {
+    questions[editingIdx]=obj;
+    toast(`Question ${editingIdx+1} updated!`,'success');
+    cancelEdit();
+  } else {
+    questions.push(obj);
+    toast('Question saved!','success');
+  }
+  clearForm(); renderList(); updateDlBtn();
+}
+
+function editQuestion(idx) {
+  const q = questions[idx];
+  editingIdx = idx;
+  if (questionWrap) setEditorContent(questionWrap, q.question||'');
+  buildChoiceRows(Math.max(2,q.choices.length), q.choices, (q.answer!==undefined)?q.answer:0);
+  document.getElementById('f-chapter').value = q.chapter||'';
+  document.getElementById('f-category').value = q.category || '';
+  document.getElementById('f-complexity').value=q.complexity||'';
+  document.getElementById('f-duration').value=q.duration||'';
+  if (reasonWrap) setEditorContent(reasonWrap, q.reason || '');
+  document.getElementById('edit-mode-badge').style.display='';
+  document.getElementById('edit-idx-label').textContent=idx+1;
+  document.getElementById('btn-cancel-edit').style.display='';
+  document.getElementById('editor-card').scrollIntoView({behavior:'smooth',block:'start'});
+  refreshPreview(); renderList();
+}
+
+function cancelEdit() {
+  editingIdx=null;
+  document.getElementById('edit-mode-badge').style.display='none';
+  document.getElementById('btn-cancel-edit').style.display='none';
+  clearForm(); renderList();
+}
+
+function clearForm() {
+  if (questionWrap) setEditorContent(questionWrap, '');
+  if (reasonWrap)   setEditorContent(reasonWrap,   '');
+  ['f-chapter','f-category','f-complexity','f-duration']
+    .forEach(id => document.getElementById(id).value='');
+  buildChoiceRows(4);
+}
+
+// ── CHOICE ADD / REMOVE ───────────────────────────────────────────────
+function addChoice() {
+  if (choiceCount>=6) return;
+  buildChoiceRows(choiceCount+1, getChoices(), getCorrect());
+}
+function removeChoice(idx) {
+  if (choiceCount<=2) return;
+  const v=getChoices(), c=getCorrect();
+  v.splice(idx,1);
+  buildChoiceRows(choiceCount-1, v, c>idx?c-1:(c===idx?0:c));
+}
+
+// ── QUESTION LIST ─────────────────────────────────────────────────────
+function renderList() {
+  const el = document.getElementById('q-list');
+  document.getElementById('q-count').textContent = questions.length;
+  if (!questions.length) {
+    el.innerHTML='<div class="empty-state"><div class="icon">&#x1F5C2;&#xFE0F;</div><p>No questions yet &#x2014; fill in the form above and click Save Question.</p></div>';
+    return;
+  }
+  el.innerHTML='';
+  questions.forEach((q,i) => {
+    const d=document.createElement('div');
+    d.className='q-item'+(editingIdx===i?' editing':'');
+    const pq=stripHtml(q.question);
+    const meta=[
+      q.chapter    ? '&#x1F4D6; '+escHtml(q.chapter)    : '',
+      q.category   ? '&#x1F3F7; '+escHtml(q.category)   : '',
+      q.complexity ? '&#x26A1; '+escHtml(q.complexity)  : '',
+      q.duration   ? '&#x23F1; '+q.duration+'s'         : '',
+      '&#x2705; '+LETTERS[(q.answer!==undefined)?q.answer:0]
+    ].filter(Boolean);
+    d.innerHTML=`
+      <div class="q-num">${i+1}</div>
+      <div class="q-body">
+        <div class="q-text" title="${escAttr(pq)}">${escHtml(pq)}</div>
+        <div class="q-meta">${meta.map(m=>`<span>${m}</span>`).join('')}</div>
+      </div>
+      <div class="q-actions">
+        <button class="btn-icon move" onclick="App.moveQ(${i},-1)" ${i===0?'disabled':''}>&#x25B2;</button>
+        <button class="btn-icon move" onclick="App.moveQ(${i}, 1)" ${i===questions.length-1?'disabled':''}>&#x25BC;</button>
+        <button class="btn-icon edit" onclick="App.editQuestion(${i})">&#x270E;</button>
+        <button class="btn-icon"      onclick="App.deleteQ(${i})">&#x2715;</button>
+      </div>`;
+    el.appendChild(d);
+  });
+}
+
+function deleteQ(idx) {
+  if (!confirm(`Delete question ${idx+1}? This cannot be undone.`)) return;
+  if (editingIdx===idx) cancelEdit();
+  else if (editingIdx!==null&&editingIdx>idx) editingIdx--;
+  questions.splice(idx,1);
+  renderList(); updateDlBtn();
+  toast('Question deleted.','success');
+}
+function moveQ(idx,dir) {
+  const ni=idx+dir;
+  if (ni<0||ni>=questions.length) return;
+  [questions[idx],questions[ni]]=[questions[ni],questions[idx]];
+  if (editingIdx===idx) editingIdx=ni;
+  else if (editingIdx===ni) editingIdx=idx;
+  renderList();
+}
+
+// ── DOWNLOAD ─────────────────────────────────────────────────────────
+function downloadJSON() {
+  if (!questions.length) { toast('No questions to download yet.','error'); return; }
+  const fn=prompt('Filename for the JSON file:','my_quiz.json');
+  if (!fn) return;
+  const name=fn.endsWith('.json')?fn:fn+'.json';
+  const url=URL.createObjectURL(new Blob([JSON.stringify(questions,null,2)],{type:'application/json'}));
+  const a=document.createElement('a'); a.href=url; a.download=name;
+  document.body.appendChild(a); a.click(); document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+  toast(`Downloaded as "${name}"`,'success');
+}
+function updateDlBtn() {
+  const h=questions.length>0;
+  document.getElementById('btn-download').disabled=!h;
+  document.getElementById('btn-download2').disabled=!h;
+}
+
+// ── JSON MODAL ────────────────────────────────────────────────────────
+function previewJSON() {
+  if (!questions.length) { toast('No questions yet.','error'); return; }
+  document.getElementById('json-preview-content').textContent=JSON.stringify(questions,null,2);
+  document.getElementById('json-overlay').classList.add('open');
+}
+function closeJsonModal() { document.getElementById('json-overlay').classList.remove('open'); }
+function jsonOverlayClick(e) { if (e.target.id==='json-overlay') closeJsonModal(); }
+
+// ── IMPORT ────────────────────────────────────────────────────────────
+function triggerImport() { document.getElementById('import-file-input').value=''; document.getElementById('import-file-input').click(); }
+function handleImport(e) { const f=e.target.files[0]; if(f) readJSON(f); }
+function dragOver(e) { e.preventDefault(); document.getElementById('import-drop').classList.add('dragover'); }
+function dragLeave() { document.getElementById('import-drop').classList.remove('dragover'); }
+function dropFile(e) {
+  e.preventDefault(); dragLeave();
+  const f=e.dataTransfer.files[0];
+  if (!f) return;
+  if (!f.name.endsWith('.json')) { toast('Please drop a .json file.','error'); return; }
+  readJSON(f);
+}
+function readJSON(file) {
+  const r=new FileReader();
+  r.onload=ev=>{
+    try {
+      const d=JSON.parse(ev.target.result);
+      if (!Array.isArray(d)) throw new Error('Expected a JSON array.');
+      if (questions.length&&!confirm(`Replace ${questions.length} question(s) with ${d.length} imported?`)) return;
+      questions=d; cancelEdit(); renderList(); updateDlBtn();
+      toast(`Imported ${d.length} question(s) from "${file.name}"`,'success');
+    } catch(err) { toast('Invalid JSON: '+err.message,'error'); }
+  };
+  r.readAsText(file);
+}
+
+// ── UTILS ─────────────────────────────────────────────────────────────
+function escHtml(s) { return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+function escAttr(s) { return String(s).replace(/"/g,'&quot;').replace(/'/g,'&#39;'); }
+function stripHtml(h) { const d=document.createElement('div'); d.innerHTML=h; return (d.textContent||d.innerText||'').replace(/\s+/g,' ').trim(); }
+let toastT=null;
+function toast(msg,type) {
+  const el=document.getElementById('toast');
+  el.textContent=msg; el.className='toast show '+(type||'');
+  clearTimeout(toastT); toastT=setTimeout(()=>{el.className='toast';},3000);
+}
+
+// ── EDITOR MODE TOGGLE ──────────────────────────────────────────────
+function toggleEditorMode() {
+  editorMode = editorMode === 'wysiwyg' ? 'raw' : 'wysiwyg';
+  const btn  = document.getElementById('editor-mode-btn');
+  // Sync all current editors to the new mode
+  document.querySelectorAll('.wysiwyg-wrap').forEach(wrap => {
+    if (editorMode === 'raw') {
+      wrap._raw.value = getHTML(wrap._ed);   // push wysiwyg → raw
+      wrap.classList.add('raw-mode');
+    } else {
+      wrap._ed.innerHTML = wrap._raw.value;  // push raw → wysiwyg
+      wrap.classList.remove('raw-mode');
+    }
+  });
+  if (editorMode === 'raw') {
+    btn.innerHTML = '&#x1F3A8; Visual';
+    btn.classList.add('raw-active');
+  } else {
+    btn.innerHTML = '&#x1F4DD; Raw HTML';
+    btn.classList.remove('raw-active');
+  }
+  refreshPreview();
+}
+
+// ── PUBLIC API ────────────────────────────────────────────────────────
+window.App={
+  refreshPreview, saveQuestion, clearForm, cancelEdit,
+  addChoice, removeChoice,
+  editQuestion, deleteQ, moveQ,
+  downloadJSON, previewJSON, closeJsonModal, jsonOverlayClick,
+  triggerImport, handleImport, dragOver, dragLeave, dropFile,
+  latexOverlayClick, closeLatexModal, latexPreview, insertLatex,
+  imgOverlayClick, closeImgModal, imgPreviewUpdate, insertImage,
+  tableOverlayClick, closeTableModal, insertTable,
+  tblAddRowAbove, tblAddRowBelow, tblRemoveRow,
+  tblAddColLeft, tblAddColRight, tblRemoveCol, tblDeleteTable,
+  toggleEditorMode,
+};
+
+function waitKatex() { if (typeof katex!=='undefined') init(); else setTimeout(waitKatex,50); }
+waitKatex();
+
+})();
+</script>
+</body>
+</html>
