@@ -126,7 +126,7 @@
     }
     .btn-skip:hover { background: rgba(255,255,255,0.12); color: #fff; border-color: rgba(255,255,255,0.65); }
     .btn-end {
-      background: transparent;
+      background: #fff;
       color: rgba(255,160,140,0.95);
       border: 2px solid rgba(255,120,100,0.5);
       padding: 10px 18px;
@@ -928,7 +928,7 @@
       <div class="quiz-map-grid" id="quiz-map-grid"></div>
     </div>
     <div class="all-done-banner" id="all-done-banner" style="display:none">
-      🎉 All questions answered! Click <strong>🏁 End Quiz</strong> to see your results.
+      🎉 All questions answered! Click <strong><a href="javascript:void(0)" onclick="App.endQuiz()" style="color:inherit;text-decoration:underline;cursor:pointer;">🏁 End Quiz</a></strong> to see your results.
     </div>
   </div>
 
@@ -1200,7 +1200,7 @@
     const QUIZ_CFG_KEY = 'quizCfg';
     const quizConfig = {
       subjects:[], chapters:[], categories:[], complexities:[],
-      maxTotal:0,
+      maxTotal:10,
       timedEnabled: false, timedMode: 'per-question', timedDuration: 30,
       resultMode: 'immediate',
       itemLimits: {},
@@ -1213,7 +1213,7 @@
         quizConfig.chapters     = s.chapters     || [];
         quizConfig.categories   = s.categories   || [];
         quizConfig.complexities = s.complexities || [];
-        quizConfig.maxTotal     = s.maxTotal     || 0;
+        quizConfig.maxTotal     = s.maxTotal != null ? (s.maxTotal || 0) : 10;
         quizConfig.timedEnabled  = !!s.timedEnabled;
         quizConfig.timedMode     = s.timedMode    || 'per-question';
         quizConfig.timedDuration = s.timedDuration || 30;
@@ -2292,6 +2292,12 @@
       const katexLink = document.querySelector('link[href*="katex"]');
       const katexHref = katexLink ? katexLink.href : 'https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css';
 
+      const includeAnswerKey = confirm('Include answer sheet in the printout?\n\nClick OK to include, Cancel to print questions only.');
+
+      const answerKeySection = includeAnswerKey
+        ? '<div class="answer-key"><h2>\uD83D\uDCCB Answer Key</h2><div class="ak-grid">' + akRowsHtml + '</div></div>'
+        : '';
+
       const html =
         '<!DOCTYPE html><html lang="en"><head>' +
         '<meta charset="UTF-8"/><title>Quiz Printout</title>' +
@@ -2345,7 +2351,7 @@
         '<h1>\uD83D\uDCDD Quiz Printout</h1>' +
         '<div class="sub">' + subTitle + '</div>' +
         questionsHtml +
-        '<div class="answer-key"><h2>\uD83D\uDCCB Answer Key</h2><div class="ak-grid">' + akRowsHtml + '</div></div>' +
+        answerKeySection +
         '</body></html>';
 
       const win = window.open('', '_blank', 'width=960,height=720,menubar=yes,toolbar=yes');
