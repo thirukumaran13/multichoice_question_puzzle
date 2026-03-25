@@ -42,7 +42,7 @@
     "reason": "Lysosomes contain enzymes that destroy organelles when the cell is old or injured, earning them the name 'suicide bags'."
   },
   {
-    "question": "Observe the image of the cell organelle below. What is its primary function?<br><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Animal_mitochondrion_diagram_en.svg/400px-Animal_mitochondrion_diagram_en.svg.png\" alt=\"Mitochondria diagram\" style=\"max-width:280px; height:auto;\" />",
+    "question": "Observe the image of the cell organelle below. What is its primary function? <br><img src=\"questions/images/X_Biology/Ch1_cells_mitochondria.jpg\" alt=\"Cells_1 image\" style=\"max-width:280px\" /",
     "choices": [
       "Protein synthesis",
       "Release of energy in the form of ATP",
@@ -112,7 +112,7 @@
     "reason": "Chromatin fibres are a thread-like network in the nucleus that condenses into chromosomes during cell division."
   },
   {
-    "question": "Identify the bean-shaped cells shown in the image that regulate the opening and closing of stomata:<br><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Opening_and_Closing_of_Stoma.svg/500px-Opening_and_Closing_of_Stoma.svg.png\" alt=\"Stomata with Guard Cells\" style=\"max-width:280px; height:auto;\" />",
+    "question": "Identify the bean-shaped cells shown in the image that regulate the opening and closing of stomata:<br><img src=\"questions/images/X_Biology/ch1_cells_stoma.jpg\" alt=\"Stomata with Guard Cells\" style=\"max-width:280px; height:auto;\" />",
     "choices": [
       "Nerve cells",
       "Red blood cells",
@@ -252,7 +252,7 @@
     "reason": "The cytoplasm is the medium for initial steps of respiration (glycolysis), resulting in the production of pyruvic acid."
   },
   {
-    "question": "Observe the image below. Identify the longest cell in the human body:<br><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Neuron_parts.png/400px-Neuron_parts.png\" alt=\"Neuron structure\" style=\"max-width:280px; height:auto;\" />",
+    "question": "Observe the image below. Identify the longest cell in the human body:<br><img src=\"questions/images/X_Biology/ch1_cells_nervecell.jpg\" alt=\"Neuron structure\" style=\"max-width:280px; height:auto;\" />",
     "choices": [
       "Red blood cell",
       "Sperm cell",
