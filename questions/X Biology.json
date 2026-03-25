@@ -1,4 +1,284 @@
 [
+{
+    "question": "Which of the following is considered the 'structural and functional unit' of all living organisms?",
+    "choices": [
+      "Organ",
+      "Tissue",
+      "Cell",
+      "Protoplasm"
+    ],
+    "answer": 2,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The cell is the basic structural and functional unit of the body, and all living beings are made up of cells."
+  },
+  {
+    "question": "The cell wall in plant cells is primarily composed of:",
+    "choices": [
+      "Lipoproteins",
+      "Cellulose",
+      "Glycogen",
+      "Chitin"
+    ],
+    "answer": 1,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The cell wall is a non-living rigid layer in plant cells mainly composed of cellulose."
+  },
+  {
+    "question": "Which cell organelle is known as the 'suicide bag' of the cell?",
+    "choices": [
+      "Mitochondria",
+      "Ribosomes",
+      "Lysosomes",
+      "Golgi apparatus"
+    ],
+    "answer": 2,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Lysosomes contain enzymes that destroy organelles when the cell is old or injured, earning them the name 'suicide bags'."
+  },
+  {
+    "question": "Observe the image of the cell organelle below. What is its primary function?<br><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Animal_mitochondrion_diagram_en.svg/400px-Animal_mitochondrion_diagram_en.svg.png\" alt=\"Mitochondria diagram\" style=\"max-width:280px; height:auto;\" />",
+    "choices": [
+      "Protein synthesis",
+      "Release of energy in the form of ATP",
+      "Intracellular digestion",
+      "Synthesis of fats"
+    ],
+    "answer": 1,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Mitochondria are the seat of cellular aerobic respiration where energy is released from pyruvic acid in the form of ATP."
+  },
+  {
+    "question": "Identify the 'master' or 'key performer' that regulates all cell functions:",
+    "choices": [
+      "Chloroplast",
+      "Nucleus",
+      "Nucleolus",
+      "Centrosome"
+    ],
+    "answer": 1,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The nucleus is the master of each cell; it regulates cell functions, and if it is removed, the cell dies."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The cell membrane is called selectively permeable.<br><b>Reason (R):</b> It allows only certain substances to pass through while preventing others.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are False"
+    ],
+    "answer": 2,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "The cell membrane is semi-permeable (selectively permeable) because it regulates the entry of certain solutes and ions."
+  },
+  {
+    "question": "Which of the following is found exclusively in animal cells?",
+    "choices": [
+      "Plastids",
+      "Cell wall",
+      "Centrosome",
+      "Large vacuoles"
+    ],
+    "answer": 2,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Centrosomes with centrioles are present in animal cells only, whereas cell walls and plastids are unique to plant cells."
+  },
+  {
+    "question": "The network of dark-coloured fibres inside the nucleus that condenses into chromosomes is called:",
+    "choices": [
+      "Nucleoplasm",
+      "Chromatin fibres",
+      "Cisternae",
+      "Cytosol"
+    ],
+    "answer": 1,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Chromatin fibres are a thread-like network in the nucleus that condenses into chromosomes during cell division."
+  },
+  {
+    "question": "Identify the bean-shaped cells shown in the image that regulate the opening and closing of stomata:<br><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Opening_and_Closing_of_Stoma.svg/500px-Opening_and_Closing_of_Stoma.svg.png\" alt=\"Stomata with Guard Cells\" style=\"max-width:280px; height:auto;\" />",
+    "choices": [
+      "Nerve cells",
+      "Red blood cells",
+      "Guard cells",
+      "Epidermal cells"
+    ],
+    "answer": 2,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Guard cells of stomatal pores in leaves are bean-shaped to open and close them."
+  },
+  {
+    "question": "What is the function of the Nucleolus?",
+    "choices": [
+      "Produces ribosomes",
+      "Produces ATP",
+      "Initiates cell division",
+      "Stores starch"
+    ],
+    "answer": 0,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The nucleolus produces ribosomes and participates in protein synthesis by forming and storing RNA."
+  },
+  {
+    "question": "Which organelle serves as the 'supportive framework' for the cell and is involved in protein synthesis when ribosomes are attached?",
+    "choices": [
+      "Golgi apparatus",
+      "Endoplasmic Reticulum",
+      "Lysosomes",
+      "Vacuoles"
+    ],
+    "answer": 1,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The Endoplasmic Reticulum (ER) provides a supportive framework and synthesizes/transports proteins and fats."
+  },
+  {
+    "question": "Human red blood cells (RBCs) have a biconcave shape primarily to:",
+    "choices": [
+      "Attack bacteria",
+      "Carry out photosynthesis",
+      "Pass easily through capillaries and transport oxygen",
+      "Divide rapidly"
+    ],
+    "answer": 2,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "The biconcave shape of human RBCs allows for easy passage through narrow blood capillaries and efficient oxygen transport."
+  },
+  {
+    "question": "Match the following types of plastids with their characteristics: (i) Chloroplast, (ii) Chromoplast, (iii) Leucoplast.",
+    "choices": [
+      "(i) Green, (ii) Variously coloured, (iii) Colourless",
+      "(i) Colourless, (ii) Green, (iii) Variously coloured",
+      "(i) Variously coloured, (ii) Colourless, (iii) Green",
+      "(i) Green, (ii) Colourless, (iii) Variously coloured"
+    ],
+    "answer": 0,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Chloroplasts contain chlorophyll (green), Leucoplasts are colourless, and Chromoplasts are variously coloured."
+  },
+  {
+    "question": "The thin covering of a vacuole is known as the:",
+    "choices": [
+      "Cell membrane",
+      "Tonoplast",
+      "Nuclear membrane",
+      "Cytosol"
+    ],
+    "answer": 1,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Vacuoles are covered by a membrane called the tonoplast."
+  },
+  {
+    "question": "Which of these is a non-living cell inclusion?",
+    "choices": [
+      "Mitochondria",
+      "Granules",
+      "Nucleus",
+      "Ribosomes"
+    ],
+    "answer": 1,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Vacuoles and granules are considered non-living cell inclusions."
+  },
+  {
+    "question": "In plant cells, Golgi bodies are often referred to as:",
+    "choices": [
+      "Centrosomes",
+      "Dictyosomes",
+      "Astrosomes",
+      "Cisternae"
+    ],
+    "answer": 1,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "In plant cells, the Golgi apparatus is known as dictyosomes."
+  },
+  {
+    "question": "Protoplasm is composed of which two major parts?",
+    "choices": [
+      "Cell wall and Cell membrane",
+      "Cytoplasm and Nucleus",
+      "Mitochondria and Ribosomes",
+      "Vacuoles and Granules"
+    ],
+    "answer": 1,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Cytoplasm and nucleus together constitute the protoplasm."
+  },
+  {
+    "question": "What happens during Glycolysis in the cytoplasm?",
+    "choices": [
+      "Synthesis of glucose",
+      "Initial steps of respiration to produce pyruvic acid",
+      "Formation of spindle fibres",
+      "Digestion of food"
+    ],
+    "answer": 1,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "The cytoplasm is the medium for initial steps of respiration (glycolysis), resulting in the production of pyruvic acid."
+  },
+  {
+    "question": "Observe the image below. Identify the longest cell in the human body:<br><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Neuron_parts.png/400px-Neuron_parts.png\" alt=\"Neuron structure\" style=\"max-width:280px; height:auto;\" />",
+    "choices": [
+      "Red blood cell",
+      "Sperm cell",
+      "Nerve cell (Neuron)",
+      "Muscle cell"
+    ],
+    "answer": 2,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Nerve cells are the longest cells in the body, designed to conduct impulses."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Plant cells have a large central vacuole.<br><b>Reason (R):</b> The vacuole provides turgidity to the plant cell by pressing against the cell wall.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are False"
+    ],
+    "answer": 2,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Plant cells have large vacuoles that store substances and provide turgidity by pressing against the cell wall."
+  },
   {
     "question": "The hormone that induces vigorous contractions of the uterus in a pregnant mother is:",
     "choices": [
