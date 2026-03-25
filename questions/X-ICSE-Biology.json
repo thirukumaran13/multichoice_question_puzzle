@@ -42,7 +42,7 @@
     "reason": "Lysosomes contain enzymes that destroy organelles when the cell is old or injured, earning them the name 'suicide bags'."
   },
   {
-    "question": "Observe the image of the cell organelle below. What is its primary function? <br><img src=\"questions/images/X_Biology/Ch1_cells_mitochondria.jpg\" alt=\"Cells_1 image\" style=\"max-width:280px\" /",
+    "question": "Observe the image of the cell organelle below. What is its primary function? <br><img src=\"questions/images/X-ICSE-Biology/Ch1_cells_mitochondria.jpg\" alt=\"Cells_1 image\" style=\"max-width:280px\" /",
     "choices": [
       "Protein synthesis",
       "Release of energy in the form of ATP",
@@ -112,7 +112,7 @@
     "reason": "Chromatin fibres are a thread-like network in the nucleus that condenses into chromosomes during cell division."
   },
   {
-    "question": "Identify the bean-shaped cells shown in the image that regulate the opening and closing of stomata:<br><img src=\"questions/images/X_Biology/ch1_cells_stoma.jpg\" alt=\"Stomata with Guard Cells\" style=\"max-width:280px; height:auto;\" />",
+    "question": "Identify the bean-shaped cells shown in the image that regulate the opening and closing of stomata:<br><img src=\"questions/images/X-ICSE-Biology/ch1_cells_stoma.jpg\" alt=\"Stomata with Guard Cells\" style=\"max-width:280px; height:auto;\" />",
     "choices": [
       "Nerve cells",
       "Red blood cells",
@@ -252,7 +252,7 @@
     "reason": "The cytoplasm is the medium for initial steps of respiration (glycolysis), resulting in the production of pyruvic acid."
   },
   {
-    "question": "Observe the image below. Identify the longest cell in the human body:<br><img src=\"questions/images/X_Biology/ch1_cells_nervecell.jpg\" alt=\"Neuron structure\" style=\"max-width:280px; height:auto;\" />",
+    "question": "Observe the image below. Identify the longest cell in the human body:<br><img src=\"questions/images/X-ICSE-Biology/ch1_cells_nervecell.jpg\" alt=\"Neuron structure\" style=\"max-width:280px; height:auto;\" />",
     "choices": [
       "Red blood cell",
       "Sperm cell",
@@ -350,7 +350,7 @@
     "reason": "ADH helps the kidneys reabsorb water, so less urine is made. If there is not enough ADH, water is not reabsorbed properly, causing more urine to be produced — so both A and R are true."
   },
   {
-    "question": "Observe the following picture. Identify the defect and the cause of the defect.<br><img src=\"questions/images/X_Biology/image001.jpg\" alt=\"Goitre image\" style=\"max-width:280px\" />",
+    "question": "Observe the following picture. Identify the defect and the cause of the defect.<br><img src=\"questions/images/X-ICSE-Biology/image001.jpg\" alt=\"Goitre image\" style=\"max-width:280px\" />",
     "choices": [
       "Simple goitre, under secretion of thyroxine.",
       "Ex-ophthalmic goitre, over secretion of thyroxine.",
