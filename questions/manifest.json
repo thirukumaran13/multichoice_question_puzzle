@@ -1,7 +1,6 @@
 {
   "files": [
-    "general.json",
-    "X Biology.json",
-    "X Mathematics_ICSE.json"
+    "X ICSE Biology.json",
+    "X ICSE Mathematics.json"
   ]
 }
