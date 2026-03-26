@@ -1109,6 +1109,12 @@
     };
 
     /* ── rich-text + LaTeX renderer ──────────────────────────────── */
+    function decodeHtmlEntities(str) {
+      const ta = document.createElement('textarea');
+      ta.innerHTML = str;
+      return ta.value;
+    }
+
     // Renders a content string that may include HTML markup and
     // <latex>...</latex> (inline) or <latex display>...</latex> (block) tags.
     function renderContent(raw) {
@@ -1120,14 +1126,15 @@
         if (typeof katex === 'undefined') {
           return '<code class="latex-fallback">' + math.trim() + '</code>';
         }
+        const tex = decodeHtmlEntities(math.trim());
         try {
-          return katex.renderToString(math.trim(), {
+          return katex.renderToString(tex, {
             displayMode  : !!display,
             throwOnError : false,
             output       : 'html',
           });
         } catch (e) {
-          return '<code class="latex-fallback">' + math.trim() + '</code>';
+          return '<code class="latex-fallback">' + tex + '</code>';
         }
       });
       // Wrap bare <table> elements in a scroll container so they don't break layout
