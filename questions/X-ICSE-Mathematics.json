@@ -1,7 +1,12 @@
 [
   {
     "question": "A man buys 50 shares of a company with a nominal value of ₹100 each at par. Calculate the total amount he invested.",
-    "choices": ["₹500", "₹5,000", "₹5,100", "₹1,000"],
+    "choices": [
+      "₹500",
+      "₹5,000",
+      "₹5,100",
+      "₹1,000"
+    ],
     "answer": 1,
     "chapter": "Shares and Dividends",
     "category": "Application",
@@ -10,7 +15,12 @@
   },
   {
     "question": "Find the cost of purchasing 200 shares of nominal value ₹10 each, quoted at a premium of ₹2.",
-    "choices": ["₹2,000", "₹2,400", "₹1,600", "₹400"],
+    "choices": [
+      "₹2,000",
+      "₹2,400",
+      "₹1,600",
+      "₹400"
+    ],
     "answer": 1,
     "chapter": "Shares and Dividends",
     "category": "Application",
@@ -19,7 +29,12 @@
   },
   {
     "question": "A company declares a dividend of 12% on its shares of nominal value ₹50. Find the annual income of a person owning 80 such shares.",
-    "choices": ["₹480", "₹960", "₹4,000", "₹600"],
+    "choices": [
+      "₹480",
+      "₹960",
+      "₹4,000",
+      "₹600"
+    ],
     "answer": 0,
     "chapter": "Shares and Dividends",
     "category": "Application",
@@ -28,7 +43,12 @@
   },
   {
     "question": "How many shares of nominal value ₹100 can be bought for ₹9,000 if the shares are at a discount of 10%?",
-    "choices": ["90", "100", "81", "110"],
+    "choices": [
+      "90",
+      "100",
+      "81",
+      "110"
+    ],
     "answer": 1,
     "chapter": "Shares and Dividends",
     "category": "Application",
@@ -37,7 +57,12 @@
   },
   {
     "question": "A man invests ₹6,750 in ₹100 shares quoted at ₹135. Find the number of shares bought.",
-    "choices": ["40", "50", "60", "45"],
+    "choices": [
+      "40",
+      "50",
+      "60",
+      "45"
+    ],
     "answer": 1,
     "chapter": "Shares and Dividends",
     "category": "Application",
@@ -46,7 +71,12 @@
   },
   {
     "question": "Find the annual dividend on 450 shares of ₹10 each if the dividend quoted is 8%.",
-    "choices": ["₹360", "₹450", "₹36", "₹80"],
+    "choices": [
+      "₹360",
+      "₹450",
+      "₹36",
+      "₹80"
+    ],
     "answer": 0,
     "chapter": "Shares and Dividends",
     "category": "Application",
@@ -55,7 +85,12 @@
   },
   {
     "question": "A share of nominal value ₹100 is available at a premium of 20%. Find the market value of 25 such shares.",
-    "choices": ["₹2,500", "₹3,000", "₹2,000", "₹120"],
+    "choices": [
+      "₹2,500",
+      "₹3,000",
+      "₹2,000",
+      "₹120"
+    ],
     "answer": 1,
     "chapter": "Shares and Dividends",
     "category": "Application",
@@ -64,7 +99,12 @@
   },
   {
     "question": "If a man receives ₹1,680 as annual income from ₹100 shares paying 14% dividend, how many shares does he hold?",
-    "choices": ["100", "120", "140", "168"],
+    "choices": [
+      "100",
+      "120",
+      "140",
+      "168"
+    ],
     "answer": 1,
     "chapter": "Shares and Dividends",
     "category": "Application",
@@ -73,7 +113,12 @@
   },
   {
     "question": "A company with 10,000 shares of ₹100 each declares an annual dividend of 5%. What is the total amount of dividend paid by the company?",
-    "choices": ["₹5,000", "₹50,000", "₹5,00,000", "₹10,00,000"],
+    "choices": [
+      "₹5,000",
+      "₹50,000",
+      "₹5,00,000",
+      "₹10,00,000"
+    ],
     "answer": 1,
     "chapter": "Shares and Dividends",
     "category": "Application",
@@ -82,7 +127,12 @@
   },
   {
     "question": "Find the percentage return on an investment in 15% ₹100 shares bought at ₹125.",
-    "choices": ["12%", "15%", "18%", "10%"],
+    "choices": [
+      "12%",
+      "15%",
+      "18%",
+      "10%"
+    ],
     "answer": 0,
     "chapter": "Shares and Dividends",
     "category": "Application",
@@ -91,7 +141,12 @@
   },
   {
     "question": "Mr. Sharma sells 60 shares of N.V. ₹100 at a premium of 60%. Find the sale proceeds.",
-    "choices": ["₹6,000", "₹9,600", "₹3,600", "₹10,000"],
+    "choices": [
+      "₹6,000",
+      "₹9,600",
+      "₹3,600",
+      "₹10,000"
+    ],
     "answer": 1,
     "chapter": "Shares and Dividends",
     "category": "Application",
@@ -100,7 +155,12 @@
   },
   {
     "question": "What is the market value of a ₹50 share quoted at 4% discount?",
-    "choices": ["₹46", "₹48", "₹54", "₹52"],
+    "choices": [
+      "₹46",
+      "₹48",
+      "₹54",
+      "₹52"
+    ],
     "answer": 1,
     "chapter": "Shares and Dividends",
     "category": "Application",
@@ -109,7 +169,12 @@
   },
   {
     "question": "A man buys 400 twenty-rupee shares at a premium of ₹4. Calculate the amount invested.",
-    "choices": ["₹8,000", "₹9,600", "₹1,600", "₹6,400"],
+    "choices": [
+      "₹8,000",
+      "₹9,600",
+      "₹1,600",
+      "₹6,400"
+    ],
     "answer": 1,
     "chapter": "Shares and Dividends",
     "category": "Application",
@@ -118,7 +183,12 @@
   },
   {
     "question": "If a lady holds 1,800 shares of ₹100 each and the company pays 15% dividend, calculate her annual dividend.",
-    "choices": ["₹27,000", "₹18,000", "₹15,000", "₹2,700"],
+    "choices": [
+      "₹27,000",
+      "₹18,000",
+      "₹15,000",
+      "₹2,700"
+    ],
     "answer": 0,
     "chapter": "Shares and Dividends",
     "category": "Application",
@@ -127,7 +197,12 @@
   },
   {
     "question": "A man invested ₹45,000 in shares of a company. If the face value of a share is ₹100 and the market value is ₹125, find the number of shares he purchased.",
-    "choices": ["450", "360", "500", "400"],
+    "choices": [
+      "450",
+      "360",
+      "500",
+      "400"
+    ],
     "answer": 1,
     "chapter": "Shares and Dividends",
     "category": "Application",
@@ -136,7 +211,12 @@
   },
   {
     "question": "Find the income derived from 88 shares of N.V. ₹25 if the dividend is 5%.",
-    "choices": ["₹110", "₹440", "₹11", "₹2,200"],
+    "choices": [
+      "₹110",
+      "₹440",
+      "₹11",
+      "₹2,200"
+    ],
     "answer": 0,
     "chapter": "Shares and Dividends",
     "category": "Application",
@@ -145,7 +225,12 @@
   },
   {
     "question": "A man buys shares of face value ₹50 at a certain price. If he receives a 10% dividend and it amounts to an 8% return on his investment, find the market value of the share.",
-    "choices": ["₹60", "₹62.50", "₹50", "₹58"],
+    "choices": [
+      "₹60",
+      "₹62.50",
+      "₹50",
+      "₹58"
+    ],
     "answer": 1,
     "chapter": "Shares and Dividends",
     "category": "Application",
@@ -154,7 +239,12 @@
   },
   {
     "question": "Calculate the number of ₹60 shares bought for ₹14,400 when they are at a premium of 20%.",
-    "choices": ["240", "200", "150", "100"],
+    "choices": [
+      "240",
+      "200",
+      "150",
+      "100"
+    ],
     "answer": 1,
     "chapter": "Shares and Dividends",
     "category": "Application",
@@ -163,7 +253,12 @@
   },
   {
     "question": "A man invests in ₹25 shares of a company paying 12% dividend. If his annual income is ₹720, find the number of shares.",
-    "choices": ["200", "240", "300", "250"],
+    "choices": [
+      "200",
+      "240",
+      "300",
+      "250"
+    ],
     "answer": 1,
     "chapter": "Shares and Dividends",
     "category": "Application",
@@ -172,7 +267,12 @@
   },
   {
     "question": "What is the market value of 120 shares of N.V. ₹100 if they are sold at a discount of 5%?",
-    "choices": ["₹12,000", "₹11,400", "₹600", "₹12,600"],
+    "choices": [
+      "₹12,000",
+      "₹11,400",
+      "₹600",
+      "₹12,600"
+    ],
     "answer": 1,
     "chapter": "Shares and Dividends",
     "category": "Application",
@@ -181,7 +281,12 @@
   },
   {
     "question": "A wholesaler sells a product to a retailer for ₹5,000. The retailer then sells it to a consumer at a profit of ₹1,000. If the GST rate is 12%, calculate the GST paid by the retailer to the government.",
-    "choices": ["₹120", "₹600", "₹720", "₹100"],
+    "choices": [
+      "₹120",
+      "₹600",
+      "₹720",
+      "₹100"
+    ],
     "answer": 0,
     "chapter": "GST [Goods and Services Tax]",
     "category": "Application",
@@ -190,7 +295,12 @@
   },
   {
     "question": "An article is marked at ₹12,500. A dealer allows a discount of 20% on the marked price. If the GST rate is 18%, find the amount the consumer pays for the article.",
-    "choices": ["₹10,000", "₹11,800", "₹12,500", "₹14,750"],
+    "choices": [
+      "₹10,000",
+      "₹11,800",
+      "₹12,500",
+      "₹14,750"
+    ],
     "answer": 1,
     "chapter": "GST [Goods and Services Tax]",
     "category": "Application",
@@ -199,7 +309,12 @@
   },
   {
     "question": "In an intra-state transaction, a shopkeeper sells goods worth ₹8,000 to a consumer. If the GST rate is 5%, calculate the SGST amount.",
-    "choices": ["₹400", "₹200", "₹100", "₹50"],
+    "choices": [
+      "₹400",
+      "₹200",
+      "₹100",
+      "₹50"
+    ],
     "answer": 1,
     "chapter": "GST [Goods and Services Tax]",
     "category": "Application",
@@ -208,7 +323,12 @@
   },
   {
     "question": "A manufacturer sells a TV to a dealer for ₹25,000. The dealer sells it to a consumer at a 10% profit. If the transaction is inter-state and the GST rate is 28%, find the IGST paid by the dealer.",
-    "choices": ["₹7,000", "₹7,700", "₹700", "₹2,500"],
+    "choices": [
+      "₹7,000",
+      "₹7,700",
+      "₹700",
+      "₹2,500"
+    ],
     "answer": 2,
     "chapter": "GST [Goods and Services Tax]",
     "category": "Application",
@@ -217,7 +337,12 @@
   },
   {
     "question": "The cost of services provided by an IT firm is ₹15,000. If the CGST is ₹1,350, find the total GST percentage rate.",
-    "choices": ["9%", "12%", "18%", "28%"],
+    "choices": [
+      "9%",
+      "12%",
+      "18%",
+      "28%"
+    ],
     "answer": 2,
     "chapter": "GST [Goods and Services Tax]",
     "category": "Application",
@@ -226,7 +351,12 @@
   },
   {
     "question": "A dealer buys an article for ₹6,000 and sells it for ₹7,200. If the GST rate is 12%, find the Input Tax Credit (ITC) for the dealer.",
-    "choices": ["₹720", "₹864", "₹144", "₹6,000"],
+    "choices": [
+      "₹720",
+      "₹864",
+      "₹144",
+      "₹6,000"
+    ],
     "answer": 0,
     "chapter": "GST [Goods and Services Tax]",
     "category": "Recall",
@@ -235,7 +365,12 @@
   },
   {
     "question": "A shopkeeper buys a camera from a wholesaler for ₹20,000 and sells it to a consumer at the listed price of ₹24,000. If the GST rate is 18%, find the CGST and SGST paid by the shopkeeper to the government.",
-    "choices": ["₹360 each", "₹720 each", "₹180 each", "₹2,160 each"],
+    "choices": [
+      "₹360 each",
+      "₹720 each",
+      "₹180 each",
+      "₹2,160 each"
+    ],
     "answer": 0,
     "chapter": "GST [Goods and Services Tax]",
     "category": "Application",
@@ -244,7 +379,12 @@
   },
   {
     "question": "For a trader, the Input Tax is ₹450 and the Output Tax is ₹600. What is his tax liability?",
-    "choices": ["₹1,050", "₹600", "₹450", "₹150"],
+    "choices": [
+      "₹1,050",
+      "₹600",
+      "₹450",
+      "₹150"
+    ],
     "answer": 3,
     "chapter": "GST [Goods and Services Tax]",
     "category": "Application",
@@ -253,7 +393,12 @@
   },
   {
     "question": "Find the total bill amount for a consultation fee of ₹2,500 if the GST rate is 18%.",
-    "choices": ["₹2,950", "₹2,500", "₹450", "₹3,000"],
+    "choices": [
+      "₹2,950",
+      "₹2,500",
+      "₹450",
+      "₹3,000"
+    ],
     "answer": 0,
     "chapter": "GST [Goods and Services Tax]",
     "category": "Application",
@@ -262,7 +407,12 @@
   },
   {
     "question": "A product is sold from Delhi to Jaipur for ₹10,000. If the GST rate is 12%, which tax is applicable?",
-    "choices": ["CGST + SGST", "IGST", "Only CGST", "Only SGST"],
+    "choices": [
+      "CGST + SGST",
+      "IGST",
+      "Only CGST",
+      "Only SGST"
+    ],
     "answer": 1,
     "chapter": "GST [Goods and Services Tax]",
     "category": "Conceptual",
@@ -271,7 +421,12 @@
   },
   {
     "question": "If a person deposits ₹1,500 per month in a Recurring Deposit account for 2 years, what is the total sum deposited?",
-    "choices": ["₹18,000", "₹30,000", "₹36,000", "₹45,000"],
+    "choices": [
+      "₹18,000",
+      "₹30,000",
+      "₹36,000",
+      "₹45,000"
+    ],
     "answer": 2,
     "chapter": "Banking",
     "category": "Application",
@@ -280,7 +435,12 @@
   },
   {
     "question": "Calculate the interest earned on a monthly instalment of ₹1,000 for 12 months at an interest rate of 8% p.a.",
-    "choices": ["₹480", "₹520", "₹560", "₹600"],
+    "choices": [
+      "₹480",
+      "₹520",
+      "₹560",
+      "₹600"
+    ],
     "answer": 1,
     "chapter": "Banking",
     "category": "Application",
@@ -289,7 +449,12 @@
   },
   {
     "question": "Find the maturity value of an R.D. account where ₹500 is deposited monthly for 18 months and the total interest earned is ₹675.",
-    "choices": ["₹9,000", "₹9,675", "₹10,500", "₹8,325"],
+    "choices": [
+      "₹9,000",
+      "₹9,675",
+      "₹10,500",
+      "₹8,325"
+    ],
     "answer": 1,
     "chapter": "Banking",
     "category": "Application",
@@ -298,7 +463,12 @@
   },
   {
     "question": "An under-construction flat costs ₹40,00,000. If the GST rate is 1%, calculate the total amount to be paid including tax.",
-    "choices": ["₹40,40,000", "₹41,00,000", "₹40,04,000", "₹44,00,000"],
+    "choices": [
+      "₹40,40,000",
+      "₹41,00,000",
+      "₹40,04,000",
+      "₹44,00,000"
+    ],
     "answer": 0,
     "chapter": "Banking",
     "category": "Application",
@@ -307,7 +477,12 @@
   },
   {
     "question": "For a flat costing ₹80,00,000 with a GST rate of 3%, what is the GST amount?",
-    "choices": ["₹24,000", "₹2,40,000", "₹24,00,000", "₹80,000"],
+    "choices": [
+      "₹24,000",
+      "₹2,40,000",
+      "₹24,00,000",
+      "₹80,000"
+    ],
     "answer": 1,
     "chapter": "Banking",
     "category": "Application",
@@ -316,7 +491,12 @@
   },
   {
     "question": "Peter purchased a flat for ₹96,84,000. The builder offered a discount of ₹4,50,000 before taxes. What is the new price to be used for GST calculation?",
-    "choices": ["₹92,34,000", "₹1,01,34,000", "₹96,00,000", "₹91,84,000"],
+    "choices": [
+      "₹92,34,000",
+      "₹1,01,34,000",
+      "₹96,00,000",
+      "₹91,84,000"
+    ],
     "answer": 0,
     "chapter": "Banking",
     "category": "Application",
@@ -325,7 +505,12 @@
   },
   {
     "question": "Calculate the 'Qualifying Sum' (equivalent principal for one month) for an R.D. of ₹2,000 per month for 6 months.",
-    "choices": ["₹12,000", "₹21,000", "₹42,000", "₹84,000"],
+    "choices": [
+      "₹12,000",
+      "₹21,000",
+      "₹42,000",
+      "₹84,000"
+    ],
     "answer": 2,
     "chapter": "Banking",
     "category": "Application",
@@ -334,7 +519,12 @@
   },
   {
     "question": "If a man receives ₹16,100 at maturity for a 1-year R.D. where he deposited ₹1,200 monthly, find the total interest earned.",
-    "choices": ["₹1,700", "₹1,100", "₹1,200", "₹2,400"],
+    "choices": [
+      "₹1,700",
+      "₹1,100",
+      "₹1,200",
+      "₹2,400"
+    ],
     "answer": 0,
     "chapter": "Banking",
     "category": "Application",
@@ -343,7 +533,12 @@
   },
   {
     "question": "A flat is ready-to-move-in and costs ₹89,00,000. How much GST is payable on this purchase?",
-    "choices": ["₹2,67,000", "₹89,000", "₹0", "₹4,45,000"],
+    "choices": [
+      "₹2,67,000",
+      "₹89,000",
+      "₹0",
+      "₹4,45,000"
+    ],
     "answer": 2,
     "chapter": "Banking",
     "category": "Application",
@@ -352,7 +547,12 @@
   },
   {
     "question": "If n = 24 months and the interest rate is 10% p.a., find the factor [n(n+1)/(2*12)] used in the interest formula.",
-    "choices": ["24", "25", "300", "600"],
+    "choices": [
+      "24",
+      "25",
+      "300",
+      "600"
+    ],
     "answer": 1,
     "chapter": "Banking",
     "category": "Application",
@@ -361,7 +561,12 @@
   },
   {
     "question": "Mr. Ahuja deposited ₹500 per month for 3 years and received ₹20,220 at maturity. What was the total amount he deposited?",
-    "choices": ["₹15,000", "₹18,000", "₹20,000", "₹1,500"],
+    "choices": [
+      "₹15,000",
+      "₹18,000",
+      "₹20,000",
+      "₹1,500"
+    ],
     "answer": 1,
     "chapter": "Banking",
     "category": "Application",
@@ -370,7 +575,12 @@
   },
   {
     "question": "If a flat worth ₹35,00,000 is under-construction, what is the GST at a 1% rate?",
-    "choices": ["₹3,500", "₹35,000", "₹3,50,000", "₹1,000"],
+    "choices": [
+      "₹3,500",
+      "₹35,000",
+      "₹3,50,000",
+      "₹1,000"
+    ],
     "answer": 1,
     "chapter": "Banking",
     "category": "Application",
@@ -379,7 +589,12 @@
   },
   {
     "question": "A bank offers 12% p.a. interest. What is the interest for one month on a principal of ₹1,000?",
-    "choices": ["₹120", "₹10", "₹12", "₹1"],
+    "choices": [
+      "₹120",
+      "₹10",
+      "₹12",
+      "₹1"
+    ],
     "answer": 1,
     "chapter": "Banking",
     "category": "Application",
@@ -388,7 +603,12 @@
   },
   {
     "question": "Calculate the maturity value if P = ₹2,000, n = 10 months, and total interest is ₹550.",
-    "choices": ["₹20,550", "₹22,000", "₹2,550", "₹10,550"],
+    "choices": [
+      "₹20,550",
+      "₹22,000",
+      "₹2,550",
+      "₹10,550"
+    ],
     "answer": 0,
     "chapter": "Banking",
     "category": "Application",
@@ -397,7 +617,12 @@
   },
   {
     "question": "If an R.D. interest is ₹780 for 2 years with a monthly deposit of ₹500, find the interest for 1 year with the same deposit and rate.",
-    "choices": ["₹390", "Less than ₹390", "More than ₹390", "₹195"],
+    "choices": [
+      "₹390",
+      "Less than ₹390",
+      "More than ₹390",
+      "₹195"
+    ],
     "answer": 1,
     "chapter": "Banking",
     "category": "Application",
@@ -686,7 +911,12 @@
   },
   {
     "question": "If the sequence 3, 7, 11, 15, ... is an AP, find the common difference d.",
-    "choices": ["2", "3", "4", "5"],
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
     "answer": 2,
     "chapter": "Arithmetic Progression",
     "category": "Recall",
@@ -695,7 +925,12 @@
   },
   {
     "question": "Find the 12th term of the AP: 5, 9, 13, 17, ...",
-    "choices": ["45", "49", "53", "57"],
+    "choices": [
+      "45",
+      "49",
+      "53",
+      "57"
+    ],
     "answer": 1,
     "chapter": "Arithmetic Progression",
     "category": "Application",
@@ -704,7 +939,12 @@
   },
   {
     "question": "Which term of the AP 2, 5, 8, 11, ... is 50?",
-    "choices": ["15", "16", "17", "18"],
+    "choices": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
     "answer": 2,
     "chapter": "Arithmetic Progression",
     "category": "Application",
@@ -713,7 +953,12 @@
   },
   {
     "question": "Find the sum of first 10 terms of AP: 2, 4, 6, ...",
-    "choices": ["100", "110", "120", "90"],
+    "choices": [
+      "100",
+      "110",
+      "120",
+      "90"
+    ],
     "answer": 1,
     "chapter": "Arithmetic Progression",
     "category": "Application",
@@ -722,7 +967,12 @@
   },
   {
     "question": "Find a<sub>20</sub> for AP 7, 10, 13, ...",
-    "choices": ["64", "67", "70", "73"],
+    "choices": [
+      "64",
+      "67",
+      "70",
+      "73"
+    ],
     "answer": 0,
     "chapter": "Arithmetic Progression",
     "category": "Application",
@@ -731,7 +981,12 @@
   },
   {
     "question": "How many terms are there in AP: 5, 10, 15, ..., 100?",
-    "choices": ["19", "20", "21", "22"],
+    "choices": [
+      "19",
+      "20",
+      "21",
+      "22"
+    ],
     "answer": 1,
     "chapter": "Arithmetic Progression",
     "category": "Application",
@@ -740,7 +995,12 @@
   },
   {
     "question": "Find the sum of first 20 natural numbers.",
-    "choices": ["200", "210", "220", "230"],
+    "choices": [
+      "200",
+      "210",
+      "220",
+      "230"
+    ],
     "answer": 1,
     "chapter": "Arithmetic Progression",
     "category": "Recall",
@@ -749,7 +1009,12 @@
   },
   {
     "question": "Find the middle term of AP: 5, 9, 13, ..., 45",
-    "choices": ["25", "27", "29", "31"],
+    "choices": [
+      "25",
+      "27",
+      "29",
+      "31"
+    ],
     "answer": 0,
     "chapter": "Arithmetic Progression",
     "category": "Application",
@@ -758,7 +1023,12 @@
   },
   {
     "question": "Find the sum of AP: 3 + 7 + 11 + ... + 79",
-    "choices": ["800", "820", "840", "860"],
+    "choices": [
+      "800",
+      "820",
+      "840",
+      "860"
+    ],
     "answer": 1,
     "chapter": "Arithmetic Progression",
     "category": "Application",
@@ -767,7 +1037,12 @@
   },
   {
     "question": "Which of the following is NOT an AP?",
-    "choices": ["2, 4, 6, 8", "5, 10, 20, 40", "7, 7, 7, 7", "9, 6, 3, 0"],
+    "choices": [
+      "2, 4, 6, 8",
+      "5, 10, 20, 40",
+      "7, 7, 7, 7",
+      "9, 6, 3, 0"
+    ],
     "answer": 1,
     "chapter": "Arithmetic Progression",
     "category": "Conceptual",
@@ -776,7 +1051,12 @@
   },
   {
     "question": "Find d if a = 5 and a<sub>10</sub> = 50.",
-    "choices": ["4", "5", "6", "3"],
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
     "answer": 1,
     "chapter": "Arithmetic Progression",
     "category": "Application",
@@ -785,7 +1065,12 @@
   },
   {
     "question": "Find the sum of first 15 terms of AP: 1, 4, 7, ...",
-    "choices": ["315", "330", "345", "360"],
+    "choices": [
+      "315",
+      "330",
+      "345",
+      "360"
+    ],
     "answer": 1,
     "chapter": "Arithmetic Progression",
     "category": "Application",
@@ -794,7 +1079,12 @@
   },
   {
     "question": "If a<sub>3</sub> = 10 and d = 2, find a.",
-    "choices": ["6", "7", "8", "9"],
+    "choices": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
     "answer": 0,
     "chapter": "Arithmetic Progression",
     "category": "Application",
@@ -803,7 +1093,12 @@
   },
   {
     "question": "Find the sum of even numbers from 2 to 100.",
-    "choices": ["2500", "2550", "2600", "2450"],
+    "choices": [
+      "2500",
+      "2550",
+      "2600",
+      "2450"
+    ],
     "answer": 1,
     "chapter": "Arithmetic Progression",
     "category": "Application",
@@ -812,7 +1107,12 @@
   },
   {
     "question": "<b>Assertion (A):</b> In an AP, the common difference can be negative.<br><b>Reason (R):</b> The sequence can be decreasing.",
-    "choices": ["A true R false", "A false R true", "Both true", "Both false"],
+    "choices": [
+      "A true R false",
+      "A false R true",
+      "Both true",
+      "Both false"
+    ],
     "answer": 2,
     "chapter": "Arithmetic Progression",
     "category": "Conceptual",
@@ -821,7 +1121,12 @@
   },
   {
     "question": "Find the 5th term from the last of AP: 2, 5, 8, ..., 50",
-    "choices": ["38", "41", "44", "47"],
+    "choices": [
+      "38",
+      "41",
+      "44",
+      "47"
+    ],
     "answer": 0,
     "chapter": "Arithmetic Progression",
     "category": "Application",
@@ -830,7 +1135,12 @@
   },
   {
     "question": "Find n if the sum of first n natural numbers is 210.",
-    "choices": ["19", "20", "21", "18"],
+    "choices": [
+      "19",
+      "20",
+      "21",
+      "18"
+    ],
     "answer": 1,
     "chapter": "Arithmetic Progression",
     "category": "Application",
@@ -839,7 +1149,12 @@
   },
   {
     "question": "Sum of first n odd numbers is:",
-    "choices": ["n²", "n(n+1)", "2n", "n(n-1)"],
+    "choices": [
+      "n²",
+      "n(n+1)",
+      "2n",
+      "n(n-1)"
+    ],
     "answer": 0,
     "chapter": "Arithmetic Progression",
     "category": "Recall",
@@ -848,7 +1163,12 @@
   },
   {
     "question": "Find S<sub>5</sub> if a = 2 and d = 3.",
-    "choices": ["40", "45", "50", "55"],
+    "choices": [
+      "40",
+      "45",
+      "50",
+      "55"
+    ],
     "answer": 0,
     "chapter": "Arithmetic Progression",
     "category": "Application",
@@ -857,7 +1177,12 @@
   },
   {
     "question": "Which term of AP 3, 8, 13, ... is 78?",
-    "choices": ["15", "16", "17", "18"],
+    "choices": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
     "answer": 1,
     "chapter": "Arithmetic Progression",
     "category": "Application",
@@ -866,7 +1191,12 @@
   },
   {
     "question": "How many multiples of 5 are there between 1 and 100?",
-    "choices": ["19", "20", "21", "18"],
+    "choices": [
+      "19",
+      "20",
+      "21",
+      "18"
+    ],
     "answer": 1,
     "chapter": "Arithmetic Progression",
     "category": "Application",
@@ -875,7 +1205,12 @@
   },
   {
     "question": "If d = 0, the AP is:",
-    "choices": ["Increasing", "Decreasing", "Constant", "Geometric"],
+    "choices": [
+      "Increasing",
+      "Decreasing",
+      "Constant",
+      "Geometric"
+    ],
     "answer": 2,
     "chapter": "Arithmetic Progression",
     "category": "Conceptual",
@@ -884,7 +1219,12 @@
   },
   {
     "question": "Find the sum: 10 + 7 + 4 + ... + (-20)",
-    "choices": ["-35", "-40", "-45", "-30"],
+    "choices": [
+      "-35",
+      "-40",
+      "-45",
+      "-30"
+    ],
     "answer": 2,
     "chapter": "Arithmetic Progression",
     "category": "Application",
@@ -893,7 +1233,12 @@
   },
   {
     "question": "Find a if a<sub>5</sub> = 20 and d = 3.",
-    "choices": ["5", "6", "7", "8"],
+    "choices": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
     "answer": 3,
     "chapter": "Arithmetic Progression",
     "category": "Application",
@@ -902,7 +1247,12 @@
   },
   {
     "question": "Find the sum of first 25 multiples of 4.",
-    "choices": ["1200", "1250", "1300", "1350"],
+    "choices": [
+      "1200",
+      "1250",
+      "1300",
+      "1350"
+    ],
     "answer": 2,
     "chapter": "Arithmetic Progression",
     "category": "Application",
@@ -911,7 +1261,12 @@
   },
   {
     "question": "Find the nth term if a = 1 and d = 2.",
-    "choices": ["2n", "2n-1", "2n+1", "n+2"],
+    "choices": [
+      "2n",
+      "2n-1",
+      "2n+1",
+      "n+2"
+    ],
     "answer": 1,
     "chapter": "Arithmetic Progression",
     "category": "Conceptual",
@@ -919,8 +1274,13 @@
     "reason": "a<sub>n</sub> = 1 + (n-1)×2 = 2n - 1."
   },
   {
-    "question": "What is the order of the matrix B = <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black; text-align:center; vertical-align:middle; border-collapse:collapse;'><tr><td style='padding:2px 6px;'>4</td><td style='padding:2px 6px;'>0</td></tr><tr><td style='padding:2px 6px;'>1</td><td style='padding:2px 6px;'>9</td></tr><tr><td style='padding:2px 6px;'>-3</td><td style='padding:2px 6px;'>5</td></tr></table>?",
-    "choices": ["2 × 3", "3 × 2", "3 × 3", "2 × 2"],
+    "question": "What is the order of the matrix B =<latex>\\begin{bmatrix}\n4 &amp; 0 \\\\\n1 &amp; 9 \\\\\n-3 &amp; 5\n\\end{bmatrix}</latex> ?",
+    "choices": [
+      "2 × 3",
+      "3 × 2",
+      "3 × 3",
+      "2 × 2"
+    ],
     "answer": 1,
     "chapter": "Matrices",
     "category": "Recall",
@@ -928,8 +1288,13 @@
     "reason": "The matrix has 3 horizontal rows and 2 vertical columns, so the order is 3 × 2."
   },
   {
-    "question": "If A = <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td style='padding:2px 6px;'>1</td><td style='padding:2px 6px;'>2</td><td style='padding:2px 6px;'>3</td></tr></table>, what is the order of matrix A?",
-    "choices": ["3 × 1", "1 × 1", "1 × 3", "3 × 3"],
+    "question": "If A =<latex>\\begin{bmatrix}\n1 &amp; 2 &amp; 3\n\\end{bmatrix}</latex> , what is the order of matrix A?",
+    "choices": [
+      "3 × 1",
+      "1 × 1",
+      "1 × 3",
+      "3 × 3"
+    ],
     "answer": 2,
     "chapter": "Matrices",
     "category": "Recall",
@@ -937,20 +1302,24 @@
     "reason": "This is a row matrix with 1 row and 3 columns."
   },
   {
-    "question": "Find the values of a and b if <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td style='padding:2px 6px;'>a+3</td><td style='padding:2px 6px;'>4</td></tr><tr><td style='padding:2px 6px;'>0</td><td style='padding:2px 6px;'>b-1</td></tr></table> = <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td style='padding:2px 6px;'>5</td><td style='padding:2px 6px;'>4</td></tr><tr><td style='padding:2px 6px;'>0</td><td style='padding:2px 6px;'>3</td></tr></table>.",
-    "choices": ["a=2, b=4", "a=8, b=2", "a=2, b=2", "a=5, b=3"],
-    "answer": 0,
+    "question": "Find the values of a and b if<latex>\\begin{bmatrix}\na+3 &amp; 4 \\\\\n0 &amp; b-1\n\\end{bmatrix}</latex> =<latex>\\begin{bmatrix}\n5 &amp; 4 \\\\\n0 &amp; 3\n\\end{bmatrix}</latex>.",
+    "choices": [
+      "a=2, b=4",
+      "a=8, b=2",
+      "a=2, b=2",
+      "a=5, b=3"
+    ],
     "chapter": "Matrices",
     "category": "Application",
     "complexity": "medium",
     "reason": "Equating corresponding elements: a+3 = 5 leads to a=2; b-1 = 3 leads to b=4."
   },
   {
-    "question": "Calculate A - B if A = <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td style='padding:2px 6px;'>5</td><td style='padding:2px 6px;'>4</td></tr></table> and B = <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td style='padding:2px 6px;'>2</td><td style='padding:2px 6px;'>1</td></tr></table>.",
+    "question": "Calculate A - B if A =<latex>\\begin{bmatrix}\n5 &amp; 4\n\\end{bmatrix}</latex> and B =<latex>\\begin{bmatrix}\n2 &amp; 1\n\\end{bmatrix}</latex>.",
     "choices": [
-      "<table style='display:table; margin:5px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td style='padding:2px 6px;'>7</td><td style='padding:2px 6px;'>5</td></tr></table>",
-      "<table style='display:table; margin:5px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td style='padding:2px 6px;'>3</td><td style='padding:2px 6px;'>3</td></tr></table>",
-      "<table style='display:table; margin:5px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td style='padding:2px 6px;'>10</td><td style='padding:2px 6px;'>4</td></tr></table>",
+      "<latex>\\begin{bmatrix}\n7 &amp; 5\n\\end{bmatrix}</latex>",
+      "<latex>\\begin{bmatrix}\n3 &amp; 3\n\\end{bmatrix}</latex>",
+      "<latex>\\begin{bmatrix}\n10 &amp; 4\n\\end{bmatrix}</latex>",
       "Not possible"
     ],
     "answer": 1,
@@ -962,24 +1331,23 @@
   {
     "question": "Which of the following represents a 3x3 Identity matrix?",
     "choices": [
-      "<table style='display:table; margin:5px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>1</td><td>0</td><td>0</td></tr><tr><td>0</td><td>1</td><td>0</td></tr><tr><td>0</td><td>0</td><td>1</td></tr></table>",
-      "<table style='display:table; margin:5px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>0</td><td>0</td><td>1</td></tr><tr><td>0</td><td>1</td><td>0</td></tr><tr><td>1</td><td>0</td><td>0</td></tr></table>",
-      "<table style='display:table; margin:5px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>1</td><td>1</td><td>1</td></tr><tr><td>1</td><td>1</td><td>1</td></tr><tr><td>1</td><td>1</td><td>1</td></tr></table>",
-      "<table style='display:table; margin:5px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>1</td><td>0</td><td>0</td></tr><tr><td>0</td><td>0</td><td>0</td></tr><tr><td>0</td><td>0</td><td>1</td></tr></table>"
+      "<latex>\\begin{bmatrix}\n1 &amp; 0 &amp; 0 \\\\\n0 &amp; 1 &amp; 0 \\\\\n0 &amp; 0 &amp; 1\n\\end{bmatrix}</latex>",
+      "<latex>\\begin{bmatrix}\n0 &amp; 0 &amp; 1 \\\\\n0 &amp; 1 &amp; 0 \\\\\n1 &amp; 0 &amp; 0\n\\end{bmatrix}</latex>",
+      "<latex>\\begin{bmatrix}\n1 &amp; 1 &amp; 1 \\\\\n1 &amp; 1 &amp; 1 \\\\\n1 &amp; 1 &amp; 1\n\\end{bmatrix}</latex>",
+      "<latex>\\begin{bmatrix}\n1 &amp; 0 &amp; 0 \\\\\n0 &amp; 0 &amp; 0 \\\\\n0 &amp; 0 &amp; 1\n\\end{bmatrix}</latex>"
     ],
-    "answer": 0,
     "chapter": "Matrices",
     "category": "Recall",
     "complexity": "low",
     "reason": "An Identity matrix has 1s on the leading diagonal and 0s everywhere else."
   },
   {
-    "question": "If A = <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>2</td><td>1</td></tr><tr><td>3</td><td>0</td></tr></table>, find the transpose of A.",
+    "question": "If A =<latex>\\begin{bmatrix}\n2 &amp; 1 \\\\\n3  &amp; 0\n\\end{bmatrix}</latex>, find the transpose of A.",
     "choices": [
-      "<table style='display:table; margin:5px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>1</td><td>2</td></tr><tr><td>0</td><td>3</td></tr></table>",
-      "<table style='display:table; margin:5px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>2</td><td>3</td></tr><tr><td>1</td><td>0</td></tr></table>",
-      "<table style='display:table; margin:5px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>3</td><td>0</td></tr><tr><td>2</td><td>1</td></tr></table>",
-      "<table style='display:table; margin:5px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>0</td><td>1</td></tr><tr><td>3</td><td>2</td></tr></table>"
+      "<latex>\\begin{bmatrix}\n1 &amp; 2 \\\\\n0 &amp; 3\n\\end{bmatrix}</latex>",
+      "<latex>\\begin{bmatrix}\n2 &amp; 3 \\\\\n1 &amp; 0\n\\end{bmatrix}</latex>",
+      "<latex>\\begin{bmatrix}\n3 &amp; 0 \\\\\n2 &amp; 1\n\\end{bmatrix}</latex>",
+      "<latex>\\begin{bmatrix}\n0 &amp; 1 \\\\\n3 &amp; 2\n\\end{bmatrix}</latex>"
     ],
     "answer": 1,
     "chapter": "Matrices",
@@ -989,7 +1357,12 @@
   },
   {
     "question": "If matrix M is of order 3x2 and matrix N is of order 2x2, what is the order of MN?",
-    "choices": ["2 × 3", "3 × 2", "3 × 3", "Not possible"],
+    "choices": [
+      "2 × 3",
+      "3 × 2",
+      "3 × 3",
+      "Not possible"
+    ],
     "answer": 1,
     "chapter": "Matrices",
     "category": "Conceptual",
@@ -997,8 +1370,13 @@
     "reason": "Resulting order is (Rows of 1st) × (Columns of 2nd) = 3 × 2."
   },
   {
-    "question": "Solve for k if k * <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>2</td></tr><tr><td>-1</td></tr></table> = <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>10</td></tr><tr><td>-5</td></tr></table>.",
-    "choices": ["2", "5", "-5", "10"],
+    "question": "Solve for k if k *<latex>\\begin{bmatrix}\n2 \\\\\n-1\n\\end{bmatrix}</latex>=<latex>\\begin{bmatrix}\n10 \\\\\n-5\n\\end{bmatrix}</latex>.",
+    "choices": [
+      "2",
+      "5",
+      "-5",
+      "10"
+    ],
     "answer": 1,
     "chapter": "Matrices",
     "category": "Application",
@@ -1007,7 +1385,12 @@
   },
   {
     "question": "What is the result of multiplying any matrix A by the Null matrix O?",
-    "choices": ["Matrix A", "Identity Matrix I", "Null Matrix O", "Not defined"],
+    "choices": [
+      "Matrix A",
+      "Identity Matrix I",
+      "Null Matrix O",
+      "Not defined"
+    ],
     "answer": 2,
     "chapter": "Matrices",
     "category": "Conceptual",
@@ -1015,8 +1398,13 @@
     "reason": "Multiplying any matrix by a zero (null) matrix results in a zero matrix."
   },
   {
-    "question": "Find the element in the 2nd row and 1st column of A = <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>1</td><td>2</td><td>3</td></tr><tr><td>4</td><td>5</td><td>6</td></tr><tr><td>7</td><td>8</td><td>9</td></tr></table>.",
-    "choices": ["2", "4", "7", "5"],
+    "question": "Find the element in the 2nd row and 1st column of A =<latex>\\begin{bmatrix}\n    1 &amp; 2 &amp; 3 \\\\\n    4 &amp; 5 &amp; 6 \\\\\n    7 &amp; 8 &amp; 9\n\\end{bmatrix}</latex>.",
+    "choices": [
+      "2",
+      "4",
+      "7",
+      "5"
+    ],
     "answer": 1,
     "chapter": "Matrices",
     "category": "Recall",
@@ -1038,8 +1426,13 @@
     "reason": "The number of columns in the first matrix must match the number of rows in the second matrix."
   },
   {
-    "question": "If A = <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>x</td></tr></table> and B = <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>5</td></tr></table>, find x if A + B = [12].",
-    "choices": ["5", "7", "12", "17"],
+    "question": "If A =<latex>\\begin{bmatrix}\nx\n\\end{bmatrix}</latex> and B =<latex>\\begin{bmatrix}\n5\n\\end{bmatrix}</latex>, find x if A + B =&nbsp;<latex>\\begin{bmatrix}\n12\n\\end{bmatrix}</latex>.",
+    "choices": [
+      "5",
+      "7",
+      "12",
+      "17"
+    ],
     "answer": 1,
     "chapter": "Matrices",
     "category": "Application",
@@ -1047,8 +1440,13 @@
     "reason": "x + 5 = 12 leads to x = 7."
   },
   {
-    "question": "Identify the type of matrix: M = <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>0</td><td>0</td></tr><tr><td>0</td><td>0</td></tr></table>.",
-    "choices": ["Identity matrix", "Row matrix", "Null matrix", "Column matrix"],
+    "question": "Identify the type of matrix: M =<latex>\\begin{bmatrix}\n0 &amp; 0 \\\\\n0  &amp; 0 \\\\\n0 &amp; 0\n\\end{bmatrix}</latex>.",
+    "choices": [
+      "Identity matrix",
+      "Row matrix",
+      "Null matrix",
+      "Column matrix"
+    ],
     "answer": 2,
     "chapter": "Matrices",
     "category": "Recall",
@@ -1056,11 +1454,11 @@
     "reason": "Since every element is zero, it is a null or zero matrix."
   },
   {
-    "question": "Calculate A + B if A = <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>1</td><td>0</td></tr><tr><td>0</td><td>1</td></tr></table> and B = <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>-1</td><td>0</td></tr><tr><td>0</td><td>-1</td></tr></table>.",
+    "question": "Calculate A + B if A =<latex>\\begin{bmatrix}\n1 &amp; 0 \\\\\n0 &amp; 1\n\\end{bmatrix}</latex>and B =<latex>\\begin{bmatrix}\n-1 &amp; 0 \\\\\n0 &amp; -1\n\\end{bmatrix}</latex>.",
     "choices": [
       "Identity matrix",
       "Null matrix",
-      "<table style='display:table; margin:5px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>2</td><td>0</td></tr><tr><td>0</td><td>2</td></tr></table>",
+      "<latex>\\begin{bmatrix}\n2 &amp; 0 \\\\\n0 &amp; 2\n\\end{bmatrix}</latex>",
       "Not possible"
     ],
     "answer": 1,
@@ -1071,7 +1469,12 @@
   },
   {
     "question": "If a matrix is of order 1x1, how many elements does it have?",
-    "choices": ["0", "1", "2", "None of these"],
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "None of these"
+    ],
     "answer": 1,
     "chapter": "Matrices",
     "category": "Conceptual",
@@ -1079,9 +1482,13 @@
     "reason": "Total elements = 1 x 1 = 1."
   },
   {
-    "question": "Find A * B if A = <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>2</td><td>3</td></tr></table> and B = <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>1</td></tr><tr><td>4</td></tr></table>.",
-    "choices": ["[14]", "[11]", "<table style='display:table; margin:5px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>2</td></tr><tr><td>12</td></tr></table>", "Not possible"],
-    "answer": 0,
+    "question": "Find A * B if A =<latex>\\begin{bmatrix}\n2 &amp; 3\n\\end{bmatrix}</latex>and B =<latex>\\begin{bmatrix}\n1 \\\\\n4\n\\end{bmatrix}</latex>.",
+    "choices": [
+      "<latex>\\begin{bmatrix}\n14\n\\end{bmatrix}</latex>",
+      "<latex>\\begin{bmatrix}\n11\n\\end{bmatrix}</latex>",
+      "<latex>\\begin{bmatrix}\n2 \\\\\n12\n\\end{bmatrix}</latex>",
+      "Not possible"
+    ],
     "chapter": "Matrices",
     "category": "Application",
     "complexity": "medium",
@@ -1089,7 +1496,12 @@
   },
   {
     "question": "What is the transpose of a Column matrix?",
-    "choices": ["Column matrix", "Row matrix", "Square matrix", "Null matrix"],
+    "choices": [
+      "Column matrix",
+      "Row matrix",
+      "Square matrix",
+      "Null matrix"
+    ],
     "answer": 1,
     "chapter": "Matrices",
     "category": "Conceptual",
@@ -1098,7 +1510,12 @@
   },
   {
     "question": "If A is a 2x2 matrix and I is the identity matrix of order 2, what is A * I?",
-    "choices": ["I", "O", "A", "2A"],
+    "choices": [
+      "I",
+      "O",
+      "A",
+      "2A"
+    ],
     "answer": 2,
     "chapter": "Matrices",
     "category": "Conceptual",
@@ -1106,8 +1523,13 @@
     "reason": "Multiplying by the identity matrix does not change the original matrix."
   },
   {
-    "question": "Find the sum of diagonal elements of A = <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>5</td><td>2</td><td>1</td></tr><tr><td>0</td><td>3</td><td>4</td></tr><tr><td>1</td><td>1</td><td>2</td></tr></table>.",
-    "choices": ["5", "8", "10", "12"],
+    "question": "Find the sum of diagonal elements of A =<latex>\\begin{bmatrix}\n5 &amp; 2 &amp; 1 \\\\\n0 &amp; 3 &amp; 4 \\\\\n1 &amp; 1 &amp; 2\n\\end{bmatrix}</latex>.",
+    "choices": [
+      "5",
+      "8",
+      "10",
+      "12"
+    ],
     "answer": 2,
     "chapter": "Matrices",
     "category": "Application",
@@ -1116,7 +1538,12 @@
   },
   {
     "question": "Is addition possible for a 2x3 matrix and a 3x2 matrix?",
-    "choices": ["Yes", "No", "Only if elements are zero", "Only if they are square"],
+    "choices": [
+      "Yes",
+      "No",
+      "Only if elements are zero",
+      "Only if they are square"
+    ],
     "answer": 1,
     "chapter": "Matrices",
     "category": "Conceptual",
@@ -1125,7 +1552,12 @@
   },
   {
     "question": "If matrix A is of order 2 × 3 and matrix B is of order 3 × 2, what is the order of the product AB?",
-    "choices": ["3 × 3", "2 × 2", "2 × 3", "3 × 2"],
+    "choices": [
+      "3 × 3",
+      "2 × 2",
+      "2 × 3",
+      "3 × 2"
+    ],
     "answer": 1,
     "chapter": "Matrices",
     "category": "Conceptual",
@@ -1133,36 +1565,39 @@
     "reason": "When multiplying an (m × n) matrix by an (n × p) matrix, the resulting order is (m × p). Here, (2 × 3) and (3 × 2) results in a 2 × 2 matrix."
   },
   {
-    "question": "Calculate the product AB where A = <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td style='padding:2px 6px;'>2</td><td style='padding:2px 6px;'>1</td></tr></table> and B = <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td style='padding:2px 6px;'>4</td></tr><tr><td style='padding:2px 6px;'>3</td></tr></table>.",
+    "question": "Calculate the product AB where A =<latex>\\begin{bmatrix}\n2 &amp; 1\n\\end{bmatrix}</latex>and B =<latex>\\begin{bmatrix}\n4 \\\\\n3\n\\end{bmatrix}</latex>.",
     "choices": [
-      "<table style='display:table; margin:5px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td style='padding:2px 8px;'>11</td></tr></table>",
-      "<table style='display:table; margin:5px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td style='padding:2px 8px;'>8</td></tr><tr><td style='padding:2px 8px;'>3</td></tr></table>",
-      "<table style='display:table; margin:5px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td style='padding:2px 5px;'>8</td><td style='padding:2px 5px;'>3</td></tr></table>",
-      "<table style='display:table; margin:5px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td style='padding:2px 8px;'>14</td></tr></table>"
+      "<latex>\\begin{bmatrix}\n11\n\\end{bmatrix}</latex>",
+      "<latex>\\begin{bmatrix}\n8 \\\\\n3\n\\end{bmatrix}</latex>",
+      "<latex>\\begin{bmatrix}\n8 &amp; 3\n\\end{bmatrix}</latex>",
+      "<latex>\\begin{bmatrix}\n14\n\\end{bmatrix}</latex>"
     ],
-    "answer": 0,
     "chapter": "Matrices",
     "category": "Application",
     "complexity": "medium",
     "reason": "Multiply row by column: (2 * 4) + (1 * 3) = 8 + 3 = 11. The result is a 1 × 1 matrix [11]."
   },
   {
-    "question": "Find A² if A = <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td style='padding:2px 6px;'>1</td><td style='padding:2px 6px;'>2</td></tr><tr><td style='padding:2px 6px;'>0</td><td style='padding:2px 6px;'>1</td></tr></table>.",
+    "question": "Find A² if A =<latex>\\begin{bmatrix}\n1 &amp; 2 \\\\\n0 &amp; 1\n\\end{bmatrix}</latex>.",
     "choices": [
-      "<table style='display:table; margin:5px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td style='padding:2px 6px;'>1</td><td style='padding:2px 6px;'>4</td></tr><tr><td style='padding:2px 6px;'>0</td><td style='padding:2px 6px;'>1</td></tr></table>",
-      "<table style='display:table; margin:5px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td style='padding:2px 6px;'>1</td><td style='padding:2px 6px;'>2</td></tr><tr><td style='padding:2px 6px;'>0</td><td style='padding:2px 6px;'>1</td></tr></table>",
-      "<table style='display:table; margin:5px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td style='padding:2px 6px;'>2</td><td style='padding:2px 6px;'>4</td></tr><tr><td style='padding:2px 6px;'>0</td><td style='padding:2px 6px;'>2</td></tr></table>",
-      "<table style='display:table; margin:5px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td style='padding:2px 6px;'>1</td><td style='padding:2px 6px;'>0</td></tr><tr><td style='padding:2px 6px;'>0</td><td style='padding:2px 6px;'>1</td></tr></table>"
+      "<latex>\\begin{bmatrix}\n1 &amp; 4 \\\\\n0 &amp; 1\n\\end{bmatrix}</latex>",
+      "<latex>\\begin{bmatrix}\n1 &amp; 2 \\\\\n0 &amp; 1\n\\end{bmatrix}</latex>",
+      "<latex>\\begin{bmatrix}\n2 &amp; 4 \\\\\n0 &amp; 2\n\\end{bmatrix}</latex>",
+      "<latex>\\begin{bmatrix}\n1 &amp; 0 \\\\\n0 &amp; 1\n\\end{bmatrix}</latex>"
     ],
-    "answer": 0,
     "chapter": "Matrices",
     "category": "Application",
     "complexity": "medium",
     "reason": "A × A: Row1*Col1 = 1*1+2*0=1; Row1*Col2 = 1*2+2*1=4; Row2*Col1 = 0*1+1*0=0; Row2*Col2 = 0*2+1*1=1."
   },
   {
-    "question": "Given A = <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>1</td><td>0</td><td>0</td></tr><tr><td>0</td><td>1</td><td>0</td></tr><tr><td>0</td><td>0</td><td>1</td></tr></table> and any 3x3 matrix B, what is the value of AB?",
-    "choices": ["Identity Matrix", "Null Matrix", "Matrix B", "Matrix B transposed"],
+    "question": "Given A =<latex>\\begin{bmatrix}\n1 &amp; 0 &amp; 0 \\\\\n0 &amp; 1 &amp; 0 \\\\\n0 &amp; 0 &amp; 1\n\\end{bmatrix}</latex> and any 3x3 matrix B, what is the value of AB?",
+    "choices": [
+      "Identity Matrix",
+      "Null Matrix",
+      "Matrix B",
+      "Matrix B transposed"
+    ],
     "answer": 2,
     "chapter": "Matrices",
     "category": "Conceptual",
@@ -1170,8 +1605,13 @@
     "reason": "A is the 3x3 Identity matrix (I). Any matrix multiplied by the identity matrix remains unchanged (I * B = B)."
   },
   {
-    "question": "Calculate the first element (row 1, column 1) of the product of <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>2</td><td>3</td><td>1</td></tr><tr><td>0</td><td>1</td><td>4</td></tr></table> and <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>1</td></tr><tr><td>2</td></tr><tr><td>0</td></tr></table>.",
-    "choices": ["5", "8", "2", "7"],
+    "question": "Calculate the first element (row 1, column 1) of the product of<latex>\\begin{bmatrix}\n2 &amp; 3 &amp; 1 \\\\\n0 &amp; 1 &amp; 4\n\\end{bmatrix}</latex> and<latex>\\begin{bmatrix}\n1 \\\\\n2 \\\\\n0\n\\end{bmatrix}</latex>.",
+    "choices": [
+      "5",
+      "8",
+      "2",
+      "7"
+    ],
     "answer": 1,
     "chapter": "Matrices",
     "category": "Application",
@@ -1180,7 +1620,12 @@
   },
   {
     "question": "If AB = O (Null Matrix), does it always imply that either A = O or B = O?",
-    "choices": ["Yes", "No", "Only if A is square", "Only if B is square"],
+    "choices": [
+      "Yes",
+      "No",
+      "Only if A is square",
+      "Only if B is square"
+    ],
     "answer": 1,
     "chapter": "Matrices",
     "category": "Conceptual",
@@ -1188,8 +1633,13 @@
     "reason": "No, in matrix multiplication, two non-zero matrices can multiply to produce a zero (null) matrix."
   },
   {
-    "question": "Find the result of <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>1</td><td>2</td><td>3</td></tr></table> multiplied by <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>1</td></tr><tr><td>0</td></tr><tr><td>-1</td></tr></table>.",
-    "choices": ["[4]", "[2]", "[-2]", "[0]"],
+    "question": "Find the result of<latex>\\begin{bmatrix}\n    1 &amp; 2 &amp; 3\n\\end{bmatrix}</latex> multiplied by<latex>\\begin{bmatrix}\n    1  \\\\\n    0  \\\\\n    -1\n\\end{bmatrix}</latex>.",
+    "choices": [
+      "[4]",
+      "[2]",
+      "[-2]",
+      "[0]"
+    ],
     "answer": 2,
     "chapter": "Matrices",
     "category": "Application",
@@ -1198,7 +1648,12 @@
   },
   {
     "question": "Which of the following orders is required for matrix B so that A(3x3) * B is defined?",
-    "choices": ["3 × any number", "any number × 3", "2 × 3", "1 × 3"],
+    "choices": [
+      "3 × any number",
+      "any number × 3",
+      "2 × 3",
+      "1 × 3"
+    ],
     "answer": 0,
     "chapter": "Matrices",
     "category": "Conceptual",
@@ -1206,11 +1661,11 @@
     "reason": "For the product AB to be defined, the number of rows in B must equal the number of columns in A (which is 3)."
   },
   {
-    "question": "If A = <table style='display:table; margin:10px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>0</td><td>1</td></tr><tr><td>0</td><td>0</td></tr></table>, calculate A².",
+    "question": "If A =<latex>\\begin{bmatrix}\n0 &amp; 1 \\\\\n0 &amp; 0\n\\end{bmatrix}</latex>, calculate A².",
     "choices": [
       "Identity Matrix",
-      "<table style='display:table; margin:5px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>0</td><td>0</td></tr><tr><td>0</td><td>0</td></tr></table>",
-      "<table style='display:table; margin:5px auto; border-left:1px solid black; border-right:1px solid black;'><tr><td>0</td><td>1</td></tr><tr><td>0</td><td>0</td></tr></table>",
+      "<latex>\\begin{bmatrix}\n0 &amp; 0 \\\\\n0 &amp; 0\n\\end{bmatrix}</latex>",
+      "<latex>\\begin{bmatrix}\n0 &amp; 1 \\\\\n0 &amp; 0\n\\end{bmatrix}</latex>",
       "Not possible"
     ],
     "answer": 1,
@@ -1221,7 +1676,12 @@
   },
   {
     "question": "If matrix A is 3x1 and matrix B is 1x3, what is the order of product AB?",
-    "choices": ["1 × 1", "3 × 3", "1 × 3", "3 × 1"],
+    "choices": [
+      "1 × 1",
+      "3 × 3",
+      "1 × 3",
+      "3 × 1"
+    ],
     "answer": 1,
     "chapter": "Matrices",
     "category": "Conceptual",

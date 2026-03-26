@@ -247,16 +247,17 @@
     /* ===== TABLE FLOAT TOOLBAR ===== */
     #tbl-float-bar {
       position:fixed; z-index:800; display:none;
-      background:rgba(10,10,30,.96); border:1px solid rgba(255,255,255,.2);
+      background:#f1f5f9; border:1px solid #cbd5e1;
       border-radius:8px; padding:3px 6px; gap:2px;
       align-items:center; flex-wrap:wrap;
-      box-shadow:0 6px 24px rgba(0,0,0,.55);
+      box-shadow:0 4px 16px rgba(0,0,0,.18);
     }
     #tbl-float-bar.visible { display:flex; }
     #tbl-float-bar .tb-btn  { height:24px; min-width:28px; font-size:.72rem; padding:0 5px; color:#374151; background:transparent; border-color:transparent; }
-    #tbl-float-bar .tb-btn.danger:hover { background:rgba(239,68,68,.25); color:#f87171; border-color:rgba(239,68,68,.4); }
-    #tbl-float-bar .tb-sep  { width:1px; height:18px; background:rgba(255,255,255,.15); margin:0 2px; flex-shrink:0; }
-    #tbl-float-bar .bar-lbl { font-size:.68rem; color:rgba(255,255,255,.38); padding:0 3px; user-select:none; white-space:nowrap; }
+    #tbl-float-bar .tb-btn:hover { background:#e2e8f0; color:#111; border-color:#c7d0db; }
+    #tbl-float-bar .tb-btn.danger:hover { background:rgba(239,68,68,.15); color:#dc2626; border-color:rgba(239,68,68,.35); }
+    #tbl-float-bar .tb-sep  { width:1px; height:18px; background:#cbd5e1; margin:0 2px; flex-shrink:0; }
+    #tbl-float-bar .bar-lbl { font-size:.68rem; color:#94a3b8; padding:0 3px; user-select:none; white-space:nowrap; }
 
     /* ===== JSON MODAL ===== */
     .json-overlay { display:none; position:fixed; inset:0; background:rgba(0,0,0,.7); z-index:900; overflow-y:auto; padding:24px; }
@@ -472,6 +473,9 @@
   <button class="tb-btn" title="Add column left" onclick="App.tblAddColLeft()">&#xFF0B;&#x2190;</button>
   <button class="tb-btn" title="Add column right" onclick="App.tblAddColRight()">&#xFF0B;&#x2192;</button>
   <button class="tb-btn danger" title="Remove current column" onclick="App.tblRemoveCol()">&#x25AF;&#x2715;</button>
+  <span class="tb-sep"></span>
+  <button class="tb-btn" title="Insert line before table" onclick="App.tblInsertLineBefore()">&#x2191;&#xB6;</button>
+  <button class="tb-btn" title="Insert line after table" onclick="App.tblInsertLineAfter()">&#x2193;&#xB6;</button>
   <span class="tb-sep"></span>
   <button class="tb-btn danger" title="Delete entire table" onclick="App.tblDeleteTable()">&#x1F5D1;&#xFE0F;</button>
 </div>
@@ -764,6 +768,27 @@ function createEditor(mountEl, opts) {
       // ── ArrowRight / End at end of inline wrapper → escape it ────────
       if ((e.key === 'ArrowRight' || e.key === 'End') && range.collapsed) {
         if (escapeInlineWrapper(e)) return;
+      }
+
+      // ── Tab in table cell → navigate cells; Tab on last cell → insert line after ─
+      if (e.key === 'Tab') {
+        const td = _getCaretTd();
+        if (td) {
+          e.preventDefault();
+          const table = td.closest('table');
+          const allCells = Array.from(table.querySelectorAll('td,th'));
+          const idx = allCells.indexOf(td);
+          if (!e.shiftKey) {
+            if (idx < allCells.length - 1) {
+              _placeCaret(allCells[idx + 1]);
+            } else {
+              tblInsertLineAfter();
+            }
+          } else {
+            if (idx > 0) _placeCaret(allCells[idx - 1]);
+          }
+          return;
+        }
       }
 
       // ── Backspace at start of <li> → remove bullet / outdent ──────────
@@ -1074,15 +1099,23 @@ function refreshPreview() {
   box.innerHTML = h;
 }
 
+function decodeHtmlEntities(str) {
+  const ta = document.createElement('textarea');
+  ta.innerHTML = str;
+  return ta.value;
+}
+
 function renderLatex(html) {
   return html
     .replace(/<latex\s+display(?:="")?\s*>([\s\S]*?)<\/latex>/gi, (_,t) => {
-      try { return katex.renderToString(t.trim(),{displayMode:true,throwOnError:false}); }
-      catch(e) { return '<code>'+escHtml(t)+'</code>'; }
+      const tex = decodeHtmlEntities(t.trim());
+      try { return katex.renderToString(tex,{displayMode:true,throwOnError:false}); }
+      catch(e) { return '<code>'+escHtml(tex)+'</code>'; }
     })
     .replace(/<latex>([\s\S]*?)<\/latex>/gi, (_,t) => {
-      try { return katex.renderToString(t.trim(),{displayMode:false,throwOnError:false}); }
-      catch(e) { return '<code>'+escHtml(t)+'</code>'; }
+      const tex = decodeHtmlEntities(t.trim());
+      try { return katex.renderToString(tex,{displayMode:false,throwOnError:false}); }
+      catch(e) { return '<code>'+escHtml(tex)+'</code>'; }
     });
 }
 
@@ -1425,6 +1458,32 @@ function tblRemoveCol() {
   });
   _tblAfter(focusCell);
 }
+function tblInsertLineBefore() {
+  const table = _getCaretTable(); if (!table || !activeEditor) return;
+  const node = document.createTextNode('\u200B');
+  table.parentNode.insertBefore(node, table);
+  activeEditor.focus();
+  const r = document.createRange();
+  r.setStart(node, 0); r.collapse(true);
+  const s = window.getSelection();
+  s.removeAllRanges(); s.addRange(r);
+  activeEditor.dispatchEvent(new Event('input'));
+  refreshPreview();
+}
+function tblInsertLineAfter() {
+  const table = _getCaretTable(); if (!table || !activeEditor) return;
+  let anchor = table.nextSibling;
+  if (anchor && anchor.nodeName === 'BR') anchor = anchor.nextSibling;
+  const node = document.createTextNode('\u200B');
+  table.parentNode.insertBefore(node, anchor || null);
+  activeEditor.focus();
+  const r = document.createRange();
+  r.setStart(node, 0); r.collapse(true);
+  const s = window.getSelection();
+  s.removeAllRanges(); s.addRange(r);
+  activeEditor.dispatchEvent(new Event('input'));
+  refreshPreview();
+}
 function tblDeleteTable() {
   const table = _getCaretTable(); if (!table) return;
   if (!confirm('Delete this entire table?')) return;
@@ -1708,6 +1767,7 @@ window.App={
   tableOverlayClick, closeTableModal, insertTable,
   tblAddRowAbove, tblAddRowBelow, tblRemoveRow,
   tblAddColLeft, tblAddColRight, tblRemoveCol, tblDeleteTable,
+  tblInsertLineBefore, tblInsertLineAfter,
   toggleEditorMode,
 };
 
