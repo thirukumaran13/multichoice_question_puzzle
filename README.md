@@ -415,6 +415,11 @@ index.html
 
 ---
 
+
+## 📄 Acknowledgements
+The authors would like to thank Ms Sonam Patro for her support in reviewing all the questions related to Biology 
+The authors would like to thank Mr Shivakumar K S for his support in reviewing all the questions related to Mathematics
+
 ## 📄 License
 
 See [LICENSE](LICENSE).
