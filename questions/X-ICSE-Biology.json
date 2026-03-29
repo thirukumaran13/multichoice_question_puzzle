@@ -1683,6 +1683,498 @@
     "category": "Conceptual",
     "complexity": "medium",
     "reason": "Crossing over increases variation."
-  }    
-   
+  },
+  {
+    "question": "Photosynthesis primarily occurs in which part of the plant cell?",
+    "choices": [
+      "Mitochondria",
+      "Chloroplast",
+      "Nucleus",
+      "Ribosome"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Chloroplast contains chlorophyll and is the site of photosynthesis."
+  },
+  {
+    "question": "The green pigment responsible for photosynthesis is:",
+    "choices": [
+      "Carotene",
+      "Chlorophyll",
+      "Xanthophyll",
+      "Hemoglobin"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Chlorophyll absorbs light energy."
+  },
+  {
+    "question": "Which gas is released during photosynthesis?",
+    "choices": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Oxygen is released as a by-product."
+  },
+  {
+    "question": "Which raw material is absorbed from the soil for photosynthesis?",
+    "choices": [
+      "Oxygen",
+      "Water",
+      "Carbon dioxide",
+      "Glucose"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Water is absorbed by roots."
+  },
+  {
+    "question": "The process of splitting water using light energy is called:",
+    "choices": [
+      "Photolysis",
+      "Hydrolysis",
+      "Electrolysis",
+      "Reduction"
+    ],
+    "answer": 0,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Photolysis occurs in light reaction."
+  },
+
+  {
+    "question": "Stomata are mainly responsible for:",
+    "choices": [
+      "Water absorption",
+      "Gas exchange",
+      "Food storage",
+      "Photosynthesis"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Stomata regulate gas exchange."
+  },
+  {
+    "question": "Which of the following is a product of photosynthesis?",
+    "choices": [
+      "Carbon dioxide",
+      "Water",
+      "Glucose",
+      "Chlorophyll"
+    ],
+    "answer": 2,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Glucose is synthesized."
+  },
+  {
+    "question": "The light reaction occurs in:",
+    "choices": [
+      "Stroma",
+      "Thylakoid",
+      "Nucleus",
+      "Cytoplasm"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Occurs in thylakoid membranes."
+  },
+  {
+    "question": "Dark reaction occurs in:",
+    "choices": [
+      "Thylakoid",
+      "Stroma",
+      "Cytoplasm",
+      "Cell membrane"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Occurs in stroma."
+  },
+  {
+    "question": "Which factor does NOT affect photosynthesis?",
+    "choices": [
+      "Light intensity",
+      "Temperature",
+      "Oxygen concentration",
+      "Carbon dioxide"
+    ],
+    "answer": 2,
+    "chapter": "Photosynthesis",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "Oxygen is not a limiting factor."
+  },
+
+  {
+    "question": "Which experiment proves starch formation in leaves?",
+    "choices": [
+      "Benedict test",
+      "Iodine test",
+      "Biuret test",
+      "Litmus test"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Iodine turns blue-black with starch."
+  },
+  {
+    "question": "Which color of light is most effective for photosynthesis?",
+    "choices": [
+      "Green",
+      "Blue and Red",
+      "Yellow",
+      "Orange"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "Chlorophyll absorbs red and blue light."
+  },
+  {
+    "question": "Green light is least effective because:",
+    "choices": [
+      "It is absorbed",
+      "It is reflected",
+      "It is refracted",
+      "It is transmitted"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Green light is reflected."
+  },
+  {
+    "question": "Which compound stores energy in light reaction?",
+    "choices": [
+      "ATP",
+      "Glucose",
+      "Oxygen",
+      "Water"
+    ],
+    "answer": 0,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "ATP stores chemical energy."
+  },
+  {
+    "question": "Carbon fixation occurs in:",
+    "choices": [
+      "Light reaction",
+      "Dark reaction",
+      "Respiration",
+      "Transpiration"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "CO2 is fixed in Calvin cycle."
+  },
+
+  {
+    "question": "Which scientist discovered photosynthesis?",
+    "choices": [
+      "Priestley",
+      "Newton",
+      "Darwin",
+      "Mendel"
+    ],
+    "answer": 0,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Priestley demonstrated oxygen release."
+  },
+  {
+    "question": "Which condition increases photosynthesis rate?",
+    "choices": [
+      "Low light",
+      "High CO2",
+      "Low temperature",
+      "No water"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "CO2 is a limiting factor."
+  },
+  {
+    "question": "Which pigment absorbs maximum light?",
+    "choices": [
+      "Chlorophyll a",
+      "Chlorophyll b",
+      "Carotene",
+      "Xanthophyll"
+    ],
+    "answer": 0,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Primary pigment is chlorophyll a."
+  },
+  {
+    "question": "Which process converts light energy into chemical energy?",
+    "choices": [
+      "Respiration",
+      "Photosynthesis",
+      "Digestion",
+      "Transpiration"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Photosynthesis stores energy in glucose."
+  },
+  {
+    "question": "Limiting factor concept was given by:",
+    "choices": [
+      "Blackman",
+      "Darwin",
+      "Mendel",
+      "Pasteur"
+    ],
+    "answer": 0,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Blackman proposed limiting factors."
+  },
+
+  {
+    "question": "Which organ is responsible for photosynthesis?",
+    "choices": [
+      "Root",
+      "Stem",
+      "Leaf",
+      "Flower"
+    ],
+    "answer": 2,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Leaves contain chloroplast."
+  },
+
+  {
+    "question": "Which structure contains chlorophyll?",
+    "choices": [
+      "Grana",
+      "Stroma",
+      "Nucleus",
+      "Vacuole"
+    ],
+    "answer": 0,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Grana contain chlorophyll."
+  },
+
+  {
+    "question": "Photosynthesis equation includes:",
+    "choices": [
+      "CO2 + H2O",
+      "O2 + Glucose",
+      "ATP only",
+      "Nitrogen"
+    ],
+    "answer": 0,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "CO2 and water are reactants."
+  },
+
+  {
+    "question": "Which factor affects stomatal opening?",
+    "choices": [
+      "Light",
+      "Water",
+      "CO2",
+      "All of these"
+    ],
+    "answer": 3,
+    "chapter": "Photosynthesis",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "All factors influence stomata."
+  },
+
+  {
+    "question": "Which cell type performs photosynthesis?",
+    "choices": [
+      "Root cells",
+      "Leaf mesophyll cells",
+      "Muscle cells",
+      "Nerve cells"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Mesophyll cells contain chloroplasts."
+  },
+
+  {
+    "question": "Which gas is used in photosynthesis?",
+    "choices": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "answer": 2,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "CO2 is a raw material."
+  },
+
+  {
+    "question": "What is the main carbohydrate formed?",
+    "choices": [
+      "Sucrose",
+      "Glucose",
+      "Starch",
+      "Fructose"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Glucose is the primary product."
+  },
+
+  {
+    "question": "Which structure controls gas exchange?",
+    "choices": [
+      "Cuticle",
+      "Stomata",
+      "Xylem",
+      "Phloem"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Stomata regulate gases."
+  },
+
+  {
+    "question": "Which condition stops photosynthesis?",
+    "choices": [
+      "Presence of light",
+      "Absence of chlorophyll",
+      "High CO2",
+      "Warm temperature"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "Chlorophyll is essential."
+  },
+
+  {
+    "question": "Which process produces oxygen?",
+    "choices": [
+      "Respiration",
+      "Photolysis",
+      "Digestion",
+      "Fermentation"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Water splitting releases oxygen."
+  },
+
+  {
+    "question": "Which structure contains enzymes for dark reaction?",
+    "choices": [
+      "Grana",
+      "Stroma",
+      "Nucleus",
+      "Membrane"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Stroma has enzymes."
+  },
+
+  {
+    "question": "Which is NOT required for photosynthesis?",
+    "choices": [
+      "Light",
+      "Chlorophyll",
+      "Oxygen",
+      "Water"
+    ],
+    "answer": 2,
+    "chapter": "Photosynthesis",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "Oxygen is a product, not required."
+  },
+
+  {
+    "question": "<b>Assertion (A):</b> Photosynthesis produces oxygen.<br><b>Reason (R):</b> Oxygen is released during photolysis of water.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True and R is the correct explanation of A",
+      "Both A and R are True but R is not the correct explanation"
+    ],
+    "answer": 2,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Photolysis releases oxygen."
+  },
+
+  {
+    "question": "<b>Assertion (A):</b> Chlorophyll appears green.<br><b>Reason (R):</b> It reflects green light.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True and R is the correct explanation of A",
+      "Both A and R are True but R is not the correct explanation"
+    ],
+    "answer": 2,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Green light is reflected."
+  }   
 ]
