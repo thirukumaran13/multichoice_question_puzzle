@@ -726,5 +726,1455 @@
     "category": "Recall",
     "complexity": "low",
     "reason": "ACTH stands for Adrenocorticotropic Hormone. It is secreted by the anterior pituitary gland and stimulates the adrenal cortex to produce cortisol and other corticosteroids."
-  }
+  },
+  {
+    "question": "Transpiration is the process of:",
+    "choices": ["Absorption of water by roots", "Loss of water vapor from plants", "Transport of food", "Photosynthesis"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Transpiration is the loss of water in the form of water vapour from aerial parts of plants."
+  },
+  {
+    "question": "Transpiration mainly occurs through:",
+    "choices": ["Roots", "Stem", "Stomata", "Flowers"],
+    "answer": 2,
+    "chapter": "Transpiration",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Stomata are tiny pores on leaves through which most transpiration occurs."
+  },
+  {
+    "question": "The main force generated due to transpiration is:",
+    "choices": ["Osmotic pressure", "Transpiration pull", "Root pressure", "Capillary action"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Transpiration creates a suction force called transpiration pull that helps in upward movement of water."
+  },
+  {
+    "question": "Transpiration helps in:",
+    "choices": ["Food storage", "Cooling the plant", "Reproduction", "Respiration"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Evaporation of water cools the plant similar to sweating in humans."
+  },
+  {
+    "question": "Another function of transpiration is:",
+    "choices": ["Protein synthesis", "Mineral absorption", "Creating suction force", "Pollination"],
+    "answer": 2,
+    "chapter": "Transpiration",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Transpiration creates suction force that helps in water transport."
+  },
+  {
+    "question": "Water is lost during transpiration in the form of:",
+    "choices": ["Liquid", "Ice", "Vapour", "Plasma"],
+    "answer": 2,
+    "chapter": "Transpiration",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Water evaporates from plant surfaces as vapour."
+  },
+  {
+    "question": "Which experiment shows transpiration using polythene bags?",
+    "choices": ["Photosynthesis experiment", "Demonstration of transpiration", "Respiration test", "Germination test"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Polythene bags trap water vapour released by leaves, demonstrating transpiration."
+  },
+  {
+    "question": "Cobalt chloride paper is used to detect:",
+    "choices": ["Oxygen", "Carbon dioxide", "Water vapor", "Nitrogen"],
+    "answer": 2,
+    "chapter": "Transpiration",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Cobalt chloride paper changes color in presence of moisture."
+  },
+  {
+    "question": "Cobalt chloride paper turns from blue to:",
+    "choices": ["Red", "Green", "Pink", "Yellow"],
+    "answer": 2,
+    "chapter": "Transpiration",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "It turns pink when exposed to water vapour."
+  },
+  {
+    "question": "Ganong’s potometer is used to measure:",
+    "choices": ["Photosynthesis rate", "Transpiration rate", "Respiration rate", "Growth rate"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Potometer measures rate of water uptake, indirectly indicating transpiration."
+  },
+  {
+    "question": "A limitation of Ganong’s potometer is:",
+    "choices": ["Cannot measure water uptake", "Does not measure exact transpiration", "Very expensive", "Not portable"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "It measures water uptake, not actual transpiration loss."
+  },
+  {
+    "question": "Transpiration rate increases with:",
+    "choices": ["Low temperature", "High humidity", "Wind", "Darkness"],
+    "answer": 2,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Wind removes water vapour, increasing transpiration."
+  },
+  {
+    "question": "Transpiration rate decreases with:",
+    "choices": ["High wind", "Low humidity", "High humidity", "High temperature"],
+    "answer": 2,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "High humidity reduces evaporation rate."
+  },
+  {
+    "question": "Which factor affects transpiration?",
+    "choices": ["Light", "Temperature", "Humidity", "All of the above"],
+    "answer": 3,
+    "chapter": "Transpiration",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "All environmental factors influence transpiration."
+  },
+  {
+    "question": "Stomata open mainly during:",
+    "choices": ["Night", "Day", "Winter", "Rain"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Stomata open during the day for photosynthesis."
+  },
+  {
+    "question": "Closing of stomata reduces:",
+    "choices": ["Photosynthesis", "Transpiration", "Respiration", "Growth"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Closed stomata prevent water loss."
+  },
+  {
+    "question": "Guttation involves loss of water in:",
+    "choices": ["Vapour form", "Liquid form", "Solid form", "Gas form"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Guttation releases liquid water droplets."
+  },
+  {
+    "question": "Bleeding in plants refers to:",
+    "choices": ["Loss of sap", "Loss of leaves", "Loss of roots", "Loss of flowers"],
+    "answer": 0,
+    "chapter": "Transpiration",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Bleeding is the loss of sap from injured plant parts."
+  },
+  {
+    "question": "Which structure controls stomatal opening?",
+    "choices": ["Guard cells", "Xylem", "Phloem", "Cortex"],
+    "answer": 0,
+    "chapter": "Transpiration",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Guard cells regulate opening and closing of stomata."
+  },
+  {
+    "question": "Transpiration creates suction force in:",
+    "choices": ["Leaves", "Stem", "Roots", "Flowers"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Transpiration pull acts through xylem in stem."
+  },
+  {
+    "question": "Which part loses maximum water?",
+    "choices": ["Root", "Stem", "Leaves", "Flower"],
+    "answer": 2,
+    "chapter": "Transpiration",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Leaves have maximum stomata."
+  },
+  {
+    "question": "Plants reduce transpiration by:",
+    "choices": ["Large leaves", "Thick cuticle", "Open stomata", "Thin stem"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Thick cuticle prevents water loss."
+  },
+  {
+    "question": "Desert plants reduce transpiration by:",
+    "choices": ["Large stomata", "Thick cuticle", "Thin leaves", "Soft tissues"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Adaptations like thick cuticle reduce water loss."
+  },
+  {
+    "question": "Transpiration is essential for:",
+    "choices": ["Food digestion", "Water movement", "Seed formation", "Pollination"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "It helps in upward movement of water."
+  },
+  {
+    "question": "Which condition increases transpiration?",
+    "choices": ["High humidity", "Low temperature", "Bright sunlight", "Still air"],
+    "answer": 2,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Sunlight opens stomata and increases evaporation."
+  },
+  {
+    "question": "Which condition reduces transpiration?",
+    "choices": ["Wind", "High temperature", "High humidity", "Light"],
+    "answer": 2,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Humidity reduces evaporation gradient."
+  },
+  {
+    "question": "The movement of water through xylem is due to:",
+    "choices": ["Diffusion", "Transpiration pull", "Active transport", "Osmosis"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Transpiration pull drives water upward."
+  },
+  {
+    "question": "Water droplets on polythene bag indicate:",
+    "choices": ["Respiration", "Transpiration", "Photosynthesis", "Germination"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "They are condensed water vapour from transpiration."
+  },
+  {
+    "question": "Which instrument indirectly measures transpiration?",
+    "choices": ["Thermometer", "Potometer", "Barometer", "Hygrometer"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Potometer measures water uptake indirectly."
+  },
+  {
+    "question": "Transpiration helps in mineral transport because:",
+    "choices": ["It produces energy", "It creates upward pull", "It stores food", "It breaks molecules"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Upward pull carries dissolved minerals."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Transpiration creates a pulling force in plants.<br><b>Reason (R):</b> Water evaporates from leaf surfaces generating suction in xylem.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are True and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "chapter": "Transpiration",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "Evaporation of water from leaves creates negative pressure, generating transpiration pull."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Transpiration rate is higher during the day.<br><b>Reason (R):</b> Stomata are usually open during daylight.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are True and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Stomata open during the day allowing more water vapour to escape."
+  },
+  {
+    "question": "<b>Assertion (A):</b> High humidity reduces transpiration.<br><b>Reason (R):</b> Moist air reduces the diffusion gradient for water vapour.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are True and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "When air is already moist, evaporation slows due to reduced gradient."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Wind increases transpiration.<br><b>Reason (R):</b> Wind removes water vapour surrounding leaves.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are True and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Wind removes saturated air, increasing evaporation rate."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Thick cuticle reduces transpiration.<br><b>Reason (R):</b> Cuticle acts as a waterproof layer on leaves.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are True and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "chapter": "Transpiration",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Thick cuticle reduces water loss by limiting evaporation."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Transpiration helps in cooling plants.<br><b>Reason (R):</b> Evaporation of water absorbs heat energy.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are True and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Evaporation removes heat, cooling the plant surface."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Potometer measures transpiration directly.<br><b>Reason (R):</b> It measures water uptake by the plant.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are True and R is the correct explanation of A"
+    ],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Potometer measures water uptake, not actual transpiration."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Guttation occurs at night.<br><b>Reason (R):</b> Root pressure is high and transpiration is low at night.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are True and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "chapter": "Transpiration",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "Low transpiration and high root pressure lead to liquid water exudation."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Closing stomata reduces water loss.<br><b>Reason (R):</b> Stomata are the main sites of transpiration.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are True and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "chapter": "Transpiration",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Closing stomata blocks the main pathway of water loss."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Transpiration is essential for mineral transport.<br><b>Reason (R):</b> It generates upward pull in xylem.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are True and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "chapter": "Transpiration",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "Transpiration pull helps transport dissolved minerals upward."
+  },
+  {
+    "question": "The nucleus was first discovered by:",
+    "choices": ["Robert Hooke", "Robert Brown", "Schleiden", "Virchow"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Robert Brown discovered the nucleus in 1831."
+  },
+  {
+    "question": "The control center of the cell is:",
+    "choices": ["Mitochondria", "Nucleus", "Ribosome", "Golgi body"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The nucleus controls all cellular activities."
+  },
+  {
+    "question": "The nuclear membrane is also called:",
+    "choices": ["Tonoplast", "Plasma membrane", "Nuclear envelope", "Cell wall"],
+    "answer": 2,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The nucleus is enclosed by a double membrane called nuclear envelope."
+  },
+  {
+    "question": "The fluid inside the nucleus is called:",
+    "choices": ["Cytoplasm", "Nucleoplasm", "Protoplasm", "Matrix"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Nucleoplasm is the semi-fluid substance inside the nucleus."
+  },
+  {
+    "question": "Chromatin fibers are made up of:",
+    "choices": ["RNA and protein", "DNA and protein", "Lipids and DNA", "Carbohydrates"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Chromatin consists of DNA and proteins."
+  },
+  {
+    "question": "Chromosomes become visible during:",
+    "choices": ["Interphase", "Cell division", "Photosynthesis", "Respiration"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Chromatin condenses into chromosomes during cell division."
+  },
+  {
+    "question": "The functional unit of heredity is:",
+    "choices": ["Chromosome", "Gene", "DNA", "Nucleus"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Genes carry hereditary information."
+  },
+   {
+    "question": "Genes are located on:",
+    "choices": ["Ribosomes", "Chromosomes", "Mitochondria", "Cell wall"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Genes are segments of DNA present on chromosomes."
+  },
+  {
+    "question": "The structure that produces ribosomes is:",
+    "choices": ["Nucleus", "Nucleolus", "Golgi body", "Centrosome"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Nucleolus synthesizes ribosomes."
+  },
+  {
+    "question": "Human somatic cells contain how many chromosomes?",
+    "choices": ["23", "46", "44", "48"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Human cells contain 46 chromosomes (23 pairs)."
+  },
+
+  {
+    "question": "Chromosomes are composed of:",
+    "choices": ["RNA only", "DNA and proteins", "Proteins only", "Lipids"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Chromosomes consist of DNA wrapped around proteins."
+  },
+  {
+    "question": "The point where chromatids are attached is called:",
+    "choices": ["Centrosome", "Centromere", "Spindle", "Axon"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Centromere holds sister chromatids together."
+  },
+  {
+    "question": "Each chromosome consists of:",
+    "choices": ["One chromatid", "Two chromatids", "Three chromatids", "Four chromatids"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "A replicated chromosome has two chromatids."
+  },
+  {
+    "question": "Chromosomes carry:",
+    "choices": ["Water", "Minerals", "Genetic information", "Food"],
+    "answer": 2,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Chromosomes carry genes responsible for heredity."
+  },
+  {
+    "question": "The thread-like structures in nucleus are:",
+    "choices": ["Chromosomes", "Chromatin fibers", "Genes", "Centrioles"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Chromatin fibers form chromosomes."
+  },
+  {
+    "question": "The nucleolus disappears during:",
+    "choices": ["Interphase", "Cell division", "Respiration", "Photosynthesis"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Nucleolus disappears during division."
+  },
+  {
+    "question": "Chromosomes are best seen during:",
+    "choices": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Chromosomes are most condensed in metaphase."
+  },
+  {
+    "question": "The shape of chromosome depends on:",
+    "choices": ["Gene", "Centromere position", "DNA", "Protein"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Centromere position determines shape."
+  },
+  {
+    "question": "Chromosomes replicate during:",
+    "choices": ["G1 phase", "S phase", "G2 phase", "M phase"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "DNA replication occurs in S phase."
+  },
+  {
+    "question": "Genes control:",
+    "choices": ["Respiration", "Growth", "Heredity", "Movement"],
+    "answer": 2,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Genes determine hereditary traits."
+  },
+
+  {
+    "question": "The basic unit of chromosome is:",
+    "choices": ["Gene", "DNA", "Protein", "RNA"],
+    "answer": 0,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Genes are functional units present on chromosomes."
+  },
+  {
+    "question": "Sex chromosomes determine:",
+    "choices": ["Height", "Gender", "Weight", "Color"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Sex chromosomes determine gender."
+  },
+  {
+    "question": "Autosomes are:",
+    "choices": ["Sex chromosomes", "Non-sex chromosomes", "Genes", "Proteins"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Autosomes are all chromosomes except sex chromosomes."
+  },
+  {
+    "question": "DNA stands for:",
+    "choices": ["Deoxyribonucleic Acid", "Ribonucleic Acid", "Dinitrogen Acid", "Double Acid"],
+    "answer": 0,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "DNA is the hereditary material."
+  },
+  {
+    "question": "Chromosomes are found in:",
+    "choices": ["Cytoplasm", "Nucleus", "Cell wall", "Membrane"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Chromosomes are present in the nucleus."
+  },
+  {
+    "question": "The number of chromosomes is constant for:",
+    "choices": ["Species", "Individuals", "Cells", "Organs"],
+    "answer": 0,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Chromosome number is constant within a species."
+  },
+  {
+    "question": "Chromosome duplication ensures:",
+    "choices": ["Growth", "Repair", "Genetic continuity", "Respiration"],
+    "answer": 2,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Ensures equal distribution of genetic material."
+  },
+  {
+    "question": "Each chromatid contains:",
+    "choices": ["Protein", "DNA molecule", "RNA", "Lipid"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Each chromatid has one DNA molecule."
+  },
+  {
+    "question": "Chromosomes appear like rods during:",
+    "choices": ["Interphase", "Division", "Respiration", "Growth"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Chromosomes condense during division."
+  },
+  {
+    "question": "The study of chromosomes is called:",
+    "choices": ["Genetics", "Cytology", "Karyology", "Biology"],
+    "answer": 2,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Karyology deals with chromosome study."
+  },
+  {
+    "question": "In a monohybrid cross (Tt × Tt), what is the probability of obtaining a homozygous recessive offspring?",
+    "choices": ["1/2", "1/4", "3/4", "1/8"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Genotypic ratio is 1:2:1, so recessive homozygous = 1/4."
+  },
+  {
+    "question": "A cross between two heterozygous individuals results in which phenotypic ratio?",
+    "choices": ["1:1", "3:1", "1:2:1", "9:3:3:1"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Typical monohybrid cross gives 3:1 phenotypic ratio."
+  },
+  {
+    "question": "Incomplete dominance results in:",
+    "choices": ["Dominant phenotype only", "Recessive phenotype only", "Blended phenotype", "No phenotype"],
+    "answer": 2,
+    "chapter": "Genetics",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Neither allele is completely dominant."
+  },
+  {
+    "question": "In a dihybrid cross, the phenotypic ratio observed is:",
+    "choices": ["3:1", "1:2:1", "9:3:3:1", "1:1"],
+    "answer": 2,
+    "chapter": "Genetics",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Classic Mendelian dihybrid ratio."
+  },
+  {
+    "question": "Law of segregation is based on:",
+    "choices": ["Independent assortment", "Separation of alleles", "Linkage", "Mutation"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Alleles separate during gamete formation."
+  },
+
+  {
+    "question": "If a tall plant (TT) is crossed with a dwarf plant (tt), the F1 generation will be:",
+    "choices": ["All tall", "All dwarf", "50% tall", "Mixed"],
+    "answer": 0,
+    "chapter": "Genetics",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "All offspring are heterozygous tall (Tt)."
+  },
+  {
+    "question": "Test cross is used to determine:",
+    "choices": ["Genotype", "Phenotype", "Dominance", "Mutation"],
+    "answer": 0,
+    "chapter": "Genetics",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Cross with recessive reveals genotype."
+  },
+  {
+    "question": "If a heterozygous individual is test-crossed, the expected ratio is:",
+    "choices": ["3:1", "1:1", "9:3:3:1", "1:2:1"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Tt × tt gives 1:1 ratio."
+  },
+  {
+    "question": "Which of the following violates Mendel’s law of independent assortment?",
+    "choices": ["Linkage", "Segregation", "Mutation", "Dominance"],
+    "answer": 0,
+    "chapter": "Genetics",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "Linked genes do not assort independently."
+  },
+  {
+    "question": "Crossing over occurs during:",
+    "choices": ["Prophase I", "Metaphase I", "Anaphase I", "Telophase"],
+    "answer": 0,
+    "chapter": "Genetics",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Occurs in prophase I of meiosis."
+  },
+
+  {
+    "question": "The frequency of recombination is directly proportional to:",
+    "choices": ["Gene dominance", "Distance between genes", "Mutation rate", "Chromosome number"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "Greater distance increases crossing over chances."
+  },
+  {
+    "question": "A cross producing 9:7 ratio indicates:",
+    "choices": ["Codominance", "Epistasis", "Incomplete dominance", "Linkage"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "Typical complementary gene interaction."
+  },
+  {
+    "question": "If both alleles express equally, it is called:",
+    "choices": ["Dominance", "Incomplete dominance", "Codominance", "Epistasis"],
+    "answer": 2,
+    "chapter": "Genetics",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Both alleles are expressed equally."
+  },
+  {
+    "question": "Blood group AB represents:",
+    "choices": ["Dominance", "Recessiveness", "Codominance", "Mutation"],
+    "answer": 2,
+    "chapter": "Genetics",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "A and B alleles both expressed."
+  },
+  {
+    "question": "A mutation is defined as:",
+    "choices": ["Change in phenotype", "Change in genotype", "Change in DNA sequence", "Change in cell"],
+    "answer": 2,
+    "chapter": "Genetics",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Mutation is alteration in DNA sequence."
+  },
+
+  {
+    "question": "Sex-linked traits are carried on:",
+    "choices": ["Autosomes", "X chromosome", "Y chromosome only", "Mitochondria"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Most sex-linked traits are X-linked."
+  },
+  {
+    "question": "Color blindness is:",
+    "choices": ["Autosomal", "Sex-linked recessive", "Dominant", "Codominant"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "It is X-linked recessive."
+  },
+  {
+    "question": "Pedigree analysis helps in:",
+    "choices": ["Mutation study", "Inheritance pattern study", "Cell division", "Protein synthesis"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Used to trace inheritance."
+  },
+  {
+    "question": "Homozygous condition means:",
+    "choices": ["Different alleles", "Identical alleles", "No alleles", "Mutated alleles"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Same alleles present."
+  },
+  {
+    "question": "Heterozygous condition means:",
+    "choices": ["Same alleles", "Different alleles", "No genes", "Multiple genes"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Two different alleles."
+  },
+
+  {
+    "question": "Which genotype produces recessive phenotype?",
+    "choices": ["TT", "Tt", "tt", "All"],
+    "answer": 2,
+    "chapter": "Genetics",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Recessive appears only in homozygous condition."
+  },
+  {
+    "question": "A cross between AaBb × AaBb results in how many genotypes?",
+    "choices": ["4", "9", "16", "8"],
+    "answer": 2,
+    "chapter": "Genetics",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "16 genotype combinations possible."
+  },
+  {
+    "question": "Independent assortment occurs during:",
+    "choices": ["Meiosis I", "Mitosis", "Replication", "Translation"],
+    "answer": 0,
+    "chapter": "Genetics",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Occurs in meiosis I."
+  },
+  {
+    "question": "Alleles are:",
+    "choices": ["Genes on different chromosomes", "Different forms of a gene", "Proteins", "Chromosomes"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Alleles are variants of genes."
+  },
+  {
+    "question": "Genotype refers to:",
+    "choices": ["Physical trait", "Genetic makeup", "Cell structure", "Protein"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Genotype is genetic constitution."
+  },
+
+  {
+    "question": "Phenotype refers to:",
+    "choices": ["Genetic code", "Observable trait", "DNA sequence", "Mutation"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Phenotype is expressed trait."
+  },
+  {
+    "question": "Linkage results in:",
+    "choices": ["Independent assortment", "Reduced recombination", "Mutation", "Dominance"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "Linked genes inherited together."
+  },
+  {
+    "question": "Which cross produces uniform offspring?",
+    "choices": ["Monohybrid", "Test cross", "Pure line cross", "Back cross"],
+    "answer": 2,
+    "chapter": "Genetics",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "Pure lines produce uniform offspring."
+  },
+  {
+    "question": "Epistasis refers to:",
+    "choices": ["Gene mutation", "Gene masking another gene", "Allele separation", "DNA replication"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "One gene masks expression of another."
+  },
+  {
+    "question": "Which condition leads to variation?",
+    "choices": ["Mitosis", "Crossing over", "Replication", "Translation"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Crossing over increases variation."
+  },
+  {
+    "question": "Photosynthesis primarily occurs in which part of the plant cell?",
+    "choices": [
+      "Mitochondria",
+      "Chloroplast",
+      "Nucleus",
+      "Ribosome"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Chloroplast contains chlorophyll and is the site of photosynthesis."
+  },
+  {
+    "question": "The green pigment responsible for photosynthesis is:",
+    "choices": [
+      "Carotene",
+      "Chlorophyll",
+      "Xanthophyll",
+      "Hemoglobin"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Chlorophyll absorbs light energy."
+  },
+  {
+    "question": "Which gas is released during photosynthesis?",
+    "choices": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Oxygen is released as a by-product."
+  },
+  {
+    "question": "Which raw material is absorbed from the soil for photosynthesis?",
+    "choices": [
+      "Oxygen",
+      "Water",
+      "Carbon dioxide",
+      "Glucose"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Water is absorbed by roots."
+  },
+  {
+    "question": "The process of splitting water using light energy is called:",
+    "choices": [
+      "Photolysis",
+      "Hydrolysis",
+      "Electrolysis",
+      "Reduction"
+    ],
+    "answer": 0,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Photolysis occurs in light reaction."
+  },
+
+  {
+    "question": "Stomata are mainly responsible for:",
+    "choices": [
+      "Water absorption",
+      "Gas exchange",
+      "Food storage",
+      "Photosynthesis"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Stomata regulate gas exchange."
+  },
+  {
+    "question": "Which of the following is a product of photosynthesis?",
+    "choices": [
+      "Carbon dioxide",
+      "Water",
+      "Glucose",
+      "Chlorophyll"
+    ],
+    "answer": 2,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Glucose is synthesized."
+  },
+  {
+    "question": "The light reaction occurs in:",
+    "choices": [
+      "Stroma",
+      "Thylakoid",
+      "Nucleus",
+      "Cytoplasm"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Occurs in thylakoid membranes."
+  },
+  {
+    "question": "Dark reaction occurs in:",
+    "choices": [
+      "Thylakoid",
+      "Stroma",
+      "Cytoplasm",
+      "Cell membrane"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Occurs in stroma."
+  },
+  {
+    "question": "Which factor does NOT affect photosynthesis?",
+    "choices": [
+      "Light intensity",
+      "Temperature",
+      "Oxygen concentration",
+      "Carbon dioxide"
+    ],
+    "answer": 2,
+    "chapter": "Photosynthesis",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "Oxygen is not a limiting factor."
+  },
+
+  {
+    "question": "Which experiment proves starch formation in leaves?",
+    "choices": [
+      "Benedict test",
+      "Iodine test",
+      "Biuret test",
+      "Litmus test"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Iodine turns blue-black with starch."
+  },
+  {
+    "question": "Which color of light is most effective for photosynthesis?",
+    "choices": [
+      "Green",
+      "Blue and Red",
+      "Yellow",
+      "Orange"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "Chlorophyll absorbs red and blue light."
+  },
+  {
+    "question": "Green light is least effective because:",
+    "choices": [
+      "It is absorbed",
+      "It is reflected",
+      "It is refracted",
+      "It is transmitted"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Green light is reflected."
+  },
+  {
+    "question": "Which compound stores energy in light reaction?",
+    "choices": [
+      "ATP",
+      "Glucose",
+      "Oxygen",
+      "Water"
+    ],
+    "answer": 0,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "ATP stores chemical energy."
+  },
+  {
+    "question": "Carbon fixation occurs in:",
+    "choices": [
+      "Light reaction",
+      "Dark reaction",
+      "Respiration",
+      "Transpiration"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "CO2 is fixed in Calvin cycle."
+  },
+
+  {
+    "question": "Which scientist discovered photosynthesis?",
+    "choices": [
+      "Priestley",
+      "Newton",
+      "Darwin",
+      "Mendel"
+    ],
+    "answer": 0,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Priestley demonstrated oxygen release."
+  },
+  {
+    "question": "Which condition increases photosynthesis rate?",
+    "choices": [
+      "Low light",
+      "High CO2",
+      "Low temperature",
+      "No water"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "CO2 is a limiting factor."
+  },
+  {
+    "question": "Which pigment absorbs maximum light?",
+    "choices": [
+      "Chlorophyll a",
+      "Chlorophyll b",
+      "Carotene",
+      "Xanthophyll"
+    ],
+    "answer": 0,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Primary pigment is chlorophyll a."
+  },
+  {
+    "question": "Which process converts light energy into chemical energy?",
+    "choices": [
+      "Respiration",
+      "Photosynthesis",
+      "Digestion",
+      "Transpiration"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Photosynthesis stores energy in glucose."
+  },
+  {
+    "question": "Limiting factor concept was given by:",
+    "choices": [
+      "Blackman",
+      "Darwin",
+      "Mendel",
+      "Pasteur"
+    ],
+    "answer": 0,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Blackman proposed limiting factors."
+  },
+
+  {
+    "question": "Which organ is responsible for photosynthesis?",
+    "choices": [
+      "Root",
+      "Stem",
+      "Leaf",
+      "Flower"
+    ],
+    "answer": 2,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Leaves contain chloroplast."
+  },
+
+  {
+    "question": "Which structure contains chlorophyll?",
+    "choices": [
+      "Grana",
+      "Stroma",
+      "Nucleus",
+      "Vacuole"
+    ],
+    "answer": 0,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Grana contain chlorophyll."
+  },
+
+  {
+    "question": "Photosynthesis equation includes:",
+    "choices": [
+      "CO2 + H2O",
+      "O2 + Glucose",
+      "ATP only",
+      "Nitrogen"
+    ],
+    "answer": 0,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "CO2 and water are reactants."
+  },
+
+  {
+    "question": "Which factor affects stomatal opening?",
+    "choices": [
+      "Light",
+      "Water",
+      "CO2",
+      "All of these"
+    ],
+    "answer": 3,
+    "chapter": "Photosynthesis",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "All factors influence stomata."
+  },
+
+  {
+    "question": "Which cell type performs photosynthesis?",
+    "choices": [
+      "Root cells",
+      "Leaf mesophyll cells",
+      "Muscle cells",
+      "Nerve cells"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Mesophyll cells contain chloroplasts."
+  },
+
+  {
+    "question": "Which gas is used in photosynthesis?",
+    "choices": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "answer": 2,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "CO2 is a raw material."
+  },
+
+  {
+    "question": "What is the main carbohydrate formed?",
+    "choices": [
+      "Sucrose",
+      "Glucose",
+      "Starch",
+      "Fructose"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Glucose is the primary product."
+  },
+
+  {
+    "question": "Which structure controls gas exchange?",
+    "choices": [
+      "Cuticle",
+      "Stomata",
+      "Xylem",
+      "Phloem"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Stomata regulate gases."
+  },
+
+  {
+    "question": "Which condition stops photosynthesis?",
+    "choices": [
+      "Presence of light",
+      "Absence of chlorophyll",
+      "High CO2",
+      "Warm temperature"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "Chlorophyll is essential."
+  },
+
+  {
+    "question": "Which process produces oxygen?",
+    "choices": [
+      "Respiration",
+      "Photolysis",
+      "Digestion",
+      "Fermentation"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Water splitting releases oxygen."
+  },
+
+  {
+    "question": "Which structure contains enzymes for dark reaction?",
+    "choices": [
+      "Grana",
+      "Stroma",
+      "Nucleus",
+      "Membrane"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Stroma has enzymes."
+  },
+
+  {
+    "question": "Which is NOT required for photosynthesis?",
+    "choices": [
+      "Light",
+      "Chlorophyll",
+      "Oxygen",
+      "Water"
+    ],
+    "answer": 2,
+    "chapter": "Photosynthesis",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "Oxygen is a product, not required."
+  },
+
+  {
+    "question": "<b>Assertion (A):</b> Photosynthesis produces oxygen.<br><b>Reason (R):</b> Oxygen is released during photolysis of water.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True and R is the correct explanation of A",
+      "Both A and R are True but R is not the correct explanation"
+    ],
+    "answer": 2,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Photolysis releases oxygen."
+  },
+
+  {
+    "question": "<b>Assertion (A):</b> Chlorophyll appears green.<br><b>Reason (R):</b> It reflects green light.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True and R is the correct explanation of A",
+      "Both A and R are True but R is not the correct explanation"
+    ],
+    "answer": 2,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Green light is reflected."
+  }   
 ]
