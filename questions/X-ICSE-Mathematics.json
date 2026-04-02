@@ -1687,5 +1687,2420 @@
     "category": "Conceptual",
     "complexity": "medium",
     "reason": "Inner dimensions match (1), outer dimensions (3 and 3) form the new order 3 × 3."
+  },
+  {
+    "question": "If sinθ = 3/5 and θ is acute, then cosθ =",
+    "choices": ["4/5", "5/4", "3/4", "√2/2"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "Application",
+    "complexity": "medium",
+    "solution": "cosθ = 4/5",
+    "reason": "Step 1: Use identity sin²θ + cos²θ = 1. Step 2: cos²θ = 1 - (3/5)² = 16/25. Step 3: cosθ = 4/5 (acute ⇒ positive)."
+  },
+  {
+    "question": "Evaluate: sin<sup>2</sup>θ + cos<sup>2</sup>θ",
+    "choices": ["0", "1", "2", "-1"],
+    "answer": 1,
+    "chapter": "Trignometry",
+    "category": "Recall",
+    "complexity": "low",
+    "solution": "1",
+    "reason": "Fundamental identity: sin²θ + cos²θ = 1."
+  },
+  {
+    "question": "Evaluate: (1 + tan<sup>2</sup>θ)",
+    "choices": ["secθ", "sec<sup>2</sup>θ", "cos<sup>2</sup>θ", "sin<sup>2</sup>θ"],
+    "answer": 1,
+    "chapter": "Trignometry",
+    "category": "Recall",
+    "complexity": "medium",
+    "solution": "sec²θ",
+    "reason": "Identity: 1 + tan²θ = sec²θ."
+  },
+  {
+    "question": "Evaluate: (sinθ / cosθ)",
+    "choices": ["cotθ", "tanθ", "secθ", "cosecθ"],
+    "answer": 1,
+    "chapter": "Trignometry",
+    "category": "Recall",
+    "complexity": "low",
+    "solution": "tanθ",
+    "reason": "Definition: tanθ = sinθ/cosθ."
+  },
+  {
+    "question": "Simplify: (1 - cos<sup>2</sup>θ)",
+    "choices": ["sin<sup>2</sup>θ", "cos<sup>2</sup>θ", "tanθ", "cotθ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "Recall",
+    "complexity": "medium",
+    "solution": "sin²θ",
+    "reason": "From sin²θ + cos²θ = 1 ⇒ 1 - cos²θ = sin²θ."
+  },
+  {
+    "question": "If tanθ = 3/4, find secθ (θ acute)",
+    "choices": ["5/4", "4/5", "3/5", "5/3"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "5/4",
+    "reason": "Triangle: opposite=3, adjacent=4 ⇒ hypotenuse=5. cosθ=4/5 ⇒ secθ=5/4."
+  },
+  {
+    "question": "Evaluate: (sinθ + cosθ)<sup>2</sup>",
+    "choices": ["1 + 2sinθcosθ", "1 - 2sinθcosθ", "1", "2"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "Application",
+    "complexity": "medium",
+    "solution": "1 + 2sinθcosθ",
+    "reason": "Expand and use identity sin²θ + cos²θ = 1."
+  },
+  {
+    "question": "Evaluate: (sinθ + cosθ)<sup>2</sup> - (sinθ - cosθ)<sup>2</sup>",
+    "choices": ["4sinθcosθ", "2", "0", "1"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "4sinθcosθ",
+    "reason": "(a+b)² - (a-b)² = 4ab."
+  },
+  {
+    "question": "Simplify: secθ - cosθ",
+    "choices": ["tanθ sinθ", "sinθ", "cosθ", "tanθ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "sinθ·tanθ",
+    "reason": "Convert to common denominator and use identity 1 - cos²θ = sin²θ."
+  },
+  {
+    "question": "Simplify: (sinθ / (1 + cosθ)) + ((1 + cosθ) / sinθ)",
+    "choices": ["2cosecθ", "2secθ", "2tanθ", "2cotθ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "2cosecθ",
+    "reason": "Take LCM, expand, apply sin²θ + cos²θ = 1, simplify."
+  },
+  {
+    "question": "Simplify: (1 - cosθ)/(1 + cosθ)",
+    "choices": ["tan<sup>2</sup>(θ/2)", "cot<sup>2</sup>(θ/2)", "sinθ", "cosθ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "tan²(θ/2)",
+    "reason": "Use identity transformation and rationalization."
+  },
+  {
+    "question": "If secθ + tanθ = p, then secθ - tanθ =",
+    "choices": ["1/p", "p", "p²", "0"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "1/p",
+    "reason": "(secθ + tanθ)(secθ - tanθ) = 1."
+  },
+  {
+    "question": "Evaluate: (1 - tan<sup>2</sup>θ)/(1 + tan<sup>2</sup>θ)",
+    "choices": ["cos2θ", "sin2θ", "cosθ", "secθ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "cos2θ",
+    "reason": "Standard identity."
+  },
+  {
+    "question": "If tanθ = 5/12, find sinθ",
+    "choices": ["5/13", "12/13", "13/5", "12/5"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "5/13",
+    "reason": "Triangle method."
+  },
+  {
+    "question": "Evaluate: cosecθ - sinθ",
+    "choices": ["cotθ cosθ", "cosθ", "sinθ", "tanθ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "cotθ cosθ",
+    "reason": "Use identity 1 - sin²θ = cos²θ."
+  },
+  {
+    "question": "Evaluate: (tanθ + cotθ)",
+    "choices": ["secθcosecθ", "1", "0", "sinθ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "secθcosecθ",
+    "reason": "Combine fractions and simplify."
+  },
+
+  {
+    "question": "Evaluate: (secθ + tanθ)(1 - sinθ)",
+    "choices": ["cosθ", "secθ", "1", "tanθ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "cosθ",
+    "reason": "Convert to (1+sinθ)/cosθ and simplify."
+  },
+  {
+    "question": "Simplify: (1 - sinθ)/(secθ - tanθ)",
+    "choices": ["cosθ", "1", "sinθ", "tanθ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "cosθ",
+    "reason": "Use identity secθ - tanθ = (1 - sinθ)/cosθ."
+  },
+  {
+    "question": "Evaluate: (tanθ + secθ)(tanθ - secθ)",
+    "choices": ["-1", "1", "tan²θ", "sec²θ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "-1",
+    "reason": "tan²θ - sec²θ = -1."
+  },
+  {
+    "question": "If sinθ + cosθ = √2 cosα, then α =",
+    "choices": ["θ - 45°", "θ + 45°", "45° - θ", "θ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "Advanced",
+    "complexity": "hard",
+    "solution": "θ - 45°",
+    "reason": "Use identity sinθ + cosθ = √2 cos(θ - 45°)."
+  },
+  {
+    "question": "Maximum value of sinθ + cosθ is",
+    "choices": ["√2", "1", "2", "0"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "solution": "√2",
+    "reason": "Occurs when θ = 45°."
+  },
+  {
+    "question": "Evaluate: sinθ cosθ in terms of sin2θ",
+    "choices": ["sin2θ/2", "2sin2θ", "sin2θ", "1"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "solution": "sin2θ/2",
+    "reason": "sin2θ = 2sinθcosθ."
+  },
+  {
+    "question": "If sinθ = 3/5 and θ is acute, then cosθ =",
+    "choices": [
+      "4/5",
+      "5/4",
+      "3/4",
+      "\u221a2/2"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "Application",
+    "complexity": "medium",
+    "solution": "cosθ = 4/5",
+    "reason": "Using sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #1: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #2: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #3: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #4: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #5: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #6: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #7: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #8: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #9: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #10: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #11: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #12: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #13: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #14: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #15: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #16: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #17: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #18: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #19: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #20: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #21: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #22: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #23: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #24: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #25: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #26: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #27: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #28: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #29: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #30: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #31: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #32: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #33: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #34: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #35: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #36: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #37: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #38: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #39: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "medium",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #40: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #41: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #42: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #43: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #44: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #45: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #46: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #47: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #48: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #49: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #50: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #51: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #52: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #53: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #54: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #55: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #56: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #57: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #58: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #59: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #60: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #61: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #62: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #63: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #64: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #65: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #66: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #67: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #68: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #69: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #70: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #71: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #72: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #73: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #74: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #75: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #76: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #77: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #78: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #79: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #80: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #81: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #82: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #83: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #84: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #85: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #86: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #87: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #88: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #89: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #90: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #91: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #92: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #93: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #94: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #95: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #96: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #97: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #98: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #99: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #100: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #101: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #102: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #103: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #104: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #105: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #106: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #107: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #108: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #109: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #110: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #111: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #112: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #113: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #114: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #115: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #116: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #117: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #118: (sinθ + cosθ)^2 - 1sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #119: (sinθ + cosθ)^2 - 2sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #120: (sinθ + cosθ)^2 - 0sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+  {
+    "question": "Simplify identity #121: (sinθ + cosθ)^2 - sinθcosθ",
+    "choices": [
+      "1 + sinθcosθ",
+      "1",
+      "1 + 2sinθcosθ",
+      "Depends on θ"
+    ],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "solution": "Expand (sinθ + cosθ)^2 = 1 + 2sinθcosθ and adjust.",
+    "reason": "Using expansion and identity sin\u00b2θ + cos\u00b2θ = 1."
+  },
+{
+    "question": "Simplify: (1 - sinθ)/(1 + sinθ)",
+    "choices": ["(1 - sinθ)^2 / cos^2θ", "tan^2θ", "cos^2θ", "1"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Multiply numerator and denominator by (1 - sinθ). Denominator becomes 1 - sin^2θ = cos^2θ. Hence result = (1 - sinθ)^2 / cos^2θ."
+  },
+  {
+    "question": "Evaluate: sin2θ/(1 + cos2θ)",
+    "choices": ["tanθ", "cotθ", "secθ", "cosecθ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Use sin2θ = 2sinθcosθ and 1 + cos2θ = 2cos^2θ. Simplify ⇒ (2sinθcosθ)/(2cos^2θ) = tanθ."
+  },
+  {
+    "question": "If cosθ = 4/5, find sinθ (θ acute)",
+    "choices": ["3/5", "4/5", "5/4", "√2/2"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "sin^2θ = 1 - cos^2θ = 1 - 16/25 = 9/25 ⇒ sinθ = 3/5 (acute ⇒ positive)."
+  },
+  {
+    "question": "Simplify: (secθ - tanθ)(secθ + tanθ)",
+    "choices": ["1", "-1", "sec^2θ", "tan^2θ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Use identity (a-b)(a+b) = a^2 - b^2 ⇒ sec^2θ - tan^2θ = 1."
+  },
+  {
+    "question": "Evaluate: (tanθ + cotθ)",
+    "choices": ["secθcosecθ", "1", "0", "sinθ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "tanθ + cotθ = sinθ/cosθ + cosθ/sinθ = (sin^2θ + cos^2θ)/(sinθcosθ) = 1/(sinθcosθ)."
+  },
+
+  {
+    "question": "Simplify: (1 - cos^2θ)/sinθ",
+    "choices": ["sinθ", "cosθ", "tanθ", "cotθ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "1 - cos^2θ = sin^2θ ⇒ sin^2θ/sinθ = sinθ."
+  },
+  {
+    "question": "If tanθ = 5/12, find cosθ",
+    "choices": ["12/13", "5/13", "13/12", "12/5"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Triangle: opposite=5, adjacent=12 ⇒ hypotenuse=13 ⇒ cosθ = 12/13."
+  },
+  {
+    "question": "Evaluate: (sinθ + cosθ)^2",
+    "choices": ["1 + 2sinθcosθ", "1", "2", "sinθcosθ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Expand: sin^2θ + cos^2θ + 2sinθcosθ = 1 + 2sinθcosθ."
+  },
+  {
+    "question": "Maximum value of sinθ + cosθ is",
+    "choices": ["√2", "1", "2", "0"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "sinθ + cosθ = √2 cos(θ - 45°). Maximum value is √2."
+  },
+  {
+    "question": "Evaluate: sinθcosθ in terms of sin2θ",
+    "choices": ["sin2θ/2", "sin2θ", "2sin2θ", "1"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "sin2θ = 2sinθcosθ ⇒ sinθcosθ = sin2θ/2."
+  },  
+{
+    "question": "Simplify: (1 + sinθ)/(1 - sinθ)",
+    "choices": ["(1 + sinθ)^2 / cos^2θ", "tan^2θ", "sec^2θ", "1"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Multiply numerator and denominator by (1 + sinθ). Denominator becomes 1 - sin^2θ = cos^2θ. Hence result = (1 + sinθ)^2 / cos^2θ."
+  },
+  {
+    "question": "Evaluate: (1 - cos2θ)/(1 + cos2θ)",
+    "choices": ["tan^2θ", "cot^2θ", "sin^2θ", "cos^2θ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Use identities: 1 - cos2θ = 2sin^2θ and 1 + cos2θ = 2cos^2θ ⇒ ratio = tan^2θ."
+  },
+  {
+    "question": "If sinθ = 8/17, find tanθ (θ acute)",
+    "choices": ["8/15", "15/8", "17/8", "15/17"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "sinθ = opposite/hypotenuse = 8/17 ⇒ adjacent = √(17^2 - 8^2) = 15 ⇒ tanθ = 8/15."
+  },
+  {
+    "question": "Simplify: (secθ + tanθ)^2 - (secθ - tanθ)^2",
+    "choices": ["4secθtanθ", "2", "0", "1"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Use (a+b)^2 - (a-b)^2 = 4ab ⇒ result = 4secθtanθ."
+  },
+  {
+    "question": "Evaluate: (cosθ / (1 - sinθ))",
+    "choices": ["secθ + tanθ", "secθ - tanθ", "tanθ", "cotθ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Multiply by (1 + sinθ)/(1 + sinθ): numerator = cosθ(1+sinθ), denominator = cos^2θ ⇒ result = (1+sinθ)/cosθ = secθ + tanθ."
+  },
+  {
+    "question": "Evaluate: (cosθ / (1 + sinθ))",
+    "choices": ["secθ - tanθ", "secθ + tanθ", "tanθ", "cotθ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Multiply by (1 - sinθ)/(1 - sinθ): denominator = cos^2θ ⇒ result = (1 - sinθ)/cosθ = secθ - tanθ."
+  },
+  {
+    "question": "If secθ = 13/5, find tanθ",
+    "choices": ["12/5", "5/12", "13/12", "12/13"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "secθ = hypotenuse/base = 13/5 ⇒ base=5, hypotenuse=13 ⇒ opposite=12 ⇒ tanθ = 12/5."
+  },
+  {
+    "question": "Evaluate: (sinθ / (1 + cosθ))",
+    "choices": ["(1 - cosθ)/sinθ", "tanθ", "cotθ", "secθ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Multiply by (1 - cosθ)/(1 - cosθ): denominator becomes sin^2θ ⇒ result = (1 - cosθ)/sinθ."
+  },
+  {
+    "question": "Simplify: (sinθ - cosθ)^2",
+    "choices": ["1 - 2sinθcosθ", "1 + 2sinθcosθ", "1", "0"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Expand: sin^2θ + cos^2θ - 2sinθcosθ = 1 - 2sinθcosθ."
+  },
+  {
+    "question": "Evaluate: (1 / (secθ + tanθ))",
+    "choices": ["secθ - tanθ", "secθ + tanθ", "tanθ", "cotθ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Using identity (secθ + tanθ)(secθ - tanθ) = 1 ⇒ reciprocal = secθ - tanθ."
+  },
+
+  {
+    "question": "Evaluate: sin2θ / cos2θ",
+    "choices": ["tan2θ", "tanθ", "cotθ", "secθ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "sin2θ / cos2θ = tan2θ."
+  },
+  {
+    "question": "If tanθ = 7/24, find secθ",
+    "choices": ["25/24", "24/25", "7/25", "25/7"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Triangle: opposite=7, adjacent=24 ⇒ hypotenuse=25 ⇒ secθ = hypotenuse/base = 25/24."
+  },
+  {
+    "question": "Simplify: (1 - tan^2θ)/(1 + tan^2θ)",
+    "choices": ["cos2θ", "sin2θ", "tanθ", "secθ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Standard identity: (1 - tan^2θ)/(1 + tan^2θ) = cos2θ."
+  },
+  {
+    "question": "Evaluate: cos2θ in terms of tanθ",
+    "choices": ["(1 - tan^2θ)/(1 + tan^2θ)", "tan^2θ", "1 + tan^2θ", "sec^2θ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Derived identity: cos2θ = (1 - tan^2θ)/(1 + tan^2θ)."
+  },
+  {
+    "question": "Evaluate: (sec^2θ - 1)",
+    "choices": ["tan^2θ", "cot^2θ", "sin^2θ", "cos^2θ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Identity: sec^2θ - 1 = tan^2θ."
+  },
+  {
+    "question": "Simplify: (secθ + tanθ)^2 + (secθ - tanθ)^2",
+    "choices": ["2(sec^2θ + tan^2θ)", "2", "4secθtanθ", "0"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Expand both: sec^2θ + tan^2θ + 2secθtanθ and sec^2θ + tan^2θ - 2secθtanθ. Adding cancels cross terms ⇒ 2(sec^2θ + tan^2θ)."
+  },
+  {
+    "question": "Evaluate: (sinθ + cosθ)/(sinθ - cosθ)",
+    "choices": ["(1 + tanθ)/(1 - tanθ)", "(1 - tanθ)/(1 + tanθ)", "tanθ", "cotθ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Divide numerator and denominator by cosθ ⇒ (tanθ + 1)/(tanθ - 1) ⇒ rearranged as (1 + tanθ)/(1 - tanθ)."
+  },
+  {
+    "question": "Evaluate: (1 + sinθ + cosθ)/(1 - sinθ - cosθ)",
+    "choices": ["(secθ + tanθ)^2", "(secθ - tanθ)^2", "1", "tan^2θ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Use substitution and rationalization with (secθ + tanθ) identities; expression simplifies to square form."
+  },
+  {
+    "question": "If sinθ - cosθ = 1/2, find sinθcosθ",
+    "choices": ["3/8", "1/4", "1/2", "0"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Square both sides: sin^2θ + cos^2θ - 2sinθcosθ = 1/4 ⇒ 1 - 2sinθcosθ = 1/4 ⇒ sinθcosθ = 3/8."
+  },
+  {
+    "question": "Evaluate: (sin^4θ + cos^4θ)",
+    "choices": ["1 - 2sin^2θcos^2θ", "1", "2", "sin^2θ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Use identity: a^4 + b^4 = (a^2 + b^2)^2 - 2a^2b^2 ⇒ result = 1 - 2sin^2θcos^2θ."
+  },
+  {
+    "question": "Evaluate: (tan^2θ + 1)/(sec^2θ)",
+    "choices": ["1", "tan^2θ", "sec^2θ", "0"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "tan^2θ + 1 = sec^2θ ⇒ ratio = 1."
+  },
+  {
+    "question": "Evaluate: (cosθ - sinθ)/(cosθ + sinθ)",
+    "choices": ["(1 - tanθ)/(1 + tanθ)", "(1 + tanθ)/(1 - tanθ)", "tanθ", "cotθ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Divide by cosθ ⇒ (1 - tanθ)/(1 + tanθ)."
+  },
+  {
+    "question": "Evaluate: (secθ + tanθ)^2",
+    "choices": ["sec^2θ + tan^2θ + 2secθtanθ", "1", "2", "sec^2θ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Use (a+b)^2 expansion."
+  },
+  {
+    "question": "If sinθ = cosθ, then θ =",
+    "choices": ["45°", "30°", "60°", "90°"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "sinθ = cosθ ⇒ tanθ = 1 ⇒ θ = 45° (first quadrant)."
+  },
+  {
+    "question": "Evaluate: (sinθ + cosθ)^2 + (sinθ - cosθ)^2",
+    "choices": ["2", "1", "0", "4"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Expand both: sum = 2(sin^2θ + cos^2θ) = 2."
+  },
+
+  {
+    "question": "Evaluate: secθ - tanθ when secθ + tanθ = 5",
+    "choices": ["1/5", "5", "25", "0"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "(secθ + tanθ)(secθ - tanθ) = 1 ⇒ secθ - tanθ = 1/5."
+  },
+  {
+    "question": "Evaluate: (1 + tanθ)/(1 - tanθ)",
+    "choices": ["tan(45° + θ)", "tanθ", "cotθ", "secθ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Standard identity: tan(45° + θ) = (1 + tanθ)/(1 - tanθ)."
+  },
+  {
+    "question": "Evaluate: sin^2θ - cos^2θ",
+    "choices": ["-cos2θ", "cos2θ", "sin2θ", "1"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "cos2θ = cos^2θ - sin^2θ ⇒ sin^2θ - cos^2θ = -cos2θ."
+  },
+  {
+    "question": "Evaluate: (sinθcosθ)/(sin^2θ + cos^2θ)",
+    "choices": ["sinθcosθ", "1", "0", "tanθ"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Denominator = 1 ⇒ result = sinθcosθ."
+  },
+  {
+    "question": "Evaluate: (1 + cot^2θ)",
+    "choices": ["cosec^2θ", "sec^2θ", "tan^2θ", "1"],
+    "answer": 0,
+    "chapter": "Trignometry",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Identity: 1 + cot^2θ = cosec^2θ."
   }
+  
 ]
