@@ -1,6 +1,8 @@
 {
   "files": [
     "X-ICSE-Biology.json",
-    "X-ICSE-Mathematics.json"
+	"X-ICSE-Unit1_CommercialMathematics.json",
+	"X-ICSE-Unit2_Algebra.json",
+	"X-ICSE-Unit5-Trignometry.json"
   ]
 }

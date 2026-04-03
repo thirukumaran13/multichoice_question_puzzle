@@ -1,0 +1,632 @@
+[
+  {
+    "question": "A man buys 50 shares of a company with a nominal value of ₹100 each at par. Calculate the total amount he invested.",
+    "choices": [
+      "₹500",
+      "₹5,000",
+      "₹5,100",
+      "₹1,000"
+    ],
+    "answer": 1,
+    "chapter": "Shares and Dividends",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Formula: Investment = Number of shares × Market Value (M.V.). At par, M.V. = Nominal Value (N.V.) = ₹100. Investment = 50 × 100 = ₹5,000."
+  },
+  {
+    "question": "Find the cost of purchasing 200 shares of nominal value ₹10 each, quoted at a premium of ₹2.",
+    "choices": [
+      "₹2,000",
+      "₹2,400",
+      "₹1,600",
+      "₹400"
+    ],
+    "answer": 1,
+    "chapter": "Shares and Dividends",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Formula: M.V. = N.V. + Premium. M.V. = 10 + 2 = ₹12. Cost = Number of shares × M.V. = 200 × 12 = ₹2,400."
+  },
+  {
+    "question": "A company declares a dividend of 12% on its shares of nominal value ₹50. Find the annual income of a person owning 80 such shares.",
+    "choices": [
+      "₹480",
+      "₹960",
+      "₹4,000",
+      "₹600"
+    ],
+    "answer": 0,
+    "chapter": "Shares and Dividends",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Formula: Annual Income = Number of shares × Dividend % × N.V. Income = 80 × (12/100) × 50 = ₹480. Note: Dividend is always on N.V."
+  },
+  {
+    "question": "How many shares of nominal value ₹100 can be bought for ₹9,000 if the shares are at a discount of 10%?",
+    "choices": [
+      "90",
+      "100",
+      "81",
+      "110"
+    ],
+    "answer": 1,
+    "chapter": "Shares and Dividends",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Formula: M.V. = N.V. - Discount. M.V. = 100 - (10% of 100) = ₹90. Number of shares = Total Investment / M.V. = 9000 / 90 = 100."
+  },
+  {
+    "question": "A man invests ₹6,750 in ₹100 shares quoted at ₹135. Find the number of shares bought.",
+    "choices": [
+      "40",
+      "50",
+      "60",
+      "45"
+    ],
+    "answer": 1,
+    "chapter": "Shares and Dividends",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Formula: Number of shares = Investment / M.V. Number of shares = 6750 / 135 = 50."
+  },
+  {
+    "question": "Find the annual dividend on 450 shares of ₹10 each if the dividend quoted is 8%.",
+    "choices": [
+      "₹360",
+      "₹450",
+      "₹36",
+      "₹80"
+    ],
+    "answer": 0,
+    "chapter": "Shares and Dividends",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Formula: Annual Dividend = Number of shares × Dividend % × N.V. Dividend = 450 × (8/100) × 10 = ₹360."
+  },
+  {
+    "question": "A share of nominal value ₹100 is available at a premium of 20%. Find the market value of 25 such shares.",
+    "choices": [
+      "₹2,500",
+      "₹3,000",
+      "₹2,000",
+      "₹120"
+    ],
+    "answer": 1,
+    "chapter": "Shares and Dividends",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Formula: M.V. per share = N.V. + Premium%. M.V. = 100 + 20 = ₹120. Total Value = 25 × 120 = ₹3,000."
+  },
+  {
+    "question": "If a man receives ₹1,680 as annual income from ₹100 shares paying 14% dividend, how many shares does he hold?",
+    "choices": [
+      "100",
+      "120",
+      "140",
+      "168"
+    ],
+    "answer": 1,
+    "chapter": "Shares and Dividends",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Formula: Income per share = Dividend % × N.V. Income/share = 0.14 × 100 = ₹14. Total shares = Total Income / Income per share = 1680 / 14 = 120."
+  },
+  {
+    "question": "A company with 10,000 shares of ₹100 each declares an annual dividend of 5%. What is the total amount of dividend paid by the company?",
+    "choices": [
+      "₹5,000",
+      "₹50,000",
+      "₹5,00,000",
+      "₹10,00,000"
+    ],
+    "answer": 1,
+    "chapter": "Shares and Dividends",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Formula: Total Dividend = (Total Number of Shares × N.V.) × Dividend %. Total = (10,000 × 100) × 0.05 = ₹50,000."
+  },
+  {
+    "question": "Find the percentage return on an investment in 15% ₹100 shares bought at ₹125.",
+    "choices": [
+      "12%",
+      "15%",
+      "18%",
+      "10%"
+    ],
+    "answer": 0,
+    "chapter": "Shares and Dividends",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Formula: Return % = (Income per share / M.V. per share) × 100. Income = 15% of 100 = ₹15. Return % = (15 / 125) × 100 = 12%."
+  },
+  {
+    "question": "Mr. Sharma sells 60 shares of N.V. ₹100 at a premium of 60%. Find the sale proceeds.",
+    "choices": [
+      "₹6,000",
+      "₹9,600",
+      "₹3,600",
+      "₹10,000"
+    ],
+    "answer": 1,
+    "chapter": "Shares and Dividends",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Formula: Sale Proceeds = Number of shares × M.V. M.V. = 100 + (60% of 100) = ₹160. Proceeds = 60 × 160 = ₹9,600."
+  },
+  {
+    "question": "What is the market value of a ₹50 share quoted at 4% discount?",
+    "choices": [
+      "₹46",
+      "₹48",
+      "₹54",
+      "₹52"
+    ],
+    "answer": 1,
+    "chapter": "Shares and Dividends",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Formula: M.V. = N.V. - Discount%. M.V. = 50 - (4/100 × 50) = 50 - 2 = ₹48."
+  },
+  {
+    "question": "A man buys 400 twenty-rupee shares at a premium of ₹4. Calculate the amount invested.",
+    "choices": [
+      "₹8,000",
+      "₹9,600",
+      "₹1,600",
+      "₹6,400"
+    ],
+    "answer": 1,
+    "chapter": "Shares and Dividends",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Formula: M.V. = N.V. + Premium. M.V. = 20 + 4 = ₹24. Investment = 400 × 24 = ₹9,600."
+  },
+  {
+    "question": "If a lady holds 1,800 shares of ₹100 each and the company pays 15% dividend, calculate her annual dividend.",
+    "choices": [
+      "₹27,000",
+      "₹18,000",
+      "₹15,000",
+      "₹2,700"
+    ],
+    "answer": 0,
+    "chapter": "Shares and Dividends",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Formula: Annual Dividend = Number of shares × Dividend % × N.V. Dividend = 1800 × 100 × 0.15 = ₹27,000."
+  },
+  {
+    "question": "A man invested ₹45,000 in shares of a company. If the face value of a share is ₹100 and the market value is ₹125, find the number of shares he purchased.",
+    "choices": [
+      "450",
+      "360",
+      "500",
+      "400"
+    ],
+    "answer": 1,
+    "chapter": "Shares and Dividends",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Formula: Number of shares = Investment / M.V. Number of shares = 45000 / 125 = 360."
+  },
+  {
+    "question": "Find the income derived from 88 shares of N.V. ₹25 if the dividend is 5%.",
+    "choices": [
+      "₹110",
+      "₹440",
+      "₹11",
+      "₹2,200"
+    ],
+    "answer": 0,
+    "chapter": "Shares and Dividends",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Formula: Income = Number of shares × Dividend % × N.V. Income = 88 × 25 × 0.05 = ₹110."
+  },
+  {
+    "question": "A man buys shares of face value ₹50 at a certain price. If he receives a 10% dividend and it amounts to an 8% return on his investment, find the market value of the share.",
+    "choices": [
+      "₹60",
+      "₹62.50",
+      "₹50",
+      "₹58"
+    ],
+    "answer": 1,
+    "chapter": "Shares and Dividends",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Formula: Dividend % on N.V. = Profit % on M.V. (10/100 × 50) = (8/100 × M.V.). 5 = 0.08 × M.V. ⇒ M.V. = 5 / 0.08 = ₹62.50."
+  },
+  {
+    "question": "Calculate the number of ₹60 shares bought for ₹14,400 when they are at a premium of 20%.",
+    "choices": [
+      "240",
+      "200",
+      "150",
+      "100"
+    ],
+    "answer": 1,
+    "chapter": "Shares and Dividends",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Formula: M.V. = N.V. + Premium%. M.V. = 60 + (20% of 60) = ₹72. Number of shares = 14400 / 72 = 200."
+  },
+  {
+    "question": "A man invests in ₹25 shares of a company paying 12% dividend. If his annual income is ₹720, find the number of shares.",
+    "choices": [
+      "200",
+      "240",
+      "300",
+      "250"
+    ],
+    "answer": 1,
+    "chapter": "Shares and Dividends",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Formula: Income per share = Dividend % × N.V. Income/share = 0.12 × 25 = ₹3. Number of shares = 720 / 3 = 240."
+  },
+  {
+    "question": "What is the market value of 120 shares of N.V. ₹100 if they are sold at a discount of 5%?",
+    "choices": [
+      "₹12,000",
+      "₹11,400",
+      "₹600",
+      "₹12,600"
+    ],
+    "answer": 1,
+    "chapter": "Shares and Dividends",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Formula: Total M.V. = Number of shares × (N.V. - Discount%). M.V. per share = 100 - 5 = ₹95. Total = 120 × 95 = ₹11,400."
+  },
+  {
+    "question": "A wholesaler sells a product to a retailer for ₹5,000. The retailer then sells it to a consumer at a profit of ₹1,000. If the GST rate is 12%, calculate the GST paid by the retailer to the government.",
+    "choices": [
+      "₹120",
+      "₹600",
+      "₹720",
+      "₹100"
+    ],
+    "answer": 0,
+    "chapter": "GST [Goods and Services Tax]",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Formula: GST Liability = GST on Profit (or Output Tax - Input Tax). GST on Profit = 12% of 1,000 = ₹120."
+  },
+  {
+    "question": "An article is marked at ₹12,500. A dealer allows a discount of 20% on the marked price. If the GST rate is 18%, find the amount the consumer pays for the article.",
+    "choices": [
+      "₹10,000",
+      "₹11,800",
+      "₹12,500",
+      "₹14,750"
+    ],
+    "answer": 1,
+    "chapter": "GST [Goods and Services Tax]",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Formula: Selling Price (S.P.) = Marked Price - Discount. S.P. = 12,500 - 2,500 = ₹10,000. Total = S.P. + (GST% of S.P.) = 10,000 + 1,800 = ₹11,800."
+  },
+  {
+    "question": "In an intra-state transaction, a shopkeeper sells goods worth ₹8,000 to a consumer. If the GST rate is 5%, calculate the SGST amount.",
+    "choices": [
+      "₹400",
+      "₹200",
+      "₹100",
+      "₹50"
+    ],
+    "answer": 1,
+    "chapter": "GST [Goods and Services Tax]",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Formula: SGST = CGST = 1/2 × Total GST. Total GST = 5% of 8,000 = ₹400. SGST = 400 / 2 = ₹200."
+  },
+  {
+    "question": "A manufacturer sells a TV to a dealer for ₹25,000. The dealer sells it to a consumer at a 10% profit. If the transaction is inter-state and the GST rate is 28%, find the IGST paid by the dealer.",
+    "choices": [
+      "₹7,000",
+      "₹7,700",
+      "₹700",
+      "₹2,500"
+    ],
+    "answer": 2,
+    "chapter": "GST [Goods and Services Tax]",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Formula: IGST Liability = Output IGST - Input IGST. Profit = 10% of 25,000 = 2,500. Tax on Profit = 28% of 2,500 = ₹700."
+  },
+  {
+    "question": "The cost of services provided by an IT firm is ₹15,000. If the CGST is ₹1,350, find the total GST percentage rate.",
+    "choices": [
+      "9%",
+      "12%",
+      "18%",
+      "28%"
+    ],
+    "answer": 2,
+    "chapter": "GST [Goods and Services Tax]",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Formula: Total GST = CGST + SGST. Since CGST = SGST, Total GST = 1,350 × 2 = ₹2,700. Rate = (Total GST / Cost) × 100 = (2,700 / 15,000) × 100 = 18%."
+  },
+  {
+    "question": "A dealer buys an article for ₹6,000 and sells it for ₹7,200. If the GST rate is 12%, find the Input Tax Credit (ITC) for the dealer.",
+    "choices": [
+      "₹720",
+      "₹864",
+      "₹144",
+      "₹6,000"
+    ],
+    "answer": 0,
+    "chapter": "GST [Goods and Services Tax]",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Formula: ITC = GST paid on purchase (Input Tax). ITC = 12% of 6,000 = ₹720."
+  },
+  {
+    "question": "A shopkeeper buys a camera from a wholesaler for ₹20,000 and sells it to a consumer at the listed price of ₹24,000. If the GST rate is 18%, find the CGST and SGST paid by the shopkeeper to the government.",
+    "choices": [
+      "₹360 each",
+      "₹720 each",
+      "₹180 each",
+      "₹2,160 each"
+    ],
+    "answer": 0,
+    "chapter": "GST [Goods and Services Tax]",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Formula: Tax Paid = GST on (S.P. - C.P.). Profit = 4,000. Total GST = 18% of 4,000 = ₹720. CGST = SGST = 720 / 2 = ₹360."
+  },
+  {
+    "question": "For a trader, the Input Tax is ₹450 and the Output Tax is ₹600. What is his tax liability?",
+    "choices": [
+      "₹1,050",
+      "₹600",
+      "₹450",
+      "₹150"
+    ],
+    "answer": 3,
+    "chapter": "GST [Goods and Services Tax]",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Formula: Tax Liability = Output Tax - Input Tax. Liability = 600 - 450 = ₹150."
+  },
+  {
+    "question": "Find the total bill amount for a consultation fee of ₹2,500 if the GST rate is 18%.",
+    "choices": [
+      "₹2,950",
+      "₹2,500",
+      "₹450",
+      "₹3,000"
+    ],
+    "answer": 0,
+    "chapter": "GST [Goods and Services Tax]",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Formula: Total Bill = Original Cost + GST. GST = 18% of 2,500 = ₹450. Bill = 2,500 + 450 = ₹2,950."
+  },
+  {
+    "question": "A product is sold from Delhi to Jaipur for ₹10,000. If the GST rate is 12%, which tax is applicable?",
+    "choices": [
+      "CGST + SGST",
+      "IGST",
+      "Only CGST",
+      "Only SGST"
+    ],
+    "answer": 1,
+    "chapter": "GST [Goods and Services Tax]",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Concept: Inter-state transactions (between different states) attract Integrated GST (IGST)."
+  },
+  {
+    "question": "If a person deposits ₹1,500 per month in a Recurring Deposit account for 2 years, what is the total sum deposited?",
+    "choices": [
+      "₹18,000",
+      "₹30,000",
+      "₹36,000",
+      "₹45,000"
+    ],
+    "answer": 2,
+    "chapter": "Banking",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Formula: Total Deposited = P × n. Here, P = 1500, n = 2 × 12 = 24 months. Total = 1500 × 24 = 36,000."
+  },
+  {
+    "question": "Calculate the interest earned on a monthly instalment of ₹1,000 for 12 months at an interest rate of 8% p.a.",
+    "choices": [
+      "₹480",
+      "₹520",
+      "₹560",
+      "₹600"
+    ],
+    "answer": 1,
+    "chapter": "Banking",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Formula: I = P × [n(n+1)/(2 × 12)] × (r/100). I = 1000 × [12(13)/24] × (8/100) = 1000 × 6.5 × 0.08 = 520."
+  },
+  {
+    "question": "Find the maturity value of an R.D. account where ₹500 is deposited monthly for 18 months and the total interest earned is ₹675.",
+    "choices": [
+      "₹9,000",
+      "₹9,675",
+      "₹10,500",
+      "₹8,325"
+    ],
+    "answer": 1,
+    "chapter": "Banking",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Formula: M.V. = (P × n) + I. M.V. = (500 × 18) + 675 = 9,000 + 675 = 9,675."
+  },
+  {
+    "question": "An under-construction flat costs ₹40,00,000. If the GST rate is 1%, calculate the total amount to be paid including tax.",
+    "choices": [
+      "₹40,40,000",
+      "₹41,00,000",
+      "₹40,04,000",
+      "₹44,00,000"
+    ],
+    "answer": 0,
+    "chapter": "Banking",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Formula: Total = Cost + (Rate% of Cost). GST = 1% of 40,00,000 = 40,000. Total = 40,00,000 + 40,000 = 40,40,000."
+  },
+  {
+    "question": "For a flat costing ₹80,00,000 with a GST rate of 3%, what is the GST amount?",
+    "choices": [
+      "₹24,000",
+      "₹2,40,000",
+      "₹24,00,000",
+      "₹80,000"
+    ],
+    "answer": 1,
+    "chapter": "Banking",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Formula: GST = (Rate/100) × Cost. GST = (3/100) × 80,00,000 = 2,40,000."
+  },
+  {
+    "question": "Peter purchased a flat for ₹96,84,000. The builder offered a discount of ₹4,50,000 before taxes. What is the new price to be used for GST calculation?",
+    "choices": [
+      "₹92,34,000",
+      "₹1,01,34,000",
+      "₹96,00,000",
+      "₹91,84,000"
+    ],
+    "answer": 0,
+    "chapter": "Banking",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Formula: Taxable Value = Marked Price - Discount. Value = 96,84,000 - 4,50,000 = 92,34,000."
+  },
+  {
+    "question": "Calculate the 'Qualifying Sum' (equivalent principal for one month) for an R.D. of ₹2,000 per month for 6 months.",
+    "choices": [
+      "₹12,000",
+      "₹21,000",
+      "₹42,000",
+      "₹84,000"
+    ],
+    "answer": 2,
+    "chapter": "Banking",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Formula: Qualifying Sum = P × [n(n+1)/2]. Sum = 2000 × [6(7)/2] = 2000 × 21 = 42,000."
+  },
+  {
+    "question": "If a man receives ₹16,100 at maturity for a 1-year R.D. where he deposited ₹1,200 monthly, find the total interest earned.",
+    "choices": [
+      "₹1,700",
+      "₹1,100",
+      "₹1,200",
+      "₹2,400"
+    ],
+    "answer": 0,
+    "chapter": "Banking",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Formula: I = M.V. - (P × n). Total deposited = 1200 × 12 = 14,400. Interest = 16,100 - 14,400 = 1,700."
+  },
+  {
+    "question": "A flat is ready-to-move-in and costs ₹89,00,000. How much GST is payable on this purchase?",
+    "choices": [
+      "₹2,67,000",
+      "₹89,000",
+      "₹0",
+      "₹4,45,000"
+    ],
+    "answer": 2,
+    "chapter": "Banking",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Concept: Ready-to-move-in flats (completed) are exempt from GST. Tax = 0% of 89,00,000 = 0."
+  },
+  {
+    "question": "If n = 24 months and the interest rate is 10% p.a., find the factor [n(n+1)/(2*12)] used in the interest formula.",
+    "choices": [
+      "24",
+      "25",
+      "300",
+      "600"
+    ],
+    "answer": 1,
+    "chapter": "Banking",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Formula: Factor = [n(n+1)] / 24. For n = 24, Factor = [24 × 25] / 24 = 25."
+  },
+  {
+    "question": "Mr. Ahuja deposited ₹500 per month for 3 years and received ₹20,220 at maturity. What was the total amount he deposited?",
+    "choices": [
+      "₹15,000",
+      "₹18,000",
+      "₹20,000",
+      "₹1,500"
+    ],
+    "answer": 1,
+    "chapter": "Banking",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Formula: Sum = P × n. n = 3 × 12 = 36 months. Sum = 500 × 36 = 18,000."
+  },
+  {
+    "question": "If a flat worth ₹35,00,000 is under-construction, what is the GST at a 1% rate?",
+    "choices": [
+      "₹3,500",
+      "₹35,000",
+      "₹3,50,000",
+      "₹1,000"
+    ],
+    "answer": 1,
+    "chapter": "Banking",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Formula: GST = Cost × (1/100). GST = 35,00,000 × 0.01 = 35,000."
+  },
+  {
+    "question": "A bank offers 12% p.a. interest. What is the interest for one month on a principal of ₹1,000?",
+    "choices": [
+      "₹120",
+      "₹10",
+      "₹12",
+      "₹1"
+    ],
+    "answer": 1,
+    "chapter": "Banking",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Formula: I = (P × r × t) / 100. For one month, t = 1/12 years. I = (1000 × 12 × 1/12) / 100 = 1000 / 100 = 10."
+  },
+  {
+    "question": "Calculate the maturity value if P = ₹2,000, n = 10 months, and total interest is ₹550.",
+    "choices": [
+      "₹20,550",
+      "₹22,000",
+      "₹2,550",
+      "₹10,550"
+    ],
+    "answer": 0,
+    "chapter": "Banking",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Formula: M.V. = (P × n) + I. M.V. = (2000 × 10) + 550 = 20,000 + 550 = 20,550."
+  },
+  {
+    "question": "If an R.D. interest is ₹780 for 2 years with a monthly deposit of ₹500, find the interest for 1 year with the same deposit and rate.",
+    "choices": [
+      "₹390",
+      "Less than ₹390",
+      "More than ₹390",
+      "₹195"
+    ],
+    "answer": 1,
+    "chapter": "Banking",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Formula: I ∝ n(n+1). Interest is not linear. For 2 years (n=24), Factor = 24*25/24 = 25. For 1 year (n=12), Factor = 12*13/24 = 6.5. 6.5 is less than half of 25 (12.5), so interest is less than 390."
+  }
+]
