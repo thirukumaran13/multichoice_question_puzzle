@@ -1,0 +1,1010 @@
+[  
+  {
+    "question": "The hormone that induces vigorous contractions of the uterus in a pregnant mother is:",
+    "choices": [
+      "Oestrogen",
+      "Prolactin",
+      "Oxytocin",
+      "Progesterone"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Oxytocin is the hormone responsible for stimulating strong uterine contractions during labour and childbirth."
+  },
+  {
+    "question": "The hormone that affects urination is:",
+    "choices": [
+      "Adrenaline",
+      "Vasopressin",
+      "Oestrogen",
+      "Thyroxine"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Vasopressin is produced by the posterior pituitary gland. Also known as ADH (Anti-diuretic hormone), it plays a role in reabsorption of water in kidneys."
+  },
+  {
+    "question": "Gigantism and Acromegaly are due to:",
+    "choices": [
+      "Hypersecretion of Growth hormone",
+      "Hypersecretion of Thyroxine",
+      "Hyposecretion of Growth hormone",
+      "Hyposecretion of Thyroxine"
+    ],
+    "answer": 0,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Acromegaly and Gigantism are disorders in which the pituitary gland produces too much Growth hormone."
+  },
+  {
+    "question": "Islets of Langerhans are located in:",
+    "choices": [
+      "Liver",
+      "Pituitary gland",
+      "Spleen",
+      "Pancreas"
+    ],
+    "answer": 3,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Islets of Langerhans are endocrine cells present in the Pancreas. They have three types of cells: alpha, beta and delta cells."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Deficiency of Antidiuretic hormone causes an increase in urination.<br><b>Reason (R):</b> Antidiuretic hormone acts on the kidney to reabsorb water from the kidney tubules.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are False"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "ADH helps the kidneys reabsorb water, so less urine is made. If there is not enough ADH, water is not reabsorbed properly, causing more urine to be produced — so both A and R are true."
+  },
+  {
+    "question": "Observe the following picture. Identify the defect and the cause of the defect.<br><img src=\"questions/images/X-ICSE-Biology/image001.jpg\" alt=\"Goitre image\" style=\"max-width:280px\" />",
+    "choices": [
+      "Simple goitre, under secretion of thyroxine.",
+      "Ex-ophthalmic goitre, over secretion of thyroxine.",
+      "Simple goitre, over secretion of thyroxine.",
+      "Ex-ophthalmic goitre, under secretion of thyroxine."
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Ex-ophthalmic goitre is caused by the over secretion of thyroxine hormone from the thyroid gland. It results in symptoms like protruding eyes, increased metabolism, and swelling in the neck (goitre)."
+  },
+  {
+    "question": "Which endocrine gland is referred to as the 'master gland'?",
+    "choices": [
+      "Thyroid gland",
+      "Adrenal gland",
+      "Pituitary gland",
+      "Pancreas"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The pituitary gland is called the master gland because it secretes hormones that regulate and control the activity of most other endocrine glands in the body."
+  },
+  {
+    "question": "Insulin is secreted by which cells of the Pancreas?",
+    "choices": [
+      "Alpha cells",
+      "Beta cells",
+      "Delta cells",
+      "Acinar cells"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Beta cells of the Islets of Langerhans in the pancreas secrete insulin, which lowers blood sugar by promoting glucose uptake and storing it as glycogen."
+  },
+  {
+    "question": "Glucagon is secreted by which cells of the Islets of Langerhans?",
+    "choices": [
+      "Beta cells",
+      "Delta cells",
+      "Alpha cells",
+      "Gamma cells"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Alpha cells of the Islets of Langerhans secrete glucagon, which raises blood sugar by promoting the breakdown of glycogen (glycogenolysis) in the liver."
+  },
+  {
+    "question": "Dwarfism in a child is caused by:",
+    "choices": [
+      "Hypersecretion of Growth hormone",
+      "Hyposecretion of Thyroxine",
+      "Hyposecretion of Growth hormone",
+      "Hypersecretion of Insulin"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Dwarfism results from hyposecretion (under-secretion) of Growth hormone during childhood, causing the person to have stunted growth and proportionally small stature."
+  },
+  {
+    "question": "Cretinism is caused by:",
+    "choices": [
+      "Hypersecretion of Growth hormone in childhood",
+      "Hyposecretion of Thyroxine in children",
+      "Hyposecretion of Insulin",
+      "Hypersecretion of ADH"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Cretinism is a condition caused by deficiency (hyposecretion) of thyroxine in infants and young children. It leads to stunted physical and mental growth."
+  },
+  {
+    "question": "Myxoedema is caused by:",
+    "choices": [
+      "Hypersecretion of Thyroxine in adults",
+      "Hyposecretion of Growth hormone in adults",
+      "Hyposecretion of Thyroxine in adults",
+      "Hypersecretion of Insulin"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Myxoedema is caused by hyposecretion of thyroxine in adults. It leads to low metabolic rate, weight gain, swelling of the skin, and mental sluggishness."
+  },
+  {
+    "question": "Which hormone is called the 'emergency hormone' or 'fight-or-flight hormone'?",
+    "choices": [
+      "Thyroxine",
+      "Insulin",
+      "Oxytocin",
+      "Adrenaline"
+    ],
+    "answer": 3,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Adrenaline (Epinephrine), secreted by the adrenal medulla, is called the emergency hormone because it prepares the body for any emergency by increasing heart rate, blood pressure, and blood sugar levels."
+  },
+  {
+    "question": "Simple goitre is caused by:",
+    "choices": [
+      "Oversecretion of thyroxine",
+      "Deficiency of iodine in diet",
+      "Deficiency of calcium in diet",
+      "Hypersecretion of Growth hormone"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Simple goitre is caused by a deficiency of iodine in the diet. Without iodine, the thyroid gland cannot synthesise thyroxine and compensates by enlarging, causing a visible swelling in the neck."
+  },
+  {
+    "question": "Diabetes mellitus is caused by:",
+    "choices": [
+      "Hyposecretion of ADH",
+      "Hypersecretion of Glucagon",
+      "Hyposecretion of Insulin",
+      "Hypersecretion of Thyroxine"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Diabetes mellitus is caused by insufficient secretion of insulin by the beta cells of the pancreas, resulting in high blood sugar levels (hyperglycaemia) and glucose appearing in the urine."
+  },
+  {
+    "question": "Which of the following is a mixed gland (both exocrine and endocrine)?",
+    "choices": [
+      "Thyroid gland",
+      "Pituitary gland",
+      "Adrenal gland",
+      "Pancreas"
+    ],
+    "answer": 3,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The pancreas is a mixed gland. Its exocrine part secretes digestive enzymes into the duodenum, while its endocrine part (Islets of Langerhans) secretes hormones like insulin and glucagon directly into the blood."
+  },
+  {
+    "question": "Where are the adrenal glands located?",
+    "choices": [
+      "In the neck, in front of the trachea",
+      "At the base of the brain",
+      "On top of each kidney",
+      "In the abdominal cavity, near the liver"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The adrenal glands (also called suprarenal glands) are a pair of glands located on top of each kidney. Each gland has two parts: the outer cortex and the inner medulla."
+  },
+  {
+    "question": "Which mineral is essential for the synthesis of Thyroxine?",
+    "choices": [
+      "Calcium",
+      "Iodine",
+      "Iron",
+      "Phosphorus"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Iodine is an essential component of thyroxine (T4) and triiodothyronine (T3). Without adequate iodine, the thyroid gland cannot produce sufficient thyroxine, leading to goitre."
+  },
+  {
+    "question": "Testosterone is secreted by:",
+    "choices": [
+      "Adrenal cortex",
+      "Leydig cells of the testes",
+      "Beta cells of the pancreas",
+      "Anterior pituitary"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Testosterone is the male sex hormone secreted by the Leydig cells (interstitial cells) of the testes. It is responsible for the development of secondary sexual characters in males."
+  },
+  {
+    "question": "The hormone that promotes milk secretion in nursing mothers is:",
+    "choices": [
+      "Oxytocin",
+      "Oestrogen",
+      "Prolactin",
+      "Progesterone"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Prolactin is secreted by the anterior pituitary gland and is responsible for stimulating and maintaining milk production (lactation) in the mammary glands after childbirth."
+  },
+  {
+    "question": "Which hormone is responsible for regulating the calcium level in the blood?",
+    "choices": [
+      "Thyroxine",
+      "Insulin",
+      "Parathormone (PTH)",
+      "Adrenaline"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Parathormone (PTH) is secreted by the parathyroid glands. It regulates calcium and phosphate levels in the blood by stimulating the release of calcium from bones and increasing calcium absorption in the kidney."
+  },
+  {
+    "question": "The hormone that controls the sleep-wake cycle is secreted by:",
+    "choices": [
+      "Thyroid gland",
+      "Pineal gland",
+      "Pituitary gland",
+      "Adrenal gland"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Melatonin is secreted by the pineal gland. It regulates the circadian rhythm (sleep-wake cycle) and is released in higher amounts in darkness to induce sleep."
+  },
+  {
+    "question": "Which of the following is the correct sequence when blood sugar rises after a meal?",
+    "choices": [
+      "Glucagon release → Glycogen breakdown → Blood sugar rises further",
+      "Insulin release → Glucose uptake by cells → Blood sugar falls",
+      "ADH release → Water reabsorption → Blood sugar stabilises",
+      "Adrenaline release → Glycogen synthesis → Blood sugar falls"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "When blood sugar rises, beta cells of the pancreas secrete insulin. Insulin stimulates cells to take up glucose from the blood and promotes its storage as glycogen in the liver, thereby lowering blood sugar back to normal."
+  },
+  {
+    "question": "Which of the following pairs is correctly matched?",
+    "choices": [
+      "Cretinism — Hypersecretion of thyroxine",
+      "Gigantism — Hyposecretion of Growth hormone",
+      "Diabetes mellitus — Hyposecretion of ADH",
+      "Myxoedema — Hyposecretion of thyroxine in adults"
+    ],
+    "answer": 3,
+    "chapter": "Endocrine System",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Myxoedema is caused by hyposecretion of thyroxine in adults. Cretinism is due to hyposecretion of thyroxine in children. Gigantism is due to hypersecretion of Growth hormone. Diabetes mellitus is due to hyposecretion of insulin."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The pancreas is described as a heterocrine gland.<br><b>Reason (R):</b> The pancreas has both exocrine cells (secreting digestive enzymes) and endocrine cells (Islets of Langerhans secreting hormones).",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "The pancreas is correctly called a heterocrine (or mixed) gland because it has both exocrine functions (releasing digestive enzymes like amylase, lipase into the duodenum via a duct) and endocrine functions (Islets of Langerhans releasing insulin and glucagon directly into the bloodstream). R correctly explains why A is true."
+  },
+  {
+    "question": "<b>Assertion (A):</b> People living in hilly regions are more prone to simple goitre.<br><b>Reason (R):</b> Iodine is deficient in the soil, food, and drinking water of hilly regions.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Both statements are true and R directly explains A. Iodine is deficient in the rocky soil and glacial meltwater of hilly regions, so food grown there and local drinking water both lack iodine. This leads to insufficient thyroxine synthesis and enlargement of the thyroid gland (simple goitre)."
+  },
+  {
+    "question": "A patient shows symptoms of increased urine output, excessive thirst, and dehydration, but normal blood sugar levels. Which hormone is likely deficient?",
+    "choices": [
+      "Insulin",
+      "Glucagon",
+      "Antidiuretic hormone (ADH)",
+      "Thyroxine"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Normal blood sugar rules out diabetes mellitus (insulin deficiency). The symptoms of excess dilute urine, thirst, and dehydration with normal blood glucose point to diabetes insipidus, caused by deficiency of ADH (Vasopressin). Without ADH, the kidneys cannot reabsorb water efficiently."
+  },
+  {
+    "question": "Which of the following is NOT a function of Thyroxine?",
+    "choices": [
+      "Regulates basal metabolic rate",
+      "Controls physical and mental growth in children",
+      "Lowers blood glucose levels",
+      "Influences heart rate and body temperature"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Lowering blood glucose is the function of Insulin, not Thyroxine. Thyroxine regulates basal metabolic rate (BMR), promotes normal growth and mental development in children, and influences heart rate and heat production."
+  },
+  {
+    "question": "Acromegaly differs from Gigantism in that Acromegaly occurs due to hypersecretion of Growth hormone:",
+    "choices": [
+      "Before puberty",
+      "During childhood",
+      "After the growth plates have closed (in adults)",
+      "During the foetal stage"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Gigantism occurs when excess Growth hormone is produced before the growth plates close (in childhood), causing abnormal overall height. Acromegaly occurs in adults after the growth plates have already fused, so bones cannot lengthen but instead thicken, causing enlargement of hands, feet, and facial features."
+  },
+  {
+    "question": "Which of the following hormones is secreted by the adrenal cortex?",
+    "choices": [
+      "Adrenaline",
+      "Noradrenaline",
+      "Cortisol",
+      "Melatonin"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The adrenal cortex secretes corticosteroid hormones such as Cortisol (a glucocorticoid), Aldosterone (a mineralocorticoid), and sex hormones. Adrenaline and Noradrenaline are secreted by the adrenal medulla (inner part). Melatonin is from the pineal gland."
+  },
+  {
+    "question": "Insulin : Beta cells :: Glucagon : ?",
+    "choices": [
+      "Delta cells",
+      "Alpha cells",
+      "Acinar cells",
+      "Leydig cells"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "This is an analogy question. Just as Insulin is secreted by Beta cells of the Islets of Langerhans, Glucagon is secreted by the Alpha cells of the Islets of Langerhans in the pancreas."
+  },
+  {
+    "question": "The full form of ACTH is:",
+    "choices": [
+      "Adrenocorticotropic Hormone",
+      "Anti-Cortisol Thyroid Hormone",
+      "Adrenal Cortex Triggering Hormone",
+      "Anterior Cortisol Trophic Hormone"
+    ],
+    "answer": 0,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "ACTH stands for Adrenocorticotropic Hormone. It is secreted by the anterior pituitary gland and stimulates the adrenal cortex to produce cortisol and other corticosteroids."
+  },
+  {
+    "question": "Which of the following represents the correct composition of the three principal fluids in the human body?",
+    "choices": [
+      "Blood, Synovial fluid, Lymph",
+      "Blood, Tissue fluid, Lymph",
+      "Plasma, Serum, Lymph",
+      "Blood, Vitreous humour, Tissue fluid"
+    ],
+    "answer": 1,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The three principal fluids in our body are Blood, Tissue fluid, and Lymph."
+  },
+  {
+    "question": "What is the normal pH of human blood?",
+    "choices": [
+      "Slightly acidic (6.5 to 6.8)",
+      "Neutral (7.0)",
+      "Slightly alkaline (7.3 to 7.45)",
+      "Highly alkaline (8.0 to 8.5)"
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The blood is slightly alkaline with a pH of 7.3 to 7.45."
+  },
+  {
+    "question": "Mammalian mature red blood cells are highly efficient in transporting oxygen because they lack certain organelles. Which of the following best explains the advantage of lacking mitochondria?",
+    "choices": [
+      "It allows the cell to change shape and squeeze through capillaries.",
+      "It increases the surface area for absorbing more oxygen.",
+      "It ensures that the RBCs do not consume the oxygen they are transporting for their own cellular respiration.",
+      "It allows the RBC to divide rapidly in the bloodstream."
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Loss of mitochondria means that the red cells cannot use oxygen for themselves, so all oxygen absorbed is delivered to the tissues unconsumed."
+  },
+  {
+    "question": "Carbon monoxide poisoning can be fatal because:",
+    "choices": [
+      "It destroys the white blood cells, shutting down the immune system.",
+      "It forms a stable compound, carboxyhaemoglobin, cutting down the blood's capacity to transport oxygen.",
+      "It dissolves the red blood cells leading to severe internal bleeding.",
+      "It prevents the formation of thrombokinase, stopping blood clotting."
+    ],
+    "answer": 1,
+    "chapter": "The Circulatory System",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Haemoglobin has a very strong affinity for carbon monoxide, forming a stable compound carboxyhaemoglobin (HbCO), which cuts down the capacity of transporting oxygen."
+  },
+  {
+    "question": " When observing a stained blood smear under a microscope, which white blood cell would appear as the smallest of the WBCs with a single large nucleus?",
+    "choices": [
+      "Neutrophil",
+      "Eosinophil",
+      "Lymphocyte",
+      "Monocyte"
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Diagram-based",
+    "complexity": "medium",
+    "reason": "Lymphocytes are the smallest of the WBCs and have a single large nucleus."
+  },
+  {
+    "question": "The process by which white blood cells squeeze through the walls of capillaries into the tissues is called:",
+    "choices": [
+      "Phagocytosis",
+      "Pinocytosis",
+      "Diapedesis",
+      "Haemolysis"
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Most WBCs are amoeboid and can squeeze through the walls of the capillaries into the tissues, a process called diapedesis."
+  },
+  {
+    "question": "Which of the following components of blood is directly responsible for producing antibodies?",
+    "choices": [
+      "Red blood cells",
+      "Platelets",
+      "Neutrophils",
+      "Lymphocytes"
+    ],
+    "answer": 3,
+    "chapter": "The Circulatory System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The WBCs, specifically the lymphocytes, produce antibodies which kill or neutralise germs or their poisons."
+  },
+  {
+    "question": "During the blood clotting process, what is the specific role of calcium ions?",
+    "choices": [
+      "They trap the red blood cells to form the clot.",
+      "They help convert inactive prothrombin into active thrombin.",
+      "They convert soluble fibrinogen into insoluble fibrin.",
+      "They release thrombokinase at the site of the injury."
+    ],
+    "answer": 1,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Thrombokinase acts as an enzyme and with the help of calcium ions present in the plasma, converts inactive prothrombin into active thrombin."
+  },
+  {
+    "question": "According to the ABO blood grouping system, a person with blood group AB is considered a 'universal recipient' because:",
+    "choices": [
+      "Their blood plasma contains both anti-a and anti-b antibodies.",
+      "Their red blood cells have no antigens on their surface.",
+      "Their blood plasma has no antibodies (neither anti-a nor anti-b).",
+      "Their red blood cells contain Rh factor."
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "A person with AB type of blood has both Antigen A & B on RBCs but 'no antibody' in the plasma, making them a universal recipient."
+  },
+  {
+    "question": " Which valve is located at the aperture between the left auricle and the left ventricle?",
+    "choices": [
+      "Tricuspid valve",
+      "Bicuspid (mitral) valve",
+      "Pulmonary semilunar valve",
+      "Aortic semilunar valve"
+    ],
+    "answer": 1,
+    "chapter": "The Circulatory System",
+    "category": "Diagram-based",
+    "complexity": "low",
+    "reason": "The Left atrio-ventricular valve is located on the left side of the heart. It has two cusps and is called the bicuspid (or mitral) valve."
+  },
+  {
+    "question": "What is the function of the chordae tendinae in the human heart?",
+    "choices": [
+      "To initiate the heartbeat impulse.",
+      "To hold the flaps of the atrio-ventricular valves in position and prevent their overturning into the atria.",
+      "To supply oxygenated blood directly to the heart muscles.",
+      "To separate the right ventricle from the left ventricle."
+    ],
+    "answer": 1,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The chordae tendinae hold the flaps of the valves in position and prevent their overturning into the atria due to the pressure exerted by the contracting ventricles."
+  },
+  {
+    "question": "Which specific blood vessels supply oxygenated blood to the heart muscles themselves?",
+    "choices": [
+      "Pulmonary veins",
+      "Superior vena cava",
+      "Coronary arteries",
+      "Hepatic arteries"
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Two coronary arteries (right and left) arising from the base of the aorta supply the heart muscles."
+  },
+  {
+    "question": "The first heart sound 'LUBB' is produced by:",
+    "choices": [
+      "The sharp closure of the semilunar valves at the roots of the aorta and pulmonary artery.",
+      "The sharp closure of the atrio-ventricular (tricuspid and bicuspid) valves at the start of ventricular systole.",
+      "The contraction of the atria pushing blood into the ventricles.",
+      "The opening of the semilunar valves."
+    ],
+    "answer": 1,
+    "chapter": "The Circulatory System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The first sound 'LUBB' is produced when the atrio-ventricular (tricuspid and bicuspid) valves get closed sharply at the start of ventricular systole."
+  },
+  {
+    "question": "The pacemaker of the human heart, responsible for initiating the heartbeat impulse, is the:",
+    "choices": [
+      "Atrio-ventricular node (AVN)",
+      "Bundle of HIS",
+      "Purkinje fibres",
+      "Sino-atrial node (SAN)"
+    ],
+    "answer": 3,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The impulse or command which starts the heart-beat arises in the 'Pacemaker' (sino-atrial node, 'SAN') located in the walls of the right auricle."
+  },
+  {
+    "question": " Unlike arteries, veins possess valves. What is the primary functional reason for this structural difference?",
+    "choices": [
+      "Veins carry blood under high pressure, and valves prevent the vessels from bursting.",
+      "Veins carry blood under very little pressure, and valves prevent the backward flow of blood.",
+      "Valves in veins filter out dead white blood cells and bacteria.",
+      "Valves help pump the blood actively towards the heart."
+    ],
+    "answer": 1,
+    "chapter": "The Circulatory System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Blood flows in veins continuously and under very little pressure, so they contain pocket-shaped valves to prevent the backward flow of the blood."
+  },
+  {
+    "question": "By definition, a portal vein is one which:",
+    "choices": [
+      "Carries oxygenated blood directly from the heart to an organ.",
+      "Carries deoxygenated blood from the lungs to the heart.",
+      "Starts with capillaries in one organ and ends in capillaries in another organ.",
+      "Connects the superior vena cava to the inferior vena cava."
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "By definition, a portal vein is one which starts with capillaries and also ends in capillaries (e.g., hepatic portal vein)."
+  },
+  {
+    "question": " In the human systemic (body) circulation, which blood vessel carries oxygenated blood away from the heart to all parts of the body?",
+    "choices": [
+      "Pulmonary artery",
+      "Pulmonary vein",
+      "Aorta",
+      "Vena Cava"
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Diagram-based",
+    "complexity": "low",
+    "reason": "The systemic circulation starts with the aorta that arises from the left ventricle. The aorta carries oxygenated blood to supply it to all parts of the body."
+  },
+  {
+    "question": "Which of the following statements about the lymphatic system is INCORRECT?",
+    "choices": [
+      "Lymph contains leukocytes, mostly lymphocytes, but no blood platelets.",
+      "Lacteals are specialized lymphatics in the intestinal villi that absorb fats.",
+      "The spleen is a large lymphatic organ that acts as a blood reservoir.",
+      "Lymph flows rapidly due to the high pumping pressure from the heart."
+    ],
+    "answer": 3,
+    "chapter": "The Circulatory System",
+    "category": "Tricky",
+    "complexity": "hard",
+    "reason": "The lymph flows in these vessels due to contraction of the surrounding muscles, not from the pumping action of the heart."
+  },
+  {
+    "question": "What happens to the tissue fluid that leaks out of the capillaries and bathes the cells?",
+    "choices": [
+      "It is entirely excreted as sweat through the skin.",
+      "Most of it enters another set of minute channels called lymph vessels.",
+      "It evaporates completely, cooling the body.",
+      "It travels back to the lungs through the trachea."
+    ],
+    "answer": 1,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Some of the tissue fluid may be reabsorbed into the blood vessels, but most of it enters another set of minute channels named lymph vessels where it is called lymph."
+  },
+  {
+    "question": "What is the average lifespan of a human red blood cell (RBC)?",
+    "choices": [
+      "3 to 5 days",
+      "About two weeks",
+      "About 120 days",
+      "Over 5 years"
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The average life of an RBC is about 120 days."
+  },
+  {
+    "question": "<b>Assertion (A):</b> In conventional diagrams, veins are shown in blue colour because the blood flowing inside them is actually blue.<br><b>Reason (R):</b> Deoxygenated blood completely lacks oxygen, which changes its colour to blue.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "Both A and R are False"
+    ],
+    "answer": 3,
+    "chapter": "The Circulatory System",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "Both A and R are false. Blood in veins is not blue; it is pale/dark red. Veins still carry about 75% oxygen, not zero."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Mammalian mature red blood cells lack a nucleus.<br><b>Reason (R):</b> The loss of the nucleus makes the red cells biconcave, increasing their surface area to volume ratio for absorbing more oxygen.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "The Circulatory System",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "The assertion is a fact, and the reason correctly explains the physiological advantage (increased surface area) of this evolutionary adaptation."
+  },
+  {
+    "question": "<b>Assertion (A):</b> People living at high altitudes (e.g., 4,200 m and above) generally have a significantly higher number of RBCs.<br><b>Reason (R):</b> The air at higher altitudes has a lower concentration of oxygen, so more RBCs are needed to absorb sufficient oxygen.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "The Circulatory System",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "People at high altitudes increase their RBCs by nearly 30% as a physiological adaptation to the thinner air (lower oxygen availability)."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The left ventricle of the heart has much thicker muscular walls than the right ventricle.<br><b>Reason (R):</b> The left ventricle has to pump blood to the farthest points in the body, requiring more force, whereas the right ventricle only pumps to the lungs.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "The Circulatory System",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "The reason directly explains the anatomical difference (thicker walls in the left ventricle) based on functional requirements (pumping distance)."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Serum and plasma are exactly the same fluid.<br><b>Reason (R):</b> Serum is the clear liquid that separates from a blood clot after the fibrin network shrinks.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 3,
+    "chapter": "The Circulatory System",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "A is false because serum is plasma from which the protein fibrinogen has been removed. R is true as it accurately describes how serum is squeezed out during clotting."
+  },
+  {
+    "question": "<b>Assertion (A):</b> A person with blood group O can receive blood from donors of any blood group (A, B, AB, or O).<br><b>Reason (R):</b> Blood group O is known as the universal donor because it lacks both Antigen A and Antigen B.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 3,
+    "chapter": "The Circulatory System",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "A is false; a person with blood group O can ONLY receive from O, but can donate to all (universal donor). R is a true statement."
+  },
+  {
+    "question": "<b>Assertion (A):</b> An abnormally low count of blood platelets can lead to severe haemorrhage (bleeding).<br><b>Reason (R):</b> Platelets release thrombokinase at the site of injury, which is essential to initiate the blood clotting process.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "The Circulatory System",
+    "category": "HOTS",
+    "complexity": "low",
+    "reason": "Platelets are critical for coagulation. A low count slows coagulation, causing hemorrhage. The reason correctly explains the assertion."
+  },
+  {
+    "question": "<b>Assertion (A):</b> During carbon monoxide poisoning, the spleen releases stored blood into the bloodstream.<br><b>Reason (R):</b> The spleen acts as a blood reservoir and releases blood during emergencies like haemorrhage or extreme stress.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "The Circulatory System",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "The spleen's function as a blood reservoir allows it to release blood during emergencies like carbon monoxide poisoning. R explains A."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Blood capillaries have the ability to dilate (vasodilation) and contract (vasoconstriction).<br><b>Reason (R):</b> The walls of capillaries are composed of a thick middle layer of smooth muscle.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "A is true (they can dilate/constrict), but R is false because capillary walls consist of only a *single layer* of squamous epithelial cells (endothelium) and have *no* muscular layer."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Lymph flows steadily through lymph vessels due to the pumping pressure of the heart.<br><b>Reason (R):</b> Lymph flows in its vessels primarily due to the contraction of the surrounding skeletal muscles.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 3,
+    "chapter": "The Circulatory System",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "A is false because lymph flow is not driven by the heart's pumping. R is true as it correctly identifies surrounding muscle contraction as the driving force."
+  },
+  {
+    "question": " What forms the sticky, insoluble microscopic threads that trap blood cells to form a clot?",
+    "choices": [
+      "Prothrombin",
+      "Thrombin",
+      "Fibrin",
+      "Thromboplastin"
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Diagram-based",
+    "complexity": "low",
+    "reason": "Thrombin converts soluble fibrinogen into insoluble fibrin. Fibrin forms microscopic threads that are sticky and form a network (mesh) trapping blood cells."
+  },
+  {
+    "question": "Which of the following white blood cells is associated with allergic reactions and stains with an acid dye (eosin)?",
+    "choices": [
+      "Neutrophil",
+      "Basophil",
+      "Eosinophil",
+      "Monocyte"
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Eosinophils have cytoplasmic granules that stain dark red with eosin (acid dye) and their count increases in allergies."
+  },
+  {
+    "question": "What is the primary function of the hepatic portal vein?",
+    "choices": [
+      "To carry oxygenated blood from the aorta to the liver.",
+      "To carry deoxygenated blood from the liver to the posterior vena cava.",
+      "To carry nutrient-rich blood from the stomach and intestines to the liver.",
+      "To carry urea from the liver directly to the kidneys."
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "The hepatic portal vein carries blood from the stomach and intestines (containing absorbed food) to the liver, where it acts as a store to regulate nutrients."
+  },
+  {
+    "question": "Smaller animals like rats and sparrows have a much faster heart rate compared to elephants or humans. What is the primary physiological reason for this?",
+    "choices": [
+      "Smaller animals have a smaller volume of blood that needs to be pumped more frequently.",
+      "Smaller animals have a higher surface-to-volume ratio, causing faster heat loss, requiring a faster heart rate to distribute body heat.",
+      "Smaller animals possess a less efficient two-chambered heart.",
+      "The pacemaker in smaller animals is naturally defective."
+    ],
+    "answer": 1,
+    "chapter": "The Circulatory System",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "Smaller size means higher surface-to-volume ratio, leading to faster loss of body heat; the increased heart rate distributes body heat faster to compensate."
+  },
+  {
+    "question": "Which condition occurs when an Rh-negative mother carries her second Rh-positive child, assuming she was sensitized during the first pregnancy?",
+    "choices": [
+      "The child develops leukaemia.",
+      "The mother's antibodies react with the transfused blood, potentially leading to the death of the foetus.",
+      "The mother develops polycythaemia to compensate for the baby's needs.",
+      "The baby is born with a higher than normal count of blood platelets."
+    ],
+    "answer": 1,
+    "chapter": "The Circulatory System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "If an Rh-negative mother is sensitized by a first Rh-positive child, the antibodies produced can cause a reaction in a subsequent Rh-positive pregnancy, sometimes leading to the death of the foetus."
+  },
+  {
+    "question": "What constitutes the non-cellular part of Lymph?",
+    "choices": [
+      "94% Water and 6% Solids (proteins, fats, carbohydrates, enzymes, antibodies)",
+      "Red blood cells and platelets",
+      "90% Water, 8% Proteins, and 2% Fibrinogen",
+      "Only inorganic salts and urea"
+    ],
+    "answer": 0,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The non-cellular part of lymph consists of Water (94%) and Solids (proteins, fats, carbohydrates, enzymes, antibodies, etc.) - 6%."
+  },
+  {
+    "question": "Which of the following is an accurate description of 'diastolic pressure'?",
+    "choices": [
+      "The upper limit of blood pressure during ventricular contraction.",
+      "The pressure recorded in the veins right before entering the right auricle.",
+      "The lower limit of blood pressure recorded when the wave of fresh blood has passed over.",
+      "The pressure exerted by the lymph inside lymphatic vessels."
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The lower limit (diastolic pressure) is the one recorded when the wave of blood pushed by ventricular contraction has passed over."
+  },
+  {
+    "question": "A rise in blood pressure above 140/90 is medically termed as:",
+    "choices": [
+      "Leucopenia",
+      "Hypertension",
+      "Polycythaemia",
+      "Angina pectoris"
+    ],
+    "answer": 1,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "A rise in blood pressure above 140/90 is known as hypertension."
+  },
+  {
+    "question": "Which cancer involves a massive increase in the number of white blood cells at the cost of red blood cells?",
+    "choices": [
+      "Polycythaemia",
+      "Erythropenia",
+      "Leukemia",
+      "Haemophilia"
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Leukemia is a cancer of the tissue forming WBCs whose number increases manifold at the cost of RBCs."
+  },
+  {
+    "question": "The blood vessels that carry deoxygenated blood from the right ventricle to the lungs are the:",
+    "choices": [
+      "Pulmonary veins",
+      "Coronary arteries",
+      "Aorta",
+      "Pulmonary arteries"
+    ],
+    "answer": 3,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The pulmonary artery arises from the right ventricle and carries deoxygenated blood to the lungs for oxygenation."
+  }
+]

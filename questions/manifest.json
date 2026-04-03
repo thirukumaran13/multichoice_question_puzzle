@@ -1,9 +1,11 @@
 {
   "files": [
-    "X-ICSE-Biology.json",
+	"X-ICSE-Unit-1-Biology.json",
+	"X-ICSE-Unit-2-Biology.json",
+	"X-ICSE-Unit-3-Biology.json",
 	"X-ICSE-Unit-4-5-6-Biology.json",
-	"X-ICSE-Unit-1_CommercialMathematics.json",
-	"X-ICSE-Unit-2_Algebra.json",
+	"X-ICSE-Unit-1-CommercialMathematics.json",
+	"X-ICSE-Unit-2-Algebra.json",
 	"X-ICSE-Unit-5-Trignometry.json"
   ]
 }
