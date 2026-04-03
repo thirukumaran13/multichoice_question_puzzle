@@ -1,0 +1,1262 @@
+[
+  {
+    "question": "Which of the following theories was proposed by Jean-Baptiste Lamarck?",
+    "choices": [
+      "Theory of Natural Selection",
+      "Theory of Inheritance of Acquired Characters",
+      "Mutation Theory",
+      "Theory of Continuity of Germplasm"
+    ],
+    "answer": 1,
+    "chapter": "Human Evolution",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Lamarck proposed the Theory of Inheritance of Acquired Characters, which includes the concepts of use and disuse of organs."
+  },
+  {
+    "question": "The book 'On the Origin of Species' was written by:",
+    "choices": [
+      "Charles Darwin",
+      "Jean-Baptiste Lamarck",
+      "Gregor Mendel",
+      "Hugo de Vries"
+    ],
+    "answer": 0,
+    "chapter": "Human Evolution",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Charles Darwin wrote 'On the Origin of Species' introducing his theory of evolution by natural selection."
+  },
+  {
+    "question": "According to Lamarck, the long neck of the giraffe is an example of:",
+    "choices": [
+      "Natural Selection",
+      "Inheritance of Acquired Characters (Use of organs)",
+      "Survival of the Fittest",
+      "Mutation"
+    ],
+    "answer": 1,
+    "chapter": "Human Evolution",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Lamarck explained that ancestors of giraffes stretched their necks to reach higher leaves, and this acquired trait was passed to offspring."
+  },
+  {
+    "question": "Which of the following is NOT a vestigial organ in human beings?",
+    "choices": [
+      "Vermiform appendix",
+      "Wisdom teeth",
+      "Pinnae (ear muscles)",
+      "Canine teeth"
+    ],
+    "answer": 3,
+    "chapter": "Human Evolution",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Canine teeth are still functional in humans, though reduced in size. Appendix, wisdom teeth, and pinnae muscles are vestigial."
+  },
+  {
+    "question": "Industrial melanism observed in the peppered moth (Biston betularia) is a classic example of:",
+    "choices": [
+      "Lamarckism",
+      "Natural Selection",
+      "Genetic Drift",
+      "Artificial Selection"
+    ],
+    "answer": 1,
+    "chapter": "Human Evolution",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "The shift in population from light to dark moths due to industrial pollution demonstrates Darwin's theory of Natural Selection."
+  },
+  {
+    "question": "The ability to walk upright on two legs is termed as:",
+    "choices": [
+      "Quadrupedalism",
+      "Brachiation",
+      "Bipedalism",
+      "Arboreal locomotion"
+    ],
+    "answer": 2,
+    "chapter": "Human Evolution",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Bipedalism is the form of terrestrial locomotion where an organism moves by means of its two rear limbs or legs."
+  },
+  {
+    "question": "Which of the following correctly represents the sequence of human ancestors?",
+    "choices": [
+      "Australopithecus → Homo erectus → Homo habilis → Neanderthal",
+      "Australopithecus → Homo habilis → Homo erectus → Neanderthal",
+      "Homo habilis → Australopithecus → Neanderthal → Homo erectus",
+      "Neanderthal → Homo erectus → Australopithecus → Homo habilis"
+    ],
+    "answer": 1,
+    "chapter": "Human Evolution",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The evolutionary sequence is Australopithecus, followed by Homo habilis, Homo erectus, Neanderthal, and finally modern humans."
+  },
+  {
+    "question": "Which human ancestor is known as the 'Handy Man' due to their use of chipped stone tools?",
+    "choices": [
+      "Homo erectus",
+      "Homo sapiens",
+      "Australopithecus",
+      "Homo habilis"
+    ],
+    "answer": 3,
+    "chapter": "Human Evolution",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Homo habilis is known as 'handy man' because they were the first known species of the genus Homo to extensively make and use stone tools."
+  },
+  {
+    "question": "The first human ancestor to stand fully erect was:",
+    "choices": [
+      "Homo habilis",
+      "Homo erectus",
+      "Australopithecus",
+      "Cro-Magnon"
+    ],
+    "answer": 1,
+    "chapter": "Human Evolution",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Homo erectus (meaning 'upright man') was the first hominid to have a fully upright posture."
+  },
+  {
+    "question": "What does the term 'Survival of the Fittest' imply in Darwin's theory?",
+    "choices": [
+      "The physically strongest organisms survive.",
+      "Organisms that are best adapted to their environment survive and reproduce.",
+      "The largest organisms in a population survive.",
+      "Organisms with the most acquired traits survive."
+    ],
+    "answer": 1,
+    "chapter": "Human Evolution",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Fitness in evolutionary terms refers to reproductive success and adaptation to the environment, not just physical strength."
+  },
+  {
+    "question": "During human evolution, there was a significant reduction in the size of:",
+    "choices": [
+      "Cranial capacity",
+      "Forehead",
+      "Canine teeth",
+      "Brain"
+    ],
+    "answer": 2,
+    "chapter": "Human Evolution",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "As human ancestors shifted diets and started using tools/fire, the need for large tearing canine teeth reduced."
+  },
+  {
+    "question": "Which human ancestor is famous for creating cave paintings and having a cranial capacity comparable to modern man?",
+    "choices": [
+      "Neanderthal man",
+      "Cro-Magnon man",
+      "Homo erectus",
+      "Australopithecus"
+    ],
+    "answer": 1,
+    "chapter": "Human Evolution",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Cro-Magnon man is well known for their advanced culture, including cave paintings, tools, and a high cranial capacity."
+  },
+  {
+    "question": "The development of a prominent chin is a characteristic feature of:",
+    "choices": [
+      "Apes",
+      "Australopithecus",
+      "Homo habilis",
+      "Modern man (Homo sapiens sapiens)"
+    ],
+    "answer": 3,
+    "chapter": "Human Evolution",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "A prominent chin is a distinct anatomical feature of modern humans (Homo sapiens sapiens) lacking in early ancestors."
+  },
+  {
+    "question": "Which of the following trends is NOT observed in human evolution?",
+    "choices": [
+      "Increase in cranial capacity",
+      "Development of bipedalism",
+      "Increase in body hair",
+      "Reduction in brow ridges"
+    ],
+    "answer": 2,
+    "chapter": "Human Evolution",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Human evolution is characterized by a reduction in body hair, not an increase."
+  },
+  {
+    "question": "Which ancestor is associated with the practice of burying their dead, indicating early social customs or religious beliefs?",
+    "choices": [
+      "Homo habilis",
+      "Neanderthal man",
+      "Australopithecus",
+      "Homo erectus"
+    ],
+    "answer": 1,
+    "chapter": "Human Evolution",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Neanderthals are often associated with ceremonial burials of their dead, showing early signs of culture and social bonds."
+  },
+  {
+    "question": "The evolutionary theory based on 'Use and Disuse of Organs' suggests that:",
+    "choices": [
+      "Organs that are not used frequently become stronger.",
+      "Organs that are used continuously develop, while those disused degenerate.",
+      "Mutations cause sudden changes in organs.",
+      "Nature selects organs randomly regardless of use."
+    ],
+    "answer": 1,
+    "chapter": "Human Evolution",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Lamarck's principle of use and disuse states that continuous use strengthens an organ, while disuse leads to its degeneration."
+  },
+  {
+    "question": "In the context of human evolution, what does an 'increasing cranial capacity' imply?",
+    "choices": [
+      "A decrease in intelligence",
+      "An increase in brain size and potential intelligence",
+      "The skull becoming thicker",
+      "A change from bipedalism to quadrupedalism"
+    ],
+    "answer": 1,
+    "chapter": "Human Evolution",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Cranial capacity relates to the volume of the interior of the skull, which is directly correlated with brain size and cognitive abilities."
+  },
+  {
+    "question": "The scientific name for modern man is:",
+    "choices": [
+      "Homo erectus",
+      "Homo sapiens sapiens",
+      "Homo habilis",
+      "Homo neanderthalensis"
+    ],
+    "answer": 1,
+    "chapter": "Human Evolution",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The scientific name for anatomically modern humans is Homo sapiens sapiens."
+  },
+  {
+    "question": "Which feature is associated with a more upright posture in human ancestors?",
+    "choices": [
+      "Large canine teeth",
+      "Heavy brow ridges",
+      "A fully opposable big toe",
+      "Bipedalism"
+    ],
+    "answer": 3,
+    "chapter": "Human Evolution",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Bipedalism (walking on two legs) is directly related to the development of a fully upright posture."
+  },
+  {
+    "question": "Which of the following is considered the earliest known hominid ancestor among the choices?",
+    "choices": [
+      "Neanderthal",
+      "Cro-Magnon",
+      "Homo habilis",
+      "Australopithecus"
+    ],
+    "answer": 3,
+    "chapter": "Human Evolution",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Australopithecus appeared earlier in the fossil record than the genus Homo (habilis, erectus, etc.)."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The vermiform appendix is considered a vestigial organ in humans.<br><b>Reason (R):</b> The appendix has no known essential digestive function in modern humans but was functional in cellulose digestion in ancestors.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Human Evolution",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "Vestigial organs are those which have lost their primary function through evolution. The reasoning perfectly explains why it is classified as vestigial."
+  },
+  {
+    "question": "<b>Assertion (A):</b> According to Darwin, the long neck of the giraffe is an acquired trait.<br><b>Reason (R):</b> Giraffes stretched their necks to eat high leaves and passed this trait to offspring.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "Both A and R are False"
+    ],
+    "answer": 3,
+    "chapter": "Human Evolution",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Both statements describe Lamarck's theory, not Darwin's theory. Darwin explained the long neck through natural selection of inherent variations."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Bipedalism was a crucial milestone in human evolution.<br><b>Reason (R):</b> Bipedal locomotion freed the forelimbs for carrying objects, gathering food, and making tools.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Human Evolution",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "Freeing the hands allowed early hominids to manipulate their environment better, making bipedalism highly advantageous."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Before the industrial revolution, light-coloured peppered moths were more abundant than dark ones.<br><b>Reason (R):</b> Light-coloured moths were perfectly camouflaged against lichen-covered tree trunks, protecting them from predators.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Human Evolution",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "The camouflage gave light moths a survival advantage before pollution killed the lichens and darkened the bark."
+  },
+  {
+    "question": "<b>Assertion (A):</b> During the industrial revolution, dark peppered moths flourished.<br><b>Reason (R):</b> Smoke and soot from factories darkened the tree trunks, allowing dark moths to blend in and escape bird predators.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Human Evolution",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "This is the classic example of Darwinian natural selection via industrial melanism. The darkened bark shifted the survival advantage to the dark variant."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Cranial capacity shows an increasing trend throughout human evolution.<br><b>Reason (R):</b> An increase in cranial capacity correlates with the development of the brain and higher intelligence.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Human Evolution",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "The brain size increased from Australopithecus to modern man, which allowed for advanced tool making, language, and culture."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Homo erectus is famously known as the 'Handy Man'.<br><b>Reason (R):</b> Homo erectus was the first ancestor to extensively use chipped stone tools.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "Both A and R are False"
+    ],
+    "answer": 3,
+    "chapter": "Human Evolution",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Both A and R are false. 'Handy Man' and the first extensive use of chipped stone tools is attributed to Homo habilis, not Homo erectus."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The size of canine teeth decreased significantly during human evolution.<br><b>Reason (R):</b> Early humans shifted from a raw diet to eating cooked food and began using tools for defense instead of their teeth.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Human Evolution",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "Large canines were no longer necessary for tearing tough raw meat or for self-defense due to the advent of fire and weapons."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Development of a chin is a distinct characteristic of Modern Man.<br><b>Reason (R):</b> Early apes and ancestors like Australopithecus had very prominent and large chins.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 2,
+    "chapter": "Human Evolution",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "A is true, but R is false. Early human ancestors and apes lacked a well-developed, prominent chin; they often had receding jaws."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Lamarck's Theory of Inheritance of Acquired Characters is widely accepted by modern geneticists.<br><b>Reason (R):</b> Traits acquired during an organism's lifetime alter its DNA and are easily passed to the next generation.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "Both A and R are False"
+    ],
+    "answer": 3,
+    "chapter": "Human Evolution",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "Both are false. Lamarck's theory was disproved because acquired traits (somatic changes) do not alter the germplasm/DNA and are not inherited."
+  },
+  {
+    "question": "The statistical study of human population is termed as:",
+    "choices": [
+      "Geography",
+      "Demography",
+      "Sociology",
+      "Anthropology"
+    ],
+    "answer": 1,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Demography is the statistical study of human population, especially with reference to size, density, and distribution. [cite: 2220]"
+  },
+  {
+    "question": "Which of the following represents Population Density?",
+    "choices": [
+      "Number of live births per 1000 people per year",
+      "Number of individuals per square kilometre at any given time",
+      "Number of deaths per 1000 people per year",
+      "Difference between birth rate and death rate"
+    ],
+    "answer": 1,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Population density is defined as the number of individuals per square kilometre (km²) at any given time. [cite: 2222]"
+  },
+  {
+    "question": "Which of the following countries has the highest population density according to the provided text?",
+    "choices": [
+      "India",
+      "Japan",
+      "Brazil",
+      "Netherlands"
+    ],
+    "answer": 3,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Netherlands has the highest population density (about 320 persons/km²), compared to Japan, India, and Brazil. [cite: 2224, 2225]"
+  },
+  {
+    "question": "The formula to calculate the birth rate of a population is:",
+    "choices": [
+      "Total deaths / Total population × 1000",
+      "Total live births / Total population × 100",
+      "Total live births / Total population × 1000",
+      "Difference between live births and deaths"
+    ],
+    "answer": 2,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Birth rate is the number of live births per 1000 people of population per year. [cite: 2226]"
+  },
+  {
+    "question": "Which cultural revolution was characterized by the beginning of agriculture and domestication of animals?",
+    "choices": [
+      "Tool-making revolution",
+      "Agricultural revolution",
+      "Scientific revolution",
+      "Industrial revolution"
+    ],
+    "answer": 1,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "About 10,000 years ago, man started domesticating animals and sowing crops, marking the Agricultural revolution. [cite: 1771, 1773]"
+  },
+  {
+    "question": "The world population officially crossed the six billion mark on:",
+    "choices": [
+      "July 11, 1987",
+      "October 12, 1999",
+      "October 31, 2011",
+      "May 11, 2000"
+    ],
+    "answer": 1,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "On October 12, 1999, the world population crossed the six billion figure in Sarajevo. [cite: 1781, 1782]"
+  },
+  {
+    "question": "Which of the following is NOT a main reason for the sharp rise in world human population?",
+    "choices": [
+      "Better health care",
+      "Large scale immunisation",
+      "Increased infant deaths",
+      "Improved nutrition"
+    ],
+    "answer": 2,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Fewer infant deaths, not increased, is a reason for the sharp rise in population. [cite: 1867, 1868]"
+  },
+  {
+    "question": "In the context of food and population growth, which statement is true?",
+    "choices": [
+      "Both food and population grow in arithmetic progression.",
+      "Population grows in arithmetic progression while food grows in geometric progression.",
+      "Population grows in geometric progression while food grows in arithmetic progression.",
+      "Both food and population grow in geometric progression."
+    ],
+    "answer": 2,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Population grows by geometrical progression, while production of food rises by arithmetic progression. [cite: 2130]"
+  },
+  {
+    "question": "The legal marriageable age in India is at least:",
+    "choices": [
+      "18 years for both boys and girls",
+      "21 years for girls and 18 years for boys",
+      "18 years for girls and 21 years for boys",
+      "21 years for both boys and girls"
+    ],
+    "answer": 2,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The age restriction under the law is at least 18 years for girls and 21 years for boys. [cite: 2279]"
+  },
+  {
+    "question": "What does the inverted red triangle symbol signify in India?",
+    "choices": [
+      "Traffic rules",
+      "Danger zone",
+      "Family welfare",
+      "Pollution control"
+    ],
+    "answer": 2,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The inverted red triangle has become a popular sign in India for family welfare. [cite: 2285]"
+  },
+  {
+    "question": "Which of the following is an intra-uterine device (IUD) used for contraception?",
+    "choices": [
+      "Condom",
+      "Copper-T",
+      "Mala-D",
+      "Diaphragm"
+    ],
+    "answer": 1,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Copper-T and Lippe's Loop are common Intra-Uterine Devices (IUDs) used in India. [cite: 2315]"
+  },
+  {
+    "question": " The surgical method of contraception in males, where the sperm duct is cut and tied, is known as:",
+    "choices": [
+      "Tubectomy",
+      "Vasectomy",
+      "Ovariectomy",
+      "Castration"
+    ],
+    "answer": 1,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Vasectomy is the surgery in males where the vas deferens (sperm duct) is ligated and a small piece is removed. [cite: 2326]"
+  },
+  {
+    "question": "Tubectomy is a surgical contraceptive method performed on females that involves cutting and tying the:",
+    "choices": [
+      "Uterus",
+      "Cervix",
+      "Fallopian tubes",
+      "Vagina"
+    ],
+    "answer": 2,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "In tubectomy, the fallopian tubes (oviducts) are cut or ligated to close the passage of the egg. [cite: 2318]"
+  },
+  {
+    "question": "Which contraceptive method works by preventing the release of the egg from the ovary?",
+    "choices": [
+      "Barrier Methods",
+      "Intra-Uterine Devices (IUDs)",
+      "Surgical Methods",
+      "Hormonal Methods (Pills)"
+    ],
+    "answer": 3,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Hormonal preparations (pills) prevent the release of the egg from the ovary. [cite: 2300]"
+  },
+  {
+    "question": "Medical Termination of Pregnancy (MTP) is legally permitted in India within how many months of pregnancy?",
+    "choices": [
+      "2 months",
+      "3 months",
+      "5 months",
+      "7 months"
+    ],
+    "answer": 2,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "Abortion is legally permitted only within 5 months of pregnancy. [cite: 2343]"
+  },
+  {
+    "question": "Which of the following is NOT considered a renewable energy resource?",
+    "choices": [
+      "Solar energy",
+      "Wind energy",
+      "Coal",
+      "Tidal energy"
+    ],
+    "answer": 2,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Coal and petroleum are fossil fuels categorized as conventional sources of energy whose underground reserves are depleting and are non-renewable in a lifetime. [cite: 2152, 2157]"
+  },
+  {
+    "question": "The concept of development that meets present needs without compromising the ability of future generations to meet their own needs is called:",
+    "choices": [
+      "Industrialization",
+      "Urbanization",
+      "Sustainable development",
+      "Green revolution"
+    ],
+    "answer": 2,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Sustainable development means the kind of development that meets the need of the present without compromising the ability of the future generations to meet their own needs. [cite: 2188]"
+  },
+  {
+    "question": "What date is observed as World Population Day?",
+    "choices": [
+      "June 5",
+      "July 11",
+      "September 16",
+      "December 1"
+    ],
+    "answer": 1,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "July 11 is observed as World Population Day. [cite: 2186]"
+  },
+  {
+    "question": "Which of the following factors largely contributes to the population explosion in India by providing no recreation other than sex?",
+    "choices": [
+      "Traditional beliefs",
+      "Economic reasons",
+      "Poverty and poor standard of living",
+      "Desire for a male child"
+    ],
+    "answer": 2,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Lack of recreation due to poor standard of living and poverty provides no recreation other than sex. [cite: 2100]"
+  },
+  {
+    "question": "The process of villages turning into towns, and towns into megacities is known as:",
+    "choices": [
+      "Industrialization",
+      "Urbanisation",
+      "Demography",
+      "Deforestation"
+    ],
+    "answer": 1,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The villages are turning into towns, towns into cities and cities into megacities—a process covered under urbanisation. [cite: 2168]"
+  },
+  {
+    "question": "<b>Assertion (A):</b> The population of the world has seen a sharp dip shortly after 1000 A.D.<br><b>Reason (R):</b> The scientific and industrial age gave a fresh momentum to population rise.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 1,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "The sharp dip was due to severe epidemics like the Black Death (Plague). R is true but it explains the rise, not the dip. [cite: 1857, 1858]"
+  },
+  {
+    "question": "<b>Assertion (A):</b> Vasectomy reduces the pleasure of intercourse in males.<br><b>Reason (R):</b> Vasectomy involves the cutting and ligating of the vas deferens.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 3,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "A is false because the operation has no harmful effect on manliness nor reduces the pleasure of intercourse. R is true as it involves ligating the vas deferens. [cite: 2326, 2339]"
+  },
+  {
+    "question": "<b>Assertion (A):</b> Intra-Uterine Devices (IUDs) like Copper-T stop fertilisation from occurring.<br><b>Reason (R):</b> IUDs prevent the implantation of the embryo in the uterus.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 3,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "A is false because IUDs do not stop fertilisation but instead prevent implantation of the blastocyst (embryo). R is true. [cite: 2316]"
+  },
+  {
+    "question": "<b>Assertion (A):</b> Better health care and medical aid have contributed to the population explosion.<br><b>Reason (R):</b> They have led to fewer deaths across all age groups and higher survival rates for infants.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "Both A and R are true, and better health care lowering the death rate directly explains why the population is exploding. [cite: 1863, 1864, 1868]"
+  },
+  {
+    "question": "<b>Assertion (A):</b> A growing population leads to the shrinking of forests.<br><b>Reason (R):</b> Forests are cleared to provide land for cultivation, housing, and to obtain timber.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "HOTS",
+    "complexity": "low",
+    "reason": "Deforestation is driven by the need for land and resources to support a growing population. R directly explains A. [cite: 2142]"
+  },
+  {
+    "question": "<b>Assertion (A):</b> Tubectomy is a surgical method of contraception performed on males.<br><b>Reason (R):</b> Tubectomy involves cutting the fallopian tubes.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 3,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "A is false because tubectomy is performed on females. R is true as it involves cutting the fallopian tubes. [cite: 2318]"
+  },
+  {
+    "question": "<b>Assertion (A):</b> High population density can lead to a decrease in the per capita income.<br><b>Reason (R):</b> The resources and wealth of a country are distributed among a larger number of people.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "As population density increases beyond means, per capita income comes down due to the distribution of fixed resources among more people. [cite: 2231, 2232]"
+  },
+  {
+    "question": "<b>Assertion (A):</b> Condoms and diaphragms are classified as hormonal methods of contraception.<br><b>Reason (R):</b> They act as physical barriers that prevent sperms from reaching the egg.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 3,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "HOTS",
+    "complexity": "low",
+    "reason": "A is false because they are barrier methods, not hormonal. R is true as they physically prevent sperms from being deposited or entering the uterus. [cite: 2301, 2302, 2306]"
+  },
+  {
+    "question": "<b>Assertion (A):</b> Overpopulation creates pressure on water resources.<br><b>Reason (R):</b> Increased population leads to the pollution of rivers, ponds, and lakes, making clean water scarce.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "Availability of clean water becomes scarce due to the pollution of water bodies caused by increased population. R explains A. [cite: 2132]"
+  },
+  {
+    "question": "<b>Assertion (A):</b> MTP should be used routinely as a primary method of family planning.<br><b>Reason (R):</b> Medical Termination of Pregnancy is the forced removal of the foetus.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 3,
+    "chapter": "Population - The Increasing Numbers and Rising Problems",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "A is false because MTP should not be considered a contraceptive method, but a last step. R is true as it involves forced abortion. [cite: 2341, 2342]"
+  },
+  {
+    "question": "Any constituent added to air, water or land which deteriorates the natural quality of the environment is called a:",
+    "choices": [
+      "Solvent",
+      "Pollutant",
+      "Nutrient",
+      "Catalyst"
+    ],
+    "answer": 1,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Pollutant is any such constituent which causes pollution and deteriorates the environment. [cite: 1423, 1425]"
+  },
+  {
+    "question": "Which of the following is considered a natural source of air pollution?",
+    "choices": [
+      "Brick kilns",
+      "Automobile exhaust",
+      "Ash from burning volcanoes",
+      "Garbage burning"
+    ],
+    "answer": 2,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Ash from burning volcanoes, dust from storms, and forest fires are natural sources of air pollution. [cite: 1438, 1439]"
+  },
+  {
+    "question": " Smog is a mixture of:",
+    "choices": [
+      "Smoke and water vapor",
+      "Smoke and fog",
+      "Dust and fog",
+      "Carbon dioxide and fog"
+    ],
+    "answer": 1,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Smog is formed when smoke gets mixed with dust particles and small drops of fog. [cite: 1466]"
+  },
+  {
+    "question": "Which of the following industries is most likely to cause thermal pollution in nearby water bodies?",
+    "choices": [
+      "Textile weaving units",
+      "Thermal power plants",
+      "Food processing units",
+      "Carpet weaving units"
+    ],
+    "answer": 1,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Thermal power plants, oil refineries, and nuclear plants use water for cooling and release hot waste water, causing thermal pollution. [cite: 1533, 1534]"
+  },
+  {
+    "question": "An example of a non-biodegradable waste is:",
+    "choices": [
+      "Vegetable peels",
+      "Styrofoam",
+      "Sewage",
+      "Cow dung"
+    ],
+    "answer": 1,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Plastic, glass, styrofoam, and pesticides like DDT cannot be degraded by microorganisms. [cite: 1576, 1577]"
+  },
+  {
+    "question": "The nuclear disaster at Fukushima Daiichi in Japan (2011) predominantly released which radiation pollutant?",
+    "choices": [
+      "Cobalt 60",
+      "Uranium 235",
+      "Iodine 131",
+      "Plutonium 239"
+    ],
+    "answer": 2,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The chief radiation pollutant in the Fukushima explosion was Iodine 131. [cite: 1610, 1611]"
+  },
+  {
+    "question": "The Mayapuri, Delhi incident in 2010 was a severe case of radiation exposure from carelessly discarded:",
+    "choices": [
+      "Iodine 131",
+      "X-ray machines",
+      "Cobalt 60",
+      "Plutonium"
+    ],
+    "answer": 2,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The radioactive waste (Cobalt 60) from a research centre reached the market in Mayapuri, causing severe damage. [cite: 1619]"
+  },
+  {
+    "question": "Acid rain is primarily caused by the emission of:",
+    "choices": [
+      "Carbon monoxide and Ozone",
+      "Sulphur dioxide and Oxides of nitrogen",
+      "Methane and Chlorofluorocarbons",
+      "Dust and smoke particles"
+    ],
+    "answer": 1,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Emission of SO2 and oxides of nitrogen dissolve in rain drops to form acid rain. [cite: 1647, 1648]"
+  },
+  {
+    "question": "Which of the following is an effect of acid rain? ",
+    "choices": [
+      "Melting of polar ice caps",
+      "Erosion of ancient monuments and statues",
+      "Skin cancers in humans",
+      "Increase in atmospheric ozone"
+    ],
+    "answer": 1,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Erosion of ancient monuments, statues, and sculpture is caused by the acid reacting with the calcium. [cite: 1673]"
+  },
+  {
+    "question": "Global warming is directly linked to the Greenhouse Effect, which is caused by the accumulation of which gases in the atmosphere?",
+    "choices": [
+      "Oxygen and Nitrogen",
+      "Carbon dioxide and Methane",
+      "Sulphur dioxide and Ozone",
+      "Chlorofluorocarbons and Argon"
+    ],
+    "answer": 1,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Certain gases specially CO2 and methane (CH4) prevent the escape of heat, warming the air. [cite: 1706]"
+  },
+  {
+    "question": "Ozone layer depletion is primarily caused by:",
+    "choices": [
+      "Carbon dioxide",
+      "Methane",
+      "Chlorofluorocarbons (CFCs)",
+      "Sulphur dioxide"
+    ],
+    "answer": 2,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "CFCs rise into the atmosphere and break down ozone into oxygen, depleting the layer. [cite: 1715, 1716]"
+  },
+  {
+    "question": "The ozone layer protects the earth from which harmful solar radiation?",
+    "choices": [
+      "Infrared rays",
+      "X-rays",
+      "Gamma rays",
+      "Ultra-violet rays (UV-B)"
+    ],
+    "answer": 3,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "It prevents the harmful type of ultra-violet rays (UV-B) coming down from the sun. [cite: 1714]"
+  },
+  {
+    "question": "International Ozone Day is observed on:",
+    "choices": [
+      "July 11",
+      "September 16",
+      "June 5",
+      "October 31"
+    ],
+    "answer": 1,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "September 16 is marked as International Ozone Day. [cite: 1717]"
+  },
+  {
+    "question": "Sanitary landfills are specifically used for the disposal of:",
+    "choices": [
+      "Gaseous pollutants",
+      "Nuclear radiation waste",
+      "Solid urban and domestic waste",
+      "Thermal wastewater"
+    ],
+    "answer": 2,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Solid waste from urban areas is dumped in sanitary landfills in ground depressions and covered with dirt. [cite: 1553, 1554, 1556]"
+  },
+  {
+    "question": "Excessive use of chemical fertilizers leads to the pollution of nearby water bodies, ultimately causing the death of fish. This is due to:",
+    "choices": [
+      "Increased oxygen levels",
+      "Faster growth of bacteria consuming oxygen",
+      "Lowering the temperature of water",
+      "Release of heavy metals"
+    ],
+    "answer": 1,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Fertilizers wash into ponds, leading to faster growth of bacteria which consume oxygen, killing fish. [cite: 1559, 1560]"
+  },
+  {
+    "question": "Which of the following diseases is primarily caused by water pollution?",
+    "choices": [
+      "Asthma",
+      "Cholera",
+      "Bronchitis",
+      "Bone cancer"
+    ],
+    "answer": 1,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Water pollution may lead to several diseases like cholera, jaundice, and typhoid. [cite: 1689]"
+  },
+  {
+    "question": "The Euro/Bharat norms are standards laid down to control:",
+    "choices": [
+      "Water pollution from industries",
+      "Radiation levels in medical equipment",
+      "Levels of emissions from automobiles",
+      "Noise limits in residential areas"
+    ],
+    "answer": 2,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Euro/Bharat norms are applicable to automobiles to strictly control the levels of emissions. [cite: 1731]"
+  },
+  {
+    "question": "Which of the following is an effective measure to abate air pollution from factory chimneys?",
+    "choices": [
+      "Using unleaded petrol",
+      "Fitting electrostatic precipitators",
+      "Setting up septic tanks",
+      "Organic farming"
+    ],
+    "answer": 1,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Installation of tall chimneys in factories fitted with filters and electrostatic precipitators curtails air pollution. [cite: 1723]"
+  },
+  {
+    "question": "Prolonged exposure to excessive noise pollution can directly lead to:",
+    "choices": [
+      "Cholera",
+      "Deafness",
+      "Skin cancer",
+      "Genetic variations"
+    ],
+    "answer": 1,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Prolonged noise can lead to deafness and nervous irritability. [cite: 1629, 1630]"
+  },
+  {
+    "question": "Pesticides like DDT alter the basic structure of the soil primarily by:",
+    "choices": [
+      "Increasing the soil temperature",
+      "Adding excess nitrates to the soil",
+      "Killing microorganisms that recycle nutrients",
+      "Releasing toxic gases into the air"
+    ],
+    "answer": 2,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "DDT alters the soil structure by killing microorganisms that mostly recycle nutrients in the soil. [cite: 1571, 1572]"
+  },
+  {
+    "question": "<b>Assertion (A):</b> The melting of polar snow caps is a consequence of the Greenhouse effect.<br><b>Reason (R):</b> The accumulation of CO2 and methane traps heat, causing a global rise in temperature.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "CO2 and methane trap heat (Greenhouse effect), causing global warming, which melts the snow caps. R correctly explains A. [cite: 1706, 1709, 1711]"
+  },
+  {
+    "question": "<b>Assertion (A):</b> Normal rain is slightly acidic in nature.<br><b>Reason (R):</b> It mixes with sulphur dioxide emitted from vehicles.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 2,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "A is true (pH ~6). R is false as the reason for normal rain being slightly acidic is naturally present CO2, not SO2 (which causes harmful acid rain). [cite: 1646, 1647]"
+  },
+  {
+    "question": "<b>Assertion (A):</b> Ozone depletion leads to an increase in skin cancers and genetic disorders.<br><b>Reason (R):</b> Depletion of ozone allows harmful UV-B rays from the sun to reach the earth's surface.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "Ozone screens out UV-B rays; its depletion lets UV-B enter, causing sunburns and skin cancers. R explains A. [cite: 1714, 1716]"
+  },
+  {
+    "question": "<b>Assertion (A):</b> Discharging hot wastewater from thermal power plants into rivers hardly affects aquatic life.<br><b>Reason (R):</b> Warm water increases the metabolic rate of fishes positively.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "Both A and R are False"
+    ],
+    "answer": 3,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "Both are false. Hot water warms the water bodies harmfully, killing fish and harming plant life. [cite: 1535]"
+  },
+  {
+    "question": "<b>Assertion (A):</b> Smog is harmful to plants and humans.<br><b>Reason (R):</b> Smog is a mixture of ozone and chlorofluorocarbons.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 2,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "A is true as smog causes asthma. R is false because smog is smoke plus fog, not ozone and CFCs. [cite: 1466, 1467]"
+  },
+  {
+    "question": "<b>Assertion (A):</b> Planting trees by the roadside helps to reduce noise pollution.<br><b>Reason (R):</b> Trees absorb sound waves and prevent them from reaching residential areas directly.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "HOTS",
+    "complexity": "low",
+    "reason": "Planting trees by the roadside reduces noise reaching our ears. [cite: 1639]"
+  },
+  {
+    "question": "<b>Assertion (A):</b> X-ray machine operators must take special care to avoid frequent exposure.<br><b>Reason (R):</b> X-rays are high-energy particles that can damage body cells and chromosomes.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "HOTS",
+    "complexity": "low",
+    "reason": "X-rays contain a great deal of energy and damage cells, causing hazards like bone cancer, so operators avoid exposure. R explains A. [cite: 1603, 1604, 1605]"
+  },
+  {
+    "question": "<b>Assertion (A):</b> Biomedical waste from hospitals includes discarded needles and soiled dressings.<br><b>Reason (R):</b> Careless disposal of biomedical waste can indirectly harm humans through certain agents.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 1,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "Both are true. Needles/dressings are biomedical wastes, and they cause harm. However, R is just another fact about the waste, not the explanation for why needles are considered biomedical waste. [cite: 1562, 1564]"
+  },
+  {
+    "question": "<b>Assertion (A):</b> Deforestation leads to an overall increase in the atmospheric carbon dioxide levels.<br><b>Reason (R):</b> Trees utilize carbon dioxide during the process of photosynthesis.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "HOTS",
+    "complexity": "low",
+    "reason": "Decreasing vegetation and deforestation lead to less CO2 utilization in photosynthesis, thus rising CO2 levels. R explains A. [cite: 1708, 1709]"
+  },
+  {
+    "question": "<b>Assertion (A):</b> Vegetable peels and food leftovers are classified as biodegradable wastes.<br><b>Reason (R):</b> They cannot be broken down by microorganisms into harmless compounds.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 2,
+    "chapter": "Pollution - A Rising Environmental Problem",
+    "category": "HOTS",
+    "complexity": "low",
+    "reason": "A is true, but R is false. Biodegradable wastes CAN be degraded by microorganisms. [cite: 1574, 1575, 1576]"
+  }
+]
