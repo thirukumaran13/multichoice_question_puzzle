@@ -1057,5 +1057,1686 @@
     "category": "Conceptual",
     "complexity": "medium",
     "reason": "Inner dimensions match (1), outer dimensions (3 and 3) form the new order 3 × 3."
-  }
+  },
+  {
+    "question": "Find the coordinates of the image of the point (5, -3) when reflected in the x-axis.",
+    "choices": [
+      "(-5, -3)",
+      "(5, 3)",
+      "(-5, 3)",
+      "(3, -5)"
+    ],
+    "answer": 1,
+    "chapter": "Reflection",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Reflection in the x-axis (y = 0) maps (x, y) to (x, -y). Therefore, (5, -3) becomes (5, 3)."
+  },
+  {
+    "question": "A point P is reflected in the y-axis to get the image P'(-4, 7). What are the coordinates of P?",
+    "choices": [
+      "(4, 7)",
+      "(-4, -7)",
+      "(4, -7)",
+      "(7, -4)"
+    ],
+    "answer": 0,
+    "chapter": "Reflection",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Reflection in the y-axis (x = 0) maps (x, y) to (-x, y). If the image is (-4, 7), the original x must be 4."
+  },
+  {
+    "question": "State the coordinates of the image of the point (-2, -5) when reflected in the origin.",
+    "choices": [
+      "(-2, 5)",
+      "(2, -5)",
+      "(2, 5)",
+      "(5, 2)"
+    ],
+    "answer": 2,
+    "chapter": "Reflection",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Reflection in the origin maps (x, y) to (-x, -y). Thus, (-2, -5) becomes (2, 5)."
+  },
+  {
+    "question": "Which of the following points is invariant under reflection in the x-axis?",
+    "choices": [
+      "(0, 3)",
+      "(3, 0)",
+      "(3, 3)",
+      "(-3, -3)"
+    ],
+    "answer": 1,
+    "chapter": "Reflection",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "A point is invariant under reflection in a line if it lies on that line. Points on the x-axis have a y-coordinate of 0."
+  },
+  {
+    "question": "The point (a, b) is reflected in the origin to (5, -2). Find the values of a and b.",
+    "choices": [
+      "a = 5, b = 2",
+      "a = -5, b = -2",
+      "a = -5, b = 2",
+      "a = 5, b = -2"
+    ],
+    "answer": 2,
+    "chapter": "Reflection",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Reflection in the origin changes the signs of both coordinates. Since (-a, -b) = (5, -2), then a = -5 and b = 2."
+  },
+  {
+    "question": "Find the image of the point (3, 4) after reflection in the line x = 2.",
+    "choices": [
+      "(1, 4)",
+      "(5, 4)",
+      "(3, 0)",
+      "(2, 4)"
+    ],
+    "answer": 0,
+    "chapter": "Reflection",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "The point (3, 4) is 1 unit to the right of the line x = 2. Its image will be 1 unit to the left of the line: (2 - 1, 4) = (1, 4)."
+  },
+  {
+    "question": "A point P(2, -6) is reflected in the x-axis to P'. P' is then reflected in the y-axis to P''. Find the coordinates of P''.",
+    "choices": [
+      "(2, 6)",
+      "(-2, 6)",
+      "(-2, -6)",
+      "(6, -2)"
+    ],
+    "answer": 1,
+    "chapter": "Reflection",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Reflection in x-axis: (2, -6) -> (2, 6). Then reflection in y-axis: (2, 6) -> (-2, 6)."
+  },
+  {
+    "question": "The image of a point P reflected in the y-axis is (0, -3). What can be said about point P?",
+    "choices": [
+      "P is (3, 0)",
+      "P is (0, 3)",
+      "P is (0, -3)",
+      "P is invariant in the x-axis"
+    ],
+    "answer": 2,
+    "chapter": "Reflection",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The point (0, -3) lies on the y-axis (x=0). Any point on the line of reflection is invariant, so P and its image are the same."
+  },
+  {
+    "question": "Find the image of the point (-1, 5) when reflected in the line y = 3.",
+    "choices": [
+      "(-1, 1)",
+      "(-1, -1)",
+      "(-1, 8)",
+      "(1, 5)"
+    ],
+    "answer": 0,
+    "chapter": "Reflection",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "The point (-1, 5) is 2 units above the line y = 3. Its image will be 2 units below the line: (-1, 3 - 2) = (-1, 1)."
+  },
+  {
+    "question": "Point A(4, -2) is reflected in the origin to A'. Find the coordinates of A'.",
+    "choices": [
+      "(-4, 2)",
+      "(4, 2)",
+      "(-4, -2)",
+      "(-2, 4)"
+    ],
+    "answer": 0,
+    "chapter": "Reflection",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Reflection in the origin maps (x, y) to (-x, -y). (4, -2) becomes (-4, 2)."
+  },
+  {
+    "question": "If a point P is invariant under reflection in the line y = 4, then the coordinates of P could be:",
+    "choices": [
+      "(4, 0)",
+      "(0, 4)",
+      "(4, 4)",
+      "Both (0, 4) and (4, 4)"
+    ],
+    "answer": 3,
+    "chapter": "Reflection",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Any point with a y-coordinate of 4 lies on the line y = 4 and is therefore invariant."
+  },
+  {
+    "question": "A triangle has vertices A(0, 0), B(3, 0), and C(0, 4). Find the coordinates of B' after reflection in the y-axis.",
+    "choices": [
+      "(3, 0)",
+      "(-3, 0)",
+      "(0, -3)",
+      "(0, 3)"
+    ],
+    "answer": 1,
+    "chapter": "Reflection",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Reflection in the y-axis changes the sign of the x-coordinate. (3, 0) becomes (-3, 0)."
+  },
+  {
+    "question": "Find the image of (2, -3) when reflected in the line x = -1.",
+    "choices": [
+      "(-4, -3)",
+      "(-3, -3)",
+      "(-2, -3)",
+      "(-5, -3)"
+    ],
+    "answer": 0,
+    "chapter": "Reflection",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Point (2, -3) is 3 units to the right of x = -1. Its image is 3 units to the left: (-1 - 3, -3) = (-4, -3)."
+  },
+  {
+    "question": "The point P(x, y) is reflected in the x-axis to P'(5, 6). Find x and y.",
+    "choices": [
+      "x = 5, y = 6",
+      "x = -5, y = 6",
+      "x = 5, y = -6",
+      "x = -5, y = -6"
+    ],
+    "answer": 2,
+    "chapter": "Reflection",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Mx(x, y) = (x, -y). If (x, -y) = (5, 6), then x = 5 and y = -6."
+  },
+  {
+    "question": "What is the single transformation that maps (x, y) to (-x, y)?",
+    "choices": [
+      "Reflection in x-axis",
+      "Reflection in y-axis",
+      "Reflection in origin",
+      "Reflection in line y = x"
+    ],
+    "answer": 1,
+    "chapter": "Reflection",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "By rule, reflection in the y-axis (x = 0) results in the mapping (x, y) -> (-x, y)."
+  },
+  {
+    "question": "The coordinates of a point P are (-3, 2). Find the coordinates of its image under reflection in the line y = 0.",
+    "choices": [
+      "(3, 2)",
+      "(-3, -2)",
+      "(3, -2)",
+      "(2, -3)"
+    ],
+    "answer": 1,
+    "chapter": "Reflection",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "The line y = 0 is the x-axis. Reflection in the x-axis maps (-3, 2) to (-3, -2)."
+  },
+  {
+    "question": "A point (5, 2) is reflected in the line x = 3 to P'. Find P'.",
+    "choices": [
+      "(1, 2)",
+      "(8, 2)",
+      "(3, 2)",
+      "(2, 2)"
+    ],
+    "answer": 0,
+    "chapter": "Reflection",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Distance from x = 3 is 2 units. Image is 2 units on the other side: 3 - 2 = 1. Image is (1, 2)."
+  },
+  {
+    "question": "Identify the invariant point under reflection in the origin.",
+    "choices": [
+      "(1, 1)",
+      "(-1, -1)",
+      "(0, 0)",
+      "(0, 1)"
+    ],
+    "answer": 2,
+    "chapter": "Reflection",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Only the origin (0, 0) remains unchanged when reflected in the origin."
+  },
+  {
+    "question": "If P(3, -4) is reflected in the y-axis to Q, and Q is reflected in the origin to R, find R.",
+    "choices": [
+      "(3, 4)",
+      "(-3, 4)",
+      "(3, -4)",
+      "(-3, -4)"
+    ],
+    "answer": 0,
+    "chapter": "Reflection",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "P(3, -4) -> Q(-3, -4) (y-axis reflection). Q(-3, -4) -> R(3, 4) (origin reflection)."
+  },
+  {
+    "question": "The points (-2, 0) and (5, 0) are invariant under reflection in line L. The equation of L is:",
+    "choices": [
+      "x = 0",
+      "y = 0",
+      "x = 2",
+      "y = 5"
+    ],
+    "answer": 1,
+    "chapter": "Reflection",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Since the points lie on the x-axis, the x-axis (y = 0) must be the line of reflection."
+  },
+  {
+    "question": "Find the image of (4, -1) when reflected in the line y = -1.",
+    "choices": [
+      "(4, 1)",
+      "(-4, -1)",
+      "(4, -1)",
+      "(0, -1)"
+    ],
+    "answer": 2,
+    "chapter": "Reflection",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "The point (4, -1) lies on the line y = -1. Therefore, it is an invariant point."
+  },
+  {
+    "question": "A point P is reflected in the x-axis. The coordinates of its image are (8, -6). Find the coordinates of P.",
+    "choices": [
+      "(-8, 6)",
+      "(8, 6)",
+      "(-8, -6)",
+      "(6, 8)"
+    ],
+    "answer": 1,
+    "chapter": "Reflection",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Mx(x, y) = (x, -y). If (x, -y) = (8, -6), then x = 8 and y = 6."
+  },
+  {
+    "question": "What is the reflection of the point (h, k) in the y-axis?",
+    "choices": [
+      "(h, -k)",
+      "(-h, k)",
+      "(-h, -k)",
+      "(k, h)"
+    ],
+    "answer": 1,
+    "chapter": "Reflection",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Reflection in the y-axis negates the x-coordinate (abscissa)."
+  },
+  {
+    "question": "Point M(3, 5) is reflected in the line x = 0 to M'. Find M'.",
+    "choices": [
+      "(3, -5)",
+      "(-3, 5)",
+      "(-3, -5)",
+      "(0, 5)"
+    ],
+    "answer": 1,
+    "chapter": "Reflection",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "The line x = 0 is the y-axis. Reflection in the y-axis gives (-3, 5)."
+  },
+  {
+    "question": "Find the image of point (2, 3) under reflection in the line y = 4.",
+    "choices": [
+      "(2, 5)",
+      "(2, 1)",
+      "(6, 3)",
+      "(2, 4)"
+    ],
+    "answer": 0,
+    "chapter": "Reflection",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "The point (2, 3) is 1 unit below y = 4. Its image will be 1 unit above y = 4: (2, 4 + 1) = (2, 5)."
+  },
+  {
+    "question": "The point P(4, 3) is reflected in the x-axis to P'. If M is the foot of the perpendicular from P to the x-axis, find the coordinates of M.",
+    "choices": [
+      "(0, 3)",
+      "(4, 0)",
+      "(4, -3)",
+      "(0, 0)"
+    ],
+    "answer": 1,
+    "chapter": "Reflection",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "The foot of the perpendicular from (x, y) to the x-axis is always (x, 0)."
+  },
+  {
+    "question": "A point P is reflected in the line x = a. If P is (1, 2) and its image P' is (5, 2), find the value of a.",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "answer": 1,
+    "chapter": "Reflection",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "The line of reflection is the midpoint of the x-coordinates: (1 + 5) / 2 = 3. So a = 3."
+  },
+  {
+    "question": "Find the coordinates of the point to which (2, 0) is mapped on reflection in the y-axis.",
+    "choices": [
+      "(2, 0)",
+      "(-2, 0)",
+      "(0, 2)",
+      "(0, -2)"
+    ],
+    "answer": 1,
+    "chapter": "Reflection",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Reflection in the y-axis changes the sign of the x-coordinate. (2, 0) becomes (-2, 0)."
+  },
+  {
+    "question": "The single transformation that maps (3, 4) to (-3, -4) is:",
+    "choices": [
+      "Reflection in x-axis",
+      "Reflection in y-axis",
+      "Reflection in origin",
+      "Reflection in y = -x"
+    ],
+    "answer": 2,
+    "chapter": "Reflection",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Both coordinates changed signs, indicating a reflection in the origin."
+  },
+  {
+    "question": "If a triangle ABC is reflected in the x-axis to A'B'C', which property remains the same?",
+    "choices": [
+      "Coordinates of vertices",
+      "Area of the triangle",
+      "Orientation (clockwise/anticlockwise)",
+      "The quadrant of the vertices"
+    ],
+    "answer": 1,
+    "chapter": "Reflection",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Reflection is a congruent transformation (isometry); size and area are preserved, though orientation changes."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The point (0, 5) is invariant under reflection in the y-axis.<br><b>Reason (R):</b> Any point that lies on the y-axis has its x-coordinate (abscissa) equal to zero.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Reflection",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "A point is invariant if it lies on the line of reflection. Since the y-axis is the line x=0, any point with x=0, like (0, 5), remains unchanged."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The reflection of point P(2, 4) in the origin is P'(-2, -4).<br><b>Reason (R):</b> Reflection in the origin maps a point (x, y) to (-x, -y).",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Reflection",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "The rule for origin reflection is to change the signs of both coordinates, which matches the coordinates provided in the assertion."
+  },
+  {
+    "question": "<b>Assertion (A):</b> When the point (3, -2) is reflected in the x-axis, its image is (-3, -2).<br><b>Reason (R):</b> Reflection in the x-axis changes the sign of the ordinate (y-coordinate) while the abscissa remains the same.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Reflection",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The assertion is false because reflection of (3, -2) in the x-axis should be (3, 2). The reason correctly states the rule for x-axis reflection."
+  },
+  {
+    "question": "<b>Assertion (A):</b> A point P lies on the line x = 3. Its image under reflection in the line x = 3 is the point P itself.<br><b>Reason (R):</b> Every point on the mirror line is an invariant point.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Reflection",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Since point P lies on the line of reflection (the mirror line), it does not move during the transformation, making it invariant."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The single transformation that is equivalent to a reflection in the x-axis followed by a reflection in the y-axis is a reflection in the origin.<br><b>Reason (R):</b> My(Mx(x, y)) = My(x, -y) = (-x, -y).",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Reflection",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Successive reflections in two mutually perpendicular axes (x and y) result in a mapping where both signs change, which is identical to an origin reflection."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The image of point (1, 2) in the line y = 0 is (-1, 2).<br><b>Reason (R):</b> The line y = 0 represents the x-axis.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Reflection",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The assertion is false; the image of (1, 2) in the x-axis (y=0) is (1, -2). The reason is true as y=0 is indeed the equation for the x-axis."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The line segment joining a point P and its image P' is perpendicularly bisected by the mirror line.<br><b>Reason (R):</b> In a reflection, the image is at the same distance behind the mirror as the object is in front of it.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Reflection",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "By geometric definition of reflection, the mirror line acts as the mediator (perpendicular bisector) of the segment connecting a point and its image."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The point (-4, 0) is invariant under reflection in the line x = 0.<br><b>Reason (R):</b> The line x = 0 is the y-axis.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Reflection",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The assertion is false; (-4, 0) is on the x-axis and would only be invariant in the x-axis (y=0). It would map to (4, 0) in the y-axis (x=0). The reason is true."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If a triangle is reflected in a line, the area of the image triangle is equal to the area of the original triangle.<br><b>Reason (R):</b> Reflection is a transformation that preserves the lengths of segments and the measures of angles.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Reflection",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Reflection is an isometry (congruent transformation), meaning the shape and size (and thus the area) remain unchanged."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The image of the point (5, 4) in the line y = 2 is (5, 0).<br><b>Reason (R):</b> The distance of the point (5, 4) from the line y = 2 is 2 units.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Reflection",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "The point is 2 units above the line y=2. Its image must be 2 units below the line. 2 units below y=2 is y=0, resulting in the coordinates (5, 0)."
+  },  
+{
+    "question": "A point P divides the line segment joining A(1, 3) and B(5, 9) internally in the ratio 1:2. Find the coordinates of P.",
+    "choices": [
+      "<latex>(\\frac{7}{3}, 5)</latex>",
+      "<latex>(3, 6)</latex>",
+      "<latex>(\\frac{7}{3}, \\frac{13}{3})</latex>",
+      "<latex>(2, 5)</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Using Section Formula: <latex>x = \\frac{m_{1}x_{2} + m_{2}x_{1}}{m_{1}+m_{2}} = \\frac{1(5) + 2(1)}{3} = \\frac{7}{3}</latex> and <latex>y = \\frac{1(9) + 2(3)}{3} = 5</latex>."
+  },
+  {
+    "question": "If P(3, y) lies on the line segment joining A(2, 4) and B(6, 12), find the ratio AP:PB.",
+    "choices": [
+      "<latex>3:2</latex>",
+      "<latex>1:3</latex>",
+      "<latex>2:3</latex>",
+      "<latex>3:1</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Using the x-coordinate: <latex>3 = \\frac{k(6) + 2}{k + 1} \\Rightarrow 3k + 3 = 6k + 2 \\Rightarrow 3k = 1 \\Rightarrow k = \\frac{1}{3}</latex>. Ratio is 1:3."
+  },
+  {
+    "question": "The ratio in which the join of (2, 4) and (10, 12) is divided by the line x = 7 is:",
+    "choices": [
+      "<latex>3:5</latex>",
+      "<latex>5:3</latex>",
+      "<latex>1:5</latex>",
+      "<latex>3:1</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Let ratio be <latex>k:1</latex>. <latex>7 = \\frac{k(10) + 2}{k + 1} \\Rightarrow 7k + 7 = 10k + 2 \\Rightarrow 3k = 5 \\Rightarrow k = \\frac{5}{3}</latex>."
+  },
+  {
+    "question": "In what ratio is the join of (4, 3) and (2, -6) divided by the x-axis?",
+    "choices": [
+      "<latex>1:2</latex>",
+      "<latex>2:1</latex>",
+      "<latex>3:5</latex>",
+      "<latex>5:3</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "On the x-axis, <latex>y = 0</latex>. <latex>0 = \\frac{m_{1}(-6) + m_{2}(3)}{m_{1}+m_{2}} \\Rightarrow 6m_{1} = 3m_{2} \\Rightarrow \\frac{m_{1}}{m_{2}} = \\frac{1}{2}</latex>."
+  },
+  {
+    "question": "Find the coordinates of the midpoint of the line segment joining A(-4, 6) and B(8, -3).",
+    "choices": [
+      "<latex>(2, 1.5)</latex>",
+      "<latex>(4, 3)</latex>",
+      "<latex>(2, 4.5)</latex>",
+      "<latex>(6, 1.5)</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Midpoint formula: <latex>x = \\frac{-4+8}{2} = 2</latex>, <latex>y = \\frac{6-3}{2} = 1.5</latex>."
+  },
+  {
+    "question": "If G(4, 3) is the centroid of a triangle with vertices A(1, 3), B(4, b), and C(a, 1), find the values of a and b.",
+    "choices": [
+      "<latex>a=7, b=5</latex>",
+      "<latex>a=5, b=7</latex>",
+      "<latex>a=6, b=4</latex>",
+      "<latex>a=4, b=6</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Centroid coordinates are <latex>(\\frac{\\Sigma x}{3}, \\frac{\\Sigma y}{3})</latex>. <latex>\\frac{1+4+a}{3}=4 \\Rightarrow a=7</latex>; <latex>\\frac{3+b+1}{3}=3 \\Rightarrow b=5</latex>."
+  },
+  {
+    "question": "The diagonals of a parallelogram ABCD bisect each other. If A(14, -2), B(6, -2), and D(8, 2) are vertices, find vertex C.",
+    "choices": [
+      "<latex>(0, 2)</latex>",
+      "<latex>(2, 0)</latex>",
+      "<latex>(4, 2)</latex>",
+      "<latex>(6, 6)</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Midpoint of BD = Midpoint of AC. Midpoint BD = (7, 0). So, <latex>\\frac{14+x}{2}=7 \\Rightarrow x=0</latex> and <latex>\\frac{-2+y}{2}=0 \\Rightarrow y=2</latex>."
+  },
+  {
+    "question": "Points P and Q trisect the line segment joining A(6, -2) and B(-8, 10). Find P (the point closer to A).",
+    "choices": [
+      "<latex>(\\frac{4}{3}, 2)</latex>",
+      "<latex>(-\\frac{10}{3}, 6)</latex>",
+      "<latex>(2, 2)</latex>",
+      "<latex>(0, 4)</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "P divides AB in ratio 1:2. <latex>x = \\frac{1(-8)+2(6)}{3} = \\frac{4}{3}</latex>, <latex>y = \\frac{1(10)+2(-2)}{3} = 2</latex>."
+  },
+  {
+    "question": "Point A(3, -5) is reflected in point P(-4, 3) to get A'. Find the coordinates of A'.",
+    "choices": [
+      "<latex>(-11, 11)</latex>",
+      "<latex>(-1, -1)</latex>",
+      "<latex>(-7, 8)</latex>",
+      "<latex>(-11, 8)</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "P is the midpoint of AA'. <latex>-4 = \\frac{3+x}{2} \\Rightarrow x = -11</latex>; <latex>3 = \\frac{-5+y}{2} \\Rightarrow y = 11</latex>."
+  },
+  {
+    "question": "The centroid G of triangle ABC divides the median AD from vertex A in the ratio:",
+    "choices": [
+      "<latex>1:1</latex>",
+      "<latex>2:1</latex>",
+      "<latex>1:2</latex>",
+      "<latex>3:1</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The centroid always divides the median in the ratio 2:1 from the vertex."
+  },
+  {
+    "question": "Find the length of the line segment joining (4, 3) and (1, -1).",
+    "choices": [
+      "<latex>5 units</latex>",
+      "<latex>4 units</latex>",
+      "<latex>3 units</latex>",
+      "<latex>7 units</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Distance = <latex>\\sqrt{(4-1)^{2} + (3+1)^{2}} = \\sqrt{3^{2} + 4^{2}} = 5</latex>."
+  },
+  {
+    "question": "The midpoint of AB is C(4, -3). If A lies on the x-axis and B lies on the y-axis, find the coordinates of A.",
+    "choices": [
+      "<latex>(8, 0)</latex>",
+      "<latex>(4, 0)</latex>",
+      "<latex>(0, -6)</latex>",
+      "<latex>(0, 0)</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "A = (x, 0), B = (0, y). Midpoint is <latex>(\\frac{x}{2}, \\frac{y}{2}) = (4, -3) \\Rightarrow x = 8</latex>."
+  },
+  {
+    "question": "Calculate the ratio in which the y-axis divides the line segment joining (-2, 5) and (5, -2).",
+    "choices": [
+      "<latex>2:5</latex>",
+      "<latex>5:2</latex>",
+      "<latex>1:1</latex>",
+      "<latex>3:5</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "On y-axis, <latex>x = 0</latex>. <latex>0 = \\frac{5k - 2}{k+1} \\Rightarrow 5k = 2 \\Rightarrow k = \\frac{2}{5}</latex>."
+  },
+  {
+    "question": "Find the centroid of a triangle with vertices (-6, -3), (0, 0), and (12, -6).",
+    "choices": [
+      "<latex>(2, -3)</latex>",
+      "<latex>(-2, 3)</latex>",
+      "<latex>(2, 3)</latex>",
+      "<latex>(0, 0)</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "<latex>x = \\frac{-6+0+12}{3} = 2</latex>, <latex>y = \\frac{-3+0-6}{3} = -3</latex>."
+  },
+  {
+    "question": "If P(x, 3) divides the join of A(-4, 2) and B(3, 6), find the ratio AP:PB.",
+    "choices": [
+      "<latex>1:3</latex>",
+      "<latex>3:1</latex>",
+      "<latex>2:3</latex>",
+      "<latex>1:2</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Using y-coordinate: <latex>3 = \\frac{6k+2}{k+1} \\Rightarrow 3k+3 = 6k+2 \\Rightarrow 3k=1 \\Rightarrow k = \\frac{1}{3}</latex>."
+  },
+  {
+    "question": "Which of these is the formula for the centroid of a triangle?",
+    "choices": [
+      "<latex>(\\frac{x_{1}+x_{2}}{2}, \\frac{y_{1}+y_{2}}{2})</latex>",
+      "<latex>(\\frac{x_{1}+x_{2}+x_{3}}{3}, \\frac{y_{1}+y_{2}+y_{3}}{3})</latex>",
+      "<latex>(\\frac{m_{1}x_{2}+m_{2}x_{1}}{m_{1}+m_{2}}, \\frac{m_{1}y_{2}+m_{2}y_{1}}{m_{1}+m_{2}})</latex>",
+      "<latex>\\sqrt{(x_{2}-x_{1})^{2} + (y_{2}-y_{1})^{2}}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The centroid is the average of the coordinates of the three vertices."
+  },
+  {
+    "question": "If the midpoint of (4, y) and (x, 8) is (0, 0), find x and y.",
+    "choices": [
+      "<latex>x = -4, y = -8</latex>",
+      "<latex>x = 4, y = 8</latex>",
+      "<latex>x = -4, y = 8</latex>",
+      "<latex>x = 4, y = -8</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "<latex>\\frac{4+x}{2} = 0 \\Rightarrow x = -4</latex>; <latex>\\frac{y+8}{2} = 0 \\Rightarrow y = -8</latex>."
+  },
+  {
+    "question": "The abscissa of any point on the y-axis is:",
+    "choices": [
+      "<latex>0</latex>",
+      "<latex>1</latex>",
+      "Depends on y",
+      "<latex>-1</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Points on the y-axis always have an x-coordinate (abscissa) of 0."
+  },
+  {
+    "question": "A line segment AB is divided by the origin in the ratio 1:1. If A is (3, 4), find B.",
+    "choices": [
+      "<latex>(-3, -4)</latex>",
+      "<latex>(3, 4)</latex>",
+      "<latex>(0, 0)</latex>",
+      "<latex>(-4, -3)</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Origin is the midpoint, so B is the reflection of A in the origin: (-3, -4)."
+  },
+  {
+    "question": "Find the ratio in which the x-axis divides the join of (4, 3) and (2, -6).",
+    "choices": [
+      "<latex>1:2</latex>",
+      "<latex>2:1</latex>",
+      "<latex>3:4</latex>",
+      "<latex>1:1</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "On x-axis, <latex>y = 0</latex>. <latex>0 = \\frac{-6k+3}{k+1} \\Rightarrow 6k=3 \\Rightarrow k = \\frac{1}{2}</latex>."
+  },
+  {
+    "question": "If the midpoint of (3m, 6) and (-4, 3n) is (1, 2m-1), find m.",
+    "choices": [
+      "<latex>2</latex>",
+      "<latex>1</latex>",
+      "<latex>0</latex>",
+      "<latex>3</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>\\frac{3m-4}{2} = 1 \\Rightarrow 3m-4=2 \\Rightarrow 3m=6 \\Rightarrow m=2</latex>."
+  },
+  {
+    "question": "Find the distance of point P(3, 4) from the origin.",
+    "choices": [
+      "<latex>5 units</latex>",
+      "<latex>7 units</latex>",
+      "<latex>25 units</latex>",
+      "<latex>1 unit</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Distance from origin = <latex>\\sqrt{3^{2} + 4^{2}} = 5</latex>."
+  },
+  {
+    "question": "If P(x, y) divides AB in ratio k:1, the x-coordinate is:",
+    "choices": [
+      "<latex>\\frac{kx_{2}+x_{1}}{k+1}</latex>",
+      "<latex>\\frac{kx_{1}+x_{2}}{k+1}</latex>",
+      "<latex>\\frac{x_{1}+x_{2}}{k}</latex>",
+      "<latex>\\frac{kx_{2}-x_{1}}{k-1}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "This is the standard section formula for a point dividing internally in ratio k:1."
+  },
+  {
+    "question": "If A(2, 3) and B(6, -5) are points, find the midpoint of AB.",
+    "choices": [
+      "<latex>(4, -1)</latex>",
+      "<latex>(8, -2)</latex>",
+      "<latex>(4, 1)</latex>",
+      "<latex>(2, -1)</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "<latex>x = \\frac{2+6}{2} = 4</latex>, <latex>y = \\frac{3-5}{2} = -1</latex>."
+  },
+  {
+    "question": "A median joins a vertex to the midpoint of the opposite side. How many medians does a triangle have?",
+    "choices": [
+      "<latex>3</latex>",
+      "<latex>1</latex>",
+      "<latex>2</latex>",
+      "Infinite"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "A triangle has three vertices, each having one median to the opposite side."
+  },
+  {
+    "question": "If the centroid of triangle ABC is (0, 0) and vertices are A(5, x), B(-4, 3), and C(y, -2), find y.",
+    "choices": [
+      "<latex>-1</latex>",
+      "<latex>1</latex>",
+      "<latex>0</latex>",
+      "<latex>5</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>\\frac{5-4+y}{3} = 0 \\Rightarrow 1+y=0 \\Rightarrow y = -1</latex>."
+  },
+  {
+    "question": "The point of intersection of the medians is called the:",
+    "choices": [
+      "Centroid",
+      "Midpoint",
+      "Origin",
+      "Vertex"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The centroid is defined as the point where all three medians of a triangle intersect."
+  },
+  {
+    "question": "If P(-1, 2) divides the join of A(2, 5) and B(a, b) in ratio 3:4, find a.",
+    "choices": [
+      "<latex>-5</latex>",
+      "<latex>5</latex>",
+      "<latex>-3</latex>",
+      "<latex>0</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "<latex>-1 = \\frac{3a + 4(2)}{7} \\Rightarrow -7 = 3a + 8 \\Rightarrow 3a = -15 \\Rightarrow a = -5</latex>."
+  },
+  {
+    "question": "The ratio 1:1 in the section formula represents the:",
+    "choices": [
+      "Midpoint",
+      "Trisection",
+      "Centroid",
+      "Reflection"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "When a point divides a segment in the ratio 1:1, it is equidistant from both ends, making it the midpoint."
+  },
+  {
+    "question": "Find the length of the median through vertex A(7, -4) if the midpoint of the opposite side is M(-4, 6.5).",
+    "choices": [
+      "<latex>15.2 units</latex>",
+      "<latex>11 units</latex>",
+      "<latex>10.5 units</latex>",
+      "<latex>21 units</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Length = <latex>\\sqrt{(-4-7)^{2} + (6.5+4)^{2}} = \\sqrt{121 + 110.25} = \\sqrt{231.25} \\approx 15.2</latex>."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The midpoint of the line segment joining A(4, 10) and B(2, 6) is (3, 8). <br><b>Reason (R):</b> The coordinates of the midpoint of the line segment joining <latex>(x_{1}, y_{1})</latex> and <latex>(x_{2}, y_{2})</latex> are <latex>(\\frac{x_{1}+x_{2}}{2}, \\frac{y_{1}+y_{2}}{2})</latex>.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "The midpoint is calculated as <latex>\\frac{4+2}{2} = 3</latex> and <latex>\\frac{10+6}{2} = 8</latex>, which directly follows the midpoint formula."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The point P(0, 7) lies on the y-axis. <br><b>Reason (R):</b> Every point on the y-axis has its abscissa (x-coordinate) equal to zero.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Since the x-coordinate of P is 0, it satisfies the condition for lying on the y-axis."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The centroid G of a triangle with vertices (0, 0), (6, 0), and (0, 9) is (2, 3). <br><b>Reason (R):</b> The centroid of a triangle divides each median in the ratio 2:1 from the vertex.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 1,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Both statements are true. The centroid is <latex>(\\frac{0+6+0}{3}, \\frac{0+0+9}{3}) = (2, 3)</latex>. However, the ratio property of the centroid does not explain the calculation of its coordinates."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The x-axis divides the line segment joining (2, 4) and (5, -4) in the ratio 1:1. <br><b>Reason (R):</b> The midpoint of the segment has an ordinate (y-coordinate) of zero, which lies on the x-axis.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "The y-coordinate of the midpoint is <latex>\\frac{4 + (-4)}{2} = 0</latex>. A point with y = 0 lies on the x-axis, meaning it divides the segment in ratio 1:1."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The centroid of a triangle divides each median in the ratio 1:2 from the vertex. <br><b>Reason (R):</b> The median of a triangle is the line segment joining a vertex to the midpoint of the opposite side.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "The Assertion is false because the centroid divides the median in the ratio 2:1 from the vertex. The Reason is a true definition."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If the midpoints of the diagonals of a quadrilateral are the same point, the quadrilateral is a parallelogram. <br><b>Reason (R):</b> The diagonals of a parallelogram bisect each other.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Bisection of diagonals is a defining property of a parallelogram, meaning they share the same midpoint."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The reflection of the point (5, -2) in the origin is (-5, 2). <br><b>Reason (R):</b> The origin is the midpoint of the line segment joining a point and its reflection in the origin.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Reflection in the origin maps <latex>(x, y)</latex> to <latex>(-x, -y)</latex>, and (0, 0) is the midpoint of these two points."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Trisection points of a segment AB divide it in the ratios 1:2 and 2:1. <br><b>Reason (R):</b> Trisection means dividing a line segment into three equal parts.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Dividing a segment into three equal parts results in internal points that divide the whole segment in ratios 1:2 and 2:1."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The distance of the point (8, 6) from the origin is 10 units. <br><b>Reason (R):</b> The distance of any point <latex>P(x, y)</latex> from the origin <latex>(0, 0)</latex> is given by <latex>\\sqrt{x^{2} + y^{2}}</latex>.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "The distance is <latex>\\sqrt{8^{2} + 6^{2}} = \\sqrt{64+36} = 10</latex>, which is correctly justified by the provided formula."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If a point P divides the line segment AB in the ratio <latex>k:1</latex>, and <latex>k</latex> is positive, the division is internal. <br><b>Reason (R):</b> The section formula for internal division is <latex>x = \\frac{m_{1}x_{2} + m_{2}x_{1}}{m_{1} + m_{2}}</latex>.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 1,
+    "chapter": "Section and Mid-Point Formula",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Both statements are true. A positive ratio <latex>k</latex> denotes the point lies between A and B (internal). However, the formula itself does not define why a positive <latex>k</latex> implies internal division."
+  },
+  {
+    "question": "The inclination of a line which is parallel to the x-axis is:",
+    "choices": [
+      "<latex>0^{\\circ}</latex>",
+      "<latex>45^{\\circ}</latex>",
+      "<latex>90^{\\circ}</latex>",
+      "<latex>180^{\\circ}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Equation of a Line",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "A line parallel to the x-axis makes an angle of <latex>0^{\\circ}</latex> with the positive direction of the x-axis."
+  },
+  {
+    "question": "If the slope of a line is <latex>1</latex>, then its inclination with the positive direction of the x-axis is:",
+    "choices": [
+      "<latex>0^{\\circ}</latex>",
+      "<latex>30^{\\circ}</latex>",
+      "<latex>45^{\\circ}</latex>",
+      "<latex>60^{\\circ}</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Equation of a Line",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Slope <latex>m = \\tan \\theta</latex>. Since <latex>\\tan 45^{\\circ} = 1</latex>, the inclination is <latex>45^{\\circ}</latex>."
+  },
+  {
+    "question": "The slope of a line passing through the points <latex>(3, -2)</latex> and <latex>(-1, 4)</latex> is:",
+    "choices": [
+      "<latex>\\frac{3}{2}</latex>",
+      "<latex>-\\frac{3}{2}</latex>",
+      "<latex>-\\frac{2}{3}</latex>",
+      "<latex>\\frac{2}{3}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Equation of a Line",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Formula: <latex>m = \\frac{y_{2} - y_{1}}{x_{2} - x_{1}}</latex>. Here <latex>m = \\frac{4 - (-2)}{-1 - 3} = \\frac{6}{-4} = -\\frac{3}{2}</latex>."
+  },
+  {
+    "question": "Two lines are perpendicular to each other if the product of their slopes <latex>m_{1}</latex> and <latex>m_{2}</latex> is:",
+    "choices": [
+      "<latex>1</latex>",
+      "<latex>0</latex>",
+      "<latex>-1</latex>",
+      "<latex>\\infty</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Equation of a Line",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "By the condition of perpendicularity, <latex>m_{1} \\times m_{2} = -1</latex>."
+  },
+  {
+    "question": "The slope of the x-axis is:",
+    "choices": [
+      "<latex>0</latex>",
+      "<latex>1</latex>",
+      "<latex>-1</latex>",
+      "Not defined"
+    ],
+    "answer": 0,
+    "chapter": "Equation of a Line",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The x-axis makes an angle of <latex>0^{\\circ}</latex> with itself, and <latex>\\tan 0^{\\circ} = 0</latex>."
+  },
+  {
+    "question": "The slope of the line represented by the equation <latex>2x - 3y + 5 = 0</latex> is:",
+    "choices": [
+      "<latex>\\frac{2}{3}</latex>",
+      "<latex>-\\frac{2}{3}</latex>",
+      "<latex>\\frac{3}{2}</latex>",
+      "<latex>-\\frac{3}{2}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Equation of a Line",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Convert to <latex>y = mx + c</latex> form: <latex>3y = 2x + 5 \\Rightarrow y = \\frac{2}{3}x + \\frac{5}{3}</latex>. Thus <latex>m = \\frac{2}{3}</latex>."
+  },
+  {
+    "question": "The y-intercept of the line <latex>x + 2y - 4 = 0</latex> is:",
+    "choices": [
+      "<latex>4</latex>",
+      "<latex>-4</latex>",
+      "<latex>2</latex>",
+      "<latex>-2</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Equation of a Line",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Set <latex>x = 0</latex>: <latex>2y - 4 = 0 \\Rightarrow 2y = 4 \\Rightarrow y = 2</latex>."
+  },
+  {
+    "question": "Find the equation of a line passing through the origin with slope <latex>3</latex>.",
+    "choices": [
+      "<latex>y = 3x</latex>",
+      "<latex>x = 3y</latex>",
+      "<latex>y = x + 3</latex>",
+      "<latex>3x + y = 0</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Equation of a Line",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Using <latex>y = mx + c</latex>, where <latex>m = 3</latex> and <latex>c = 0</latex> (passes through origin), the equation is <latex>y = 3x</latex>."
+  },
+  {
+    "question": "If three points <latex>A</latex>, <latex>B</latex>, and <latex>C</latex> are collinear, then:",
+    "choices": [
+      "Slope of AB = Slope of BC",
+      "Slope of AB <latex>\\times</latex> Slope of BC = -1",
+      "Slope of AB + Slope of BC = 0",
+      "Slope of AB = -Slope of BC"
+    ],
+    "answer": 0,
+    "chapter": "Equation of a Line",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Collinear points lie on the same line, so the slope between any two pairs of points must be equal."
+  },
+  {
+    "question": "The equation of a line parallel to the y-axis and passing through <latex>(4, -2)</latex> is:",
+    "choices": [
+      "<latex>y = -2</latex>",
+      "<latex>x = 4</latex>",
+      "<latex>x + y = 2</latex>",
+      "<latex>y = 4</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Equation of a Line",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "A line parallel to the y-axis has an equation of the form <latex>x = a</latex>. Since it passes through <latex>(4, -2)</latex>, <latex>x = 4</latex>."
+  },
+  {
+    "question": "What is the slope of a line whose inclination is <latex>90^{\\circ}</latex>?",
+    "choices": [
+      "<latex>0</latex>",
+      "<latex>1</latex>",
+      "Not defined",
+      "<latex>-1</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Equation of a Line",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Slope <latex>m = \\tan 90^{\\circ}</latex>, which is undefined."
+  },
+  {
+    "question": "The slope of a line parallel to <latex>3x - 4y + 10 = 0</latex> is:",
+    "choices": [
+      "<latex>\\frac{3}{4}</latex>",
+      "<latex>-\\frac{3}{4}</latex>",
+      "<latex>\\frac{4}{3}</latex>",
+      "<latex>-\\frac{4}{3}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Equation of a Line",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Parallel lines have the same slope. From <latex>4y = 3x + 10</latex>, <latex>m = \\frac{3}{4}</latex>."
+  },
+  {
+    "question": "The x-intercept of the line <latex>2x + 5y = 10</latex> is:",
+    "choices": [
+      "<latex>2</latex>",
+      "<latex>5</latex>",
+      "<latex>10</latex>",
+      "<latex>0</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Equation of a Line",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "To find the x-intercept, set <latex>y = 0</latex>: <latex>2x = 10 \\Rightarrow x = 5</latex>."
+  },
+  {
+    "question": "Find the equation of a line with slope <latex>-2</latex> and y-intercept <latex>5</latex>.",
+    "choices": [
+      "<latex>y = -2x + 5</latex>",
+      "<latex>y = 5x - 2</latex>",
+      "<latex>2x + y + 5 = 0</latex>",
+      "<latex>x - 2y = 5</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Equation of a Line",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Using the slope-intercept form <latex>y = mx + c</latex>, we get <latex>y = -2x + 5</latex>."
+  },
+  {
+    "question": "If a line makes an angle of <latex>135^{\\circ}</latex> with the positive x-axis, its slope is:",
+    "choices": [
+      "<latex>1</latex>",
+      "<latex>-1</latex>",
+      "<latex>\\frac{1}{\\sqrt{3}}</latex>",
+      "<latex>\\sqrt{3}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Equation of a Line",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>m = \\tan 135^{\\circ} = \\tan(180^{\\circ} - 45^{\\circ}) = -\\tan 45^{\\circ} = -1</latex>."
+  },
+  {
+    "question": "The equation of the x-axis is:",
+    "choices": [
+      "<latex>x = 0</latex>",
+      "<latex>y = 0</latex>",
+      "<latex>x = y</latex>",
+      "<latex>x + y = 0</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Equation of a Line",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Every point on the x-axis has a y-coordinate of <latex>0</latex>."
+  },
+  {
+    "question": "The coordinates of the point where the line <latex>y = 2x - 6</latex> intersects the x-axis are:",
+    "choices": [
+      "<latex>(0, -6)</latex>",
+      "<latex>(3, 0)</latex>",
+      "<latex>(-3, 0)</latex>",
+      "<latex>(6, 0)</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Equation of a Line",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "At the x-axis, <latex>y = 0</latex>. <latex>0 = 2x - 6 \\Rightarrow 2x = 6 \\Rightarrow x = 3</latex>. Point is <latex>(3, 0)</latex>."
+  },
+  {
+    "question": "The slope of a line perpendicular to <latex>x - 2y + 3 = 0</latex> is:",
+    "choices": [
+      "<latex>\\frac{1}{2}</latex>",
+      "<latex>-2</latex>",
+      "<latex>2</latex>",
+      "<latex>-\\frac{1}{2}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Equation of a Line",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Slope of given line <latex>m_{1} = \\frac{1}{2}</latex>. For perpendicular line, <latex>m_{2} = -\\frac{1}{m_{1}} = -2</latex>."
+  },
+  {
+    "question": "The point <latex>(k, 3)</latex> lies on the line <latex>2x + y = 7</latex>. Find the value of <latex>k</latex>.",
+    "choices": [
+      "<latex>2</latex>",
+      "<latex>3</latex>",
+      "<latex>1</latex>",
+      "<latex>5</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Equation of a Line",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Substitute <latex>(k, 3)</latex> into the equation: <latex>2k + 3 = 7 \\Rightarrow 2k = 4 \\Rightarrow k = 2</latex>."
+  },
+  {
+    "question": "If the slope of the line joining <latex>(2, 5)</latex> and <latex>(k, 3)</latex> is <latex>2</latex>, find <latex>k</latex>.",
+    "choices": [
+      "<latex>1</latex>",
+      "<latex>3</latex>",
+      "<latex>0</latex>",
+      "<latex>-1</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Equation of a Line",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>\\frac{3 - 5}{k - 2} = 2 \\Rightarrow \\frac{-2}{k - 2} = 2 \\Rightarrow -2 = 2k - 4 \\Rightarrow 2k = 2 \\Rightarrow k = 1</latex>."
+  },
+  {
+    "question": "The equation of a line passing through <latex>(1, 2)</latex> and parallel to the x-axis is:",
+    "choices": [
+      "<latex>x = 1</latex>",
+      "<latex>y = 2</latex>",
+      "<latex>y = 1</latex>",
+      "<latex>x = 2</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Equation of a Line",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "A line parallel to the x-axis has a constant y-value. Since it passes through <latex>(1, 2)</latex>, <latex>y = 2</latex>."
+  },
+  {
+    "question": "Which of the following lines passes through the origin?",
+    "choices": [
+      "<latex>x + y = 1</latex>",
+      "<latex>x - y = 0</latex>",
+      "<latex>2x + 3y = 5</latex>",
+      "<latex>y = x + 2</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Equation of a Line",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "A line passes through the origin if <latex>(0, 0)</latex> satisfies the equation. For <latex>x - y = 0</latex>, <latex>0 - 0 = 0</latex> is true."
+  },
+  {
+    "question": "The slope of a line whose equation is <latex>y = 5</latex> is:",
+    "choices": [
+      "<latex>5</latex>",
+      "<latex>0</latex>",
+      "Not defined",
+      "<latex>1</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Equation of a Line",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "The line <latex>y = 5</latex> is a horizontal line (parallel to x-axis), so its slope is <latex>0</latex>."
+  },
+  {
+    "question": "If the y-intercept of the line <latex>y = mx + 3</latex> is the same as the y-intercept of <latex>2x + 3y = 9</latex>, then the value of <latex>m</latex> can be:",
+    "choices": [
+      "Any real number",
+      "<latex>3</latex>",
+      "<latex>0</latex>",
+      "Not enough information"
+    ],
+    "answer": 0,
+    "chapter": "Equation of a Line",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The y-intercept of <latex>y = mx + 3</latex> is <latex>3</latex>. For <latex>2x + 3y = 9</latex>, at <latex>x = 0</latex>, <latex>3y = 9 \\Rightarrow y = 3</latex>. Since the intercepts match, <latex>m</latex> can be any value as it doesn't affect the intercept."
+  },
+  {
+    "question": "The slope of the line joining <latex>(a, b)</latex> and <latex>(b, a)</latex> is:",
+    "choices": [
+      "<latex>1</latex>",
+      "<latex>-1</latex>",
+      "<latex>0</latex>",
+      "Depends on a and b"
+    ],
+    "answer": 1,
+    "chapter": "Equation of a Line",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>m = \\frac{a - b}{b - a} = \\frac{a - b}{-(a - b)} = -1</latex>."
+  },
+  {
+    "question": "The gradient of the line <latex>x + y + 1 = 0</latex> is:",
+    "choices": [
+      "<latex>1</latex>",
+      "<latex>-1</latex>",
+      "<latex>0</latex>",
+      "Undefined"
+    ],
+    "answer": 1,
+    "chapter": "Equation of a Line",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Gradient is another word for slope. From <latex>y = -x - 1</latex>, <latex>m = -1</latex>."
+  },
+  {
+    "question": "A line passes through <latex>(0, 0)</latex> and <latex>(1, 1)</latex>. Its equation is:",
+    "choices": [
+      "<latex>x + y = 0</latex>",
+      "<latex>x - y = 0</latex>",
+      "<latex>y = 2x</latex>",
+      "<latex>x = 1</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Equation of a Line",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Slope <latex>m = \\frac{1 - 0}{1 - 0} = 1</latex>. Equation is <latex>y - 0 = 1(x - 0) \\Rightarrow y = x \\Rightarrow x - y = 0</latex>."
+  },
+  {
+    "question": "The y-axis is represented by the equation:",
+    "choices": [
+      "<latex>y = 0</latex>",
+      "<latex>x = 0</latex>",
+      "<latex>x = 1</latex>",
+      "<latex>y = x</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Equation of a Line",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "All points on the y-axis have an x-coordinate of <latex>0</latex>."
+  },
+  {
+    "question": "What is the slope of a line which is parallel to the line joining <latex>(0, 0)</latex> and <latex>(2, 2)</latex>?",
+    "choices": [
+      "<latex>0</latex>",
+      "<latex>1</latex>",
+      "<latex>2</latex>",
+      "Undefined"
+    ],
+    "answer": 1,
+    "chapter": "Equation of a Line",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Slope of given line is <latex>\\frac{2 - 0}{2 - 0} = 1</latex>. Parallel lines have the same slope."
+  },
+  {
+    "question": "The inclination of the line <latex>y = x</latex> is:",
+    "choices": [
+      "<latex>0^{\\circ}</latex>",
+      "<latex>30^{\\circ}</latex>",
+      "<latex>45^{\\circ}</latex>",
+      "<latex>60^{\\circ}</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Equation of a Line",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "For <latex>y = x</latex>, <latex>m = 1</latex>. <latex>\\tan 45^{\\circ} = 1</latex>."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The slope of a line parallel to the x-axis is zero. <br><b>Reason (R):</b> A line parallel to the x-axis makes an angle of <latex>0^{\\circ}</latex> with the x-axis and <latex>\\tan 0^{\\circ} = 0</latex>.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Equation of a Line",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The reason correctly uses the definition of slope and the angle for horizontal lines to explain the assertion."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The lines <latex>y = 2x + 3</latex> and <latex>2y = 4x + 7</latex> are parallel. <br><b>Reason (R):</b> Two lines are parallel if their slopes are equal.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Equation of a Line",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "First line slope <latex>m_{1} = 2</latex>. Second line <latex>y = 2x + 3.5</latex>, so <latex>m_{2} = 2</latex>. Since <latex>m_{1} = m_{2}</latex>, they are parallel."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The product of slopes of two perpendicular lines is always <latex>-1</latex>. <br><b>Reason (R):</b> If a line is horizontal, its perpendicular is vertical, and the slope of a vertical line is undefined.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 1,
+    "chapter": "Equation of a Line",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Both are true. However, the reason about horizontal/vertical lines is an exception to the <latex>m_{1}m_{2} = -1</latex> rule (as one slope is undefined), so it doesn't explain why the rule works for other lines."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The point <latex>(2, 4)</latex> lies on the line <latex>x - 3y + 8 = 0</latex>. <br><b>Reason (R):</b> Any point that satisfies the equation of a line lies on that line.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Equation of a Line",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Substituting <latex>(2, 4)</latex>: <latex>2 - 3(4) + 8 = 2 - 12 + 8 = -2 \\neq 0</latex>. So the assertion is false, but the reason is a true mathematical principle."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The slope of the y-axis is not defined. <br><b>Reason (R):</b> The inclination of the y-axis is <latex>90^{\\circ}</latex> and <latex>\\tan 90^{\\circ}</latex> is undefined.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Equation of a Line",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The definition of slope as the tangent of the inclination directly explains why the vertical axis has an undefined slope."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The equation of a line passing through <latex>(0, 3)</latex> and <latex>(4, 0)</latex> is <latex>3x + 4y = 12</latex>. <br><b>Reason (R):</b> Intercept form of a line is <latex>\\frac{x}{a} + \\frac{y}{b} = 1</latex>, where <latex>a</latex> and <latex>b</latex> are x and y intercepts.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Equation of a Line",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Here <latex>a = 4</latex> and <latex>b = 3</latex>. <latex>\\frac{x}{4} + \\frac{y}{3} = 1 \\Rightarrow 3x + 4y = 12</latex>. The reason explains the derivation."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If the inclination of a line increases, its slope always increases. <br><b>Reason (R):</b> The slope <latex>m</latex> is given by <latex>\\tan \\theta</latex>, and <latex>\\tan \\theta</latex> increases as <latex>\\theta</latex> increases from <latex>0^{\\circ}</latex> to <latex>90^{\\circ}</latex>.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Equation of a Line",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Assertion is false because as <latex>\\theta</latex> moves into the second quadrant (e.g., <latex>135^{\\circ}</latex>), the slope becomes negative (decreases). Reason is true but only for a limited range."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The y-intercept of the line <latex>y = 3x</latex> is zero. <br><b>Reason (R):</b> A line whose equation is of the form <latex>y = mx</latex> always passes through the origin.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Equation of a Line",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Passing through the origin means intersecting the y-axis at <latex>y = 0</latex>, which confirms the y-intercept is zero."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Slope of the line joining <latex>(2, 3)</latex> and <latex>(2, 5)</latex> is <latex>2</latex>. <br><b>Reason (R):</b> Slope <latex>m = \\frac{y_{2} - y_{1}}{x_{2} - x_{1}}</latex>.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Equation of a Line",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Assertion is false because <latex>x_{2} - x_{1} = 2 - 2 = 0</latex>, making the slope undefined. Reason is a true formula."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The equation <latex>x = 5</latex> represents a line parallel to the y-axis. <br><b>Reason (R):</b> For every point on the line <latex>x = 5</latex>, the x-coordinate remains constant at <latex>5</latex> regardless of the y-coordinate.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Equation of a Line",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The constant x-value ensures the line is vertical, which by definition is parallel to the y-axis."
+  }  
+  
 ]
