@@ -1006,5 +1006,1126 @@
     "category": "Recall",
     "complexity": "low",
     "reason": "The pulmonary artery arises from the right ventricle and carries deoxygenated blood to the lungs for oxygenation."
-  }
+  },
+  {
+    "question": "In a healthy individual, which blood vessel would contain the highest concentration of urea before it is filtered?",
+    "choices": [
+      "Renal Vein",
+      "Hepatic Vein",
+      "Renal Artery",
+      "Posterior Vena Cava"
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Urea is produced in the liver from the breakdown of excess amino acids. Therefore, the blood leaving the liver through the hepatic vein carries the highest concentration of urea to the heart before it eventually reaches the kidneys."
+  },
+  {
+    "question": "Identify the correct sequence of blood flow through the kidney's vascular system.",
+    "choices": [
+      "Renal artery → Afferent arteriole → Glomerulus → Efferent arteriole → Secondary capillary network → Renal vein",
+      "Renal artery → Efferent arteriole → Glomerulus → Afferent arteriole → Vasa recta → Renal vein",
+      "Renal vein → Secondary capillary network → Efferent arteriole → Glomerulus → Afferent arteriole → Renal artery",
+      "Afferent arteriole → Glomerulus → Efferent arteriole → Renal artery → Renal vein"
+    ],
+    "answer": 0,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "The renal artery branches into arterioles, with the afferent arteriole entering the Bowman's capsule to form the glomerulus. It exits as the narrower efferent arteriole, which then forms the vasa recta (secondary capillary network) before joining the renal vein."
+  },
+  {
+    "question": "What is the primary physiological consequence of the efferent arteriole being narrower than the afferent arteriole?",
+    "choices": [
+      "It slows down the flow of blood to allow for selective reabsorption.",
+      "It prevents the backflow of glomerular filtrate into the blood.",
+      "It creates high hydrostatic pressure in the glomerulus to facilitate ultrafiltration.",
+      "It increases the concentration of red blood cells in the Bowman's capsule."
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "The difference in diameter between the incoming (wide) afferent arteriole and outgoing (narrow) efferent arteriole creates a high hydrostatic pressure that forces the liquid part of the blood into the Bowman's capsule."
+  },
+  {
+    "question": "Which of the following substances is normally found in the glomerular filtrate but is completely absent in the urine of a healthy person?",
+    "choices": [
+      "Urea",
+      "Sodium chloride",
+      "Glucose",
+      "Uric acid"
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Glucose is filtered into the Bowman's capsule during ultrafiltration but is entirely reabsorbed into the blood in the Proximal Convoluted Tubule (PCT) under normal conditions."
+  },
+  {
+    "question": "The 'dotted appearance' of the kidney cortex in a sectional view is primarily due to the presence of:",
+    "choices": [
+      "Conical pyramids",
+      "Malpighian corpuscles and convoluted tubules",
+      "Loops of Henle and collecting ducts",
+      "The Pelvis and Calyces"
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "The cortex contains millions of Bowman’s capsules and Proximal/Distal convoluted tubules, which appear as tiny dots when the kidney is cut longitudinally."
+  },
+  {
+    "question": "A patient is found to have a large amount of albumin in their urine. This condition is most likely caused by:",
+    "choices": [
+      "Insufficient secretion of ADH from the pituitary.",
+      "Infection causing increased permeability of the Bowman’s capsule membrane.",
+      "Excessive consumption of a high-protein diet.",
+      "Bacterial infection in the urinary bladder."
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Large molecules like albumin (proteins) do not pass through the glomerulus normally. Their presence in urine (Albuminuria) indicates damage or increased permeability of the filtration membrane."
+  },
+  {
+    "question": "During severe dehydration or in a tropical summer, why does urine become more concentrated and darker in color?",
+    "choices": [
+      "The liver produces more urochrome to protect the kidneys.",
+      "Water loss through perspiration causes the pituitary to release more ADH, increasing reabsorption.",
+      "The kidneys secrete more urea to maintain the osmotic pressure of the blood.",
+      "The sphincter muscles in the bladder remain contracted for longer periods."
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "In summer, water is lost through sweat. To maintain homeostasis, ADH (antidiuretic hormone) is secreted to make the kidney tubules reabsorb more water, resulting in concentrated urine."
+  },
+  {
+    "question": "What specifically distinguishes 'excretion' from 'egestion' (defaecation) in a biological sense?",
+    "choices": [
+      "Excretion is the removal of solid waste, while egestion is the removal of liquid waste.",
+      "Excretion involves metabolic chemical wastes, while egestion involves undigested food remains.",
+      "Excretion occurs through the lungs and skin only, while egestion occurs through the kidneys.",
+      "There is no functional difference; both terms describe the removal of toxins."
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Excretion is the removal of chemical wastes (like urea) formed during metabolism inside cells. Egestion is the passing out of undigested food that never entered the body cells."
+  },
+  {
+    "question": "If the total glomerular filtrate produced in 24 hours is 160 litres, but the urine excreted is only about 1.2 litres, what percentage of the filtrate is reabsorbed?",
+    "choices": [
+      "Approximately 75%",
+      "Approximately 90%",
+      "More than 99%",
+      "Exactly 50%"
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Calculating the reabsorption: (160 - 1.2) / 160 = 99.25%. This illustrates the massive efficiency of selective reabsorption in the nephron."
+  },
+  {
+    "question": "Which part of the renal tubule is specifically responsible for 'tubular secretion' of foreign chemicals like penicillin and excess potassium?",
+    "choices": [
+      "Bowman's Capsule",
+      "Proximal Convoluted Tubule (PCT)",
+      "Loop of Henle",
+      "Distal Convoluted Tubule (DCT)"
+    ],
+    "answer": 3,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "While reabsorption happens in various parts, the cells of the Distal Convoluted Tubule (DCT) actively secrete certain ions (K+) and drugs like penicillin into the forming urine."
+  },
+  {
+    "question": "The condition 'Gout' is caused by the crystallization and deposition of which substance in the joints?",
+    "choices": [
+      "Calcium Oxalate",
+      "Urea",
+      "Uric Acid",
+      "Creatinine"
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Uric acid is relatively insoluble in water. If it accumulates, it can crystallize and deposit in joints, leading to a painful condition called gout."
+  },
+  {
+    "question": "What is the primary role of the 'sphincter' muscle located at the opening of the urinary bladder?",
+    "choices": [
+      "To pump urine out of the bladder during micturition.",
+      "To prevent the backflow of urine into the ureters.",
+      "To guard the exit of the bladder and control the timing of urination.",
+      "To filter blood that enters the bladder wall."
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The circular sphincter muscle guards the opening into the urethra and only relaxes during urination under an impulse from the brain."
+  },
+  {
+    "question": "Urine typically has a pH ranging from 5 to 8. A person whose diet consists mostly of vegetables and fruits will likely produce urine that is:",
+    "choices": [
+      "Highly acidic (pH 4)",
+      "Strongly basic (pH 12)",
+      "Alkaline (higher pH)",
+      "Neutral (always pH 7.0)"
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "A protein-rich diet makes urine more acidic, whereas a vegetable-based diet tends to make it alkaline."
+  },
+  {
+    "question": "In the process of dialysis (Artificial Kidney), the patient's blood is usually led from which vessel in the arm?",
+    "choices": [
+      "Radial artery",
+      "Radial vein",
+      "Hepatic portal vein",
+      "Afferent arteriole"
+    ],
+    "answer": 0,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Blood is taken from the radial artery, passed through the dialysis machine to remove wastes, and then returned to a vein in the same arm."
+  },
+  {
+    "question": "Why is the oxygen demand of the kidneys 6 to 7 times higher than that of skeletal muscles?",
+    "choices": [
+      "Due to the continuous physical contraction of the renal pelvis.",
+      "Because of the energy required for the active transport involved in reabsorption and secretion.",
+      "To support the high pressure required for ultrafiltration.",
+      "To neutralize the acidic toxins produced in the medulla."
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Kidney functions, specifically the active transport of substances back into the blood during selective reabsorption, require significant metabolic energy (ATP), leading to high oxygen consumption."
+  },
+  {
+    "question": "The term 'Diabetes Insipidus' refers to a condition characterized by:",
+    "choices": [
+      "High sugar levels in urine due to insulin deficiency.",
+      "Tasteless, dilute urine produced in large quantities due to ADH deficiency.",
+      "Saltish urine caused by kidney stones.",
+      "Blood in the urine caused by infection."
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Insipid means tasteless. Diabetes insipidus occurs when insufficient ADH is produced, leading to massive production of very dilute, tasteless urine."
+  },
+  {
+    "question": "Bile pigments, such as bilirubin, are extracted by the liver from the circulation as breakdown products of:",
+    "choices": [
+      "Dead White Blood Cells",
+      "Haemoglobin of dead Red Blood Cells",
+      "Extra amino acids",
+      "Digestive enzymes in the duodenum"
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Bile pigments are primarily the breakdown products of haemoglobin from worn-out or dead RBCs extracted by liver cells."
+  },
+  {
+    "question": "The 'Hilum' of the kidney is:",
+    "choices": [
+      "The expanded front end of the ureter.",
+      "The notched inner concave surface where the ureter and renal vessels enter/exit.",
+      "The apex of the medullary pyramid.",
+      "The layer of tissue protecting the last two ribs."
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The hilum is the notch on the median surface of the kidney through which the ureter, renal artery, and renal vein pass."
+  },
+  {
+    "question": "Which of the following is NOT an accessory excretory organ?",
+    "choices": [
+      "Lungs",
+      "Skin",
+      "Liver",
+      "Heart"
+    ],
+    "answer": 3,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Lungs (CO2), Skin (incidental nitrogenous waste), and Liver (urea production/bile) assist in excretion. The heart is part of the circulatory system and does not eliminate waste directly."
+  },
+  {
+    "question": "Micturition is defined as:",
+    "choices": [
+      "The formation of urea in the liver.",
+      "The process of ultrafiltration in the nephron.",
+      "The act of passing out urine from the bladder through the urethra.",
+      "The reabsorption of water in the Loop of Henle."
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Micturition is the biological term for the act of urinating."
+  },
+  {
+    "question": "The average daily loss of water through the lungs in an adult human at rest is approximately:",
+    "choices": [
+      "1500 mL",
+      "500 mL",
+      "400 mL",
+      "100 mL"
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "According to the water balance table, loss in breath (via lungs) is about 400 mL, representing roughly 16% of total daily water loss."
+  },
+  {
+    "question": "Which of these constituents is primarily responsible for the straw-yellow color of normal urine?",
+    "choices": [
+      "Bilirubin",
+      "Urochrome",
+      "Uric Acid",
+      "Ammonia"
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Urochrome is the pigment that gives urine its characteristic yellow color."
+  },
+  {
+    "question": "Sweat contains small amounts of nitrogenous wastes. However, sweat glands are not truly 'excretory' because:",
+    "choices": [
+      "They do not contain nephrons.",
+      "Their primary function is thermoregulation (cooling), not waste removal.",
+      "The wastes they remove are not toxic.",
+      "They are located in the skin rather than the abdomen."
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Excretion by sweat glands is incidental; they only pass out sweat when cooling is required for the body."
+  },
+  {
+    "question": "Which part of the kidney tubule receives the glomerular filtrate first?",
+    "choices": [
+      "Proximal Convoluted Tubule",
+      "Collecting Duct",
+      "Bowman's Capsule",
+      "Loop of Henle"
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The funnel-shaped cavity of the Bowman's capsule is the first structure to receive the filtrate from the glomerulus."
+  },
+  {
+    "question": "The total length of uriniferous tubules in both human kidneys together is more than:",
+    "choices": [
+      "6 km",
+      "60 km",
+      "160 km",
+      "10 cm"
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "There are approximately 2 million tubules, each 4-5 cm long, totaling over 60 km. This provides a massive surface area for reabsorption."
+  },
+  {
+    "question": "In a case of cholera, the immediate cause of death related to the excretory system is often:",
+    "choices": [
+      "Rupture of the urinary bladder.",
+      "Poisoning by urea accumulation (uremia) because kidneys reabsorb almost all water and urea.",
+      "Loss of urochrome leading to blood thinning.",
+      "Total failure of the liver to produce bile."
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "In cholera, massive water loss through bowels causes kidneys to reabsorb every possible drop of water from the tubules, and with it, urea. This leads to uremia and death."
+  },
+  {
+    "question": "Which of the following is considered a 'diuretic' substance?",
+    "choices": [
+      "ORS (Oral Rehydration Solution)",
+      "Glucose-saline drip",
+      "Alcohol and Coffee",
+      "Insulin"
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Diuretics are substances that increase the formation and production of urine; tea, coffee, and alcohol are common examples."
+  },
+  {
+    "question": "Normal urine contains approximately what percentage of water?",
+    "choices": [
+      "50%",
+      "75%",
+      "95%",
+      "99%"
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Normal human urine consists of about 95% water and 5% solid wastes."
+  },
+  {
+    "question": "The 'Papilla' in the internal structure of the kidney is located at:",
+    "choices": [
+      "The outer surface of the cortex.",
+      "The apex of the medullary pyramid projecting into the pelvis.",
+      "The junction between the ureter and the bladder.",
+      "The opening of the urethra."
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "The medulla is arranged in conical pyramids; the apex of each pyramid is called the papilla, which projects into the renal pelvis."
+  },
+  {
+    "question": "An increase in blood pressure above 140/90 (hypertension) can lead to the appearance of which abnormal constituent in urine?",
+    "choices": [
+      "Glucose",
+      "Blood cells",
+      "Albumin",
+      "Bile pigments"
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Albumin may appear in urine due to high blood pressure, which increases the pressure in the glomerulus beyond the normal filtration capacity."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The renal vein contains less urea than the renal artery. <br><b>Reason (R):</b> Most of the urea is removed from the blood as it passes through the kidney tubules to form urine.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Since the kidney filters out urea from the renal artery to produce urine, the blood returning via the renal vein is significantly cleaner of urea."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Dialysis is required when both kidneys of a patient fail. <br><b>Reason (R):</b> One kidney is not sufficient to carry out the excretory needs of a normal human life.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Assertion is true, but the Reason is false because one healthy kidney is perfectly sufficient for a person to lead a normal life."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Ultrafiltration is also described as 'non-selective' filtration. <br><b>Reason (R):</b> During ultrafiltration, almost all liquid parts of the blood including glucose, amino acids, and urea are forced out into the Bowman's capsule.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "It is called non-selective because it filters everything based on size/pressure rather than usefulness; selective reabsorption happens later in the tubules."
+  },
+  {
+    "question": "<b>Assertion (A):</b> A person produces more urine in winter than in summer. <br><b>Reason (R):</b> In summer, we lose a considerable part of water through perspiration (sweating).",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Excretory System",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Increased sweating in summer reduces the need for kidneys to eliminate water, while in winter, reduced sweating results in higher urine output to maintain water balance."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Glucose is a normal constituent of human urine. <br><b>Reason (R):</b> Glucose is a primary energy source that is produced during metabolism in the liver.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Assertion is false because glucose is NOT a normal constituent (it is an abnormal one called Glycosuria). Reason is a true statement about metabolism."
+  },
+  {
+    "question": "<b>Assertion (A):</b> ADH (Antidiuretic Hormone) helps in the concentration of urine. <br><b>Reason (R):</b> ADH secretion is reduced when a person is dehydrated to prevent water loss.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Assertion is true, but Reason is false. ADH secretion is INCREASED during dehydration to promote water reabsorption."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The right kidney is slightly lower than the left kidney. <br><b>Reason (R):</b> The large liver on the right side takes up space in the abdominal cavity.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The anatomical position of the right kidney is pushed downward by the presence of the liver."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Urine becomes strong-smelling like ammonia if it is allowed to stand for some time. <br><b>Reason (R):</b> Bacterial activity breaks down the urea in the urine into ammonia.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The ammonia-like smell develops only after urination because of bacteria acting on urea; fresh urine has a faint smell."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Urea is formed in the kidneys and then carried to the liver for storage. <br><b>Reason (R):</b> Urea is a highly poisonous substance that causes death if it accumulates in the blood.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Assertion is false because urea is formed in the LIVER and excreted by the kidneys. Reason is a true statement."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Micturition is a reflex process but can be controlled to an extent in adults. <br><b>Reason (R):</b> The circular sphincter muscle at the exit of the bladder is under an impulse from the brain.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "While the bladder contraction is reflex-based, the external sphincter allows for voluntary control via the nervous system."
+  },
+  {
+    "question": "Which of the following best describes the state of a nerve fiber during the 'polarized' resting condition?",
+    "choices": [
+      "The inner side carries a positive charge due to high potassium concentration.",
+      "The outer side carries a positive charge because of more sodium ions outside the membrane.",
+      "The outer side is negatively charged due to the active transport of chloride ions.",
+      "Both sides are electrically neutral until a stimulus is received."
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "In the resting state, the nerve fiber is polarized with a positive charge on the outside, primarily due to a higher concentration of sodium ions (Na+) outside the axon membrane."
+  },
+  {
+    "question": "What is the specific role of the 'sodium pump' during the transmission of a nerve impulse?",
+    "choices": [
+      "To passivey allow sodium ions to flood into the axon during excitation.",
+      "To use ATP to actively transport sodium ions back to the outside to restore polarization.",
+      "To generate heat energy required for the electrical wave to jump over synapses.",
+      "To break down acetylcholine in the synaptic cleft."
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "After depolarization occurs, the sodium pump uses energy from ATP to actively transport sodium ions back to the outside of the membrane, achieving repolarization."
+  },
+  {
+    "question": "If the corpus callosum in a human brain is surgically severed, what would be the primary physiological impact?",
+    "choices": [
+      "Total loss of memory and cognitive ability.",
+      "Inability to coordinate balance and muscular activities.",
+      "Interruption of information transfer between the two cerebral hemispheres.",
+      "Cessation of involuntary activities like breathing and heart rate."
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "The corpus callosum is a sheet of fibers that connects the two cerebral hemispheres; its primary function is to transfer information from one hemisphere to the other."
+  },
+  {
+    "question": "Which brain part and its corresponding function is correctly matched regarding the coordination of voluntary movement?",
+    "choices": [
+      "Cerebellum: Originates the impulse for muscular acts.",
+      "Cerebrum: Responsible for the timing and coordination of contraction/relaxation.",
+      "Cerebrum: Originates the impulse; Cerebellum: Coordinates and times the movement.",
+      "Medulla Oblongata: Harmonizes all voluntary muscular activities."
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "The impulse for a voluntary act originates in the cerebrum (conscious part), but the coordination and timing of muscles involved are the responsibility of the cerebellum."
+  },
+  {
+    "question": "During an emergency, the Sympathetic Nervous System accelerates the heart rate. Which of the following is an additional effect of this system?",
+    "choices": [
+      "Constriction of bronchioles to conserve oxygen.",
+      "Stimulation of salivary glands to increase salivation.",
+      "Constriction of all blood vessels except the coronary vessels.",
+      "Contraction of the pupil to reduce light entry."
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "The sympathetic system prepares the body for action by constricting most blood vessels to increase pressure, while dilating coronary vessels to supply the heart."
+  },
+  {
+    "question": "A typical spinal nerve is described as a 'mixed nerve'. This means it:",
+    "choices": [
+      "Contains both grey and white matter internally.",
+      "Carries both sensory and motor fibers within the same nerve structure.",
+      "Emerges from both the brain and the spinal cord.",
+      "Interconnects the somatic and autonomic systems."
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Every spinal nerve is a mixed nerve because it originates from two roots (dorsal sensory and ventral motor) and carries both types of fibers."
+  },
+  {
+    "question": "In the internal structure of the spinal cord, the arrangement of matter is:",
+    "choices": [
+      "White matter on the inner side, grey matter on the outer side.",
+      "Grey matter on the inner side, white matter on the outer side.",
+      "Both grey and white matter mixed throughout the central canal.",
+      "Identical to the arrangement found in the cerebral hemispheres."
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The arrangement of matter in the spinal cord is the reverse of the brain: the grey matter containing cell bodies is on the inner side, while the white matter containing axons is on the outer side."
+  },
+  {
+    "question": "Which of the following accurately describes the 'Arachnoid' layer of the meninges?",
+    "choices": [
+      "The innermost highly vascular membrane.",
+      "The outermost tough fibrous membrane.",
+      "A thin, delicate middle layer providing a web-like cushion.",
+      "A fluid-filled space containing only cerebrospinal fluid."
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "The arachnoid is the middle layer of the meninges; its name refers to its thin, delicate, and web-like appearance."
+  },
+  {
+    "question": "What happens to the chemical acetylcholine after it sets a new impulse in the dendrites of an adjacent neuron at a synapse?",
+    "choices": [
+      "It is reabsorbed by the axon bulbs for immediate reuse.",
+      "It remains in the synaptic cleft to maintain a continuous signal.",
+      "It is broken down by an enzyme to prepare the synapse for the next impulse.",
+      "It travels down the next axon to the effector muscle."
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "To prevent continuous stimulation, acetylcholine is broken down by an enzyme shortly after transmission, resetting the synapse for the next signal."
+  },
+  {
+    "question": "The 31 pairs of spinal nerves are categorized by their exit points. Which of the following is correct?",
+    "choices": [
+      "12 pairs in the neck (Cervical) region.",
+      "5 pairs in the thorax (Thoracic) region.",
+      "12 pairs in the lumbar region.",
+      "5 pairs in the sacral region."
+    ],
+    "answer": 3,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "There are 31 pairs of spinal nerves: 8 cervical (neck), 12 thoracic (thorax), 5 lumbar, 5 sacral, and 1 coccygeal."
+  },
+  {
+    "question": "Which of the following is a 'Conditioned Reflex' according to Pavlov's definition?",
+    "choices": [
+      "Blinking when a strong light is flashed into the eyes.",
+      "The withdrawal of a hand when pricked by a needle.",
+      "Salivation at the sound of a bell that has been previously associated with food.",
+      "Sneezing when an irritant enters the nasal passage."
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "A conditioned reflex is an acquired response to a stimulus that was previously unrelated, learned through experience (like the dog salivating to a bell in Pavlov's experiment)."
+  },
+  {
+    "question": "In a simple spinal reflex arc, where is the cell body of the sensory neuron located?",
+    "choices": [
+      "In the ventral horn of the grey matter.",
+      "In the dorsal root ganglion.",
+      "In the cerebral cortex.",
+      "At the terminal end of the axon bulb."
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "In a spinal reflex, the sensory neuron enters through the dorsal root, and its cell body is located in the ovoid dorsal ganglion (dorsal root ganglion)."
+  },
+  {
+    "question": "Which region of the brain acts as the primary relay station for pain and pressure impulses moving toward the cerebrum?",
+    "choices": [
+      "Hypothalamus",
+      "Thalamus",
+      "Pons",
+      "Cerebellum"
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The thalamus, part of the diencephalon in the forebrain, relays pain and pressure impulses to the cerebrum."
+  },
+  {
+    "question": "The 'Pons' is located in the hindbrain. What is its specific function?",
+    "choices": [
+      "Controlling body temperature.",
+      "Managing the release of hormones from the pituitary.",
+      "Carrying impulses between cerebellar hemispheres and coordinating movements on both sides of the body.",
+      "Controlling peristaltic movements of the alimentary canal."
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "The pons is located below the cerebellum and serves to carry impulses between cerebellar hemispheres while coordinating muscular movements on both sides of the body."
+  },
+  {
+    "question": "What is the biological significance of the 'Gyri' and 'Sulci' on the surface of the cerebrum?",
+    "choices": [
+      "They provide paths for cerebrospinal fluid to circulate.",
+      "They increase surface area to accommodate a larger number of nerve cells.",
+      "They act as insulators to prevent the mixing of electrical impulses.",
+      "They represent the scars of past experiences stored in the subconscious."
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The convolutions (folds called gyri and grooves called sulci) increase the surface area of the gray matter, allowing for more neurons and thus higher intelligence."
+  },
+  {
+    "question": "Which of the following happens when the Parasympathetic Nervous System is active?",
+    "choices": [
+      "Pupils dilate to let in more light.",
+      "Salivation is inhibited, causing a dry mouth.",
+      "Heart rate increases to pump more blood to the muscles.",
+      "Peristalsis in the intestines is increased."
+    ],
+    "answer": 3,
+    "chapter": "The Nervous System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "The parasympathetic system is concerned with re-establishing normal conditions and relaxation; it increases peristalsis and stimulates salivary secretion, which is the opposite of the sympathetic system's actions."
+  },
+  {
+    "question": "A mixed nerve, such as a spinal nerve, contains both sensory and motor fibers. Which cranial nerve is an example of a purely 'sensory' nerve?",
+    "choices": [
+      "Optic nerve",
+      "Nerve supplying the eyeball muscles",
+      "Nerve to the tongue",
+      "Spinal accessory nerve"
+    ],
+    "answer": 0,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "The optic nerve (for eyes) and olfactory nerve (for nose) are purely sensory cranial nerves, carrying impulses only from the receptors to the brain."
+  },
+  {
+    "question": "Centrosomes are absent in neurons. What is the direct consequence of this?",
+    "choices": [
+      "Neurons cannot generate ATP for the sodium pump.",
+      "Neurons cannot conduct electrical impulses.",
+      "Neurons have lost the ability to divide and reproduce.",
+      "Neurons cannot produce neurotransmitters."
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Because centrosomes are absent, nerve cells have lost the ability to divide, making brain or spinal cord damage very difficult to repair."
+  },
+  {
+    "question": "Which of the following is considered an 'involuntary action' but not necessarily a 'reflex'?",
+    "choices": [
+      "Immediate flushing of tears to wash out a particle.",
+      "The continuous beating of the heart.",
+      "Blinking when an object suddenly approaches the eye.",
+      "Instantaneous withdrawal of a hand from a hot iron."
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "While reflexes are involuntary, not all involuntary actions are reflexes. Reflexes are usually quick responses to specific external stimuli, whereas rhythmic internal actions like heartbeats are broader involuntary processes."
+  },
+  {
+    "question": "What is the function of the 'Myelin sheath' regarding nerve impulse conduction?",
+    "choices": [
+      "It acts as a nutrient source for the cyton.",
+      "It acts as an insulation that prevents the mixing of impulses between adjacent axons.",
+      "It provides the electrical charge necessary for polarization.",
+      "It stores the neurotransmitter acetylcholine."
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The myelin sheath acts like the insulation on an electric wire, ensuring that impulses in one axon do not interfere with those in neighboring axons."
+  },
+  {
+    "question": "Cerebrospinal fluid (CSF) is found in the space between which two layers of the meninges?",
+    "choices": [
+      "Dura mater and Skull",
+      "Dura mater and Arachnoid",
+      "Arachnoid and Pia mater",
+      "Pia mater and the Brain surface"
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "The watery CSF is located in the space between the middle arachnoid layer and the innermost pia mater, acting as a cushion for the brain and spinal cord."
+  },
+  {
+    "question": "Which cranial nerve pair is responsible for the sense of smell?",
+    "choices": [
+      "Optic",
+      "Auditory",
+      "Olfactory",
+      "Vagus"
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The olfactory nerve is the sensory cranial nerve dedicated to the sense of smell from the nose."
+  },
+  {
+    "question": "The Autonomic Nervous System is strongly influenced by which of the following?",
+    "choices": [
+      "Conscious willing thought.",
+      "Emotions such as grief, anger, and fear.",
+      "Voluntary muscular activity in the limbs.",
+      "External temperature changes exclusively."
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Emotions strongly influence the ANS, and long-continued emotional stress can lead to health issues like high blood pressure or stomach ulcers."
+  },
+  {
+    "question": "What is the 'Reflex Arc'?",
+    "choices": [
+      "The curved shape of the spinal cord grey matter.",
+      "The longest route an impulse can take to reach the brain.",
+      "The shortest route taken by an impulse from a receptor to an effector.",
+      "The point of contact between a dendrite and an axon."
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The reflex arc is defined as the shortest possible pathway for a nerve impulse to travel from the receptor to the effector to ensure a rapid response."
+  },
+  {
+    "question": "The brain constitutes about 2% of total body weight. What percentage of total body oxygen does it consume?",
+    "choices": [
+      "2%",
+      "10%",
+      "25%",
+      "50%"
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Despite its relatively small weight, the brain is highly metabolic and consumes more than 25% (one-fourth) of the total oxygen taken into the body."
+  },
+  {
+    "question": "During an impulse transmission, which ions move inwards to cause 'depolarization'?",
+    "choices": [
+      "Potassium ions",
+      "Sodium ions",
+      "Chloride ions",
+      "Calcium ions"
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Upon stimulation, the axon membrane becomes more permeable to sodium ions (Na+), which move inwards and cause the loss of the polarized state (depolarization)."
+  },
+  {
+    "question": "The hypothalamus is a part of the forebrain. Which of the following is one of its primary functions?",
+    "choices": [
+      "Relaying sensory impulses to the cerebellum.",
+      "Controlling body temperature.",
+      "Coordinating the balance of the body.",
+      "Managing peristaltic movements of the gut."
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The hypothalamus controls body temperature and regulates the pituitary gland."
+  },
+  {
+    "question": "Which of the following describes the 'Acquired Reflex' accurately?",
+    "choices": [
+      "It is inborn and inherited from parents.",
+      "It is similar in all individuals of a species.",
+      "It is developed during a lifetime through learning and experience.",
+      "It occurs without the involvement of the brain."
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Acquired (conditioned) reflexes are developed during one's lifetime through experience and learning, unlike natural reflexes which are inborn."
+  },
+  {
+    "question": "What is the result of 'Meningitis'?",
+    "choices": [
+      "Degeneration of the myelin sheath.",
+      "Inflammation of the membranes protecting the brain.",
+      "The blockage of the central canal in the spinal cord.",
+      "The overproduction of acetylcholine at the synapse."
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Meningitis is the clinical term for the inflammation of the meninges (the three protective membranes of the brain and spinal cord)."
+  },
+  {
+    "question": "A nerve impulse travels at a maximum speed of about:",
+    "choices": [
+      "150,000 km per second",
+      "300,000 km per second",
+      "100 meters per second",
+      "10 meters per hour"
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "While electricity in a wire travels at 150,000 km/s, a nerve impulse is much slower, moving at a maximum speed of approximately 100 meters per second."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Neurons are unable to divide or reproduce to replace damaged cells. <br><b>Reason (R):</b> Nerve cells lack centrosomes, which are necessary for cell division.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Nervous System",
+    "category": "Assertion-Reasoning",
+    "complexity": "medium",
+    "reason": "The absence of centrosomes in neurons is the biological reason why they cannot undergo mitosis to replace themselves."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Conduction of a nerve impulse is essentially the same as the flow of electricity in a wire. <br><b>Reason (R):</b> Neither electrons nor ions move along the length of the nerve fiber; instead, it is a wave of depolarization.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "The Nervous System",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Assertion A is false because the conduction of a nerve impulse is not like electricity; no electrons or ions move along the wire/fiber. Reason R is true, explaining that it is a wave of chemical/electrical change (depolarization)."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Humans possess a higher degree of intelligence compared to other animals. <br><b>Reason (R):</b> The human cerebrum has a highly convoluted surface with many gyri and sulci, accommodating more nerve cells.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Nervous System",
+    "category": "Assertion-Reasoning",
+    "complexity": "medium",
+    "reason": "The increased surface area provided by convolutions allows for more neurons in the cerebral cortex, which is directly linked to higher intelligence."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Damage to the medulla oblongata is often fatal. <br><b>Reason (R):</b> The medulla controls vital involuntary activities such as heartbeat and breathing.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Nervous System",
+    "category": "Assertion-Reasoning",
+    "complexity": "medium",
+    "reason": "Since the medulla regulates essential life-sustaining functions, any injury to it can cause these functions to stop, resulting in death."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The spinal cord acts as a 'shock-proof' cushion for the backbone. <br><b>Reason (R):</b> The spinal cord is filled with cerebrospinal fluid and surrounded by three meninges.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "The Nervous System",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Assertion A is false because it is the fluid/membranes that cushion the spinal cord, not the cord cushioning the backbone. Reason R is true."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Alcohol consumption leads to clumsy walking and poor coordination. <br><b>Reason (R):</b> Alcohol primarily affects the cerebrum, where all muscular acts originate.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Assertion A is true, but Reason R is false in context. Alcohol affects the cerebellum, which is responsible for coordinating and timing muscle movements, not the cerebrum where they originate."
+  },
+  {
+    "question": "<b>Assertion (A):</b> In an emergency, the sympathetic system dilates the pupil of the eye. <br><b>Reason (R):</b> This system prepares the body for relaxation and restores normal conditions.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Assertion-Reasoning",
+    "complexity": "medium",
+    "reason": "Assertion A is true (pupil dilation), but Reason R describes the Parasympathetic system, not the Sympathetic one."
+  },
+  {
+    "question": "<b>Assertion (A):</b> All involuntary actions occurring in the body are considered reflexes. <br><b>Reason (R):</b> Some involuntary actions, like the non-stop beating of the heart, are coordinated without immediate external sensory triggers.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "The Nervous System",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Assertion A is false; reflexes are a specific type of involuntary action triggered by stimulus. Reason R is true."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Acquired reflexes can differ significantly between individuals. <br><b>Reason (R):</b> These reflexes are developed through individual learning and specific life experiences.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Nervous System",
+    "category": "Assertion-Reasoning",
+    "complexity": "medium",
+    "reason": "Since conditioned reflexes depend on unique learning (like playing an instrument), they are not uniform across the species."
+  },
+  {
+    "question": "<b>Assertion (A):</b> A spinal reflex involves an instantaneous response flashed 'like a reflection' to the effector. <br><b>Reason (R):</b> The pathway for a spinal reflex arc is short, often involving only two or three neurons leaving at the same level they enter.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Nervous System",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "The speed of a reflex is possible because the nervous pathway (arc) is extremely short and does not require initial processing by the brain."
+  }  
+  
 ]
