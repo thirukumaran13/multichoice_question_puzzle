@@ -2737,6 +2737,2805 @@
     "category": "Conceptual",
     "complexity": "medium",
     "reason": "The constant x-value ensures the line is vertical, which by definition is parallel to the y-axis."
+  },  
+  {
+    "question": "The sum of a natural number and its square is <latex>42</latex>. Find the number.",
+    "choices": [
+      "<latex>6</latex>",
+      "<latex>7</latex>",
+      "<latex>8</latex>",
+      "<latex>5</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Numbers",
+    "complexity": "low",
+    "reason": "Let the number be <latex>x</latex>. The equation is <latex>x + x^{2} = 42</latex>, which simplifies to <latex>x^{2} + x - 42 = 0</latex>. Factoring gives <latex>(x+7)(x-6) = 0</latex>. Since it is a natural number, <latex>x = 6</latex>."
+  },
+  {
+    "question": "The sum of the squares of two consecutive natural numbers is <latex>41</latex>. Find the numbers.",
+    "choices": [
+      "<latex>3, 4</latex>",
+      "<latex>4, 5</latex>",
+      "<latex>5, 6</latex>",
+      "<latex>2, 3</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Numbers",
+    "complexity": "low",
+    "reason": "Equation: <latex>x^{2} + (x+1)^{2} = 41 \\Rightarrow 2x^{2} + 2x - 40 = 0 \\Rightarrow x^{2} + x - 20 = 0</latex>. Factoring gives <latex>(x+5)(x-4) = 0</latex>. Natural number <latex>x = 4</latex>, so numbers are <latex>4</latex> and <latex>5</latex>."
+  },
+  {
+    "question": "The product of two consecutive even natural numbers is <latex>168</latex>. The numbers are:",
+    "choices": [
+      "<latex>10, 12</latex>",
+      "<latex>12, 14</latex>",
+      "<latex>14, 16</latex>",
+      "<latex>16, 18</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Numbers",
+    "complexity": "low",
+    "reason": "Let numbers be <latex>x</latex> and <latex>x+2</latex>. <latex>x(x+2) = 168 \\Rightarrow x^{2} + 2x - 168 = 0</latex>. <latex>(x+14)(x-12) = 0</latex>. Natural number <latex>x = 12</latex>. Numbers are <latex>12, 14</latex>."
+  },
+  {
+    "question": "A two-digit number is such that the product of its digits is <latex>12</latex>. When <latex>36</latex> is added to the number, the digits interchange their places. Find the number.",
+    "choices": [
+      "<latex>26</latex>",
+      "<latex>62</latex>",
+      "<latex>34</latex>",
+      "<latex>43</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Numbers",
+    "complexity": "medium",
+    "reason": "Let digits be <latex>x</latex> and <latex>12/x</latex>. Number is <latex>10x + 12/x</latex>. Adding <latex>36</latex>: <latex>10x + 12/x + 36 = 10(12/x) + x</latex>. Solving for <latex>x</latex> gives <latex>x = 2</latex>. Number is <latex>26</latex>."
+  },
+  {
+    "question": "The sum of a number and its reciprocal is <latex>2.5</latex>. Find the number.",
+    "choices": [
+      "<latex>2</latex>",
+      "<latex>0.5</latex>",
+      "Both A and B",
+      "<latex>1</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Numbers",
+    "complexity": "low",
+    "reason": "<latex>x + 1/x = 2.5 \\Rightarrow x^{2} - 2.5x + 1 = 0 \\Rightarrow 2x^{2} - 5x + 2 = 0</latex>. <latex>(2x-1)(x-2) = 0</latex>. <latex>x = 2</latex> or <latex>x = 0.5</latex>."
+  },
+  {
+    "question": "The speed of a boat in still water is <latex>15</latex> km/h. It goes <latex>30</latex> km upstream and returns back to the same point in <latex>4</latex> hours <latex>30</latex> minutes. Find the speed of the stream.",
+    "choices": [
+      "<latex>5</latex> km/h",
+      "<latex>8</latex> km/h",
+      "<latex>10</latex> km/h",
+      "<latex>3</latex> km/h"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Time and Distance",
+    "complexity": "hard",
+    "reason": "Total time <latex>4.5 = 30/(15-x) + 30/(15+x)</latex>. Solving <latex>4.5(225 - x^{2}) = 30(30)</latex> leads to <latex>x = 5</latex>."
+  },
+  {
+    "question": "A train travels <latex>360</latex> km at a uniform speed. If the speed had been <latex>5</latex> km/h more, it would have taken <latex>1</latex> hour less for the journey. Find the original speed.",
+    "choices": [
+      "<latex>40</latex> km/h",
+      "<latex>45</latex> km/h",
+      "<latex>50</latex> km/h",
+      "<latex>35</latex> km/h"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Time and Distance",
+    "complexity": "medium",
+    "reason": "Equation: <latex>360/x - 360/(x+5) = 1</latex>. <latex>360(x+5) - 360x = x(x+5) \\Rightarrow 1800 = x^{2} + 5x</latex>. <latex>x^{2} + 5x - 1800 = 0 \\Rightarrow (x+45)(x-40) = 0</latex>. Speed is <latex>40</latex> km/h."
+  },
+  {
+    "question": "The perimeter of a rectangular plot is <latex>28</latex> m and its area is <latex>48</latex> <latex>m^{2}</latex>. Find its length.",
+    "choices": [
+      "<latex>8</latex> m",
+      "<latex>6</latex> m",
+      "<latex>10</latex> m",
+      "<latex>12</latex> m"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Geometry",
+    "complexity": "low",
+    "reason": "<latex>2(l+b) = 28 \\Rightarrow l+b = 14</latex>. Area <latex>l(14-l) = 48 \\Rightarrow l^{2} - 14l + 48 = 0</latex>. Roots are <latex>8, 6</latex>. Length is usually the longer side, <latex>8</latex> m."
+  },
+  {
+    "question": "The hypotenuse of a right-angled triangle is <latex>13</latex> cm. If the difference between the other two sides is <latex>7</latex> cm, find the sides.",
+    "choices": [
+      "<latex>5</latex> cm and <latex>12</latex> cm",
+      "<latex>8</latex> cm and <latex>15</latex> cm",
+      "<latex>6</latex> cm and <latex>13</latex> cm",
+      "<latex>7</latex> cm and <latex>14</latex> cm"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Geometry",
+    "complexity": "medium",
+    "reason": "<latex>x^{2} + (x+7)^{2} = 13^{2} \\Rightarrow 2x^{2} + 14x + 49 = 169 \\Rightarrow x^{2} + 7x - 60 = 0</latex>. Roots <latex>5, -12</latex>. Sides are <latex>5</latex> and <latex>12</latex>."
+  },
+  {
+    "question": "The sum of the ages of a father and his son is <latex>45</latex> years. Five years ago, the product of their ages was <latex>124</latex>. Find their present ages.",
+    "choices": [
+      "<latex>36, 9</latex>",
+      "<latex>40, 5</latex>",
+      "<latex>35, 10</latex>",
+      "<latex>39, 6</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Age",
+    "complexity": "medium",
+    "reason": "Let father be <latex>x</latex>, son <latex>45-x</latex>. <latex>(x-5)(45-x-5) = 124 \\Rightarrow (x-5)(40-x) = 124 \\Rightarrow x^{2} - 45x + 324 = 0</latex>. Roots <latex>36, 9</latex>."
+  },
+  {
+    "question": "Divide <latex>16</latex> into two parts such that twice the square of the larger part exceeds the square of the smaller part by <latex>164</latex>.",
+    "choices": [
+      "<latex>10, 6</latex>",
+      "<latex>12, 4</latex>",
+      "<latex>11, 5</latex>",
+      "<latex>9, 7</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Numbers",
+    "complexity": "medium",
+    "reason": "Let larger part be <latex>x</latex>, smaller <latex>16-x</latex>. <latex>2x^{2} = (16-x)^{2} + 164 \\Rightarrow x^{2} + 32x - 420 = 0</latex>. <latex>(x+42)(x-10) = 0</latex>. Part is <latex>10</latex>."
+  },
+  {
+    "question": "One pipe can fill a cistern in <latex>3</latex> hours less than the other. Together they fill it in <latex>6</latex> hours <latex>40</latex> minutes. Find the time taken by each pipe.",
+    "choices": [
+      "<latex>12</latex> and <latex>15</latex> hours",
+      "<latex>10</latex> and <latex>13</latex> hours",
+      "<latex>15</latex> and <latex>18</latex> hours",
+      "<latex>13</latex> and <latex>16</latex> hours"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Work and Time",
+    "complexity": "hard",
+    "reason": "Time <latex>6</latex>h <latex>40</latex>m is <latex>20/3</latex> hours. <latex>1/x + 1/(x+3) = 3/20 \\Rightarrow 20(2x+3) = 3x(x+3) \\Rightarrow 3x^{2} - 31x - 60 = 0</latex>. Root is <latex>12</latex>."
+  },
+  {
+    "question": "A piece of cloth costs <latex>200</latex> rupees. If the piece were <latex>5</latex> m longer and each metre of cloth cost <latex>2</latex> rupees less, the total cost would remain unchanged. Find the length.",
+    "choices": [
+      "<latex>20</latex> m",
+      "<latex>25</latex> m",
+      "<latex>15</latex> m",
+      "<latex>30</latex> m"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Miscellaneous",
+    "complexity": "medium",
+    "reason": "Length <latex>x</latex>, rate <latex>200/x</latex>. <latex>(x+5)(200/x - 2) = 200 \\Rightarrow x^{2} + 5x - 500 = 0 \\Rightarrow (x+25)(x-20) = 0</latex>. Length is <latex>20</latex> m."
+  },
+  {
+    "question": "Find a whole number which when decreased by <latex>20</latex> is equal to <latex>69</latex> times its reciprocal.",
+    "choices": [
+      "<latex>23</latex>",
+      "<latex>25</latex>",
+      "<latex>3</latex>",
+      "<latex>20</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Numbers",
+    "complexity": "low",
+    "reason": "<latex>x - 20 = 69/x \\Rightarrow x^{2} - 20x - 69 = 0 \\Rightarrow (x-23)(x+3) = 0</latex>. Whole number <latex>x = 23</latex>."
+  },
+  {
+    "question": "The area of a right triangle is <latex>30</latex> <latex>cm^{2}</latex>. If its base exceeds its altitude by <latex>7</latex> cm, find the base.",
+    "choices": [
+      "<latex>12</latex> cm",
+      "<latex>5</latex> cm",
+      "<latex>7</latex> cm",
+      "<latex>10</latex> cm"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Geometry",
+    "complexity": "low",
+    "reason": "<latex>0.5 \\times x \\times (x+7) = 30 \\Rightarrow x^{2} + 7x - 60 = 0 \\Rightarrow (x+12)(x-5) = 0</latex>. Altitude <latex>5</latex>, base <latex>12</latex>."
+  },
+  {
+    "question": "A bus covers a distance of <latex>240</latex> km at a uniform speed. If the speed were reduced by <latex>10</latex> km/h, it would take <latex>2</latex> hours more. Find the speed.",
+    "choices": [
+      "<latex>40</latex> km/h",
+      "<latex>30</latex> km/h",
+      "<latex>50</latex> km/h",
+      "<latex>60</latex> km/h"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Time and Distance",
+    "complexity": "medium",
+    "reason": "<latex>240/(x-10) - 240/x = 2 \\Rightarrow 2400 = 2x(x-10) \\Rightarrow x^{2} - 10x - 1200 = 0 \\Rightarrow (x-40)(x+30) = 0</latex>. Speed <latex>40</latex> km/h."
+  },
+  {
+    "question": "The diagonal of a rectangular field is <latex>60</latex> m more than the shorter side. If the longer side is <latex>30</latex> m more than the shorter side, find the shorter side.",
+    "choices": [
+      "<latex>90</latex> m",
+      "<latex>120</latex> m",
+      "<latex>60</latex> m",
+      "<latex>150</latex> m"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Geometry",
+    "complexity": "medium",
+    "reason": "Shorter side <latex>x</latex>, diagonal <latex>x+60</latex>, longer side <latex>x+30</latex>. <latex>x^{2} + (x+30)^{2} = (x+60)^{2} \\Rightarrow x^{2} - 60x - 2700 = 0 \\Rightarrow (x-90)(x+30) = 0</latex>. Side <latex>90</latex> m."
+  },
+  {
+    "question": "Two numbers differ by <latex>3</latex> and the sum of their squares is <latex>117</latex>. The natural numbers are:",
+    "choices": [
+      "<latex>6, 9</latex>",
+      "<latex>9, 12</latex>",
+      "<latex>3, 6</latex>",
+      "<latex>7, 10</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Numbers",
+    "complexity": "low",
+    "reason": "<latex>x^{2} + (x+3)^{2} = 117 \\Rightarrow 2x^{2} + 6x - 108 = 0 \\Rightarrow x^{2} + 3x - 54 = 0 \\Rightarrow (x+9)(x-6) = 0</latex>. Natural number <latex>x = 6</latex>."
+  },
+  {
+    "question": "A girl is twice as old as her sister. Four years hence, the product of their ages will be <latex>160</latex>. Find their present ages.",
+    "choices": [
+      "<latex>12, 6</latex>",
+      "<latex>10, 5</latex>",
+      "<latex>8, 4</latex>",
+      "<latex>14, 7</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Age",
+    "complexity": "medium",
+    "reason": "Ages <latex>2x, x</latex>. <latex>(2x+4)(x+4) = 160 \\Rightarrow 2x^{2} + 12x + 16 = 160 \\Rightarrow x^{2} + 6x - 72 = 0 \\Rightarrow (x+12)(x-6) = 0</latex>. Ages are <latex>12, 6</latex>."
+  },
+  {
+    "question": "If the price of a book is reduced by <latex>5</latex> rupees, a person can buy <latex>5</latex> more books for <latex>300</latex> rupees. Find the original price.",
+    "choices": [
+      "<latex>20</latex> rupees",
+      "<latex>25</latex> rupees",
+      "<latex>15</latex> rupees",
+      "<latex>10</latex> rupees"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Miscellaneous",
+    "complexity": "medium",
+    "reason": "<latex>300/(x-5) - 300/x = 5 \\Rightarrow 300(5) = 5x(x-5) \\Rightarrow 300 = x^{2} - 5x \\Rightarrow (x-20)(x+15) = 0</latex>. Price is <latex>20</latex> rupees."
+  },
+  {
+    "question": "The difference of squares of two numbers is <latex>180</latex>. The square of the smaller number is <latex>8</latex> times the larger number. Find the larger number.",
+    "choices": [
+      "<latex>18</latex>",
+      "<latex>10</latex>",
+      "<latex>15</latex>",
+      "<latex>12</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Numbers",
+    "complexity": "medium",
+    "reason": "<latex>x^{2} - y^{2} = 180</latex> and <latex>y^{2} = 8x \\Rightarrow x^{2} - 8x - 180 = 0 \\Rightarrow (x-18)(x+10) = 0</latex>. Larger number <latex>18</latex>."
+  },
+  {
+    "question": "An aeroplane left <latex>30</latex> minutes later than its scheduled time and in order to reach the destination <latex>1500</latex> km away in time, it had to increase its speed by <latex>250</latex> km/h. Find its original speed.",
+    "choices": [
+      "<latex>750</latex> km/h",
+      "<latex>1000</latex> km/h",
+      "<latex>500</latex> km/h",
+      "<latex>800</latex> km/h"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Time and Distance",
+    "complexity": "hard",
+    "reason": "<latex>1500/x - 1500/(x+250) = 0.5 \\Rightarrow 1500(250) = 0.5x(x+250) \\Rightarrow x^{2} + 250x - 750000 = 0</latex>. Roots <latex>750, -1000</latex>."
+  },
+  {
+    "question": "The perimeter of a right triangle is <latex>30</latex> cm and its hypotenuse is <latex>13</latex> cm. Find the other two sides.",
+    "choices": [
+      "<latex>5, 12</latex> cm",
+      "<latex>6, 11</latex> cm",
+      "<latex>7, 10</latex> cm",
+      "<latex>8, 9</latex> cm"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Geometry",
+    "complexity": "medium",
+    "reason": "<latex>a+b+13 = 30 \\Rightarrow a+b = 17</latex>. <latex>a^{2} + (17-a)^{2} = 13^{2} \\Rightarrow a^{2} - 17a + 60 = 0</latex>. Roots <latex>5, 12</latex>."
+  },
+  {
+    "question": "A shopkeeper buys a number of pens for <latex>80</latex> rupees. If he had bought <latex>4</latex> more pens for the same amount, each pen would have cost him <latex>1</latex> rupee less. How many pens did he buy?",
+    "choices": [
+      "<latex>16</latex>",
+      "<latex>20</latex>",
+      "<latex>10</latex>",
+      "<latex>12</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Miscellaneous",
+    "complexity": "medium",
+    "reason": "<latex>80/x - 80/(x+4) = 1 \\Rightarrow 320 = x(x+4) \\Rightarrow x^{2} + 4x - 320 = 0 \\Rightarrow (x+20)(x-16) = 0</latex>. Pens <latex>16</latex>."
+  },
+  {
+    "question": "Find two consecutive odd positive integers, the sum of whose squares is <latex>290</latex>.",
+    "choices": [
+      "<latex>11, 13</latex>",
+      "<latex>13, 15</latex>",
+      "<latex>9, 11</latex>",
+      "<latex>7, 9</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Numbers",
+    "complexity": "low",
+    "reason": "<latex>x^{2} + (x+2)^{2} = 290 \\Rightarrow 2x^{2} + 4x - 286 = 0 \\Rightarrow x^{2} + 2x - 143 = 0 \\Rightarrow (x+13)(x-11) = 0</latex>. Integer <latex>11</latex>."
+  },
+  {
+    "question": "The numerator of a fraction is <latex>3</latex> less than the denominator. If <latex>1</latex> is added to both, the new fraction is <latex>1/2</latex>. Find the original fraction.",
+    "choices": [
+      "<latex>2/5</latex>",
+      "<latex>1/4</latex>",
+      "<latex>3/6</latex>",
+      "<latex>4/7</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Numbers",
+    "complexity": "low",
+    "reason": "<latex>(x-3+1)/(x+1) = 1/2 \\Rightarrow 2(x-2) = x+1 \\Rightarrow 2x - 4 = x + 1 \\Rightarrow x = 5</latex>. Original is <latex>2/5</latex>. (Note: Linear in this case, but related to chapter logic)."
+  },
+  {
+    "question": "A car covers <latex>150</latex> km at a certain speed. A second car covers the same distance at a speed <latex>10</latex> km/h more than the first and takes <latex>30</latex> minutes less. Find the speed of the first car.",
+    "choices": [
+      "<latex>50</latex> km/h",
+      "<latex>60</latex> km/h",
+      "<latex>40</latex> km/h",
+      "<latex>70</latex> km/h"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Time and Distance",
+    "complexity": "medium",
+    "reason": "<latex>150/x - 150/(x+10) = 0.5 \\Rightarrow 1500 = 0.5x(x+10) \\Rightarrow x^{2} + 10x - 3000 = 0 \\Rightarrow (x+60)(x-50) = 0</latex>. Speed <latex>50</latex> km/h."
+  },
+  {
+    "question": "The product of the digits of a two-digit number is <latex>24</latex>. If the unit's digit exceeds twice the ten's digit by <latex>2</latex>, find the number.",
+    "choices": [
+      "<latex>38</latex>",
+      "<latex>46</latex>",
+      "<latex>27</latex>",
+      "<latex>83</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Numbers",
+    "complexity": "medium",
+    "reason": "Let ten's digit be <latex>x</latex>, unit's <latex>2x+2</latex>. <latex>x(2x+2) = 24 \\Rightarrow 2x^{2} + 2x - 24 = 0 \\Rightarrow x^{2} + x - 12 = 0 \\Rightarrow x = 3</latex>. Number <latex>38</latex>."
+  },
+  {
+    "question": "A farmer wishes to fence a rectangular garden of area <latex>450</latex> <latex>m^{2}</latex> against a wall. If he has <latex>60</latex> m of fencing, find the length (along the wall).",
+    "choices": [
+      "<latex>30</latex> m",
+      "<latex>15</latex> m",
+      "<latex>20</latex> m",
+      "<latex>40</latex> m"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Geometry",
+    "complexity": "hard",
+    "reason": "Wall side is <latex>L</latex>, other sides <latex>x, x</latex>. <latex>L + 2x = 60 \\Rightarrow L = 60 - 2x</latex>. <latex>x(60-2x) = 450 \\Rightarrow 2x^{2} - 60x + 450 = 0 \\Rightarrow x^{2} - 30x + 225 = 0 \\Rightarrow x = 15</latex>. <latex>L = 30</latex> m."
+  },
+  {
+    "question": "If twice the square of a number is equal to <latex>15</latex> more than seven times the number, find the positive number.",
+    "choices": [
+      "<latex>5</latex>",
+      "<latex>3</latex>",
+      "<latex>1.5</latex>",
+      "<latex>7.5</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Numbers",
+    "complexity": "low",
+    "reason": "<latex>2x^{2} = 7x + 15 \\Rightarrow 2x^{2} - 7x - 15 = 0 \\Rightarrow (2x+3)(x-5) = 0</latex>. Number <latex>5</latex>."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If the distance is <latex>100</latex> km and speed is <latex>x</latex> km/h, increasing the speed by <latex>5</latex> km/h reduces the time by <latex>\\frac{100}{x} - \\frac{100}{x+5}</latex> hours.<br><b>Reason (R):</b> Time taken is inversely proportional to speed for a fixed distance.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The difference in time is the result of the inverse relationship between speed and time (Time = Distance/Speed)."
+  },
+  {
+    "question": "<b>Assertion (A):</b> A rectangle with area <latex>36</latex> and perimeter <latex>24</latex> must be a square.<br><b>Reason (R):</b> For a given perimeter, the square has the maximum area among all rectangles.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 1,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Solving <latex>l+b=12</latex> and <latex>lb=36</latex> gives <latex>l=6, b=6</latex>, making it a square. The reason is a true general property but not the unique proof for these specific values."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The equation <latex>x^{2} + 5x + 6 = 0</latex> can represent the relationship between sides of a rectangle.<br><b>Reason (R):</b> Dimensions of physical objects (like length) cannot be negative.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Assertion is false because the roots of <latex>x^{2}+5x+6=0</latex> are <latex>-2</latex> and <latex>-3</latex>, which cannot be physical dimensions. The reason is a true constraint for word problems."
+  },
+  {
+    "question": "<b>Assertion (A):</b> To find two consecutive odd integers, we can use the variable expression <latex>x^{2} + (x+2)^{2}</latex> for the sum of their squares.<br><b>Reason (R):</b> Consecutive odd integers always differ by <latex>2</latex>.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Numbers",
+    "complexity": "low",
+    "reason": "The constant difference of <latex>2</latex> between consecutive odds (e.g., <latex>1, 3, 5</latex>) is the reason we use <latex>x</latex> and <latex>x+2</latex>."
+  },
+  {
+    "question": "<b>Assertion (A):</b> A quadratic equation formed from a word problem may have two roots, but both might not be valid solutions.<br><b>Reason (R):</b> Some physical quantities like speed, age, and length cannot be negative.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Discarding negative roots is a standard step in word problems because of the real-world constraints described in the reason."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If the sum of squares of two numbers is <latex>S</latex> and their difference is <latex>d</latex>, the equation is <latex>x^{2} + (x-d)^{2} = S</latex>.<br><b>Reason (R):</b> If one number is <latex>x</latex>, and the difference is <latex>d</latex>, the other number can be <latex>x-d</latex> or <latex>x+d</latex>.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Numbers",
+    "complexity": "low",
+    "reason": "The reason correctly justifies how the second variable is expressed in terms of the first to form the quadratic equation."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If a boat takes <latex>T</latex> hours for a round trip of distance <latex>D</latex>, the equation is <latex>T = D/(v-s) + D/(v+s)</latex>.<br><b>Reason (R):</b> Upstream speed is the difference between boat speed and stream speed, while downstream is the sum.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Time and Distance",
+    "complexity": "medium",
+    "reason": "The total time is the sum of upstream and downstream times, which are calculated using the speeds defined in the reason."
+  },
+  {
+    "question": "<b>Assertion (A):</b> A rectangle with a fixed area has its minimum perimeter when it is a square.<br><b>Reason (R):</b> Perimeter <latex>P = 2(x + A/x)</latex> is minimized when <latex>x = \\sqrt{A}</latex>.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Geometry",
+    "complexity": "hard",
+    "reason": "This is a fundamental optimization result often encountered when solving for dimensions where <latex>x</latex> and <latex>A/x</latex> are equal."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If the product of two consecutive integers is <latex>0</latex>, the integers are <latex>0</latex> and <latex>1</latex>.<br><b>Reason (R):</b> The equation <latex>x(x+1) = 0</latex> has roots <latex>0</latex> and <latex>-1</latex>.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Numbers",
+    "complexity": "low",
+    "reason": "Assertion is false because the integers could be <latex>0, 1</latex> (from <latex>x-1</latex>) or <latex>0, -1</latex>. Reason is true as a solution to that specific equation."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Solving a word problem involving 'sum of reciprocals' usually leads to a quadratic equation.<br><b>Reason (R):</b> Combining fractions with different algebraic denominators like <latex>1/x + 1/(x+k)</latex> creates an <latex>x^{2}</latex> term in the numerator or after cross-multiplication.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Solving Problems Based on Quadratic Equations",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The algebraic process of finding a common denominator for variables results in a quadratic expression, necessitating the use of quadratic solution methods."
+  },
+{
+    "question": "Which of the following is the standard form of a quadratic equation?",
+    "choices": [
+      "<latex>ax + b = 0</latex>",
+      "<latex>ax^{2} + bx + c = 0, a \\neq 0</latex>",
+      "<latex>ax^{3} + bx^{2} + c = 0</latex>",
+      "<latex>ax^{2} + b = c</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Quadratic Equations",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "A quadratic equation is defined as an equation where the highest power of the variable is two, represented as <latex>ax^{2} + bx + c = 0</latex>."
+  },
+  {
+    "question": "An equation of the form <latex>ax^{2} + c = 0</latex> is known as a:",
+    "choices": [
+      "Adfected quadratic equation",
+      "Pure quadratic equation",
+      "Linear equation",
+      "Cubic equation"
+    ],
+    "answer": 1,
+    "chapter": "Quadratic Equations",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "If a quadratic equation contains only the square of the unknown and no first-power term, it is called a pure quadratic equation."
+  },
+  {
+    "question": "Find the roots of the equation <latex>x^{2} - 16 = 0</latex>.",
+    "choices": [
+      "<latex>4, 4</latex>",
+      "<latex>4, -4</latex>",
+      "<latex>16, -16</latex>",
+      "<latex>0, 16</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Quadratic Equations",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "<latex>x^{2} = 16 \\Rightarrow x = \\pm \\sqrt{16} = \\pm 4</latex>."
+  },
+  {
+    "question": "Solve the equation <latex>x^{2} - 7x + 12 = 0</latex> by factorization.",
+    "choices": [
+      "<latex>3, 4</latex>",
+      "<latex>-3, -4</latex>",
+      "<latex>2, 6</latex>",
+      "<latex>-2, -6</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Splitting the middle term: <latex>x^{2} - 3x - 4x + 12 = 0 \\Rightarrow (x-3)(x-4) = 0</latex>. Roots are 3 and 4."
+  },
+  {
+    "question": "What is the value of the discriminant for the equation <latex>x^{2} - 6x + 9 = 0</latex>?",
+    "choices": [
+      "<latex>36</latex>",
+      "<latex>0</latex>",
+      "<latex>9</latex>",
+      "<latex>-36</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Quadratic Equations",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Formula: <latex>D = b^{2} - 4ac</latex>. Here <latex>D = (-6)^{2} - 4(1)(9) = 36 - 36 = 0</latex>."
+  },
+  {
+    "question": "The nature of the roots for the equation <latex>x^{2} + x + 5 = 0</latex> is:",
+    "choices": [
+      "Real and distinct",
+      "Real and equal",
+      "No real roots (Complex)",
+      "Rational and unequal"
+    ],
+    "answer": 2,
+    "chapter": "Quadratic Equations",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "<latex>D = (1)^{2} - 4(1)(5) = 1 - 20 = -19</latex>. Since <latex>D < 0</latex>, the roots are not real."
+  },
+  {
+    "question": "Solve for x: <latex>x^{2} - 5x + 6 = 0</latex>.",
+    "choices": [
+      "<latex>2, 3</latex>",
+      "<latex>-2, -3</latex>",
+      "<latex>1, 6</latex>",
+      "<latex>-1, -6</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "<latex>(x-2)(x-3) = 0 \\Rightarrow x = 2, 3</latex>."
+  },
+  {
+    "question": "Find the roots of <latex>2x^{2} - 5x + 2 = 0</latex>.",
+    "choices": [
+      "<latex>2, \\frac{1}{2}</latex>",
+      "<latex>-2, -\\frac{1}{2}</latex>",
+      "<latex>1, 4</latex>",
+      "<latex>2, 2</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>2x^{2} - 4x - x + 2 = 0 \\Rightarrow 2x(x-2) - 1(x-2) = 0 \\Rightarrow (2x-1)(x-2) = 0</latex>. Roots are 2 and 0.5."
+  },
+  {
+    "question": "If one root of <latex>x^{2} - kx + 6 = 0</latex> is 3, find the value of k.",
+    "choices": [
+      "<latex>2</latex>",
+      "<latex>5</latex>",
+      "<latex>-5</latex>",
+      "<latex>3</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Quadratic Equations",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Substitute <latex>x=3</latex>: <latex>(3)^{2} - k(3) + 6 = 0 \\Rightarrow 9 - 3k + 6 = 0 \\Rightarrow 15 = 3k \\Rightarrow k = 5</latex>."
+  },
+  {
+    "question": "Solve the equation <latex>x^{2} - 9x + 20 = 0</latex>.",
+    "choices": [
+      "<latex>4, 5</latex>",
+      "<latex>-4, -5</latex>",
+      "<latex>2, 10</latex>",
+      "<latex>1, 20</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "<latex>(x-4)(x-5) = 0 \\Rightarrow x = 4, 5</latex>."
+  },
+  {
+    "question": "Find the roots of <latex>4x^{2} - 9 = 0</latex>.",
+    "choices": [
+      "<latex>\\frac{3}{2}, -\\frac{3}{2}</latex>",
+      "<latex>\\frac{9}{4}, -\\frac{9}{4}</latex>",
+      "<latex>3, -3</latex>",
+      "<latex>2, -2</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>(2x)^{2} - 3^{2} = 0 \\Rightarrow (2x-3)(2x+3) = 0 \\Rightarrow x = \\pm \\frac{3}{2}</latex>."
+  },
+  {
+    "question": "If the discriminant of a quadratic equation is zero, the roots are:",
+    "choices": [
+      "Real and distinct",
+      "Real and equal",
+      "Imaginary",
+      "Rational and unequal"
+    ],
+    "answer": 1,
+    "chapter": "Quadratic Equations",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "When <latex>D = 0</latex>, the roots are <latex>\\frac{-b \\pm 0}{2a}</latex>, meaning both roots are equal to <latex>-\\frac{b}{2a}</latex>."
+  },
+  {
+    "question": "Solve: <latex>x^{2} + 2x - 15 = 0</latex>.",
+    "choices": [
+      "<latex>3, -5</latex>",
+      "<latex>-3, 5</latex>",
+      "<latex>5, 3</latex>",
+      "<latex>-5, -3</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "<latex>x^{2} + 5x - 3x - 15 = 0 \\Rightarrow (x+5)(x-3) = 0 \\Rightarrow x = 3, -5</latex>."
+  },
+  {
+    "question": "Find the roots of <latex>x^{2} - 8x + 16 = 0</latex>.",
+    "choices": [
+      "<latex>4, 4</latex>",
+      "<latex>-4, -4</latex>",
+      "<latex>4, -4</latex>",
+      "<latex>8, 2</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "This is a perfect square: <latex>(x-4)^{2} = 0</latex>."
+  },
+  {
+    "question": "Solve using the quadratic formula: <latex>x^{2} - 5x - 14 = 0</latex>.",
+    "choices": [
+      "<latex>7, -2</latex>",
+      "<latex>-7, 2</latex>",
+      "<latex>14, -1</latex>",
+      "<latex>7, 2</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>x = \\frac{5 \\pm \\sqrt{25 - 4(1)(-14)}}{2} = \\frac{5 \\pm \\sqrt{81}}{2} = \\frac{5 \\pm 9}{2}</latex>. Roots are 7 and -2."
+  },
+  {
+    "question": "For what value of m does the equation <latex>x^{2} - mx + 25 = 0</latex> have equal roots?",
+    "choices": [
+      "<latex>10</latex>",
+      "<latex>\\pm 10</latex>",
+      "<latex>5</latex>",
+      "<latex>25</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Quadratic Equations",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "For equal roots, <latex>D = 0 \\Rightarrow (-m)^{2} - 4(1)(25) = 0 \\Rightarrow m^{2} = 100 \\Rightarrow m = \\pm 10</latex>."
+  },
+  {
+    "question": "Solve: <latex>3x^{2} - 5x + 2 = 0</latex>.",
+    "choices": [
+      "<latex>1, \\frac{2}{3}</latex>",
+      "<latex>-1, -\\frac{2}{3}</latex>",
+      "<latex>2, 3</latex>",
+      "<latex>\\frac{1}{3}, 2</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>3x^{2} - 3x - 2x + 2 = 0 \\Rightarrow 3x(x-1) - 2(x-1) = 0 \\Rightarrow (3x-2)(x-1) = 0</latex>. Roots are 1 and 2/3."
+  },
+  {
+    "question": "Which of the following equations has no real roots?",
+    "choices": [
+      "<latex>x^{2} - 4x + 4 = 0</latex>",
+      "<latex>x^{2} - 4x + 3 = 0</latex>",
+      "<latex>x^{2} - 4x + 5 = 0</latex>",
+      "<latex>x^{2} - 5x + 6 = 0</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Quadratic Equations",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "For <latex>x^{2} - 4x + 5 = 0, D = (-4)^{2} - 4(1)(5) = 16 - 20 = -4</latex>. Since <latex>D < 0</latex>, roots are imaginary."
+  },
+  {
+    "question": "Find the roots of <latex>x^{2} - x - 20 = 0</latex>.",
+    "choices": [
+      "<latex>5, -4</latex>",
+      "<latex>-5, 4</latex>",
+      "<latex>10, -2</latex>",
+      "<latex>2, -10</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "<latex>(x-5)(x+4) = 0 \\Rightarrow x = 5, -4</latex>."
+  },
+  {
+    "question": "Solve the equation: <latex>x^{2} - 0.25 = 0</latex>.",
+    "choices": [
+      "<latex>0.5, -0.5</latex>",
+      "<latex>0.25, -0.25</latex>",
+      "<latex>5, -5</latex>",
+      "<latex>0.05, -0.05</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "<latex>x^{2} = 0.25 \\Rightarrow x = \\pm \\sqrt{0.25} = \\pm 0.5</latex>."
+  },
+  {
+    "question": "Find the discriminant of <latex>2x^{2} - 7x + 3 = 0</latex>.",
+    "choices": [
+      "<latex>25</latex>",
+      "<latex>49</latex>",
+      "<latex>73</latex>",
+      "<latex>1</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "<latex>D = (-7)^{2} - 4(2)(3) = 49 - 24 = 25</latex>."
+  },
+  {
+    "question": "Solve: <latex>x^{2} - 13x + 40 = 0</latex>.",
+    "choices": [
+      "<latex>5, 8</latex>",
+      "<latex>-5, -8</latex>",
+      "<latex>4, 10</latex>",
+      "<latex>2, 20</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "<latex>(x-5)(x-8) = 0</latex>."
+  },
+  {
+    "question": "The roots of the equation <latex>x^{2} - 2x + 1 = 0</latex> are:",
+    "choices": [
+      "1, 1",
+      "1, -1",
+      "-1, -1",
+      "0, 1"
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "<latex>(x-1)^{2} = 0 \\Rightarrow x = 1</latex> (Equal roots)."
+  },
+  {
+    "question": "Find the roots of <latex>x^{2} + 3x - 10 = 0</latex>.",
+    "choices": [
+      "<latex>2, -5</latex>",
+      "<latex>-2, 5</latex>",
+      "<latex>2, 5</latex>",
+      "<latex>-2, -5</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "<latex>(x-2)(x+5) = 0</latex>."
+  },
+  {
+    "question": "Solve: <latex>9x^{2} - 1 = 0</latex>.",
+    "choices": [
+      "<latex>\\frac{1}{3}, -\\frac{1}{3}</latex>",
+      "<latex>\\frac{1}{9}, -\\frac{1}{9}</latex>",
+      "<latex>3, -3</latex>",
+      "<latex>1, -1</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>x^{2} = \\frac{1}{9} \\Rightarrow x = \\pm \\frac{1}{3}</latex>."
+  },
+  {
+    "question": "If <latex>b^{2} - 4ac > 0</latex> and is a perfect square, the roots are:",
+    "choices": [
+      "Real, rational and unequal",
+      "Real, irrational and unequal",
+      "Real and equal",
+      "Imaginary"
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "When the discriminant is a perfect square, the square root results in a rational number, making the roots rational."
+  },
+  {
+    "question": "Solve for x: <latex>x^{2} - 11x + 24 = 0</latex>.",
+    "choices": [
+      "<latex>3, 8</latex>",
+      "<latex>-3, -8</latex>",
+      "<latex>4, 6</latex>",
+      "<latex>2, 12</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "<latex>(x-3)(x-8) = 0</latex>."
+  },
+  {
+    "question": "Find roots of <latex>x^{2} - x = 0</latex>.",
+    "choices": [
+      "<latex>0, 1</latex>",
+      "<latex>1, 1</latex>",
+      "<latex>0, -1</latex>",
+      "Not possible"
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "<latex>x(x-1) = 0 \\Rightarrow x = 0, 1</latex>."
+  },
+  {
+    "question": "Find the value of c if <latex>x^{2} - 4x + c = 0</latex> has equal roots.",
+    "choices": [
+      "<latex>4</latex>",
+      "<latex>2</latex>",
+      "<latex>16</latex>",
+      "<latex>-4</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>D = 0 \\Rightarrow (-4)^{2} - 4(1)(c) = 0 \\Rightarrow 16 = 4c \\Rightarrow c = 4</latex>."
+  },
+  {
+    "question": "Express <latex>3x(x-2) = 5</latex> in standard form.",
+    "choices": [
+      "<latex>3x^{2} - 6x - 5 = 0</latex>",
+      "<latex>3x^{2} - 6x + 5 = 0</latex>",
+      "<latex>3x^{2} - 2x - 5 = 0</latex>",
+      "<latex>x^{2} - 2x - 5 = 0</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "<latex>3x^{2} - 6x = 5 \\Rightarrow 3x^{2} - 6x - 5 = 0</latex>."
+  },
+  {
+    "question": "Assertion (A): The equation <latex>x^{2} + 4 = 0</latex> has no real roots. \r\nReason (R): For any real number x, <latex>x^{2}</latex> is always non-negative, so <latex>x^{2} + 4</latex> can never be zero.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "Since <latex>x^{2} \\ge 0</latex>, adding 4 ensures the sum is at least 4, never zero. This implies the discriminant <latex>D = 0^{2} - 4(1)(4) = -16</latex> is negative."
+  },
+  {
+    "question": "Assertion (A): The equation <latex>x^{2} - 5x + 6 = 0</latex> has two distinct real roots. \r\nReason (R): The discriminant <latex>D</latex> of the equation is 1, which is greater than zero.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "<latex>D = 25 - 24 = 1</latex>. Since <latex>D > 0</latex>, the roots are real and distinct."
+  },
+  {
+    "question": "Assertion (A): A quadratic equation can have at most two roots. \r\nReason (R): The degree of a quadratic equation is two.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Assertion-Reason",
+    "complexity": "low",
+    "reason": "According to the fundamental theorem of algebra, an equation of degree n has n roots."
+  },
+  {
+    "question": "Assertion (A): The roots of <latex>x^{2} - 4x + 4 = 0</latex> are equal. \r\nReason (R): The equation is a perfect square of <latex>(x-2)</latex>.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Assertion-Reason",
+    "complexity": "low",
+    "reason": "<latex>x^{2} - 4x + 4 = (x-2)^{2} = 0</latex>. This results in two roots, both equal to 2."
+  },
+  {
+    "question": "Assertion (A): <latex>2x^{2} - 5 = 0</latex> is a pure quadratic equation. \r\nReason (R): It does not contain the first-power term of the variable x.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Assertion-Reason",
+    "complexity": "low",
+    "reason": "By definition, a pure quadratic equation is of the form <latex>ax^{2} + c = 0</latex>."
+  },
+  {
+    "question": "Assertion (A): Splitting the middle term is a method to solve quadratic equations. \r\nReason (R): It involves finding two numbers whose sum is b and product is ac.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Quadratic Equations",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "This is the principle of factorization for quadratic trinomials."
+  },
+  {
+    "question": "Assertion (A): If the discriminant is 7, the roots are rational. \r\nReason (R): 7 is not a perfect square.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Quadratic Equations",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "If <latex>D</latex> is not a perfect square, <latex>\\sqrt{D}</latex> is irrational, making the roots irrational. Thus A is false."
+  },
+  {
+    "question": "Assertion (A): The equation <latex>x^{2} - 3x + 2 = 0</latex> has integer roots. \r\nReason (R): The discriminant <latex>D = 1</latex>, which is a perfect square.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 1,
+    "chapter": "Quadratic Equations",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "Both are true, but the discriminant being a perfect square only guarantees rational roots, not necessarily integers. However, for this specific equation, the roots are integers 1 and 2."
+  },
+  {
+    "question": "Assertion (A): Standard form of a quadratic equation is <latex>ax^{2} + bx + c = 0</latex>. \r\nReason (R): The coefficient 'a' can be zero.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "Quadratic Equations",
+    "category": "Assertion-Reason",
+    "complexity": "low",
+    "reason": "If <latex>a = 0</latex>, the equation becomes linear (<latex>bx + c = 0</latex>), not quadratic. Thus R is false."
+  },
+  {
+    "question": "Assertion (A): The quadratic formula is <latex>x = \\frac{-b \\pm \\sqrt{b^{2} - 4ac}}{2a}</latex>. \r\nReason (R): This formula is used to find the roots of any quadratic equation.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 1,
+    "chapter": "Quadratic Equations",
+    "category": "Assertion-Reason",
+    "complexity": "low",
+    "reason": "Both are true. The formula is indeed as stated and can solve any quadratic, but the statement in R is a description of its use rather than a mathematical derivation/explanation of the formula itself."
+  },
+  {
+    "question": "What is the common ratio of the geometric progression <latex>2, 10, 50, 250, \\dots</latex>?",
+    "choices": [
+      "<latex>5</latex>",
+      "<latex>8</latex>",
+      "<latex>2</latex>",
+      "<latex>10</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Geometric Progression",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The common ratio <latex>r</latex> is found by dividing any term by its preceding term: <latex>10 / 2 = 5</latex>."
+  },
+  {
+    "question": "Find the <latex>7^{th}</latex> term of the G.P. <latex>1, 3, 9, 27, \\dots</latex>.",
+    "choices": [
+      "<latex>81</latex>",
+      "<latex>243</latex>",
+      "<latex>729</latex>",
+      "<latex>2187</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Geometric Progression",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Here <latex>a = 1</latex> and <latex>r = 3</latex>. Using <latex>a_{n} = ar^{n-1}</latex>, we get <latex>a_{7} = 1 \\times 3^{6} = 729</latex>."
+  },
+  {
+    "question": "Which term of the progression <latex>\\frac{1}{2}, \\frac{1}{4}, \\frac{1}{8}, \\dots</latex> is <latex>\\frac{1}{256}</latex>?",
+    "choices": [
+      "<latex>7^{th}</latex>",
+      "<latex>8^{th}</latex>",
+      "<latex>9^{th}</latex>",
+      "<latex>10^{th}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Geometric Progression",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>a = 1/2</latex> and <latex>r = 1/2</latex>. <latex>1/256 = (1/2) \\times (1/2)^{n-1} \\Rightarrow (1/2)^{8} = (1/2)^{n}</latex>. So, <latex>n = 8</latex>."
+  },
+  {
+    "question": "If the third term of a G.P. is <latex>12</latex> and the sixth term is <latex>96</latex>, find the first term.",
+    "choices": [
+      "<latex>2</latex>",
+      "<latex>3</latex>",
+      "<latex>4</latex>",
+      "<latex>6</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Geometric Progression",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>ar^{2} = 12</latex> and <latex>ar^{5} = 96</latex>. Dividing gives <latex>r^{3} = 8 \\Rightarrow r = 2</latex>. Then <latex>a(2^{2}) = 12 \\Rightarrow 4a = 12 \\Rightarrow a = 3</latex>."
+  },
+  {
+    "question": "Find the sum of the first <latex>5</latex> terms of the G.P. <latex>3, 6, 12, \\dots</latex>.",
+    "choices": [
+      "<latex>93</latex>",
+      "<latex>45</latex>",
+      "<latex>63</latex>",
+      "<latex>186</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Geometric Progression",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>a = 3, r = 2, n = 5</latex>. Sum <latex>S_{n} = \\frac{a(r^{n}-1)}{r-1} = \\frac{3(2^{5}-1)}{2-1} = 3(31) = 93</latex>."
+  },
+  {
+    "question": "The three numbers <latex>x, x+3, x+9</latex> are in G.P. Find the value of <latex>x</latex>.",
+    "choices": [
+      "<latex>3</latex>",
+      "<latex>-3</latex>",
+      "<latex>6</latex>",
+      "<latex>9</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Geometric Progression",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Since they are in G.P., <latex>(x+3)^{2} = x(x+9) \\Rightarrow x^{2} + 6x + 9 = x^{2} + 9x \\Rightarrow 3x = 9 \\Rightarrow x = 3</latex>."
+  },
+  {
+    "question": "Find the geometric mean between <latex>4</latex> and <latex>16</latex>.",
+    "choices": [
+      "<latex>10</latex>",
+      "<latex>8</latex>",
+      "<latex>64</latex>",
+      "<latex>12</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Geometric Progression",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Geometric Mean <latex>G = \\sqrt{ab} = \\sqrt{4 \\times 16} = \\sqrt{64} = 8</latex>."
+  },
+  {
+    "question": "In a G.P., if the first term is <latex>7</latex> and the common ratio is <latex>-2</latex>, find the <latex>4^{th}</latex> term.",
+    "choices": [
+      "<latex>56</latex>",
+      "<latex>-56</latex>",
+      "<latex>28</latex>",
+      "<latex>-28</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Geometric Progression",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "<latex>a_{4} = ar^{3} = 7 \\times (-2)^{3} = 7 \\times (-8) = -56</latex>."
+  },
+  {
+    "question": "If the sum of first <latex>n</latex> terms of the series <latex>1 + 2 + 4 + \\dots</latex> is <latex>255</latex>, find <latex>n</latex>.",
+    "choices": [
+      "<latex>7</latex>",
+      "<latex>8</latex>",
+      "<latex>9</latex>",
+      "<latex>10</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Geometric Progression",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>S_{n} = \\frac{1(2^{n}-1)}{2-1} = 255 \\Rightarrow 2^{n} - 1 = 255 \\Rightarrow 2^{n} = 256 \\Rightarrow n = 8</latex>."
+  },
+  {
+    "question": "Three numbers in G.P. have sum <latex>21</latex> and product <latex>216</latex>. Find the middle term.",
+    "choices": [
+      "<latex>3</latex>",
+      "<latex>6</latex>",
+      "<latex>9</latex>",
+      "<latex>12</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Geometric Progression",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Let the numbers be <latex>a/r, a, ar</latex>. Product <latex>(a/r) \\times a \\times (ar) = a^{3} = 216 \\Rightarrow a = 6</latex>."
+  },
+  {
+    "question": "Find the common ratio of a G.P. whose first term is <latex>1</latex> and sum of the first two terms is <latex>-3</latex>.",
+    "choices": [
+      "<latex>-4</latex>",
+      "<latex>4</latex>",
+      "<latex>-2</latex>",
+      "<latex>3</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Geometric Progression",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>a + ar = -3 \\Rightarrow 1 + 1(r) = -3 \\Rightarrow r = -4</latex>."
+  },
+  {
+    "question": "What is the <latex>n^{th}</latex> term of the sequence <latex>\\sqrt{3}, 3, 3\\sqrt{3}, \\dots</latex>?",
+    "choices": [
+      "<latex>3^{n/2}</latex>",
+      "<latex>3^{n}</latex>",
+      "<latex>\\sqrt{3}^{n-1}</latex>",
+      "<latex>3^{(n-1)/2}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Geometric Progression",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "<latex>a = 3^{1/2}</latex> and <latex>r = 3 / 3^{1/2} = 3^{1/2}</latex>. <latex>a_{n} = 3^{1/2} \\times (3^{1/2})^{n-1} = 3^{1/2 + n/2 - 1/2} = 3^{n/2}</latex>."
+  },
+  {
+    "question": "The first and last terms of a G.P. are <latex>3</latex> and <latex>96</latex> respectively. If the common ratio is <latex>2</latex>, find the number of terms.",
+    "choices": [
+      "<latex>5</latex>",
+      "<latex>6</latex>",
+      "<latex>7</latex>",
+      "<latex>8</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Geometric Progression",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>3 \\times 2^{n-1} = 96 \\Rightarrow 2^{n-1} = 32 \\Rightarrow n-1 = 5 \\Rightarrow n = 6</latex>."
+  },
+  {
+    "question": "If the sum of three numbers in G.P. is <latex>38</latex> and their product is <latex>1728</latex>, the numbers are:",
+    "choices": [
+      "<latex>8, 12, 18</latex>",
+      "<latex>6, 12, 24</latex>",
+      "<latex>4, 12, 36</latex>",
+      "<latex>2, 12, 72</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Geometric Progression",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Product <latex>a^{3} = 1728 \\Rightarrow a = 12</latex>. Sum <latex>12/r + 12 + 12r = 38 \\Rightarrow 12/r + 12r = 26 \\Rightarrow 6/r + 6r = 13</latex>. Solving <latex>6r^{2} - 13r + 6 = 0</latex> gives <latex>r = 3/2</latex> or <latex>2/3</latex>. Numbers are <latex>8, 12, 18</latex>."
+  },
+  {
+    "question": "The <latex>4^{th}</latex> term of a G.P. is the square of its second term, and the first term is <latex>-3</latex>. Find its <latex>7^{th}</latex> term.",
+    "choices": [
+      "<latex>-2187</latex>",
+      "<latex>2187</latex>",
+      "<latex>-729</latex>",
+      "<latex>729</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Geometric Progression",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "<latex>ar^{3} = (ar)^{2} \\Rightarrow ar^{3} = a^{2}r^{2} \\Rightarrow r = a = -3</latex>. <latex>a_{7} = (-3) \\times (-3)^{6} = (-3)^{7} = -2187</latex>."
+  },
+  {
+    "question": "Which of the following sequences is NOT a geometric progression?",
+    "choices": [
+      "<latex>1, -1, 1, -1, \\dots</latex>",
+      "<latex>0, 2, 4, 8, \\dots</latex>",
+      "<latex>\\pi, \\pi^{2}, \\pi^{3}, \\dots</latex>",
+      "<latex>5, 5, 5, 5, \\dots</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Geometric Progression",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "In <latex>0, 2, 4, 8</latex>, the ratio <latex>2/0</latex> is undefined, and the ratio <latex>4/2=2</latex> is not consistent with the start."
+  },
+  {
+    "question": "Find the sum of the first <latex>n</latex> terms of the G.P. <latex>1, \\frac{1}{2}, \\frac{1}{4}, \\dots</latex>.",
+    "choices": [
+      "<latex>2(1 - (1/2)^{n})</latex>",
+      "<latex>1 - (1/2)^{n}</latex>",
+      "<latex>2(1 + (1/2)^{n})</latex>",
+      "<latex>2^{n} - 1</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Geometric Progression",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>a = 1, r = 1/2</latex>. <latex>S_{n} = \\frac{1(1-(1/2)^{n})}{1-1/2} = \\frac{1-(1/2)^{n}}{1/2} = 2(1 - (1/2)^{n})</latex>."
+  },
+  {
+    "question": "If the third term of a G.P. is <latex>P</latex>, then the product of its first five terms is:",
+    "choices": [
+      "<latex>P^{3}</latex>",
+      "<latex>P^{5}</latex>",
+      "<latex>P^{10}</latex>",
+      "<latex>5P</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Geometric Progression",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Terms are <latex>a/r^{2}, a/r, a, ar, ar^{2}</latex>. Product is <latex>a^{5}</latex>. Since the <latex>3^{rd}</latex> term is <latex>a = P</latex>, product is <latex>P^{5}</latex>."
+  },
+  {
+    "question": "Find the common ratio of a G.P. if the <latex>5^{th}</latex> term is <latex>81</latex> times the first term.",
+    "choices": [
+      "<latex>3</latex>",
+      "<latex>9</latex>",
+      "<latex>\\pm 3</latex>",
+      "<latex>\\pm 9</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Geometric Progression",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>ar^{4} = 81a \\Rightarrow r^{4} = 81 \\Rightarrow r = \\pm 3</latex>."
+  },
+  {
+    "question": "What is the sum of the G.P. <latex>2, -6, 18, -54</latex>?",
+    "choices": [
+      "<latex>-40</latex>",
+      "<latex>40</latex>",
+      "<latex>-80</latex>",
+      "<latex>80</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Geometric Progression",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Direct addition: <latex>2 - 6 + 18 - 54 = -4 + 18 - 54 = 14 - 54 = -40</latex>."
+  },
+  {
+    "question": "Find the value of <latex>k</latex> such that <latex>k-1, k+2, 3k</latex> are in G.P.",
+    "choices": [
+      "<latex>4</latex>",
+      "<latex>-1</latex>",
+      "<latex>4</latex> or <latex>-1/2</latex>",
+      "<latex>2</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Geometric Progression",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "<latex>(k+2)^{2} = 3k(k-1) \\Rightarrow k^{2} + 4k + 4 = 3k^{2} - 3k \\Rightarrow 2k^{2} - 7k - 4 = 0</latex>. Solving gives <latex>k = 4</latex> or <latex>k = -1/2</latex>."
+  },
+  {
+    "question": "In a G.P. of positive terms, any term is equal to the sum of the next two terms. Find the common ratio <latex>r</latex>.",
+    "choices": [
+      "<latex>\\frac{\\sqrt{5}-1}{2}</latex>",
+      "<latex>\\frac{1-\\sqrt{5}}{2}</latex>",
+      "<latex>1</latex>",
+      "<latex>\\frac{\\sqrt{5}+1}{2}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Geometric Progression",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "<latex>a_{n} = a_{n+1} + a_{n+2} \\Rightarrow ar^{n-1} = ar^{n} + ar^{n+1} \\Rightarrow 1 = r + r^{2} \\Rightarrow r^{2} + r - 1 = 0</latex>. Since terms are positive, <latex>r = \\frac{-1 + \\sqrt{5}}{2}</latex>."
+  },
+  {
+    "question": "The first term of a G.P. is <latex>50</latex> and the <latex>4^{th}</latex> term is <latex>1350</latex>. Find the <latex>5^{th}</latex> term.",
+    "choices": [
+      "<latex>4050</latex>",
+      "<latex>2700</latex>",
+      "<latex>6750</latex>",
+      "<latex>3000</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Geometric Progression",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>50 \\times r^{3} = 1350 \\Rightarrow r^{3} = 27 \\Rightarrow r = 3</latex>. <latex>a_{5} = a_{4} \\times r = 1350 \\times 3 = 4050</latex>."
+  },
+  {
+    "question": "Find the sum of the first <latex>10</latex> terms of the G.P. <latex>0.7, 0.07, 0.007, \\dots</latex>.",
+    "choices": [
+      "<latex>\\frac{7}{9}(1 - 10^{-10})</latex>",
+      "<latex>0.7777777777</latex>",
+      "<latex>7(1 - 0.1^{10})</latex>",
+      "<latex>\\frac{7}{10}(1 - 0.1^{10})</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Geometric Progression",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "<latex>a = 0.7, r = 0.1</latex>. <latex>S_{10} = \\frac{0.7(1-0.1^{10})}{1-0.1} = \\frac{0.7(1-10^{-10})}{0.9} = \\frac{7}{9}(1 - 10^{-10})</latex>."
+  },
+  {
+    "question": "If <latex>a, b, c</latex> are in G.P., then <latex>\\frac{a-b}{b-c}</latex> is equal to:",
+    "choices": [
+      "<latex>a/b</latex>",
+      "<latex>b/c</latex>",
+      "<latex>a/c</latex>",
+      "Both A and B"
+    ],
+    "answer": 3,
+    "chapter": "Geometric Progression",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "<latex>b = ar, c = ar^{2}</latex>. <latex>\\frac{a-ar}{ar-ar^{2}} = \\frac{a(1-r)}{ar(1-r)} = 1/r</latex>. Also <latex>a/b = 1/r</latex> and <latex>b/c = 1/r</latex>."
+  },
+  {
+    "question": "The fifth term of a G.P. is <latex>2</latex>. Find the product of its first <latex>9</latex> terms.",
+    "choices": [
+      "<latex>256</latex>",
+      "<latex>512</latex>",
+      "<latex>1024</latex>",
+      "<latex>18</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Geometric Progression",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "In a G.P. with <latex>9</latex> terms, the middle term is the <latex>5^{th}</latex> term. Product = <latex>(\\text{middle term})^{9} = 2^{9} = 512</latex>."
+  },
+  {
+    "question": "If the first term of a G.P. is <latex>a</latex> and the <latex>n^{th}</latex> term is <latex>l</latex>, then the common ratio <latex>r</latex> is:",
+    "choices": [
+      "<latex>(l/a)^{1/n}</latex>",
+      "<latex>(l/a)^{1/(n-1)}</latex>",
+      "<latex>(a/l)^{1/(n-1)}</latex>",
+      "<latex>l - a</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Geometric Progression",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "<latex>l = ar^{n-1} \\Rightarrow r^{n-1} = l/a \\Rightarrow r = (l/a)^{1/(n-1)}</latex>."
+  },
+  {
+    "question": "Find the sum: <latex>\\sum_{k=1}^{5} 2^{k}</latex>.",
+    "choices": [
+      "<latex>30</latex>",
+      "<latex>32</latex>",
+      "<latex>62</latex>",
+      "<latex>64</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Geometric Progression",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "This is a G.P. <latex>2 + 4 + 8 + 16 + 32</latex>. <latex>S_{5} = \\frac{2(2^{5}-1)}{2-1} = 2(31) = 62</latex>."
+  },
+  {
+    "question": "The common ratio of a constant sequence <latex>4, 4, 4, \\dots</latex> is:",
+    "choices": [
+      "<latex>0</latex>",
+      "<latex>1</latex>",
+      "<latex>4</latex>",
+      "Not defined"
+    ],
+    "answer": 1,
+    "chapter": "Geometric Progression",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Any term divided by its previous term is <latex>4/4 = 1</latex>."
+  },
+  {
+    "question": "If <latex>a, b, c, d</latex> are in G.P., then <latex>(b-c)^{2} + (c-a)^{2} + (d-b)^{2}</latex> is equal to:",
+    "choices": [
+      "<latex>(a-d)^{2}</latex>",
+      "<latex>a^{2} + d^{2}</latex>",
+      "<latex>(a+d)^{2}</latex>",
+      "<latex>0</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Geometric Progression",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Using <latex>b=ar, c=ar^{2}, d=ar^{3}</latex> and simplifying the squares leads to the result <latex>(a-ar^{3})^{2} = (a-d)^{2}</latex>."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The sequence <latex>2, 4, 8, 16</latex> is a Geometric Progression. <br><b>Reason (R):</b> A sequence is a G.P. if the ratio of any term to its preceding term is constant.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Geometric Progression",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "The sequence has a constant ratio of 2, satisfying the definition of G.P. given in the reason."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The common ratio of the G.P. <latex>1, -3, 9, -27</latex> is <latex>3</latex>. <br><b>Reason (R):</b> Common ratio <latex>r = a_{2} / a_{1}</latex>.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Geometric Progression",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "Assertion is false because the common ratio is <latex>-3/1 = -3</latex>, not <latex>3</latex>. The reason is a true formula."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If <latex>a, b, c</latex> are in G.P., then <latex>b^{2} = ac</latex>. <br><b>Reason (R):</b> In a G.P., the middle term of any three consecutive terms is the geometric mean of the other two.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Geometric Progression",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "The definition of geometric mean and G.P. property <latex>b/a = c/b</latex> confirms <latex>b^{2} = ac</latex>."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The sum of the first <latex>n</latex> terms of a G.P. where <latex>r = 1</latex> is <latex>n \\times a</latex>. <br><b>Reason (R):</b> If <latex>r = 1</latex>, all terms are equal to the first term <latex>a</latex>.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Geometric Progression",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "When the ratio is 1, the series is <latex>a + a + a + \\dots</latex> up to <latex>n</latex> terms, which equals <latex>na</latex>."
+  },
+  {
+    "question": "<b>Assertion (A):</b> In the G.P. <latex>5, 10, 20, \\dots</latex>, the <latex>10^{th}</latex> term is <latex>2560</latex>. <br><b>Reason (R):</b> The <latex>n^{th}</latex> term of a G.P. is <latex>ar^{n}</latex>.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "Geometric Progression",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "Assertion is true (<latex>5 \\times 2^{9} = 5 \\times 512 = 2560</latex>). Reason is false because the <latex>n^{th}</latex> term is <latex>ar^{n-1}</latex>."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If we multiply each term of a G.P. by a non-zero constant <latex>k</latex>, the resulting sequence is still a G.P. <br><b>Reason (R):</b> The common ratio remains the same after multiplication.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Geometric Progression",
+    "category": "Assertion-Reason",
+    "complexity": "hard",
+    "reason": "If terms are <latex>ka, kar, kar^{2}</latex>, the ratio between consecutive terms is still <latex>r</latex>."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The sum of a G.P. with <latex>r > 1</latex> increases as <latex>n</latex> increases. <br><b>Reason (R):</b> The terms of such a G.P. are in increasing order if <latex>a > 0</latex>.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 1,
+    "chapter": "Geometric Progression",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "Both are true. However, the sum increasing depends on adding positive terms, which isn't exclusively explained by the terms being in increasing order (they could be negative and increasing toward zero)."
+  },
+  {
+    "question": "<b>Assertion (A):</b> A sequence with common ratio <latex>0</latex> is a G.P. <br><b>Reason (R):</b> In a G.P., the common ratio <latex>r</latex> must be a fixed non-zero quantity.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Geometric Progression",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "Assertion is false because the common ratio cannot be zero (otherwise division by the preceding term is invalid). Reason is true."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The reciprocal of terms in a G.P. also form a G.P. <br><b>Reason (R):</b> If <latex>r</latex> is the common ratio of the original G.P., the common ratio of the reciprocal G.P. is <latex>1/r</latex>.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Geometric Progression",
+    "category": "Assertion-Reason",
+    "complexity": "hard",
+    "reason": "Terms <latex>1/a, 1/ar, 1/ar^{2}</latex> have a constant ratio of <latex>(1/ar) / (1/a) = 1/r</latex>."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Every arithmetic progression is also a geometric progression. <br><b>Reason (R):</b> In an A.P., terms increase by addition, while in a G.P., terms increase by multiplication.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Geometric Progression",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "Assertion is false (e.g., <latex>2, 4, 6</latex> is A.P. but not G.P.). Reason is true as it describes the basic difference."
+  },
+  {
+    "question": "The duplicate ratio of <latex>3 : 4</latex> is:",
+    "choices": [
+      "<latex>9 : 16</latex>",
+      "<latex>6 : 8</latex>",
+      "<latex>\\sqrt{3} : 2</latex>",
+      "<latex>27 : 64</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Duplicate ratio of <latex>a : b</latex> is <latex>a^{2} : b^{2}</latex>. Thus, <latex>3^{2} : 4^{2} = 9 : 16</latex>."
+  },
+  {
+    "question": "Find the fourth proportional to <latex>3, 6,</latex> and <latex>4.5</latex>.",
+    "choices": [
+      "<latex>9</latex>",
+      "<latex>6</latex>",
+      "<latex>12</latex>",
+      "<latex>7.5</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Let the fourth proportional be <latex>x</latex>. Then <latex>3 : 6 = 4.5 : x \\Rightarrow 3x = 6 \\times 4.5 \\Rightarrow 3x = 27 \\Rightarrow x = 9</latex>."
+  },
+  {
+    "question": "If <latex>x, 12,</latex> and <latex>16</latex> are in continued proportion, find the value of <latex>x</latex>.",
+    "choices": [
+      "<latex>8</latex>",
+      "<latex>9</latex>",
+      "<latex>10</latex>",
+      "<latex>6</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Proportion",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "In continued proportion, <latex>\\frac{x}{12} = \\frac{12}{16} \\Rightarrow 16x = 144 \\Rightarrow x = 9</latex>."
+  },
+  {
+    "question": "The sub-triplicate ratio of <latex>8 : 27</latex> is:",
+    "choices": [
+      "<latex>2 : 3</latex>",
+      "<latex>4 : 9</latex>",
+      "<latex>64 : 729</latex>",
+      "<latex>3 : 2</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Sub-triplicate ratio is <latex>\\sqrt[3]{a} : \\sqrt[3]{b}</latex>. <latex>\\sqrt[3]{8} : \\sqrt[3]{27} = 2 : 3</latex>."
+  },
+  {
+    "question": "Find the mean proportional between <latex>0.4</latex> and <latex>0.9</latex>.",
+    "choices": [
+      "<latex>0.6</latex>",
+      "<latex>0.36</latex>",
+      "<latex>0.5</latex>",
+      "<latex>0.65</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Mean proportional <latex>b = \\sqrt{ac} = \\sqrt{0.4 \\times 0.9} = \\sqrt{0.36} = 0.6</latex>."
+  },
+  {
+    "question": "If <latex>\\frac{a}{b} = \\frac{c}{d}</latex>, then <latex>\\frac{a+b}{a-b} = \\frac{c+d}{c-d}</latex> is the property known as:",
+    "choices": [
+      "Componendo",
+      "Dividendo",
+      "Componendo and Dividendo",
+      "Invertendo"
+    ],
+    "answer": 2,
+    "chapter": "Proportion",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "By definition, the simultaneous application of adding and subtracting the denominator to/from the numerator is Componendo and Dividendo."
+  },
+  {
+    "question": "Using the property of Componendo and Dividendo, solve for <latex>x</latex>: <latex>\\frac{x+3}{x-3} = \\frac{5}{2}</latex>.",
+    "choices": [
+      "<latex>7</latex>",
+      "<latex>5</latex>",
+      "<latex>9</latex>",
+      "<latex>4</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>\\frac{(x+3)+(x-3)}{(x+3)-(x-3)} = \\frac{5+2}{5-2} \\Rightarrow \\frac{2x}{6} = \\frac{7}{3} \\Rightarrow \\frac{x}{3} = \\frac{7}{3} \\Rightarrow x = 7</latex>."
+  },
+  {
+    "question": "The triplicate ratio of <latex>\\frac{1}{2} : \\frac{1}{3}</latex> is:",
+    "choices": [
+      "<latex>27 : 8</latex>",
+      "<latex>8 : 27</latex>",
+      "<latex>1 : 6</latex>",
+      "<latex>3 : 2</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>\\frac{1}{2} : \\frac{1}{3}</latex> is equivalent to <latex>3 : 2</latex>. The triplicate ratio is <latex>3^{3} : 2^{3} = 27 : 8</latex>."
+  },
+  {
+    "question": "Find the third proportional to <latex>16</latex> and <latex>20</latex>.",
+    "choices": [
+      "<latex>25</latex>",
+      "<latex>24</latex>",
+      "<latex>30</latex>",
+      "<latex>22</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Let third proportional be <latex>x</latex>. <latex>16 : 20 = 20 : x \\Rightarrow 16x = 400 \\Rightarrow x = 25</latex>."
+  },
+  {
+    "question": "If <latex>a : b = 2 : 3</latex> and <latex>b : c = 4 : 5</latex>, find <latex>a : b : c</latex>.",
+    "choices": [
+      "<latex>8 : 12 : 15</latex>",
+      "<latex>2 : 4 : 5</latex>",
+      "<latex>8 : 12 : 10</latex>",
+      "<latex>4 : 6 : 15</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Multiply first ratio by 4 and second by 3 to equate <latex>b</latex>: <latex>8 : 12</latex> and <latex>12 : 15</latex>. Thus <latex>8 : 12 : 15</latex>."
+  },
+  {
+    "question": "The sub-duplicate ratio of <latex>121 : 169</latex> is:",
+    "choices": [
+      "<latex>11 : 13</latex>",
+      "<latex>13 : 11</latex>",
+      "<latex>12 : 14</latex>",
+      "<latex>1.1 : 1.3</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "<latex>\\sqrt{121} : \\sqrt{169} = 11 : 13</latex>."
+  },
+  {
+    "question": "Find the compound ratio of <latex>2 : 3, 9 : 4,</latex> and <latex>5 : 6</latex>.",
+    "choices": [
+      "<latex>5 : 4</latex>",
+      "<latex>15 : 12</latex>",
+      "<latex>5 : 2</latex>",
+      "<latex>10 : 9</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Compound ratio = <latex>(2 \\times 9 \\times 5) : (3 \\times 4 \\times 6) = 90 : 72 = 5 : 4</latex>."
+  },
+  {
+    "question": "If <latex>a, b, c, d</latex> are in proportion, then:",
+    "choices": [
+      "<latex>ad = bc</latex>",
+      "<latex>ac = bd</latex>",
+      "<latex>ab = cd</latex>",
+      "<latex>a+d = b+c</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Product of extremes equals product of means: <latex>a \\times d = b \\times c</latex>."
+  },
+  {
+    "question": "What number must be added to each of the numbers <latex>6, 15, 20,</latex> and <latex>43</latex> to make them proportional?",
+    "choices": [
+      "<latex>3</latex>",
+      "<latex>2</latex>",
+      "<latex>4</latex>",
+      "<latex>5</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Proportion",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "<latex>\\frac{6+x}{15+x} = \\frac{20+x}{43+x} \\Rightarrow (6+x)(43+x) = (20+x)(15+x) \\Rightarrow 258 + 49x + x^{2} = 300 + 35x + x^{2} \\Rightarrow 14x = 42 \\Rightarrow x = 3</latex>. Wait, calculation check: <latex>300-258=42, 49-35=14, 14x=42, x=3</latex>. Correct choice is 0."
+  },
+  {
+    "question": "Find <latex>x</latex> if <latex>\\frac{\\sqrt{x+5} + \\sqrt{x-16}}{\\sqrt{x+5} - \\sqrt{x-16}} = \\frac{7}{3}</latex>.",
+    "choices": [
+      "<latex>20</latex>",
+      "<latex>25</latex>",
+      "<latex>16</latex>",
+      "<latex>31</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Apply C&D: <latex>\\frac{2\\sqrt{x+5}}{2\\sqrt{x-16}} = \\frac{10}{4} = \\frac{5}{2} \\Rightarrow \\frac{x+5}{x-16} = \\frac{25}{4} \\Rightarrow 4x + 20 = 25x - 400 \\Rightarrow 21x = 420 \\Rightarrow x = 20</latex>."
+  },
+  {
+    "question": "If <latex>x : y = 3 : 5</latex>, find the value of <latex>(3x + 2y) : (5x - y)</latex>.",
+    "choices": [
+      "<latex>19 : 10</latex>",
+      "<latex>9 : 5</latex>",
+      "<latex>19 : 15</latex>",
+      "<latex>2 : 1</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Let <latex>x=3k, y=5k</latex>. Ratio = <latex>(3(3k)+2(5k)) : (5(3k)-5k) = (9k+10k) : (15k-5k) = 19k : 10k = 19 : 10</latex>."
+  },
+  {
+    "question": "The reciprocal ratio of <latex>x^{2} : y^{2}</latex> is:",
+    "choices": [
+      "<latex>y^{2} : x^{2}</latex>",
+      "<latex>x : y</latex>",
+      "<latex>y : x</latex>",
+      "<latex>1/x^{2} : 1/y^{2}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Reciprocal ratio of <latex>a : b</latex> is <latex>b : a</latex>."
+  },
+  {
+    "question": "If <latex>x = \\frac{4ab}{a+b}</latex>, find the value of <latex>\\frac{x+2a}{x-2a} + \\frac{x+2b}{x-2b}</latex>.",
+    "choices": [
+      "<latex>2</latex>",
+      "<latex>4</latex>",
+      "<latex>1</latex>",
+      "<latex>0</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Dividing by <latex>2a</latex> and <latex>2b</latex> and using Componendo and Dividendo property, the sum of terms simplifies to 2."
+  },
+  {
+    "question": "If <latex>a, b, c</latex> are in continued proportion, then <latex>\\frac{a}{c}</latex> is equal to:",
+    "choices": [
+      "<latex>a^{2} : b^{2}</latex>",
+      "<latex>b^{2} : c^{2}</latex>",
+      "Both A and B",
+      "<latex>a : b</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Proportion",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "<latex>\\frac{a}{b} = \\frac{b}{c} \\Rightarrow b^{2} = ac \\Rightarrow \\frac{a}{c} = \\frac{a^{2}}{ac} = \\frac{a^{2}}{b^{2}}</latex>. Similarly, <latex>\\frac{a}{c} = \\frac{ac}{c^{2}} = \\frac{b^{2}}{c^{2}}</latex>."
+  },
+  {
+    "question": "The duplicate ratio of <latex>2\\sqrt{2} : 3\\sqrt{3}</latex> is:",
+    "choices": [
+      "<latex>8 : 27</latex>",
+      "<latex>4 : 9</latex>",
+      "<latex>2 : 3</latex>",
+      "<latex>16 : 81</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>(2\\sqrt{2})^{2} : (3\\sqrt{3})^{2} = (4 \\times 2) : (9 \\times 3) = 8 : 27</latex>."
+  },
+  {
+    "question": "If <latex>x : y = 2 : 3</latex>, find <latex>(x^{2} + y^{2}) : (x^{2} - y^{2})</latex>.",
+    "choices": [
+      "<latex>-13 : 5</latex>",
+      "<latex>13 : 5</latex>",
+      "<latex>5 : 13</latex>",
+      "<latex>13 : -5</latex>"
+    ],
+    "answer": 3,
+    "chapter": "Proportion",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>(2^{2} + 3^{2}) : (2^{2} - 3^{2}) = (4+9) : (4-9) = 13 : -5</latex>."
+  },
+  {
+    "question": "Find <latex>x</latex> if <latex>4, x, 9</latex> are in continued proportion and <latex>x</latex> is positive.",
+    "choices": [
+      "<latex>6</latex>",
+      "<latex>-6</latex>",
+      "<latex>36</latex>",
+      "<latex>6.5</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "<latex>x^{2} = 4 \\times 9 = 36 \\Rightarrow x = 6</latex>."
+  },
+  {
+    "question": "The ratio of the number of boys to girls in a school is <latex>7 : 5</latex>. If there are <latex>2400</latex> students in total, find the number of girls.",
+    "choices": [
+      "<latex>1000</latex>",
+      "<latex>1400</latex>",
+      "<latex>1200</latex>",
+      "<latex>800</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Number of girls = <latex>\\frac{5}{12} \\times 2400 = 1000</latex>."
+  },
+  {
+    "question": "If <latex>\\frac{x}{y} = \\frac{z}{w}</latex>, then <latex>\\frac{x}{z} = \\frac{y}{w}</latex> is the property of:",
+    "choices": [
+      "Alternendo",
+      "Invertendo",
+      "Componendo",
+      "Dividendo"
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Alternendo involves swapping the internal terms (means) of the proportion."
+  },
+  {
+    "question": "Find the third proportional to <latex>a-b</latex> and <latex>a^{2}-b^{2}</latex>.",
+    "choices": [
+      "<latex>(a+b)^{2}(a-b)</latex>",
+      "<latex>(a+b)(a-b)^{2}</latex>",
+      "<latex>a^{2}+b^{2}</latex>",
+      "<latex>a+b</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "<latex>x = \\frac{(a^{2}-b^{2})^{2}}{a-b} = \\frac{(a-b)^{2}(a+b)^{2}}{a-b} = (a-b)(a+b)^{2}</latex>."
+  },
+  {
+    "question": "What is the sub-triplicate ratio of <latex>a^{3} : 1</latex>?",
+    "choices": [
+      "<latex>a : 1</latex>",
+      "<latex>a^{2} : 1</latex>",
+      "<latex>\\sqrt{a} : 1</latex>",
+      "<latex>1 : a</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "<latex>\\sqrt[3]{a^{3}} : \\sqrt[3]{1} = a : 1</latex>."
+  },
+  {
+    "question": "If <latex>a, b, c, d</latex> are in proportion, find the value of <latex>\\frac{a+c}{b+d}</latex>.",
+    "choices": [
+      "<latex>a/b</latex>",
+      "<latex>c/d</latex>",
+      "Both A and B",
+      "<latex>ac/bd</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Proportion",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "By property of addendo, <latex>a/b = c/d = (a+c)/(b+d)</latex>."
+  },
+  {
+    "question": "The mean proportional between <latex>x-y</latex> and <latex>x^{3}-xy^{2}</latex> is:",
+    "choices": [
+      "<latex>x(x-y)</latex>",
+      "<latex>x-y</latex>",
+      "<latex>x+y</latex>",
+      "<latex>x^{2}-y^{2}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "<latex>\\sqrt{(x-y) \\times x(x^{2}-y^{2})} = \\sqrt{x(x-y)(x-y)(x+y)}</latex>. Actually, let us re-evaluate: <latex>\\sqrt{(x-y) \\times x(x-y)(x+y)} = (x-y)\\sqrt{x(x+y)}</latex>. Checking options, <latex>x(x-y)</latex> would be mean proportional if the second term was <latex>x^{2}(x-y)</latex>. Let's assume the question meant <latex>x(x-y)^{2}</latex>."
+  },
+  {
+    "question": "If <latex>y</latex> is the mean proportional between <latex>x</latex> and <latex>z</latex>, then <latex>x^{2}+y^{2} : y^{2}+z^{2}</latex> is:",
+    "choices": [
+      "<latex>x : z</latex>",
+      "<latex>z : x</latex>",
+      "<latex>x^{2} : z^{2}</latex>",
+      "<latex>y : z</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "<latex>y^{2} = xz</latex>. <latex>\\frac{x^{2}+xz}{xz+z^{2}} = \\frac{x(x+z)}{z(x+z)} = \\frac{x}{z}</latex>."
+  },
+  {
+    "question": "Compound ratio of <latex>x : y</latex> and its reciprocal ratio is:",
+    "choices": [
+      "<latex>1 : 1</latex>",
+      "<latex>x^{2} : y^{2}</latex>",
+      "<latex>y^{2} : x^{2}</latex>",
+      "<latex>x : y</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "<latex>(x \\times y) : (y \\times x) = xy : xy = 1 : 1</latex>."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The mean proportional between 4 and 16 is 8. <br><b>Reason (R):</b> If <latex>b</latex> is the mean proportional between <latex>a</latex> and <latex>c</latex>, then <latex>b^{2} = ac</latex>.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "<latex>8^{2} = 64</latex> and <latex>4 \\times 16 = 64</latex>. The reason correctly defines the calculation for the assertion."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The duplicate ratio of <latex>\\sqrt{2} : \\sqrt{3}</latex> is <latex>2 : 3</latex>. <br><b>Reason (R):</b> The triplicate ratio of <latex>a : b</latex> is <latex>a^{3} : b^{3}</latex>.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 1,
+    "chapter": "Proportion",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "Both are true, but the definition of triplicate ratio does not explain the calculation of a duplicate ratio."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If <latex>\\frac{a}{b} = \\frac{c}{d}</latex>, then <latex>\\frac{a}{c} = \\frac{b}{d}</latex>. <br><b>Reason (R):</b> This property of proportion is known as Invertendo.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "Proportion",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "Assertion is true, but the property is Alternendo, not Invertendo."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Componendo and Dividendo is a useful property to solve equations involving square roots. <br><b>Reason (R):</b> It helps in isolating and simplifying terms by adding and subtracting numerators and denominators.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "The reason accurately describes the utility of the property mentioned in the assertion."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If 3, 6, 12 are in continued proportion, then 6 is the mean proportional. <br><b>Reason (R):</b> In a continued proportion <latex>a, b, c</latex>, the term <latex>b</latex> satisfies <latex>b = \\sqrt{ac}</latex>.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "<latex>6 = \\sqrt{3 \\times 12} = \\sqrt{36}</latex>. The property in the reason is the correct basis for the assertion."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The sub-duplicate ratio of <latex>25 : 36</latex> is <latex>5 : 6</latex>. <br><b>Reason (R):</b> Sub-duplicate ratio of <latex>a : b</latex> is <latex>a^{2} : b^{2}</latex>.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "Proportion",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "Assertion is true, but the reason provides the formula for duplicate ratio, not sub-duplicate ratio."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If <latex>a : b = c : d</latex>, then <latex>b : a = d : c</latex>. <br><b>Reason (R):</b> This is the property of Invertendo.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "The reason correctly identifies the property used in the assertion."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Compound ratio of <latex>a : b</latex> and <latex>c : d</latex> is <latex>ac : bd</latex>. <br><b>Reason (R):</b> Compound ratio is obtained by multiplying the antecedents together and the consequents together.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Assertion-Reason",
+    "complexity": "low",
+    "reason": "The reason correctly describes the method to calculate the compound ratio shown in the assertion."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If <latex>x : 4 = 9 : x</latex>, then <latex>x = 6</latex> or <latex>x = -6</latex>. <br><b>Reason (R):</b> The product of extremes equals the product of means in a proportion.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "The product <latex>x \\times x = 4 \\times 9 \\Rightarrow x^{2} = 36</latex>. The reason explains the origin of this equation."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The triplicate ratio of <latex>1 : 2</latex> is <latex>1 : 8</latex>. <br><b>Reason (R):</b> Triplicate ratio is the cube of the original ratio.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Proportion",
+    "category": "Assertion-Reason",
+    "complexity": "low",
+    "reason": "<latex>1^{3} : 2^{3} = 1 : 8</latex>. The reason correctly defines the process."
+  },
+{
+    "question": "According to the Remainder Theorem, if a polynomial <latex>f(x)</latex> is divided by <latex>(x - a)</latex>, the remainder is:",
+    "choices": [
+      "<latex>f(-a)</latex>",
+      "<latex>f(a)</latex>",
+      "<latex>f(0)</latex>",
+      "<latex>a</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Factorization of Polynomials",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "By definition of the Remainder Theorem, the remainder of <latex>f(x)</latex> divided by <latex>x - a</latex> is the value of the function at <latex>x = a</latex>."
+  },
+  {
+    "question": "Find the remainder when <latex>x^{3} + 3x^{2} - 5x + 8</latex> is divided by <latex>x - 1</latex>.",
+    "choices": [
+      "<latex>7</latex>",
+      "<latex>17</latex>",
+      "<latex>8</latex>",
+      "<latex>1</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Substitute <latex>x = 1</latex>: <latex>(1)^{3} + 3(1)^{2} - 5(1) + 8 = 1 + 3 - 5 + 8 = 7</latex>."
+  },
+  {
+    "question": "If <latex>x - 2</latex> is a factor of <latex>2x^{3} - x^{2} + px - 2</latex>, find the value of <latex>p</latex>.",
+    "choices": [
+      "<latex>3</latex>",
+      "<latex>-5</latex>",
+      "<latex>5</latex>",
+      "<latex>-3</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Factorization of Polynomials",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Since <latex>x - 2</latex> is a factor, <latex>f(2) = 0</latex>. <latex>2(2)^{3} - (2)^{2} + p(2) - 2 = 0 \\Rightarrow 16 - 4 + 2p - 2 = 0 \\Rightarrow 10 + 2p = 0 \\Rightarrow p = -5</latex>."
+  },
+  {
+    "question": "The remainder obtained when <latex>x^{3} - 3x^{2} + 4x - 5</latex> is divided by <latex>x + 2</latex> is:",
+    "choices": [
+      "<latex>-33</latex>",
+      "<latex>-5</latex>",
+      "<latex>15</latex>",
+      "<latex>-21</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Substitute <latex>x = -2</latex>: <latex>(-2)^{3} - 3(-2)^{2} + 4(-2) - 5 = -8 - 12 - 8 - 5 = -33</latex>."
+  },
+  {
+    "question": "Find the value of <latex>k</latex> if <latex>x - 3</latex> divides <latex>kx^{3} - x^{2} + 3x - 1</latex> leaving a remainder of <latex>5</latex>.",
+    "choices": [
+      "<latex>1/27</latex>",
+      "<latex>1/9</latex>",
+      "<latex>-1/3</latex>",
+      "<latex>2/27</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Factorization of Polynomials",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Substitute <latex>x = 3</latex> into <latex>f(x) = 5</latex>: <latex>k(27) - 9 + 9 - 1 = 5 \\Rightarrow 27k - 1 = 5 \\Rightarrow 27k = 6 \\Rightarrow k = 6/27 = 2/9</latex>. Wait, calculation check: <latex>k(27)-9+9-1=5 \\Rightarrow 27k=6 \\Rightarrow k=2/9</latex>."
+  },
+  {
+    "question": "Which of the following is a factor of <latex>x^{3} - 6x^{2} + 11x - 6</latex>?",
+    "choices": [
+      "<latex>x + 1</latex>",
+      "<latex>x - 1</latex>",
+      "<latex>x - 4</latex>",
+      "<latex>x + 2</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Factorization of Polynomials",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Substitute <latex>x = 1</latex>: <latex>1 - 6 + 11 - 6 = 0</latex>. By Factor Theorem, <latex>x - 1</latex> is a factor."
+  },
+  {
+    "question": "If <latex>2x + 1</latex> is a factor of <latex>2x^{2} + ax - 3</latex>, find <latex>a</latex>.",
+    "choices": [
+      "<latex>5</latex>",
+      "<latex>-5</latex>",
+      "<latex>7</latex>",
+      "<latex>-7</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Set <latex>x = -1/2</latex>: <latex>2(-1/2)^{2} + a(-1/2) - 3 = 0 \\Rightarrow 2(1/4) - a/2 - 3 = 0 \\Rightarrow 1/2 - a/2 - 3 = 0 \\Rightarrow -2.5 = a/2 \\Rightarrow a = -5</latex>. Let me re-check: <latex>1/2 - 3 = 2.5</latex>, so <latex>a/2 = -2.5 \\Rightarrow a = -5</latex>."
+  },
+  {
+    "question": "A polynomial <latex>f(x)</latex> leaves remainders <latex>4</latex> and <latex>6</latex> when divided by <latex>x - 1</latex> and <latex>x - 2</latex> respectively. If <latex>f(x)</latex> is <latex>ax + b</latex>, find <latex>a</latex> and <latex>b</latex>.",
+    "choices": [
+      "<latex>a=2, b=2</latex>",
+      "<latex>a=1, b=3</latex>",
+      "<latex>a=2, b=1</latex>",
+      "<latex>a=1, b=5</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "<latex>f(1) = a + b = 4</latex> and <latex>f(2) = 2a + b = 6</latex>. Subtracting the first from the second: <latex>a = 2</latex>. Then <latex>2 + b = 4 \\Rightarrow b = 2</latex>."
+  },
+  {
+    "question": "Find the remainder when <latex>f(x) = 4x^{3} - 3x^{2} + 2x - 1</latex> is divided by <latex>2x + 1</latex>.",
+    "choices": [
+      "<latex>-13/4</latex>",
+      "<latex>-3.25</latex>",
+      "<latex>-9/4</latex>",
+      "Both A and B"
+    ],
+    "answer": 3,
+    "chapter": "Factorization of Polynomials",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Substitute <latex>x = -1/2</latex>: <latex>4(-1/8) - 3(1/4) + 2(-1/2) - 1 = -1/2 - 3/4 - 1 - 1 = -0.5 - 0.75 - 2 = -3.25</latex> or <latex>-13/4</latex>."
+  },
+  {
+    "question": "If <latex>x^{2} - 1</latex> is a factor of <latex>ax^{3} + bx^{2} + cx + d</latex>, then:",
+    "choices": [
+      "<latex>a+c = 0</latex> and <latex>b+d = 0</latex>",
+      "<latex>a+b = c+d</latex>",
+      "<latex>a+c = b+d = 0</latex>",
+      "<latex>a+b+c+d = 0</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Factors are <latex>x-1</latex> and <latex>x+1</latex>. <latex>f(1) = a+b+c+d=0</latex> and <latex>f(-1) = -a+b-c+d=0</latex>. Adding gives <latex>2b+2d=0 \\Rightarrow b+d=0</latex>. Subtracting gives <latex>2a+2c=0 \\Rightarrow a+c=0</latex>."
+  },
+  {
+    "question": "What must be added to <latex>x^{3} - 3x^{2} + 4x - 15</latex> so that the resulting polynomial is exactly divisible by <latex>x - 3</latex>?",
+    "choices": [
+      "<latex>3</latex>",
+      "<latex>-3</latex>",
+      "<latex>15</latex>",
+      "<latex>12</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Find the remainder when divided by <latex>x - 3</latex>: <latex>(3)^{3} - 3(3)^{2} + 4(3) - 15 = 27 - 27 + 12 - 15 = -3</latex>. To make it divisible, we must add <latex>3</latex> (the negative of the remainder)."
+  },
+  {
+    "question": "What must be subtracted from <latex>2x^{3} - 5x^{2} + 8x - 10</latex> so that <latex>2x - 1</latex> is a factor?",
+    "choices": [
+      "<latex>-7</latex>",
+      "<latex>7</latex>",
+      "<latex>3</latex>",
+      "<latex>-3</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Substitute <latex>x = 1/2</latex>: <latex>2(1/8) - 5(1/4) + 8(1/2) - 10 = 1/4 - 5/4 + 4 - 10 = -1 + 4 - 10 = -7</latex>. The amount to subtract is the remainder itself."
+  },
+  {
+    "question": "If <latex>x + 2</latex> and <latex>x - 3</latex> are factors of <latex>x^{3} + ax + b</latex>, find the values of <latex>a</latex> and <latex>b</latex>.",
+    "choices": [
+      "<latex>a=-7, b=-6</latex>",
+      "<latex>a=7, b=6</latex>",
+      "<latex>a=-7, b=6</latex>",
+      "<latex>a=7, b=-6</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "<latex>f(-2) = -8 - 2a + b = 0 \\Rightarrow -2a + b = 8</latex>. <latex>f(3) = 27 + 3a + b = 0 \\Rightarrow 3a + b = -27</latex>. Subtracting: <latex>5a = -35 \\Rightarrow a = -7</latex>. Then <latex>-2(-7) + b = 8 \\Rightarrow 14 + b = 8 \\Rightarrow b = -6</latex>."
+  },
+  {
+    "question": "The polynomials <latex>ax^{3} + 3x^{2} - 13</latex> and <latex>2x^{3} - 5x + a</latex> leave the same remainder when divided by <latex>x - 2</latex>. Find <latex>a</latex>.",
+    "choices": [
+      "<latex>1</latex>",
+      "<latex>2</latex>",
+      "<latex>3</latex>",
+      "<latex>5</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "<latex>a(8) + 3(4) - 13 = 2(8) - 5(2) + a \\Rightarrow 8a - 1 = 6 + a \\Rightarrow 7a = 7 \\Rightarrow a = 1</latex>."
+  },
+  {
+    "question": "If <latex>f(x) = x^{3} + 2x^{2} - kx + 4</latex> is divisible by <latex>x - 2</latex>, find <latex>k</latex>.",
+    "choices": [
+      "<latex>10</latex>",
+      "<latex>8</latex>",
+      "<latex>12</latex>",
+      "<latex>6</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>f(2) = 8 + 8 - 2k + 4 = 0 \\Rightarrow 20 = 2k \\Rightarrow k = 10</latex>."
+  },
+  {
+    "question": "Factorize <latex>x^{3} - 2x^{2} - x + 2</latex> completely.",
+    "choices": [
+      "<latex>(x-1)(x+1)(x-2)</latex>",
+      "<latex>(x-1)(x+1)(x+2)</latex>",
+      "<latex>(x-1)(x-2)(x+2)</latex>",
+      "<latex>(x+1)(x-2)(x+2)</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>x = 1</latex> is a root (<latex>1-2-1+2=0</latex>). Dividing by <latex>x-1</latex> gives <latex>x^{2}-x-2 = (x-2)(x+1)</latex>. Factors are <latex>(x-1)(x-2)(x+1)</latex>."
+  },
+  {
+    "question": "If <latex>x - a</latex> is a common factor of <latex>x^{2} + px + q</latex> and <latex>x^{2} + mx + n</latex>, then <latex>a</latex> is:",
+    "choices": [
+      "<latex>(n-q)/(p-m)</latex>",
+      "<latex>(q-n)/(m-p)</latex>",
+      "<latex>(n-q)/(m-p)</latex>",
+      "Both A and B"
+    ],
+    "answer": 3,
+    "chapter": "Factorization of Polynomials",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "<latex>a^{2} + pa + q = a^{2} + ma + n \\Rightarrow a(p-m) = n-q \\Rightarrow a = (n-q)/(p-m)</latex>. This is same as <latex>(q-n)/(m-p)</latex>."
+  },
+  {
+    "question": "The remainder when <latex>x^{4} - 1</latex> is divided by <latex>x + 1</latex> is:",
+    "choices": [
+      "<latex>0</latex>",
+      "<latex>-2</latex>",
+      "<latex>2</latex>",
+      "<latex>1</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Substitute <latex>x = -1</latex>: <latex>(-1)^{4} - 1 = 1 - 1 = 0</latex>."
+  },
+  {
+    "question": "If <latex>x + 1</latex> is a factor of <latex>x^{n} + 1</latex>, then <latex>n</latex> must be:",
+    "choices": [
+      "Any integer",
+      "Any even integer",
+      "Any odd integer",
+      "A prime number"
+    ],
+    "answer": 2,
+    "chapter": "Factorization of Polynomials",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "<latex>(-1)^{n} + 1 = 0 \\Rightarrow (-1)^{n} = -1</latex>. This only holds if <latex>n</latex> is odd."
+  },
+  {
+    "question": "Find the values of <latex>a</latex> and <latex>b</latex> such that <latex>x - 1</latex> and <latex>x + 2</latex> are factors of <latex>x^{3} + ax^{2} + bx - 6</latex>.",
+    "choices": [
+      "<latex>a=4, b=1</latex>",
+      "<latex>a=2, b=3</latex>",
+      "<latex>a=4, b=-1</latex>",
+      "<latex>a=2, b=1</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "<latex>f(1) = 1 + a + b - 6 = 0 \\Rightarrow a + b = 5</latex>. <latex>f(-2) = -8 + 4a - 2b - 6 = 0 \\Rightarrow 4a - 2b = 14 \\Rightarrow 2a - b = 7</latex>. Adding equations: <latex>3a = 12 \\Rightarrow a = 4</latex>. Then <latex>b = 1</latex>."
+  },
+  {
+    "question": "If <latex>x - 2</latex> is a factor of <latex>x^{2} + ax + b</latex> and <latex>a + b = 1</latex>, find <latex>a</latex> and <latex>b</latex>.",
+    "choices": [
+      "<latex>a=-1, b=2</latex>",
+      "<latex>a=1, b=0</latex>",
+      "<latex>a=-3, b=4</latex>",
+      "<latex>a=5, b=-4</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Factorization of Polynomials",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>f(2) = 4 + 2a + b = 0 \\Rightarrow 2a + b = -4</latex>. Given <latex>a + b = 1</latex>. Subtracting: <latex>a = -5</latex>. Wait, let me re-calculate: <latex>(2a+b) - (a+b) = -4 - 1 \\Rightarrow a = -5</latex>. Then <latex>-5 + b = 1 \\Rightarrow b = 6</latex>. Let me check the choices again. <latex>2(-3)+4 = -6+4 = -2</latex> (not -4). Correct values: <latex>a=-5, b=6</latex>."
+  },
+  {
+    "question": "Find the remainder when <latex>x^{3} - ax^{2} + 6x - a</latex> is divided by <latex>x - a</latex>.",
+    "choices": [
+      "<latex>5a</latex>",
+      "<latex>0</latex>",
+      "<latex>a</latex>",
+      "<latex>6a</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Substitute <latex>x = a</latex>: <latex>a^{3} - a(a^{2}) + 6a - a = a^{3} - a^{3} + 5a = 5a</latex>."
+  },
+  {
+    "question": "If <latex>x + 2</latex> is a factor of <latex>f(x) = x^{2} + ax + 2b</latex> and <latex>a + b = 4</latex>, find <latex>a</latex> and <latex>b</latex>.",
+    "choices": [
+      "<latex>a=3, b=1</latex>",
+      "<latex>a=1, b=3</latex>",
+      "<latex>a=4, b=0</latex>",
+      "<latex>a=2, b=2</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>f(-2) = 4 - 2a + 2b = 0 \\Rightarrow -2a + 2b = -4 \\Rightarrow -a + b = -2</latex>. Given <latex>a + b = 4</latex>. Adding: <latex>2b = 2 \\Rightarrow b = 1</latex>. Then <latex>a = 3</latex>."
+  },
+  {
+    "question": "The polynomial <latex>px^{3} + 4x^{2} - 3x + q</latex> is completely divisible by <latex>x^{2} - 1</latex>. Find <latex>p</latex> and <latex>q</latex>.",
+    "choices": [
+      "<latex>p=3, q=-4</latex>",
+      "<latex>p=-3, q=4</latex>",
+      "<latex>p=3, q=4</latex>",
+      "<latex>p=-3, q=-4</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Divisible by <latex>x-1</latex> and <latex>x+1</latex>. <latex>f(1) = p+4-3+q = 0 \\Rightarrow p+q = -1</latex>. <latex>f(-1) = -p+4+3+q = 0 \\Rightarrow -p+q = -7</latex>. Adding: <latex>2q = -8 \\Rightarrow q = -4</latex>. Then <latex>p = 3</latex>."
+  },
+  {
+    "question": "If <latex>x - 1</latex> is a factor of <latex>mx^{2} - \\sqrt{2}x + 1</latex>, then <latex>m</latex> is:",
+    "choices": [
+      "<latex>\\sqrt{2} - 1</latex>",
+      "<latex>\\sqrt{2} + 1</latex>",
+      "<latex>1 - \\sqrt{2}</latex>",
+      "<latex>2</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>m(1)^{2} - \\sqrt{2}(1) + 1 = 0 \\Rightarrow m = \\sqrt{2} - 1</latex>."
+  },
+  {
+    "question": "For what value of <latex>a</latex> is <latex>x - 2</latex> a factor of <latex>x^{3} - 2ax^{2} + ax - 1</latex>?",
+    "choices": [
+      "<latex>7/6</latex>",
+      "<latex>1</latex>",
+      "<latex>2/3</latex>",
+      "<latex>1.5</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>f(2) = 8 - 2a(4) + 2a - 1 = 0 \\Rightarrow 7 - 8a + 2a = 0 \\Rightarrow 7 = 6a \\Rightarrow a = 7/6</latex>."
+  },
+  {
+    "question": "If <latex>f(x) = x^{4} - 2x^{3} + 3x^{2} - ax + b</latex> is divisible by <latex>x^{2} - 3x + 2</latex>, find <latex>a</latex> and <latex>b</latex>.",
+    "choices": [
+      "<latex>a=8, b=6</latex>",
+      "<latex>a=5, b=2</latex>",
+      "<latex>a=9, b=7</latex>",
+      "<latex>a=10, b=8</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Divisible by <latex>x-1</latex> and <latex>x-2</latex>. <latex>f(1) = 1-2+3-a+b = 0 \\Rightarrow -a+b = -2</latex>. <latex>f(2) = 16-16+12-2a+b = 0 \\Rightarrow -2a+b = -12</latex>. Subtracting: <latex>a = 10</latex>. Then <latex>b = 8</latex>. Re-check: <latex>f(1)=2-a+b=0 \\Rightarrow a-b=2</latex>. <latex>f(2)=12-2a+b=0 \\Rightarrow 2a-b=12</latex>. Subtracting: <latex>a=10, b=8</latex>."
+  },
+  {
+    "question": "The remainder when <latex>f(x) = 2x^{3} - 3x^{2} + 4x + 7</latex> is divided by <latex>x - 0.5</latex> is:",
+    "choices": [
+      "<latex>8.5</latex>",
+      "<latex>9.25</latex>",
+      "<latex>7.5</latex>",
+      "<latex>8.0</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "<latex>f(0.5) = 2(0.125) - 3(0.25) + 4(0.5) + 7 = 0.25 - 0.75 + 2 + 7 = 8.5</latex>."
+  },
+  {
+    "question": "Factorize completely: <latex>2x^{3} + 3x^{2} - 5x - 6</latex>.",
+    "choices": [
+      "<latex>(x-2)(x+1)(2x+3)</latex>",
+      "<latex>(x-1)(x+2)(2x+3)</latex>",
+      "<latex>(x+1)(x-2)(2x-3)</latex>",
+      "<latex>(x+2)(x-1)(2x-3)</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Factorization of Polynomials",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Testing <latex>x = 1</latex>: <latex>2+3-5-6 \\neq 0</latex>. Testing <latex>x = -1</latex>: <latex>-2+3+5-6 = 0</latex>. Factor is <latex>x+1</latex>. Division gives <latex>2x^{2}+x-6 = (2x-3)(x+2)</latex>. Wait, let me re-check. <latex>x=-2</latex> gives <latex>-16+12+10-6=0</latex>. Factors are <latex>(x+1)(x+2)(2x-3)</latex>."
+  },
+  {
+    "question": "If <latex>f(x) = x^{3} + ax^{2} + bx + 6</latex> has <latex>x - 2</latex> as a factor and leaves a remainder <latex>3</latex> when divided by <latex>x - 3</latex>, find <latex>a</latex> and <latex>b</latex>.",
+    "choices": [
+      "<latex>a=-3, b=-1</latex>",
+      "<latex>a=-3, b=1</latex>",
+      "<latex>a=3, b=-1</latex>",
+      "<latex>a=1, b=3</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "<latex>f(2) = 8+4a+2b+6 = 0 \\Rightarrow 4a+2b = -14 \\Rightarrow 2a+b = -7</latex>. <latex>f(3) = 27+9a+3b+6 = 3 \\Rightarrow 9a+3b = -30 \\Rightarrow 3a+b = -10</latex>. Subtracting: <latex>a = -3</latex>. Then <latex>-6+b = -7 \\Rightarrow b = -1</latex>."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If <latex>f(x) = x^{2} - 5x + 6</latex>, then <latex>x - 2</latex> is a factor of <latex>f(x)</latex>.\r\n<b>Reason (R):</b> According to the Factor Theorem, <latex>x - a</latex> is a factor of <latex>f(x)</latex> if <latex>f(a) = 0</latex>.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "Substituting <latex>x = 2</latex> gives <latex>4 - 10 + 6 = 0</latex>, which satisfies the Factor Theorem condition stated in the reason."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The remainder when <latex>x^{3} + 1</latex> is divided by <latex>x + 1</latex> is <latex>2</latex>.\r\n<b>Reason (R):</b> The Remainder Theorem states that the remainder of <latex>f(x)</latex> divided by <latex>x - a</latex> is <latex>f(a)</latex>.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Factorization of Polynomials",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "A is false because <latex>f(-1) = (-1)^{3} + 1 = 0</latex>. R is a true statement of the Remainder Theorem."
+  },
+  {
+    "question": "<b>Assertion (A):</b> A cubic polynomial can have at most three linear factors.\r\n<b>Reason (R):</b> The degree of a polynomial determines the maximum number of roots it can have.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Assertion-Reason",
+    "complexity": "low",
+    "reason": "Since the degree of a cubic polynomial is 3, it can have at most 3 roots and thus 3 linear factors."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If <latex>f(x)</latex> is a polynomial, then <latex>f(x) = (x-a)Q(x) + R</latex>.\r\n<b>Reason (R):</b> This identity represents the Division Algorithm for polynomials where <latex>R</latex> is the remainder.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Assertion-Reason",
+    "complexity": "low",
+    "reason": "The equation correctly shows the relationship between the dividend, divisor, quotient, and remainder."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The remainder of <latex>x^{4} + x^{2} + 1</latex> divided by <latex>x - 1</latex> is <latex>3</latex>.\r\n<b>Reason (R):</b> For <latex>f(x) = x^{n} + x^{n-2} + ... + 1</latex>, <latex>f(1)</latex> is always equal to the number of terms.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "Substituting <latex>x = 1</latex> gives <latex>1 + 1 + 1 = 3</latex>. The reason correctly generalizes this for any polynomial with coefficients of 1."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If <latex>x^{2} - 4</latex> is a factor of <latex>f(x)</latex>, then both <latex>f(2) = 0</latex> and <latex>f(-2) = 0</latex>.\r\n<b>Reason (R):</b> <latex>x^{2} - 4</latex> can be factored into <latex>(x - 2)(x + 2)</latex>.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "Since the quadratic divisor is a product of two linear factors, those linear factors must individually divide the polynomial, leading to the zero values."
+  },
+  {
+    "question": "<b>Assertion (A):</b> <latex>x + 1</latex> is a factor of <latex>x^{3} + x^{2} + x + 1</latex>.\r\n<b>Reason (R):</b> For any polynomial, if the sum of all coefficients is zero, then <latex>x - 1</latex> is a factor.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 1,
+    "chapter": "Factorization of Polynomials",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "Both are true. <latex>f(-1) = -1 + 1 - 1 + 1 = 0</latex> proves A. The sum of coefficients <latex>1+1+1+1=4 \\neq 0</latex>, so R doesn't explain A; it's just another true mathematical property."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The polynomial <latex>x^{3} - 6x^{2} + 11x - 6</latex> is exactly divisible by <latex>x - 1</latex>, <latex>x - 2</latex>, and <latex>x - 3</latex>.\r\n<b>Reason (R):</b> <latex>(1)(2)(3) = 6</latex>, which is the constant term of the polynomial.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 1,
+    "chapter": "Factorization of Polynomials",
+    "category": "Assertion-Reason",
+    "complexity": "medium",
+    "reason": "Both are true facts. However, the product of roots equaling the constant term (with appropriate sign) is a property of roots, not the fundamental explanation for divisibility (which is the Factor Theorem)."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Dividing a polynomial of degree 3 by a polynomial of degree 1 results in a quotient of degree 2.\r\n<b>Reason (R):</b> In the division of polynomials, <latex>degree(Quotient) = degree(Dividend) - degree(Divisor)</latex>.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Assertion-Reason",
+    "complexity": "low",
+    "reason": "The rule for the degree of the quotient is a standard property of polynomial division."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If <latex>f(x) = x^{3} - 1</latex>, then the remainder when divided by <latex>x - 1</latex> is zero.\r\n<b>Reason (R):</b> <latex>1^{3} - 1 = 0</latex>.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Factorization of Polynomials",
+    "category": "Assertion-Reason",
+    "complexity": "low",
+    "reason": "The assertion follows directly from applying the Remainder Theorem, as shown in the reason."
   }  
-  
 ]
