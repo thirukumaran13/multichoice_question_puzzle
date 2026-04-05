@@ -2966,6 +2966,566 @@
     "category": "Conceptual",
     "complexity": "hard",
     "reason": "The corpus luteum remains active during pregnancy to secrete progesterone, which maintains the uterine lining and prevents menstruation."
+  },
+  {
+    "question": "Which specific structure of the eye is primarily responsible for preventing light rays from reflecting and scattering inside the eyeball?",
+    "choices": [
+      "Sclerotic layer",
+      "Melanin in the choroid",
+      "Vitreous humour",
+      "Conjunctiva"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The middle choroid layer contains a dark black pigment called melanin, which absorbs light to prevent internal reflection and scattering."
+  },
+  {
+    "question": "A patient is able to see distant objects clearly but finds nearby text blurred. Upon examination, it is found that the image of near objects falls behind the retina. Identify the defect and its physiological cause.",
+    "choices": [
+      "Myopia; eyeball is lengthened",
+      "Hyperopia; eyeball is shortened",
+      "Astigmatism; uneven cornea curvature",
+      "Cataract; opaque lens"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Hyperopia (long-sightedness) results from a shortened eyeball or a lens that is too flat, causing the image of near objects to form behind the retina."
+  },
+  {
+    "question": "During the process of dark adaptation, which of the following physiological changes occurs in the eye?",
+    "choices": [
+      "Bleaching of rhodopsin and constriction of the pupil",
+      "Regeneration of rhodopsin and dilation of the pupil",
+      "Synthesis of iodopsin and constriction of the pupil",
+      "Regeneration of visual violet and partial closure of eyelids"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Dark adaptation involves the regeneration of visual purple (rhodopsin) in the rods and the dilation of the pupil to allow more light to enter."
+  },
+  {
+    "question": "The 'Organ of Corti', which contains sensory hair cells for hearing, is specifically located on which membrane of the cochlea?",
+    "choices": [
+      "Tectorial membrane",
+      "Reissner's membrane",
+      "Basilar membrane",
+      "Tympanic membrane"
+    ],
+    "answer": 2,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The sensory cells of the spiral organ (Organ of Corti) lie on the basilar membrane within the median canal of the cochlea."
+  },
+  {
+    "question": "Which part of the ear is responsible for perceiving dynamic equilibrium while the body is in motion?",
+    "choices": [
+      "Utriculus and Sacculus",
+      "Cochlea",
+      "Semicircular canals",
+      "Ear ossicles"
+    ],
+    "answer": 2,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The sensory hair cells in the ampullae of the semicircular canals are concerned with dynamic balance when the body is moving."
+  },
+  {
+    "question": "What is the primary function of the Eustachian tube?",
+    "choices": [
+      "Transmission of sound vibrations to the oval window",
+      "Equalizing air pressure on either side of the ear drum",
+      "Secreting ear wax to protect the auditory canal",
+      "Amplifying sound waves using a lever-like action"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The Eustachian tube connects the middle ear to the throat to equalize air pressure on both sides of the tympanum, allowing it to vibrate freely."
+  },
+  {
+    "question": "In the human eye, 'Yellow Spot' or Macula Lutea is characterized by:",
+    "choices": [
+      "High concentration of rods and absence of cones",
+      "Convergence of all nerve fibres to form the optic nerve",
+      "Maximum number of sensory cells, particularly cones",
+      "Presence of visual purple and high sensitivity to dim light"
+    ],
+    "answer": 2,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The yellow spot contains the highest density of sensory cells, especially cones, making it the area of brightest and best vision."
+  },
+  {
+    "question": "Which of the following describes the correct sequence of sound wave transmission in the middle ear?",
+    "choices": [
+      "Ear drum -> Stapes -> Incus -> Malleus -> Oval window",
+      "Ear drum -> Malleus -> Incus -> Stapes -> Oval window",
+      "Ear drum -> Hammer -> Stirrup -> Anvil -> Round window",
+      "Pinna -> Auditory canal -> Malleus -> Incus -> Cochlea"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Sound strikes the ear drum, which vibrates the malleus (hammer), then the incus (anvil), and finally the stapes (stirrup) which pushes against the oval window."
+  },
+  {
+    "question": "When focusing on a nearby object (less than 6 meters), which of the following actions is performed by the ciliary muscles?",
+    "choices": [
+      "They relax, tightening the suspensory ligaments to flatten the lens",
+      "They contract, pulling the ciliary body forward and slackening the suspensory ligaments",
+      "They contract to pull the lens thinner and increase its focal length",
+      "They relax to allow the lens to become more rounded due to high tension"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "For near vision, the circular ciliary muscles contract, releasing tension on the suspensory ligaments, allowing the elastic lens to become thicker and more convex."
+  },
+  {
+    "question": "A person has difficulty distinguishing between red and green colors. This condition is most likely:",
+    "choices": [
+      "Night blindness due to Vitamin A deficiency",
+      "Colour blindness due to a genetic defect",
+      "Astigmatism due to uneven corneal curvature",
+      "Presbyopia due to loss of lens flexibility"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Colour blindness is a genetic condition where an individual cannot discriminate between certain colours, common examples being red and green."
+  },
+  {
+    "question": "The antiseptic property of tears is attributed to the presence of which enzyme?",
+    "choices": [
+      "Thrombokinase",
+      "Pepsin",
+      "Lysozyme",
+      "Amylase"
+    ],
+    "answer": 2,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Tears contain lysozyme, an enzyme that kills germs and provides an antiseptic effect for the front surface of the eye."
+  },
+  {
+    "question": "What happens if the fluid in the semicircular canals continues to spin after a person stops rotating?",
+    "choices": [
+      "The person hears a ringing sound in the ears",
+      "The person experiences dizziness and involuntary eye movement",
+      "The person loses static balance relative to gravity",
+      "The ear ossicles lock to prevent damage to the cochlea"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "The continued spinning of the fluid (endolymph) after motion stops disrupts the equilibrium signals, leading to dizziness and back-and-forth eye movements."
+  },
+  {
+    "question": "Which structure connects the middle ear directly with the inner ear to transmit amplified mechanical vibrations?",
+    "choices": [
+      "Round window",
+      "Oval window",
+      "Eustachian canal",
+      "Auditory canal"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The stapes (stirrup) fits against the membrane-covered oval window, which leads directly into the inner ear's fluid-filled vestibule."
+  },
+  {
+    "question": "The visual purple pigment (Rhodopsin) is found in which retinal cells and is sensitive to what type of light?",
+    "choices": [
+      "Cones; bright light",
+      "Cones; dim light",
+      "Rods; bright light",
+      "Rods; dim light"
+    ],
+    "answer": 3,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Rod cells contain rhodopsin (visual purple) and are highly sensitive to low levels of illumination (dim light)."
+  },
+  {
+    "question": "Which of the following is a symptom of Astigmatism?",
+    "choices": [
+      "Complete loss of vision in one eye",
+      "Some parts of an object are in focus while others are blurred",
+      "Difficulty in seeing objects in dim light",
+      "Inability to perceive depth or 3D effects"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Astigmatism is caused by uneven curvature of the cornea, resulting in some parts of the visual field being in focus while others remain blurred."
+  },
+  {
+    "question": "Stereoscopic vision in humans is advantageous because it allows:",
+    "choices": [
+      "Vision in extremely dark environments",
+      "Perception of depth and relative distance of objects",
+      "A wider field of vision compared to animals with lateral eyes",
+      "Automatic correction of inverted images on the retina"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Binocular or stereoscopic vision involves simultaneous focusing in both eyes, creating overlapping images in the brain that provide a 3D effect and depth perception."
+  },
+  {
+    "question": "Which part of the inner ear contains sensory patches for registering static (positional) balance with respect to gravity?",
+    "choices": [
+      "Ampulla",
+      "Utriculus and Sacculus",
+      "Median canal of the cochlea",
+      "Organ of Corti"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The vestibule, consisting of the utriculus and sacculus, contains sensory patches for static equilibrium while the body is stationary."
+  },
+  {
+    "question": "What is the function of the 'Ciliary Body' in the eye?",
+    "choices": [
+      "To produce the vitreous humour",
+      "To regulate the amount of light entering the pupil",
+      "To alter the shape of the lens through contraction and relaxation",
+      "To provide blood supply to the retina"
+    ],
+    "answer": 2,
+    "chapter": "Sense Organs",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The ciliary body contains smooth muscles that adjust the curvature of the lens for viewing objects at various distances."
+  },
+  {
+    "question": "The 'Blind Spot' is the point of no vision because:",
+    "choices": [
+      "It is located on the nasal side of the yellow spot",
+      "It contains only rod cells and no cones",
+      "There are no sensory cells (rods or cones) at this location",
+      "The vitreous humour is too thick to allow light to pass through there"
+    ],
+    "answer": 2,
+    "chapter": "Sense Organs",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The blind spot is where nerve fibres from the entire retina converge to form the optic nerve; it lacks any photoreceptors."
+  },
+  {
+    "question": "In the context of the ear, what does 'amplification of vibrations' refer to?",
+    "choices": [
+      "The collection of sound waves by the pinna",
+      "The lever-like action of the malleus and incus on the stapes",
+      "The movement of hair cells in the Organ of Corti",
+      "The resonance of air within the external auditory canal"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "The chain of ear ossicles amplifies the vibrations from the ear drum to the oval window due to their lever-like arrangement."
+  },
+  {
+    "question": "Which layer of the eyeball is continuous with the optic nerve and contains the photoreceptor cells?",
+    "choices": [
+      "Choroid",
+      "Sclera",
+      "Retina",
+      "Uvea"
+    ],
+    "answer": 2,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The retina is the innermost layer sensitive to light, containing rods and cones, and it transmits impulses to the brain via the optic nerve."
+  },
+  {
+    "question": "The transparent front portion of the sclerotic layer is called the:",
+    "choices": [
+      "Iris",
+      "Cornea",
+      "Conjunctiva",
+      "Pupil"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The sclera bulges out and becomes transparent in the front to form the cornea."
+  },
+  {
+    "question": "What is the typical range of sound frequencies that a normal human ear can detect?",
+    "choices": [
+      "2 to 2,000 Hz",
+      "20 to 20,000 Hz",
+      "200 to 200,000 Hz",
+      "1,000 to 4,000 Hz only"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Human sensory endings can detect vibrations in the frequency range of 20 to 20,000 Hertz."
+  },
+  {
+    "question": "If the suspensory ligaments of the eye are tightened, what is the effect on the lens?",
+    "choices": [
+      "The lens becomes more convex and thicker",
+      "The lens becomes longer and thinner (flattened)",
+      "The lens detaches from the ciliary body",
+      "The lens remains flexible but loses its biconvexity"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "When ciliary muscles relax, the suspensory ligaments tighten, pulling the elastic lens into a thinner, flattened shape suited for distant vision."
+  },
+  {
+    "question": "Persistence of vision, the basis of motion pictures, occurs because an after-image lasts for about:",
+    "choices": [
+      "1/2 second",
+      "1/10 second",
+      "1/24 second",
+      "1/100 second"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "An after-image or persistence image lasts for about one-tenth of a second in the eye after the object is removed."
+  },
+  {
+    "question": "Which fluid is Thicker and jelly-like, filling the chamber behind the lens?",
+    "choices": [
+      "Aqueous humour",
+      "Vitreous humour",
+      "Perilymph",
+      "Endolymph"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The vitreous chamber behind the lens is filled with a transparent, jelly-like thicker fluid called vitreous humour."
+  },
+  {
+    "question": "Presbyopia is a condition where older people cannot see near objects clearly primarily because:",
+    "choices": [
+      "The eyeball becomes too long",
+      "The cornea develops an uneven curvature",
+      "The lens loses its flexibility and power of accommodation",
+      "There is a deficiency of visual purple in the rods"
+    ],
+    "answer": 2,
+    "chapter": "Sense Organs",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "In presbyopia, age-related loss of lens flexibility makes it difficult for the eye to focus on near objects."
+  },
+  {
+    "question": "The 'lever-like action' of the ear ossicles is a feature of which part of the ear?",
+    "choices": [
+      "Outer ear",
+      "Middle ear",
+      "Inner ear",
+      "Pharynx"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The three bones (malleus, incus, stapes) are located in the middle ear and amplify vibrations through their lever-like arrangement."
+  },
+  {
+    "question": "What happens to the pupil when a person is exposed to very bright light?",
+    "choices": [
+      "It dilates due to the contraction of radial muscles",
+      "It constricts due to the contraction of circular muscles",
+      "It remains the same size while the eyelids close partially",
+      "It shifts toward the nasal side to protect the yellow spot"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "In bright light, circular muscles of the iris contract while radial muscles relax, causing the pupil to constrict and reduce light entry."
+  },
+  {
+    "question": "Which of the following is NOT a divisions of the inner ear (membranous labyrinth)?",
+    "choices": [
+      "Cochlea",
+      "Semicircular canals",
+      "Vestibule",
+      "Auditory canal"
+    ],
+    "answer": 3,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The inner ear consists of the cochlea, semicircular canals, and the vestibule. The auditory canal is part of the outer ear."
+  },
+  {
+    "question": "Assertion (A): A person moving from a bright outdoor environment into a dimly lit room feels blinded for a short time. \nReason (R): This dazzling effect occurs because rhodopsin in the rods is bleached and needs time to regenerate for vision in dim light.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Sense Organs",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "In bright light, visual purple (rhodopsin) is broken down. Moving into a dark room requires time for this pigment to regenerate so the rods can function again."
+  },
+  {
+    "question": "Assertion (A): The image formed on the retina of the human eye is real and inverted. \nReason (R): The brain interprets these inverted signals such that we see objects in an upright position.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Both statements are true. However, the fact that the brain interprets images as upright does not 'explain' why the physical optics of the eye produce an inverted image; that is a result of the lens curvature."
+  },
+  {
+    "question": "Assertion (A): Myopia is corrected using a convex lens. \nReason (R): A concave lens causes light rays to diverge before they strike the lens of the eye, moving the image back onto the retina.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Sense Organs",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Assertion A is false because Myopia (short-sightedness) is corrected using a concave (diverging) lens. Reason R is a true statement about the function of a concave lens in myopia correction."
+  },
+  {
+    "question": "Assertion (A): The middle ear ossicles are malleus, incus, and stapes. \nReason (R): These three bones are collectively called the labyrinth of the inner ear.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "Sense Organs",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Assertion A is true. Reason R is false because the ear ossicles are part of the middle ear; the 'labyrinth' refers specifically to the inner ear structures."
+  },
+  {
+    "question": "Assertion (A): In a right-angled triangle, the perpendicular from the vertex to the hypotenuse divides it into two similar triangles. \nReason (R): Similarity of figures means they have the same shape but may differ in size.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "While both are true mathematical principles mentioned in the textbook context, the general definition of similarity doesn't specifically explain the geometric theorem of triangle division."
+  },
+  {
+    "question": "Assertion (A): The optic nerve leaves the eyeball at the yellow spot. \nReason (R): The yellow spot is the point of brightest vision containing only cone cells.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Sense Organs",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Assertion A is false; the optic nerve leaves the eye at the blind spot. Reason R is a true description of the yellow spot (Macula Lutea)."
+  },
+  {
+    "question": "Assertion (A): Guttation occurs through specialized vein endings called hydathodes. \nReason (R): This process is often driven by high root pressure and low transpiration rates.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Sense Organs",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "The assertion is true, and the reason correctly explains the physiological cause of water droplets forming at the hydathodes."
+  },
+  {
+    "question": "Assertion (A): A cataract is corrected by replacing the opaque lens with a donated healthy cornea. \nReason (R): The lens in a cataract patient turns opaque, cutting down vision even to total blindness.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Sense Organs",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Assertion A is false; cataracts are corrected by surgically removing the opaque lens and replacing it with a plastic lens or glasses, not a cornea. Reason R is true."
+  },
+  {
+    "question": "Assertion (A): The semicircular canals are involved in maintaining the static balance of the body. \nReason (R): The vestibule containing the utriculus and sacculus registers balance with respect to gravity while the body is stationary.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Sense Organs",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Assertion A is false because semicircular canals are concerned with dynamic balance. Reason R is a true description of the vestibule's role in static balance."
+  },
+  {
+    "question": "Assertion (A): Accommodation of the eye for near vision is achieved by making the lens more rounded. \nReason (R): The ciliary muscles contract to increase the tension on the suspensory ligaments during near vision.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "Sense Organs",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Assertion A is true. Reason R is false because during near vision, ciliary muscle contraction 'releases' tension on the ligaments, allowing the lens to bulge."
   }
   
 ]
