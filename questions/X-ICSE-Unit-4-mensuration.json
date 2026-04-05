@@ -1,1142 +1,562 @@
 [
   {
-    "type": "MCQ",
-    "question": "A solid rectangular tin foil of size 22 cm by 16 cm is wrapped around along its length to form a cylinder of height 16 cm. Find the volume of the cylinder so formed.",
-    "options": [
-      "616 cm³",
-      "308 cm³",
-      "1232 cm³",
-      "154 cm³"
+    "question": "A solid rectangular tin foil of size 22 cm by 16 cm is wrapped around along its length to form a cylinder of height 16 cm. Find the volume of the cylinder.",
+    "choices": [
+      "616 cm^3",
+      "308 cm^3",
+      "1232 cm^3",
+      "154 cm^3"
     ],
-    "answer": "616 cm³",
-    "reason": "Step 1: When the foil is wrapped along its length to form a cylinder of height 16 cm, the length of the foil (22 cm) becomes the circumference of the cylinder's base. Step 2: Circumference 2πr = 22 cm. Step 3: 2 × (22/7) × r = 22 => r = 7/2 = 3.5 cm. Step 4: Volume of the cylinder V = πr²h. Step 5: V = (22/7) × (3.5)² × 16 = (22/7) × 12.25 × 16 = 22 × 1.75 × 16 = 616 cm³.",
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Geometric Transformation",
     "complexity": "hard",
-    "chapter": "Mensuration"
+    "reason": "Step 1: The foil length (22 cm) becomes the circumference <latex>2\\pi r</latex>. Step 2: <latex>2 \\times \\frac{22}{7} \\times r = 22 \\Rightarrow r = 3.5</latex> cm. Step 3: <latex>V = \\pi r^2 h = \\frac{22}{7} \\times 3.5 \\times 3.5 \\times 16 = 616</latex> cm^3."
   },
   {
-    "type": "MCQ",
-    "question": "The height of a right circular cone is 30 cm. A small cone is cut off at the top by a plane parallel to its base. If its volume is 1/27 of the volume of the original cone, at what height above the base is the section made?",
-    "options": [
+    "question": "The height of a right circular cone is 30 cm. A small cone is cut off at the top by a plane parallel to its base. If its volume is <latex>\\frac{1}{27}</latex> of the original cone, find the height of the frustum formed.",
+    "choices": [
       "10 cm",
       "20 cm",
       "15 cm",
-      "5 cm"
+      "25 cm"
     ],
-    "answer": "20 cm",
-    "reason": "Step 1: Let the height of the original cone be H = 30 cm and the small cone be h. Let their radii be R and r. Step 2: By similar triangles, r/R = h/H. Step 3: Given Volume of small cone = (1/27) × Volume of original cone. Step 4: (1/3)πr²h = (1/27) × (1/3)πR²H => (r/R)² × (h/H) = 1/27. Step 5: Substitute (r/R) = (h/H) => (h/H)³ = (1/3)³ => h/H = 1/3. Step 6: h = 30/3 = 10 cm. Step 7: Height of the section above the base = H - h = 30 - 10 = 20 cm.",
+    "answer": 1,
+    "chapter": "Mensuration",
+    "category": "Similar Solids",
     "complexity": "hard",
-    "chapter": "Mensuration"
+    "reason": "Step 1: Ratio of volumes <latex>V_1/V_2 = (h/H)^3</latex>. Step 2: <latex>1/27 = (h/30)^3 \\Rightarrow 1/3 = h/30 \\Rightarrow h = 10</latex> cm. Step 3: Height of frustum = <latex>30 - 10 = 20</latex> cm."
   },
   {
-    "type": "MCQ",
-    "question": "A hemispherical bowl of internal radius 9 cm is full of liquid. This liquid is to be filled into cylindrical bottles of diameter 3 cm and height 4 cm each. How many bottles are needed to empty the bowl?",
-    "options": [
+    "question": "A hemispherical bowl of internal radius 9 cm is full of liquid. The liquid is filled into cylindrical bottles of diameter 3 cm and height 4 cm. How many bottles are required?",
+    "choices": [
       "27",
       "54",
       "81",
-      "36"
+      "108"
     ],
-    "answer": "54",
-    "reason": "Step 1: Volume of hemispherical bowl Vb = (2/3)πr³ = (2/3)π(9)³ = (2/3)π × 729 = 486π cm³. Step 2: Radius of bottle r = 3/2 = 1.5 cm and height h = 4 cm. Step 3: Volume of one cylindrical bottle Vc = πr²h = π(1.5)²(4) = π(2.25)(4) = 9π cm³. Step 4: Number of bottles = Vb / Vc = 486π / 9π = 54.",
+    "answer": 1,
+    "chapter": "Mensuration",
+    "category": "Volume Conversion",
     "complexity": "hard",
-    "chapter": "Mensuration"
+    "reason": "Step 1: Volume of bowl = <latex>\\frac{2}{3}\\pi(9)^3 = 486\\pi</latex>. Step 2: Volume of one bottle = <latex>\\pi(1.5)^2(4) = 9\\pi</latex>. Step 3: Number of bottles = <latex>486\\pi / 9\\pi = 54</latex>."
   },
   {
-    "type": "MCQ",
-    "question": "A solid piece of iron in the form of a cuboid of dimensions 49 cm by 33 cm by 24 cm is molded to form a solid sphere. Find the radius of the sphere.",
-    "options": [
-      "21 cm",
-      "28 cm",
-      "14 cm",
-      "35 cm"
-    ],
-    "answer": "21 cm",
-    "reason": "Step 1: Volume of cuboid = L × B × H = 49 × 33 × 24 = 38808 cm³. Step 2: When molded into a sphere, Volume of sphere = Volume of cuboid. Step 3: (4/3)πr³ = 38808. Step 4: (4/3) × (22/7) × r³ = 38808 => r³ = (38808 × 21) / 88 = 441 × 21 = 21² × 21 = 21³. Step 5: r = 21 cm.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "An iron pillar has some part in the form of a right circular cylinder and the remaining in the form of a right circular cone. The radius of the base of each is 8 cm. The cylindrical part is 240 cm high and the conical part is 36 cm high. Find the weight of the pillar if 1 cm³ of iron weighs 7.8 grams.",
-    "options": [
-      "395.37 kg",
-      "400.12 kg",
-      "385.25 kg",
-      "412.48 kg"
-    ],
-    "answer": "395.37 kg",
-    "reason": "Step 1: Volume of cylindrical part V1 = πr²h1 = π(8)²(240) = 15360π cm³. Step 2: Volume of conical part V2 = (1/3)πr²h2 = (1/3)π(8)²(36) = 12 × 64π = 768π cm³. Step 3: Total Volume V = 15360π + 768π = 16128π cm³. Step 4: V = 16128 × (22/7) = 2304 × 22 = 50688 cm³. Step 5: Total weight = 50688 × 7.8 = 395366.4 grams. Step 6: Weight in kg = 395.3664 ≈ 395.37 kg.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "A vessel is in the form of an inverted cone. Its height is 8 cm and the radius of its top, which is open, is 5 cm. It is filled with water up to the brim. When lead shots, each of which is a sphere of radius 0.5 cm, are dropped into the vessel, one-fourth of the water flows out. Find the number of lead shots dropped in the vessel.",
-    "options": [
-      "50",
-      "100",
-      "150",
-      "200"
-    ],
-    "answer": "100",
-    "reason": "Step 1: Volume of cone Vc = (1/3)πR²H = (1/3)π(5)²(8) = (200π)/3 cm³. Step 2: Volume of water that flows out = (1/4)Vc = (1/4) × (200π/3) = (50π)/3 cm³. Step 3: Volume of one lead shot vs = (4/3)πr³ = (4/3)π(0.5)³ = (4/3)π(0.125) = (0.5π)/3 = (π/6) cm³. Step 4: Number of lead shots = (Volume of water out) / (Volume of one lead shot) = (50π/3) / (π/6) = (50/3) × 6 = 100.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "The ratio of the volumes of two spheres is 125 : 64. Find the ratio of their surface areas.",
-    "options": [
-      "5 : 4",
-      "25 : 16",
-      "125 : 64",
-      "25 : 8"
-    ],
-    "answer": "25 : 16",
-    "reason": "Step 1: Ratio of volumes V1/V2 = (r1/r2)³ = 125/64. Step 2: r1/r2 = ∛(125/64) = 5/4. Step 3: Ratio of surface areas S1/S2 = (r1/r2)² = (5/4)² = 25/16.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "A solid consists of a cylinder surmounted by a hemisphere at one end. The height of the cylindrical portion is 8 cm and its radius is 3 cm. Calculate the total surface area of the solid in terms of π.",
-    "options": [
-      "66π cm²",
-      "75π cm²",
-      "57π cm²",
-      "48π cm²"
-    ],
-    "answer": "75π cm²",
-    "reason": "Step 1: Surfaces are: Curved Surface Area (CSA) of hemisphere, CSA of cylinder, and base area of cylinder. Step 2: CSA of hemisphere = 2πr² = 2π(3)² = 18π cm². Step 3: CSA of cylinder = 2πrh = 2π(3)(8) = 48π cm². Step 4: Area of base of cylinder = πr² = π(3)² = 9π cm². Step 5: Total surface area = 18π + 48π + 9π = 75π cm².",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "How many cubic metres of soil must be taken out to make a well 20 metres deep and 2 metres in diameter? (Take π = 3.14)",
-    "options": [
-      "62.8 m³",
-      "125.6 m³",
-      "31.4 m³",
-      "251.2 m³"
-    ],
-    "answer": "62.8 m³",
-    "reason": "Step 1: The well is a cylinder with height h = 20 m and diameter d = 2 m. Step 2: Radius r = d/2 = 1 m. Step 3: Volume V = πr²h. Step 4: V = 3.14 × (1)² × 20 = 62.8 m³.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "A cone and a hemisphere have equal bases and equal volumes. Find the ratio of their heights.",
-    "options": [
-      "1 : 2",
-      "2 : 1",
-      "1 : 1",
-      "4 : 1"
-    ],
-    "answer": "2 : 1",
-    "reason": "Step 1: Equal bases implies radius r is same for both. Step 2: Vol. of cone = (1/3)πr²h. Vol. of hemisphere = (2/3)πr³. Step 3: Given volumes are equal, so (1/3)πr²h = (2/3)πr³. Step 4: h = 2r. Step 5: Height of hemisphere is its radius r. Step 6: Ratio of heights = h : r = 2r : r = 2 : 1.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "A cylindrical container of radius 6 cm and height 15 cm is full of ice-cream. The ice-cream is to be filled into cones of height 12 cm and radius 3 cm, having a hemispherical shape on the top. Find the number of such cones which can be filled with ice-cream.",
-    "options": [
-      "10",
-      "12",
-      "15",
-      "20"
-    ],
-    "answer": "10",
-    "reason": "Step 1: Volume of cylinder V1 = π(6)²(15) = 540π cm³. Step 2: Volume of one ice-cream cone V2 = Vol. of cone + Vol. of hemisphere. Step 3: V2 = (1/3)π(3)²(12) + (2/3)π(3)³ = 36π + 18π = 54π cm³. Step 4: Number of cones = V1 / V2 = 540π / 54π = 10.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "A sphere of radius 3 cm is dropped into a cylindrical vessel partly filled with water. The radius of the vessel is 6 cm. If the sphere is completely submerged, find the rise in water level.",
-    "options": [
-      "0.5 cm",
-      "1 cm",
-      "1.5 cm",
-      "2 cm"
-    ],
-    "answer": "1 cm",
-    "reason": "Step 1: Volume of sphere Vs = (4/3)π(3)³ = 36π cm³. Step 2: Volume of water displaced in the cylinder = Volume of sphere. Step 3: Let the rise in water level be h. Volume displaced = π(6)²h = 36πh. Step 4: 36πh = 36π => h = 1 cm.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "Find the slant height of a cone if its radius is 7 cm and its vertical height is 24 cm.",
-    "options": [
-      "25 cm",
-      "31 cm",
-      "26 cm",
-      "30 cm"
-    ],
-    "answer": "25 cm",
-    "reason": "Step 1: Use the relation l² = r² + h². Step 2: l² = 7² + 24² = 49 + 576 = 625. Step 3: l = √625 = 25 cm.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "The radii of two cylinders are in the ratio 2 : 3 and their heights are in the ratio 5 : 3. Find the ratio of their volumes.",
-    "options": [
-      "10 : 9",
-      "20 : 27",
-      "4 : 9",
-      "8 : 27"
-    ],
-    "answer": "20 : 27",
-    "reason": "Step 1: Ratio of radii r1/r2 = 2/3. Ratio of heights h1/h2 = 5/3. Step 2: Ratio of volumes V1/V2 = (πr1²h1) / (πr2²h2) = (r1/r2)² × (h1/h2). Step 3: V1/V2 = (2/3)² × (5/3) = (4/9) × (5/3) = 20/27.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "The surface area of a sphere is 616 cm². Find its radius.",
-    "options": [
-      "14 cm",
-      "7 cm",
-      "3.5 cm",
-      "10.5 cm"
-    ],
-    "answer": "7 cm",
-    "reason": "Step 1: Surface area S = 4πr² = 616. Step 2: 4 × (22/7) × r² = 616. Step 3: r² = (616 × 7) / (4 × 22) = 616 × 7 / 88 = 7 × 7 = 49. Step 4: r = 7 cm.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "A toy is in the form of a cone mounted on a hemisphere of common radius 7 cm. The total height of the toy is 31 cm. Find its total surface area.",
-    "options": [
-      "770 cm²",
-      "858 cm²",
-      "616 cm²",
-      "924 cm²"
-    ],
-    "answer": "858 cm²",
-    "reason": "Step 1: Radius r = 7 cm. Total height = 31 cm. Step 2: Height of cone hc = 31 - 7 = 24 cm. Step 3: Slant height of cone l = √hc² + r² = √24² + 7² = √576 + 49 = √625 = 25 cm. Step 4: Total Surface Area = CSA of cone + CSA of hemisphere. Step 5: TSA = πrl + 2πr² = πr(l + 2r) = (22/7) × 7 × (25 + 14) = 22 × 39 = 858 cm².",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "Find the weight of a solid sphere of radius 7 cm if the density of the material is 5 g/cm³.",
-    "options": [
-      "7.18 kg",
-      "6.84 kg",
-      "7.52 kg",
-      "5.12 kg"
-    ],
-    "answer": "7.18 kg",
-    "reason": "Step 1: Volume of sphere V = (4/3)πr³ = (4/3) × (22/7) × 7³ = (4/3) × 22 × 49 = 1437.33 cm³. Step 2: Weight = Volume × Density = 1437.33 × 5 = 7186.65 grams. Step 3: In kg = 7.186 ≈ 7.18 kg.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "A solid metal cylinder of radius 14 cm and height 21 cm is melted and recast into small spheres of radius 3.5 cm each. How many spheres can be formed?",
-    "options": [
-      "72",
+    "question": "A solid metal cylinder of radius 14 cm and height 21 cm is melted and recast into spheres of radius 3.5 cm. Find the number of spheres.",
+    "choices": [
       "48",
+      "72",
       "96",
       "144"
     ],
-    "answer": "72",
-    "reason": "Step 1: Vol. of cylinder Vc = πR²H = π(14)²(21) = 4116π cm³. Step 2: Vol. of one sphere vs = (4/3)πr³ = (4/3)π(3.5)³ = (4/3)π(42.875) = 57.166π cm³. Step 3: Number of spheres = Vc / vs = (14 × 14 × 21) / (4/3 × 3.5 × 3.5 × 3.5) = (196 × 21 × 3) / (4 × 42.875) = 12348 / 171.5 = 72.",
+    "answer": 1,
+    "chapter": "Mensuration",
+    "category": "Recasting Solids",
     "complexity": "hard",
-    "chapter": "Mensuration"
+    "reason": "Step 1: Cylinder Vol = <latex>\\pi(14)^2(21) = 4116\\pi</latex>. Step 2: Sphere Vol = <latex>\\frac{4}{3}\\pi(3.5)^3 = \\frac{4}{3}\\pi(42.875) = 57.166\\pi</latex>. Step 3: <latex>4116 / 57.166 = 72</latex>."
   },
   {
-    "type": "MCQ",
-    "question": "A hemispherical tank full of water is emptied by a pipe at the rate of 3 4/7 litres per second. How much time will it take to empty half the tank, if it is 3m in diameter?",
-    "options": [
-      "15 min 40 sec",
-      "16 min 30 sec",
-      "14 min 20 sec",
-      "12 min 50 sec"
-    ],
-    "answer": "16 min 30 sec",
-    "reason": "Step 1: Radius r = 1.5 m. Volume V = (2/3)πr³ = (2/3)(22/7)(1.5)³ = 7.0714 m³ = 7071.4 litres. Step 2: Half the tank = 3535.7 litres. Step 3: Rate = 25/7 litres/sec. Step 4: Time = 3535.7 / (25/7) = (3535.7 × 7) / 25 = 990 seconds. Step 5: 990/60 = 16.5 minutes = 16 min 30 sec.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "Find the volume of the largest right circular cone that can be fitted in a cube whose edge is 14 cm.",
-    "options": [
-      "718.67 cm³",
-      "2156 cm³",
-      "359.33 cm³",
-      "1078 cm³"
-    ],
-    "answer": "718.67 cm³",
-    "reason": "Step 1: For the largest cone in a cube of side a, diameter d = a and height h = a. Step 2: Radius r = a/2 = 7 cm, height h = 14 cm. Step 3: Volume = (1/3)πr²h = (1/3) × (22/7) × 7² × 14 = (1/3) × 154 × 14 = 2156 / 3 = 718.67 cm³.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "A cylindrical tube, open at both ends, is made of metal 2 cm thick. An external diameter is 24 cm and its length is 84 cm. Find the volume of metal used.",
-    "options": [
-      "11616 cm³",
-      "5808 cm³",
-      "12320 cm³",
-      "10560 cm³"
-    ],
-    "answer": "11616 cm³",
-    "reason": "Step 1: External radius R = 12 cm. Thickness = 2 cm, so internal radius r = 10 cm. Length h = 84 cm. Step 2: Volume of metal = π(R² - r²)h. Step 3: V = (22/7) × (12² - 10²) × 84 = 22 × (144 - 100) × 12 = 22 × 44 × 12 = 11616 cm³.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "Water flows through a cylindrical pipe of internal diameter 7 cm at 5 m/s. Calculate the volume of water discharged in one minute.",
-    "options": [
-      "11.55 m³",
-      "1.155 m³",
-      "115.5 m³",
-      "0.1155 m³"
-    ],
-    "answer": "1.155 m³",
-    "reason": "Step 1: Radius of pipe r = 3.5 cm = 0.035 m. Step 2: Speed = 5 m/s. Time = 60 s. Length of water column l = 5 × 60 = 300 m. Step 3: Volume V = πr²l = (22/7) × (0.035)² × 300 = (22/7) × 0.001225 × 300 = 22 × 0.000175 × 300 = 1.155 m³.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "A vessel is in the form of a hollow hemisphere. The internal and external diameters are 42 cm and 45.5 cm respectively. Find the cost of painting the vessel all over at 10 paise per cm².",
-    "options": [
-      "₹ 641.02",
-      "₹ 724.30",
-      "₹ 418.00",
-      "₹ 589.50"
-    ],
-    "answer": "₹ 641.02",
-    "reason": "Step 1: External radius R = 22.75 cm, Internal radius r = 21 cm. Step 2: Surfaces to paint: External CSA + Internal CSA + Base Ring Area. Step 3: Total Area = 2πR² + 2πr² + π(R² - r²) = π(3R² + r²). Step 4: Area = (22/7) × [3(22.75)² + (21)²] = (22/7) × [1552.6875 + 441] = (22/7) × 1993.6875 = 6265.875 cm². Step 5: Cost = 6265.875 × 0.10 = ₹ 626.58. Recalculation Check: π(2R² + 2r² + R² - r²) = π(3R² + r²). Area is approx 6410 cm². Corrected answer approx ₹ 641.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "Find the volume of a sphere whose surface area is 154 cm².",
-    "options": [
-      "179.67 cm³",
-      "154 cm³",
-      "215.33 cm³",
-      "115.5 cm³"
-    ],
-    "answer": "179.67 cm³",
-    "reason": "Step 1: 4πr² = 154 => 4 × (22/7) × r² = 154. Step 2: r² = (154 × 7) / 88 = 12.25 => r = 3.5 cm. Step 3: Vol. V = (4/3)πr³ = (4/3) × (22/7) × (3.5)³ = (4/3) × (22/7) × 42.875 = 179.67 cm³.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "A tent is in the form of a cylinder surmounted by a cone. The diameter of the cylinder is 24m and its height is 11m. The total height of the tent is 16m. Find the area of the canvas used.",
-    "options": [
-      "1320 m²",
-      "2456 m²",
-      "1232 m²",
-      "1155 m²"
-    ],
-    "answer": "1320 m²",
-    "reason": "Step 1: Radius r = 12 m. Cylinder height h1 = 11 m. Cone height h2 = 16 - 11 = 5 m. Step 2: Slant height of cone l = √5² + 12² = 13 m. Step 3: Area of canvas = CSA of cylinder + CSA of cone. Step 4: Area = 2πrh1 + πrl = πr(2h1 + l) = (22/7) × 12 × (22 + 13) = (22/7) × 12 × 35 = 22 × 12 × 5 = 1320 m².",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "The radius and height of a right circular cone are in the ratio 5 : 12. If its volume is 2512 cm³, find its slant height. (Take π = 3.14)",
-    "options": [
-      "26 cm",
-      "13 cm",
-      "24 cm",
-      "20 cm"
-    ],
-    "answer": "26 cm",
-    "reason": "Step 1: Let r = 5x, h = 12x. Step 2: Vol V = (1/3)πr²h = (1/3) × 3.14 × (5x)² × 12x = 3.14 × 25x² × 4x = 314x³ = 2512. Step 3: x³ = 8 => x = 2. Step 4: r = 10, h = 24. Step 5: l = √10² + 24² = √100 + 576 = √676 = 26 cm.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "If the volume of a sphere is numerically equal to its surface area, find its radius.",
-    "options": [
-      "1 unit",
-      "2 units",
-      "3 units",
-      "4 units"
-    ],
-    "answer": "3 units",
-    "reason": "Step 1: (4/3)πr³ = 4πr². Step 2: Divide both sides by 4πr² (r ≠ 0). Step 3: r/3 = 1 => r = 3 units.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "A model of a solid consisting of a cylinder surmounted by a hemisphere at one end is drawn to a scale of 1 : 200. If the volume of the model is 100 cm³, find the volume of the actual solid in litres.",
-    "options": [
-      "800,000 litres",
-      "80,000 litres",
-      "800 litres",
-      "80,000,000 litres"
-    ],
-    "answer": "800,000 litres",
-    "reason": "Step 1: Scale factor k = 200. Step 2: Actual volume = Model volume × k³ = 100 × (200)³ = 100 × 8,000,000 = 800,000,000 cm³. Step 3: 1 litre = 1000 cm³. Actual volume in litres = 800,000,000 / 1000 = 800,000 litres.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "Find the total surface area of a hollow hemisphere of external radius R and internal radius r.",
-    "options": [
-      "2π(R² + r²)",
-      "π(3R² + r²)",
-      "3π(R² + r²)",
-      "4π(R² - r²)"
-    ],
-    "answer": "π(3R² + r²)",
-    "reason": "Step 1: Total Surface Area = External CSA + Internal CSA + Area of the circular ring. Step 2: TSA = 2πR² + 2πr² + π(R² - r²). Step 3: TSA = 2πR² + πR² + 2πr² - πr² = 3πR² + πr² = π(3R² + r²).",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "A solid consists of a cylinder with a cone at one end and a hemisphere at the other end. The radius of the three is 7 cm. The height of the cylinder is 12 cm and the slant height of the cone is 25 cm. Find the total volume of the solid.",
-    "options": [
-      "2512.67 cm³",
-      "3439.33 cm³",
-      "4125.12 cm³",
-      "2874.67 cm³"
-    ],
-    "answer": "3439.33 cm³",
-    "reason": "Step 1: Vol. of Cylinder V1 = πr²h = (22/7) × 7² × 12 = 1848 cm³. Step 2: Height of cone hc = √l² - r² = √25² - 7² = √625 - 49 = √576 = 24 cm. Step 3: Vol. of Cone V2 = (1/3)πr²hc = (1/3) × (22/7) × 7² × 24 = 154 × 8 = 1232 cm³. Step 4: Vol. of Hemisphere V3 = (2/3)πr³ = (2/3) × (22/7) × 7³ = (2/3) × 154 × 7 = 2156/3 = 718.67 cm³. Step 5: Total Vol = 1848 + 1232 + 718.67 = 3080 + 718.67 = 3798.67. Let me re-verify Step 2-4: V1=1848, V2=1232, V3=718.67. Sum = 3798.67. Choice calculation check required.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "A solid metal sphere of radius 6 cm is melted and recast into a solid cone of base radius 9 cm. Find the height of the cone.",
-    "options": [
-      "8 cm",
-      "10.67 cm",
-      "12 cm",
-      "9 cm"
-    ],
-    "answer": "10.67 cm",
-    "reason": "Step 1: Vol. of sphere V1 = (4/3)π(6)³ = (4/3)π × 216 = 288π cm³. Step 2: Vol. of cone V2 = (1/3)π(9)²h = 27πh. Step 3: 27πh = 288π => h = 288/27 = 32/3 = 10.67 cm.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "A solid metallic right circular cone 20 cm high with a vertical angle of 60° is cut into two parts at the middle of its height by a plane parallel to its base. If the frustum so obtained is drawn into a wire of diameter 1/16 cm, find the length of the wire.",
-    "options": [
-      "7964.44 m",
-      "6542.12 m",
-      "5124.50 m",
-      "4480 m"
-    ],
-    "answer": "7964.44 m",
-    "reason": "Step 1: Vertical angle 60° means semi-vertical angle is 30°. Step 2: H = 20, R = H tan 30° = 20/√3. h = 10, r = h tan 30° = 10/√3. Step 3: Vol of frustum = (1/3)π(R² + r² + Rr)(H-h) = (1/3)π(400/3 + 100/3 + 200/3) × 10 = (1/3)π(700/3) × 10 = 7000π/9 cm³. Step 4: Wire is cylinder with r_w = 1/32 cm. π(1/32)²L = 7000π/9. Step 5: L/1024 = 7000/9 => L = (7000 × 1024) / 9 = 7168000 / 9 = 796444.44 cm = 7964.44 m.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "Find the length of a wire of diameter 2 mm that can be drawn from a solid sphere of radius 9 cm.",
-    "options": [
-      "243 m",
-      "972 m",
-      "121.5 m",
-      "486 m"
-    ],
-    "answer": "972 m",
-    "reason": "Step 1: Vol. of sphere V1 = (4/3)π(9)³ = 972π cm³. Step 2: Radius of wire r = 1 mm = 0.1 cm. Step 3: Wire is a cylinder, Vol V2 = π(0.1)²L = 0.01πL. Step 4: 0.01πL = 972π => L = 972 / 0.01 = 97200 cm = 972 m.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "The total surface area of a solid hemisphere is 462 cm². Find its volume.",
-    "options": [
-      "718.67 cm³",
-      "462 cm³",
-      "616 cm³",
-      "2156 cm³"
-    ],
-    "answer": "718.67 cm³",
-    "reason": "Step 1: TSA of hemisphere = 3πr² = 462. Step 2: r² = 462 / (3 × 22/7) = 462 × 7 / 66 = 7 × 7 = 49 => r = 7 cm. Step 3: Vol V = (2/3)πr³ = (2/3) × (22/7) × 7³ = (2/3) × 22 × 49 = 2156 / 3 = 718.67 cm³.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "Water flows out through a circular pipe whose internal diameter is 2 cm, at the rate of 6 metres per second into a cylindrical tank, the radius of whose base is 60 cm. By how much will the level of water rise in 30 minutes?",
-    "options": [
+    "question": "Water flows through a cylindrical pipe of internal diameter 2 cm at 6 m/s into a cylindrical tank of radius 60 cm. Find the rise in water level in 30 minutes.",
+    "choices": [
+      "2 m",
       "2.5 m",
       "3 m",
-      "3.5 m",
-      "2 m"
+      "3.5 m"
     ],
-    "answer": "3 m",
-    "reason": "Step 1: Radius of pipe r1 = 1 cm. Radius of tank r2 = 60 cm. Step 2: Rate = 6 m/s = 600 cm/s. Time = 30 min = 1800 s. Step 3: Vol. of water in 30 min = π(r1)² × rate × time = π(1)² × 600 × 1800 = 1080000π cm³. Step 4: Let rise in tank be h. Vol = π(r2)²h = π(60)²h = 3600πh. Step 5: 3600πh = 1080000π => h = 1080000/3600 = 300 cm = 3 m.",
+    "answer": 2,
+    "chapter": "Mensuration",
+    "category": "Flow of Liquid",
     "complexity": "hard",
-    "chapter": "Mensuration"
+    "reason": "Step 1: Vol per sec = <latex>\\pi(1)^2(600) = 600\\pi</latex> cm^3. Step 2: Total Vol in 1800s = <latex>600\\pi \\times 1800 = 1,080,000\\pi</latex>. Step 3: Rise <latex>h = \\frac{1,080,000\\pi}{\\pi(60)^2} = 300</latex> cm = 3 m."
   },
   {
-    "type": "MCQ",
-    "question": "A cone and a cylinder have the same radius of the base and same height. If the ratio of the CSA of the cylinder and cone is 8 : 5, find the ratio of their radius and height.",
-    "options": [
-      "3 : 4",
-      "4 : 3",
-      "1 : 2",
-      "2 : 3"
+    "question": "A solid iron pillar consists of a cylinder of height 220 cm and base diameter 24 cm, surmounted by another cylinder of height 60 cm and radius 8 cm. Find the mass of the pillar if 1 cm^3 of iron has 8g mass.",
+    "choices": [
+      "892.26 kg",
+      "111.53 kg",
+      "902.40 kg",
+      "800.00 kg"
     ],
-    "answer": "3 : 4",
-    "reason": "Step 1: CSA of cylinder S1 = 2πrh. CSA of cone S2 = πrl. Step 2: S1/S2 = 2πrh / πrl = 2h/l = 8/5 => h/l = 4/5. Step 3: h²/l² = 16/25. Since l² = r² + h², h²/(r²+h²) = 16/25. Step 4: 25h² = 16r² + 16h² => 9h² = 16r² => r²/h² = 9/16 => r/h = 3/4.",
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Combination of Solids",
     "complexity": "hard",
-    "chapter": "Mensuration"
+    "reason": "Step 1: Vol 1 = <latex>\\pi(12)^2(220) = 31680\\pi</latex>. Step 2: Vol 2 = <latex>\\pi(8)^2(60) = 3840\\pi</latex>. Step 3: Total Vol = <latex>35520\\pi \\approx 111532.8</latex> cm^3. Step 4: Mass = <latex>111532.8 \\times 8 / 1000 = 892.26</latex> kg."
   },
   {
-    "type": "MCQ",
-    "question": "A solid right circular cylinder has radius 7 cm and height 20 cm. A transverse cut is made at the center to produce two smaller cylinders. What is the percentage increase in total surface area?",
-    "options": [
-      "15.2%",
-      "12.5%",
-      "25%",
-      "35%"
+    "question": "The difference between the outer and inner curved surface areas of a hollow cylinder 14 cm long is 88 cm^2. If the volume of metal used is 176 cm^3, find the inner radius.",
+    "choices": [
+      "1.5 cm",
+      "2 cm",
+      "2.5 cm",
+      "3 cm"
     ],
-    "answer": "12.5%",
-    "reason": "Step 1: Original TSA = 2πr(h+r) = 2π(7)(20+7) = 14π(27) = 378π cm². Step 2: After cutting, two new circular faces are created. Each has area πr² = π(7)² = 49π. Total increase in area = 2 × 49π = 98π. Step 3: Percentage increase = (98π / 378π) × 100 = (49/189) × 100 ≈ 25.9%. Wait, let me re-verify: Original = 2πrh + 2πr² = 2π(7)(20) + 2π(49) = 280π + 98π = 378π. Increase = 2 faces = 98π. 98/378 = 1/3.85 ≈ 25.9%. Let me check the options. 12.5% matches if area only includes circular parts. Usually, it refers to total area. Let's assume h was smaller.",
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Hollow Solids",
     "complexity": "hard",
-    "chapter": "Mensuration"
+    "reason": "Step 1: <latex>2\\pi H(R-r) = 88 \\Rightarrow R-r = 1</latex>. Step 2: <latex>\\pi H(R^2-r^2) = 176 \\Rightarrow R^2-r^2 = 4</latex>. Step 3: <latex>(R-r)(R+r) = 4 \\Rightarrow R+r = 4</latex>. Step 4: Solving <latex>R-r=1, R+r=4</latex> gives <latex>r = 1.5</latex> cm."
   },
   {
-    "type": "MCQ",
-    "question": "The largest possible sphere is carved out of a wooden cube of side 7 cm. Find the volume of wood left.",
-    "options": [
-      "163.33 cm³",
-      "179.67 cm³",
-      "154 cm³",
-      "343 cm³"
-    ],
-    "answer": "163.33 cm³",
-    "reason": "Step 1: Volume of cube = 7³ = 343 cm³. Step 2: Largest sphere radius r = side/2 = 3.5 cm. Step 3: Volume of sphere = (4/3)πr³ = (4/3) × (22/7) × (3.5)³ = 179.67 cm³. Step 4: Wood left = 343 - 179.67 = 163.33 cm³.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "A cone, a cylinder and a hemisphere stand on equal bases and have the same height. Find the ratio of their volumes.",
-    "options": [
-      "1 : 3 : 2",
+    "question": "A cone, a hemisphere and a cylinder stand on equal bases and have the same height. Find the ratio of their volumes.",
+    "choices": [
       "1 : 2 : 3",
-      "2 : 3 : 1",
-      "3 : 2 : 1"
+      "3 : 2 : 1",
+      "1 : 3 : 2",
+      "2 : 3 : 1"
     ],
-    "answer": "1 : 3 : 2",
-    "reason": "Step 1: Equal bases and same height implies height h = radius r (for the hemisphere to have height r). Step 2: V_cone = (1/3)πr²h = (1/3)πr³. Step 3: V_cylinder = πr²h = πr³. Step 4: V_hemisphere = (2/3)πr³. Step 5: Ratio = (1/3)πr³ : πr³ : (2/3)πr³ = 1/3 : 1 : 2/3 = 1 : 3 : 2.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Relational Analysis",
+    "complexity": "medium",
+    "reason": "Step 1: Equal bases and height means <latex>h=r</latex>. Step 2: Vol ratio = <latex>\\frac{1}{3}\\pi r^2(r) : \\frac{2}{3}\\pi r^3 : \\pi r^2(r)</latex>. Step 3: <latex>1/3 : 2/3 : 1 = 1 : 2 : 3</latex>."
   },
   {
-    "type": "MCQ",
-    "question": "Find the length of the canvas 2 m wide required to make a conical tent 12 m high and 14 m in diameter of base.",
-    "options": [
-      "143 m",
-      "154 m",
-      "286 m",
-      "132 m"
-    ],
-    "answer": "143 m",
-    "reason": "Step 1: h = 12 m, d = 14 m => r = 7 m. Step 2: Slant height l = √12² + 7² = √144 + 49 = √193 ≈ 13.89 m. For calculation convenience, assume l=13. Step 3: CSA = πrl = (22/7) × 7 × 13 = 286 m². Step 4: Length of canvas = Area / width = 286 / 2 = 143 m.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "A right triangle with sides 3 cm and 4 cm is revolved around its hypotenuse. Find the volume of the double cone so formed.",
-    "options": [
-      "30.14 cm³",
-      "12.56 cm³",
-      "18.12 cm³",
-      "24.64 cm³"
-    ],
-    "answer": "30.14 cm³",
-    "reason": "Step 1: Hypotenuse c = √3² + 4² = 5 cm. Step 2: Height of triangle h_t = (3 × 4) / 5 = 2.4 cm (this is the radius r of the cones). Step 3: The hypotenuse is split into two heights h1 and h2 by the altitude such that h1 + h2 = 5. Step 4: Vol = (1/3)πr²h1 + (1/3)πr²h2 = (1/3)πr²(h1+h2) = (1/3)π(2.4)²(5) = (1/3)π(5.76)(5) = 9.6π ≈ 30.14 cm³.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
     "question": "A sphere and a cube have the same surface area. Find the ratio of their volumes.",
-    "options": [
-      "√π : √6",
-      "√6 : √π",
-      "6 : π",
-      "π : 6"
+    "choices": [
+      "<latex>\\sqrt{6} : \\sqrt{\\pi}</latex>",
+      "<latex>\\sqrt{\\pi} : \\sqrt{6}</latex>",
+      "<latex>6 : \\pi</latex>",
+      "<latex>\\pi : 6</latex>"
     ],
-    "answer": "√6 : √π",
-    "reason": "Step 1: 4πr² = 6a² => r²/a² = 6 / (4π) = 3 / (2π). Step 2: r/a = √(3/2π). Step 3: V_sphere / V_cube = [(4/3)πr³] / a³ = (4/3)π (r/a)³. Step 4: (4/3)π [√(3/2π)]³ = (4/3)π (3/2π) √(3/2π) = 2 √(3/2π) = √(12/2π) = √(6/π). Step 5: Ratio is √6 : √π.",
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Conceptual Calculation",
     "complexity": "hard",
-    "chapter": "Mensuration"
+    "reason": "Step 1: <latex>4\\pi r^2 = 6a^2 \\Rightarrow r/a = \\sqrt{6/4\\pi}</latex>. Step 2: Ratio = <latex>\\frac{4}{3}\\pi r^3 / a^3 = \\frac{4}{3}\\pi (\\sqrt{6/4\\pi})^3</latex>. Step 3: Simplifying leads to <latex>\\sqrt{6} : \\sqrt{\\pi}</latex>."
   },
   {
-    "type": "MCQ",
-    "question": "A solid consists of a cylinder surmounted by a cone. The total height of the solid is 13 cm and the height of the cone is 3 cm. If the radius is 5 cm, find the total surface area.",
-    "options": [
-      "130π cm²",
-      "155π cm²",
-      "125π cm²",
-      "140π cm²"
+    "question": "How many spherical lead shots of diameter 4 cm can be made from a rectangular solid of lead dimensions 66 cm, 42 cm, 21 cm?",
+    "choices": [
+      "1500",
+      "1512",
+      "1515",
+      "1520"
     ],
-    "answer": "155π cm²",
-    "reason": "Step 1: Cylinder height H = 13 - 3 = 10 cm. Radius r = 5 cm. Slant height of cone l = √3² + 5² = √34 cm. Step 2: CSA of cylinder = 2πrH = 2π(5)(10) = 100π. Step 3: CSA of cone = πrl = π(5)√34 ≈ 29.15π. Step 4: Base of cylinder = πr² = 25π. Step 5: TSA = 100π + 29.15π + 25π = 154.15π. Approx 155π.",
+    "answer": 1,
+    "chapter": "Mensuration",
+    "category": "Volume Division",
     "complexity": "hard",
-    "chapter": "Mensuration"
+    "reason": "Step 1: Vol of block = <latex>66 \\times 42 \\times 21 = 58212</latex>. Step 2: Vol of one shot = <latex>\\frac{4}{3} \\times \\frac{22}{7} \\times 2^3 = 33.52</latex>. Step 3: <latex>58212 / 33.52 = 1512.3</latex>. Answer 1512."
   },
   {
-    "type": "MCQ",
-    "question": "A hemispherical bowl is made of steel 0.5 cm thick. The inside radius of the bowl is 4 cm. Find the volume of steel used in making the bowl.",
-    "options": [
-      "56.83 cm³",
-      "19.12 cm³",
-      "34.12 cm³",
-      "28.42 cm³"
+    "question": "A circus tent is cylindrical to a height of 3 m and conical above it. If the diameter is 105 m and the slant height of the conical part is 53 m, find the total canvas used.",
+    "choices": [
+      "8735 m^2",
+      "9735 m^2",
+      "10735 m^2",
+      "11735 m^2"
     ],
-    "answer": "56.83 cm³",
-    "reason": "Step 1: Inner radius r = 4 cm. Thickness = 0.5 cm, so outer radius R = 4.5 cm. Step 2: Vol of steel = (2/3)π(R³ - r³). Step 3: V = (2/3) × (22/7) × (4.5³ - 4³) = (44/21) × (91.125 - 64) = (44/21) × 27.125 = 56.83 cm³.",
+    "answer": 1,
+    "chapter": "Mensuration",
+    "category": "Combination Surface Area",
     "complexity": "hard",
-    "chapter": "Mensuration"
+    "reason": "Step 1: CSA Cylinder = <latex>2\\pi(52.5)(3) = 315\\pi</latex>. Step 2: CSA Cone = <latex>\\pi(52.5)(53) = 2782.5\\pi</latex>. Step 3: Total = <latex>3097.5\\pi = 3097.5 \\times \\frac{22}{7} = 9735</latex> m^2."
   },
   {
-    "type": "MCQ",
-    "question": "The sum of the radius of base and height of a solid right circular cylinder is 37 cm. If the total surface area of the solid cylinder is 1628 cm², find its volume.",
-    "options": [
-      "4620 cm³",
-      "2310 cm³",
-      "3140 cm³",
-      "1540 cm³"
+    "question": "A hemispherical tank of radius 1.75 m is full of water. It is connected with a pipe which empties it at 7 litres per second. How much time will it take to empty the tank?",
+    "choices": [
+      "25 mins",
+      "26 mins 40 secs",
+      "27 mins",
+      "28 mins 10 secs"
     ],
-    "answer": "4620 cm³",
-    "reason": "Step 1: r + h = 37. TSA = 2πr(h + r) = 1628. Step 2: 2 × (22/7) × r × 37 = 1628. Step 3: r = (1628 × 7) / (44 × 37) = 11396 / 1628 = 7 cm. Step 4: h = 37 - 7 = 30 cm. Step 5: Vol = πr²h = (22/7) × 7² × 30 = 154 × 30 = 4620 cm³.",
+    "answer": 1,
+    "chapter": "Mensuration",
+    "category": "Flow of Liquid",
     "complexity": "hard",
-    "chapter": "Mensuration"
+    "reason": "Step 1: Vol = <latex>\\frac{2}{3} \\times \\frac{22}{7} \\times (1.75)^3 = 11.229</latex> m^3. Step 2: 11229 litres. Step 3: Time = <latex>11229 / 7 = 1604</latex> seconds. Step 4: <latex>1604 / 60 \\approx 26.7</latex> mins."
   },
   {
-    "type": "MCQ",
-    "question": "If the number of square centimetres on the surface of a sphere is equal to the number of cubic centimetres in its volume, what is the diameter of the sphere?",
-    "options": [
+    "question": "If the radius of a cylinder is doubled and the height is halved, what is the ratio between the new volume and the original volume?",
+    "choices": [
+      "1 : 1",
+      "2 : 1",
+      "1 : 2",
+      "4 : 1"
+    ],
+    "answer": 1,
+    "chapter": "Mensuration",
+    "category": "Dimensional Change",
+    "complexity": "medium",
+    "reason": "Step 1: <latex>V_1 = \\pi r^2 h</latex>. Step 2: <latex>V_2 = \\pi (2r)^2 (h/2) = 2\\pi r^2 h</latex>. Step 3: Ratio <latex>2 : 1</latex>."
+  },
+  {
+    "question": "Find the total surface area of a solid hemisphere of diameter 14 cm.",
+    "choices": [
+      "308 cm^2",
+      "462 cm^2",
+      "616 cm^2",
+      "154 cm^2"
+    ],
+    "answer": 1,
+    "chapter": "Mensuration",
+    "category": "Surface Area",
+    "complexity": "medium",
+    "reason": "Step 1: <latex>r = 7</latex> cm. Step 2: TSA = <latex>3\\pi r^2 = 3 \\times \\frac{22}{7} \\times 49 = 462</latex> cm^2."
+  },
+  {
+    "question": "A right triangle sides 3 cm and 4 cm is revolved about its hypotenuse. Find the volume of the double cone so formed.",
+    "choices": [
+      "30.14 cm^3",
+      "31.14 cm^3",
+      "32.14 cm^3",
+      "33.14 cm^3"
+    ],
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Rotation of Figures",
+    "complexity": "hard",
+    "reason": "Step 1: Hypotenuse = 5 cm. Radius of cones = altitude to hypotenuse = <latex>3 \\times 4 / 5 = 2.4</latex> cm. Step 2: <latex>V = \\frac{1}{3}\\pi(2.4)^2(5) = 9.6\\pi \\approx 30.14</latex> cm^3."
+  },
+  {
+    "question": "The volume of a sphere is 38808 cm^3. Find its surface area.",
+    "choices": [
+      "5544 cm^2",
+      "1386 cm^2",
+      "2772 cm^2",
+      "4158 cm^2"
+    ],
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Volume to Area",
+    "complexity": "hard",
+    "reason": "Step 1: <latex>\\frac{4}{3}\\pi r^3 = 38808 \\Rightarrow r = 21</latex> cm. Step 2: <latex>S = 4\\pi(21)^2 = 4 \\times \\frac{22}{7} \\times 441 = 5544</latex> cm^2."
+  },
+  {
+    "question": "A hollow sphere of internal and external radii 2 cm and 4 cm is melted into a cone of base radius 4 cm. Find the height of the cone.",
+    "choices": [
+      "12 cm",
+      "14 cm",
+      "16 cm",
+      "18 cm"
+    ],
+    "answer": 1,
+    "chapter": "Mensuration",
+    "category": "Recasting Solids",
+    "complexity": "hard",
+    "reason": "Step 1: Vol sphere = <latex>\\frac{4}{3}\\pi(64-8) = \\frac{224}{3}\\pi</latex>. Step 2: Vol cone = <latex>\\frac{1}{3}\\pi(16)h</latex>. Step 3: <latex>16h = 224 \\Rightarrow h = 14</latex> cm."
+  },
+  {
+    "question": "Find the capacity of a conical vessel with radius 7 cm and slant height 25 cm in litres.",
+    "choices": [
+      "1.232 L",
+      "12.32 L",
+      "123.2 L",
+      "1232 L"
+    ],
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Volume Calculation",
+    "complexity": "medium",
+    "reason": "Step 1: <latex>h = \\sqrt{25^2 - 7^2} = 24</latex> cm. Step 2: <latex>V = \\frac{1}{3}\\pi(49)(24) = 1232</latex> cm^3. Step 3: 1.232 Litres."
+  },
+  {
+    "question": "If the sum of the radius and height of a solid cylinder is 37 cm and TSA is 1628 cm^2, find its volume.",
+    "choices": [
+      "4620 cm^3",
+      "5620 cm^3",
+      "3620 cm^3",
+      "6620 cm^3"
+    ],
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Relational Calculation",
+    "complexity": "hard",
+    "reason": "Step 1: <latex>2\\pi r(r+h) = 1628 \\Rightarrow 2\\pi r(37) = 1628 \\Rightarrow r = 7</latex> cm. Step 2: <latex>h = 30</latex> cm. Step 3: <latex>V = \\pi(7)^2(30) = 4620</latex> cm^3."
+  },
+  {
+    "question": "The total surface area of a solid hemisphere is 462 cm^2. Find its volume.",
+    "choices": [
+      "718.67 cm^3",
+      "518.67 cm^3",
+      "918.67 cm^3",
+      "318.67 cm^3"
+    ],
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Area to Volume",
+    "complexity": "medium",
+    "reason": "Step 1: <latex>3\\pi r^2 = 462 \\Rightarrow r = 7</latex> cm. Step 2: <latex>V = \\frac{2}{3}\\pi(7)^3 = 718.67</latex> cm^3."
+  },
+  {
+    "question": "Find the length of a wire of diameter 2 mm that can be drawn from a solid sphere of radius 9 cm.",
+    "choices": [
+      "972 m",
+      "97.2 m",
+      "972 cm",
+      "9.72 m"
+    ],
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Recasting Solids",
+    "complexity": "hard",
+    "reason": "Step 1: Vol sphere = <latex>\\frac{4}{3}\\pi(729) = 972\\pi</latex>. Step 2: Wire radius = 0.1 cm. Step 3: <latex>\\pi(0.1)^2 L = 972\\pi \\Rightarrow L = 97200</latex> cm = 972 m."
+  },
+  {
+    "question": "A model of a ship is made to a scale of 1:200. If the volume of the model is 1.2 m^3, find the actual volume in million m^3.",
+    "choices": [
+      "9.6",
+      "0.96",
+      "96",
+      "0.096"
+    ],
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Scale Modeling",
+    "complexity": "hard",
+    "reason": "Step 1: Actual Vol = <latex>1.2 \\times (200)^3 = 9,600,000</latex> m^3. Step 2: 9.6 million m^3."
+  },
+  {
+    "question": "A cylindrical tank of capacity 6160 m^3 has a base diameter of 28 m. Find its depth.",
+    "choices": [
+      "10 m",
+      "12 m",
+      "14 m",
+      "16 m"
+    ],
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Volume Calculation",
+    "complexity": "medium",
+    "reason": "Step 1: <latex>r = 14</latex> m. Step 2: <latex>\\frac{22}{7} \\times 196 \\times h = 6160 \\Rightarrow 616h = 6160 \\Rightarrow h = 10</latex> m."
+  },
+  {
+    "question": "Find the area of the metal sheet required to make a closed hollow cylinder of length 1 m and radius 7 cm.",
+    "choices": [
+      "4708 cm^2",
+      "4400 cm^2",
+      "308 cm^2",
+      "4554 cm^2"
+    ],
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Surface Area",
+    "complexity": "medium",
+    "reason": "Step 1: <latex>h = 100</latex> cm, <latex>r = 7</latex> cm. Step 2: TSA = <latex>2\\pi r(h+r) = 44 \\times 107 = 4708</latex> cm^2."
+  },
+  {
+    "question": "A solid consists of a cylinder surmounted by a cone. If the radius is 5 cm, the cylinder height is 10 cm and cone height is 12 cm, find the total volume.",
+    "choices": [
+      "550\\pi cm^3",
+      "350\\pi cm^3",
+      "250\\pi cm^3",
+      "150\\pi cm^3"
+    ],
+    "answer": 1,
+    "chapter": "Mensuration",
+    "category": "Combination of Solids",
+    "complexity": "medium",
+    "reason": "Step 1: Cylinder Vol = <latex>\\pi(25)(10) = 250\\pi</latex>. Step 2: Cone Vol = <latex>\\frac{1}{3}\\pi(25)(12) = 100\\pi</latex>. Step 3: Total = 350\\pi."
+  },
+  {
+    "question": "The radii of two cylinders are in ratio 2:3 and heights in ratio 5:3. Find volume ratio.",
+    "choices": [
+      "20 : 27",
+      "10 : 9",
+      "4 : 9",
+      "5 : 3"
+    ],
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Relational Analysis",
+    "complexity": "medium",
+    "reason": "Step 1: <latex>V_1/V_2 = (r_1/r_2)^2 \\times (h_1/h_2) = (2/3)^2 \\times (5/3) = 4/9 \\times 5/3 = 20/27</latex>."
+  },
+  {
+    "question": "A hemispherical bowl is made of steel 0.5 cm thick. Inside radius is 4 cm. Find volume of steel used.",
+    "choices": [
+      "56.83 cm^3",
+      "58.83 cm^3",
+      "60.83 cm^3",
+      "62.83 cm^3"
+    ],
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Hollow Solids",
+    "complexity": "hard",
+    "reason": "Step 1: Outer R = 4.5. Step 2: Vol = <latex>\\frac{2}{3}\\pi(4.5^3 - 4^3) = \\frac{2}{3} \\times 3.14159 \\times (91.125 - 64) = 56.83</latex>."
+  },
+  {
+    "question": "A solid metal sphere of radius 6 cm is melted and recast into a cone of base radius 9 cm. Find height.",
+    "choices": [
+      "10.67 cm",
+      "11.67 cm",
+      "12.67 cm",
+      "9.67 cm"
+    ],
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Recasting Solids",
+    "complexity": "medium",
+    "reason": "Step 1: Vol sphere = <latex>288\\pi</latex>. Step 2: Vol cone = <latex>\\frac{1}{3}\\pi(81)h = 27\\pi h</latex>. Step 3: <latex>h = 288/27 = 10.67</latex>."
+  },
+  {
+    "question": "Find the slant height of a cone of radius 5 cm and height 12 cm.",
+    "choices": [
+      "13 cm",
+      "15 cm",
+      "17 cm",
+      "19 cm"
+    ],
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Geometry Basics",
+    "complexity": "low",
+    "reason": "Step 1: <latex>l = \\sqrt{12^2 + 5^2} = \\sqrt{169} = 13</latex>."
+  },
+  {
+    "question": "If the number of square cm on surface of sphere is equal to number of cubic cm in its volume, find diameter.",
+    "choices": [
       "3 cm",
       "6 cm",
       "9 cm",
-      "4.5 cm"
+      "12 cm"
     ],
-    "answer": "6 cm",
-    "reason": "Step 1: 4πr² = (4/3)πr³. Step 2: r/3 = 1 => r = 3 cm. Step 3: Diameter = 2r = 6 cm.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
+    "answer": 1,
+    "chapter": "Mensuration",
+    "category": "Relational Calculation",
+    "complexity": "medium",
+    "reason": "Step 1: <latex>4\\pi r^2 = \\frac{4}{3}\\pi r^3 \\Rightarrow 1 = r/3 \\Rightarrow r = 3</latex>. Step 2: Diameter = 6."
   },
   {
-    "type": "MCQ",
-    "question": "Find the area of the metal sheet required to make a closed hollow cylinder of length 1 m and radius 7 cm.",
-    "options": [
-      "4708 cm²",
-      "4400 cm²",
-      "47.08 cm²",
-      "4554 cm²"
+    "question": "<b>Assertion (A):</b> If the radius of a cylinder is doubled and height is halved, the volume is doubled.\r\n<b>Reason (R):</b> Volume of a cylinder is <latex>\\pi r^2 h</latex>.",
+    "choices": [
+      "Both A and R are true and R is correct explanation of A",
+      "Both A and R are true but R is not correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
     ],
-    "answer": "4708 cm²",
-    "reason": "Step 1: h = 1 m = 100 cm, r = 7 cm. Step 2: TSA = 2πr(h+r) = 2 × (22/7) × 7 × (100 + 7) = 44 × 107 = 4708 cm².",
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Dimensional Change",
     "complexity": "hard",
-    "chapter": "Mensuration"
+    "reason": "Step 1: New Volume = <latex>\\pi(2r)^2(h/2) = \\pi(4r^2)(h/2) = 2\\pi r^2 h</latex>. Step 2: This is exactly double the original volume. R provides the formula used."
   },
   {
-    "type": "MCQ",
-    "question": "A cylindrical tank has a capacity of 6160 m³. If the diameter of its base is 28 m, find its depth.",
-    "options": [
-      "10 m",
-      "15 m",
-      "20 m",
-      "5 m"
+    "question": "<b>Assertion (A):</b> The total surface area of a solid hemisphere of radius r is <latex>3\\pi r^2</latex>.\r\n<b>Reason (R):</b> A hemisphere has a curved surface and a circular base.",
+    "choices": [
+      "Both A and R are true and R is correct explanation of A",
+      "Both A and R are true but R is not correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
     ],
-    "answer": "10 m",
-    "reason": "Step 1: d = 28 m => r = 14 m. Vol V = 6160 m³. Step 2: πr²h = 6160 => (22/7) × 14² × h = 6160. Step 3: 22 × 28 × h = 6160 => 616h = 6160 => h = 10 m.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Surface Area Properties",
+    "complexity": "medium",
+    "reason": "Step 1: TSA = Curved Area + Base Area = <latex>2\\pi r^2 + \\pi r^2 = 3\\pi r^2</latex>. R correctly identifies the components."
   },
   {
-    "type": "MCQ",
-    "question": "Two cones have their heights in the ratio 1 : 3 and radii in the ratio 3 : 1. Find the ratio of their volumes.",
-    "options": [
-      "1 : 1",
-      "3 : 1",
-      "1 : 3",
-      "9 : 1"
+    "question": "<b>Assertion (A):</b> When a solid is melted and recast, the volume remains constant but surface area may change.\r\n<b>Reason (R):</b> Surface area depends on the shape of the solid.",
+    "choices": [
+      "Both A and R are true and R is correct explanation of A",
+      "Both A and R are true but R is not correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
     ],
-    "answer": "3 : 1",
-    "reason": "Step 1: h1/h2 = 1/3, r1/r2 = 3/1. Step 2: V1/V2 = [(1/3)πr1²h1] / [(1/3)πr2²h2] = (r1/r2)² × (h1/h2). Step 3: V1/V2 = (3/1)² × (1/3) = 9/3 = 3/1.",
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Recasting Properties",
     "complexity": "hard",
-    "chapter": "Mensuration"
+    "reason": "Step 1: Conservation of mass/volume is the physical basis of recasting. Step 2: Different shapes with same volume have different surface areas (e.g., sphere vs cylinder). R explains why area changes."
   },
   {
-    "type": "MCQ",
-    "question": "A metallic sphere of radius 10.5 cm is melted and recast into small cones, each of radius 3.5 cm and height 3 cm. Find the number of cones formed.",
-    "options": [
-      "126",
-      "105",
-      "84",
-      "140"
+    "question": "<b>Assertion (A):</b> The slant height of a cone is always greater than its vertical height.\r\n<b>Reason (R):</b> In a right triangle, hypotenuse is the longest side.",
+    "choices": [
+      "Both A and R are true and R is correct explanation of A",
+      "Both A and R are true but R is not correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
     ],
-    "answer": "126",
-    "reason": "Step 1: Vol. of sphere V1 = (4/3)π(10.5)³. Step 2: Vol. of one cone V2 = (1/3)π(3.5)²(3) = π(3.5)². Step 3: Number = V1 / V2 = [(4/3)π(10.5)³] / [π(3.5)²] = (4/3) × (10.5 × 10.5 × 10.5) / (3.5 × 3.5). Step 4: (4/3) × 10.5 × (10.5/3.5) × (10.5/3.5) = (4/3) × 10.5 × 3 × 3 = 4 × 10.5 × 3 = 126.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Geometry Logic",
+    "complexity": "medium",
+    "reason": "Step 1: <latex>l^2 = r^2 + h^2</latex>. Step 2: Since <latex>r > 0</latex>, <latex>l^2 > h^2 \\Rightarrow l > h</latex>. R is the underlying geometric principle."
   },
   {
-    "type": "MCQ",
-    "question": "The area of the curved surface of a right circular cone is 12320 cm² and its base-radius is 56 cm. Find its slant height.",
-    "options": [
-      "70 cm",
-      "80 cm",
-      "90 cm",
-      "100 cm"
+    "question": "<b>Assertion (A):</b> If the radius of a sphere is tripled, its surface area becomes 9 times.\r\n<b>Reason (R):</b> Surface area of a sphere is proportional to the square of its radius.",
+    "choices": [
+      "Both A and R are true and R is correct explanation of A",
+      "Both A and R are true but R is not correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
     ],
-    "answer": "70 cm",
-    "reason": "Step 1: CSA = πrl = 12320. Step 2: (22/7) × 56 × l = 12320. Step 3: 22 × 8 × l = 12320 => 176l = 12320. Step 4: l = 12320 / 176 = 70 cm.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Dimensional Change",
+    "complexity": "medium",
+    "reason": "Step 1: <latex>S' = 4\\pi(3r)^2 = 9(4\\pi r^2)</latex>. R is the general property justifying this increase."
   },
   {
-    "type": "MCQ",
-    "question": "The radii of the internal and external surfaces of a hollow spherical shell are 3 cm and 5 cm respectively. If it is melted and recast into a solid cylinder of height 2 2/3 cm, find the diameter of the cylinder.",
-    "options": [
-      "14 cm",
-      "7 cm",
-      "10 cm",
-      "21 cm"
+    "question": "<b>Assertion (A):</b> A cylinder and a cone of same radius and height have volumes in ratio 3 : 1.\r\n<b>Reason (R):</b> Volume of cylinder is <latex>\\pi r^2 h</latex> and cone is <latex>\\frac{1}{3}\\pi r^2 h</latex>.",
+    "choices": [
+      "Both A and R are true and R is correct explanation of A",
+      "Both A and R are true but R is not correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
     ],
-    "answer": "14 cm",
-    "reason": "Step 1: Vol of shell = (4/3)π(5³ - 3³) = (4/3)π(125 - 27) = (4/3)π(98) cm³. Step 2: Height of cylinder H = 8/3 cm. Step 3: πr²(8/3) = (4/3)π(98). Step 4: r² × 2 = 98 => r² = 49 => r = 7 cm. Step 5: Diameter = 14 cm.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Relational Properties",
+    "complexity": "medium",
+    "reason": "Step 1: <latex>V_{cyl} / V_{cone} = (\\pi r^2 h) / (1/3 \\pi r^2 h) = 3</latex>. R provides the specific formulas used in the comparison."
   },
   {
-    "type": "MCQ",
-    "question": "A metal cube of side 11 cm is melted and recast into a sphere. Calculate the radius of the sphere.",
-    "options": [
-      "6.8 cm",
-      "7 cm",
-      "6.3 cm",
-      "7.5 cm"
+    "question": "<b>Assertion (A):</b> The volume of wood used in a hollow wooden cube is Outer Volume - Inner Volume.\r\n<b>Reason (R):</b> Wood only occupies the space between the outer and inner boundaries.",
+    "choices": [
+      "Both A and R are true and R is correct explanation of A",
+      "Both A and R are true but R is not correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
     ],
-    "answer": "6.8 cm",
-    "reason": "Step 1: Vol. of cube = 11³ = 1331 cm³. Step 2: (4/3)πr³ = 1331. Step 3: (4/3) × (22/7) × r³ = 1331 => r³ = (1331 × 21) / 88 = 15.125 × 21 = 317.625. Step 4: r = ∛317.625 ≈ 6.82 cm.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Hollow Solids",
+    "complexity": "medium",
+    "reason": "Step 1: The solid material of a hollow object is the total space minus the empty internal space. R explains the physical distribution of the material."
   },
   {
-    "type": "MCQ",
-    "question": "The slant height of a cone is 26 cm and its base radius is 10 cm. Find the volume of the cone.",
-    "options": [
-      "2512 cm³",
-      "1256 cm³",
-      "7536 cm³",
-      "1884 cm³"
+    "question": "<b>Assertion (A):</b> If two spheres have radii in ratio 1:2, their volumes are in ratio 1:4.\r\n<b>Reason (R):</b> Volume of a sphere is proportional to the cube of its radius.",
+    "choices": [
+      "Both A and R are true and R is correct explanation of A",
+      "Both A and R are true but R is not correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
     ],
-    "answer": "2512 cm³",
-    "reason": "Step 1: l = 26, r = 10. Height h = √26² - 10² = √676 - 100 = √576 = 24 cm. Step 2: Vol = (1/3)πr²h = (1/3) × 3.14 × 10² × 24 = 3.14 × 100 × 8 = 2512 cm³.",
+    "answer": 3,
+    "chapter": "Mensuration",
+    "category": "Relational Analysis",
     "complexity": "hard",
-    "chapter": "Mensuration"
+    "reason": "Step 1: A is false because ratio should be <latex>1^3 : 2^3 = 1 : 8</latex>. Step 2: R is true as per the formula <latex>\\frac{4}{3}\\pi r^3</latex>."
   },
   {
-    "type": "MCQ",
-    "question": "A right circular cylinder of height 20 cm and base radius 14 cm is cut from its top to bottom through the center. Find the increase in the total surface area.",
-    "options": [
-      "1120 cm²",
-      "560 cm²",
-      "880 cm²",
-      "280 cm²"
+    "question": "<b>Assertion (A):</b> The area of a cross-section of a right circular cylinder is constant.\r\n<b>Reason (R):</b> A right circular cylinder is generated by revolving a rectangle about one of its sides.",
+    "choices": [
+      "Both A and R are true and R is correct explanation of A",
+      "Both A and R are true but R is not correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
     ],
-    "answer": "1120 cm²",
-    "reason": "Step 1: When a cylinder is cut vertically through the center, two new rectangular surfaces are created. Step 2: Dimensions of each rectangle: Height h = 20 cm, Width d = 2r = 28 cm. Step 3: Area of one rectangle = 20 × 28 = 560 cm². Step 4: Total increase = 2 × 560 = 1120 cm².",
+    "answer": 0,
+    "chapter": "Mensuration",
+    "category": "Geometric Definition",
     "complexity": "hard",
-    "chapter": "Mensuration"
+    "reason": "Step 1: Cross-section is always a circle of same radius. Step 2: The generation method (R) ensures that the radius is uniform throughout the height."
   },
   {
-    "type": "MCQ",
-    "question": "Twelve solid spheres of the same size are made by melting a solid metallic cylinder of base diameter 2 cm and height 16 cm. Find the radius of each sphere.",
-    "options": [
-      "1 cm",
-      "2 cm",
-      "0.5 cm",
-      "1.5 cm"
+    "question": "<b>Assertion (A):</b> Capacity of a container is the internal volume of that container.\r\n<b>Reason (R):</b> Capacity is measured in litres while volume is measured in cubic units.",
+    "choices": [
+      "Both A and R are true and R is correct explanation of A",
+      "Both A and R are true but R is not correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
     ],
-    "answer": "1 cm",
-    "reason": "Step 1: Radius of cylinder Rc = 1 cm, Hc = 16 cm. Vol Vc = π(1)²(16) = 16π cm³. Step 2: Let radius of sphere be r. Vol of 12 spheres = 12 × (4/3)πr³ = 16πr³. Step 3: 16πr³ = 16π => r³ = 1 => r = 1 cm.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "A hollow sphere of internal and external radii 2 cm and 4 cm respectively is melted into a cone of base radius 4 cm. Find the height of the cone.",
-    "options": [
-      "14 cm",
-      "12 cm",
-      "10 cm",
-      "16 cm"
-    ],
-    "answer": "14 cm",
-    "reason": "Step 1: Vol of hollow sphere = (4/3)π(4³ - 2³) = (4/3)π(64 - 8) = (4/3)π(56) cm³. Step 2: Vol of cone = (1/3)π(4)²h = (16/3)πh. Step 3: (16/3)πh = (4/3)π(56) => 16h = 4 × 56 => 4h = 56 => h = 14 cm.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "The capacity of an open cylindrical tank is 1540 m³ and the area of its circular base is 154 m². Find the total inner surface area.",
-    "options": [
-      "440 m²",
-      "594 m²",
-      "308 m²",
-      "748 m²"
-    ],
-    "answer": "594 m²",
-    "reason": "Step 1: Base Area = πr² = 154 => r = 7 m. Step 2: Capacity V = πr²h = 1540 => 154h = 1540 => h = 10 m. Step 3: Inner surface area of open tank = CSA + Base Area. Step 4: CSA = 2πrh = 2 × (22/7) × 7 × 10 = 440 m². Step 5: Total inner area = 440 + 154 = 594 m².",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "The base radius of a cone is 5 cm and its volume is 100π cm³. Find its slant height.",
-    "options": [
-      "13 cm",
-      "12 cm",
-      "15 cm",
-      "17 cm"
-    ],
-    "answer": "13 cm",
-    "reason": "Step 1: Vol V = (1/3)πr²h = 100π. Step 2: (1/3)π(5)²h = 100π => 25h = 300 => h = 12 cm. Step 3: l = √12² + 5² = √144 + 25 = √169 = 13 cm.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "MCQ",
-    "question": "A cone and a hemisphere stand on equal bases and have equal volumes. Find the ratio of their total surface areas.",
-    "options": [
-      "(√5 + 1) : 3",
-      "√5 : 3",
-      "(√5 + 1) : 2",
-      "3 : 2"
-    ],
-    "answer": "(√5 + 1) : 3",
-    "reason": "Step 1: Same base radius r. Vol equal => (1/3)πr²h = (2/3)πr³ => h = 2r. Step 2: Slant height of cone l = √h²+r² = √4r²+r² = r√5. Step 3: TSA of cone = πrl + πr² = πr²(√5 + 1). Step 4: TSA of hemisphere = 3πr². Step 5: Ratio = πr²(√5 + 1) / 3πr² = (√5 + 1) : 3.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "Assertion-Reason",
-    "assertion": "If the radius of a cylinder is doubled and its height is halved, the volume remains the same.",
-    "reasoning_statement": "The volume of a cylinder is directly proportional to its height and square of its radius.",
-    "options": [
-      "(a) Both A and R are true and R is correct explanation",
-      "(b) Both A and R are true but R is not correct explanation",
-      "(c) A is true but R is false",
-      "(d) A is false but R is true"
-    ],
-    "answer": "(d) A is false but R is true",
-    "reason": "Step 1: Original Volume V1 = πr²h. Step 2: New radius = 2r, New height = h/2. Step 3: New Volume V2 = π(2r)²(h/2) = π(4r²)(h/2) = 2πr²h. Step 4: V2 = 2V1. Volume is doubled, so Assertion is false. Reason is true as per formula.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "Assertion-Reason",
-    "assertion": "The total surface area of a solid hemisphere of radius 'r' is 3πr².",
-    "reasoning_statement": "The curved surface area of a hemisphere is 2πr² and its flat surface is πr².",
-    "options": [
-      "(a) Both A and R are true and R is correct explanation",
-      "(b) Both A and R are true but R is not correct explanation",
-      "(c) A is true but R is false",
-      "(d) A is false but R is true"
-    ],
-    "answer": "(a) Both A and R are true and R is correct explanation",
-    "reason": "Step 1: Total Surface Area = Curved Surface Area + Base Area. Step 2: TSA = 2πr² + πr² = 3πr². Both statements are correct and R explains A.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "Assertion-Reason",
-    "assertion": "When a solid is melted and recast into another shape, its volume remains constant but surface area may change.",
-    "reasoning_statement": "For a fixed volume, the sphere has the minimum surface area among all solids.",
-    "options": [
-      "(a) Both A and R are true and R is correct explanation",
-      "(b) Both A and R are true but R is not correct explanation",
-      "(c) A is true but R is false",
-      "(d) A is false but R is true"
-    ],
-    "answer": "(b) Both A and R are true but R is not correct explanation",
-    "reason": "Step 1: Volume conservation is a fundamental principle in melting/recasting problems. Step 2: Surface area depends on the shape. Step 3: R is a true geometric property but doesn't specifically explain why the volume is constant in physical recasting.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "Assertion-Reason",
-    "assertion": "The slant height of a cone of radius 3 cm and height 4 cm is 5 cm.",
-    "reasoning_statement": "In a right circular cone, l² = r² + h².",
-    "options": [
-      "(a) Both A and R are true and R is correct explanation",
-      "(b) Both A and R are true but R is not correct explanation",
-      "(c) A is true but R is false",
-      "(d) A is false but R is true"
-    ],
-    "answer": "(a) Both A and R are true and R is correct explanation",
-    "reason": "Step 1: r = 3, h = 4. l = √3² + 4² = √9 + 16 = √25 = 5 cm. Step 2: The reason correctly provides the formula for the calculation.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "Assertion-Reason",
-    "assertion": "If two spheres have radii in ratio 1 : 2, their volumes are in ratio 1 : 8.",
-    "reasoning_statement": "The volume of a sphere is proportional to the square of its radius.",
-    "options": [
-      "(a) Both A and R are true and R is correct explanation",
-      "(b) Both A and R are true but R is not correct explanation",
-      "(c) A is true but R is false",
-      "(d) A is false but R is true"
-    ],
-    "answer": "(c) A is true but R is false",
-    "reason": "Step 1: V1/V2 = (r1/r2)³ = (1/2)³ = 1/8. Assertion is true. Step 2: Reason says proportionality is to r², but it should be r³. Reason is false.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "Assertion-Reason",
-    "assertion": "A cylindrical tank of base radius 7 m and height 10 m has a capacity of 1540 m³.",
-    "reasoning_statement": "Volume of a cylinder is πr²h.",
-    "options": [
-      "(a) Both A and R are true and R is correct explanation",
-      "(b) Both A and R are true but R is not correct explanation",
-      "(c) A is true but R is false",
-      "(d) A is false but R is true"
-    ],
-    "answer": "(a) Both A and R are true and R is correct explanation",
-    "reason": "Step 1: V = (22/7) × 7² × 10 = 154 × 10 = 1540 m³. Both statements are true and R is the formula for A.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "Assertion-Reason",
-    "assertion": "If the surface area of a sphere is 616 cm², then its radius is 7 cm.",
-    "reasoning_statement": "Surface area of a sphere is 4πr².",
-    "options": [
-      "(a) Both A and R are true and R is correct explanation",
-      "(b) Both A and R are true but R is not correct explanation",
-      "(c) A is true but R is false",
-      "(d) A is false but R is true"
-    ],
-    "answer": "(a) Both A and R are true and R is correct explanation",
-    "reason": "Step 1: 4 × (22/7) × r² = 616 => r² = 616/12.57... = 49 => r = 7. Both statements are true and R explains A.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "Assertion-Reason",
-    "assertion": "The volume of wood used in making an open box of external dimensions 10x8x6 cm and thickness 1 cm is 180 cm³.",
-    "reasoning_statement": "Volume of wood = External Volume - Internal Volume.",
-    "options": [
-      "(a) Both A and R are true and R is correct explanation",
-      "(b) Both A and R are true but R is not correct explanation",
-      "(c) A is true but R is false",
-      "(d) A is false but R is true"
-    ],
-    "answer": "(d) A is false but R is true",
-    "reason": "Step 1: External Volume = 10×8×6 = 480 cm³. Step 2: Internal dimensions for open box: L=10-2=8, B=8-2=6, H=6-1=5. Step 3: Internal Vol = 8×6×5 = 240 cm³. Step 4: Vol of wood = 480 - 240 = 240 cm³. Assertion is false.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "Assertion-Reason",
-    "assertion": "If a right circular cone is cut by a plane parallel to its base, the top portion is a small cone and bottom portion is a frustum.",
-    "reasoning_statement": "The volume of a frustum of a cone is (1/3)πh(R² + r² + Rr).",
-    "options": [
-      "(a) Both A and R are true and R is correct explanation",
-      "(b) Both A and R are true but R is not correct explanation",
-      "(c) A is true but R is false",
-      "(d) A is false but R is true"
-    ],
-    "answer": "(b) Both A and R are true but R is not correct explanation",
-    "reason": "Step 1: A is the geometric definition of how a frustum is created. Step 2: R is the formula for the volume of the frustum. Step 3: Both are true but R doesn't 'explain' A; it describes a property of the resulting shape.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "Assertion-Reason",
-    "assertion": "A sphere fits exactly inside a cylinder of height 2r and base radius r. The volume of the sphere is 2/3 the volume of the cylinder.",
-    "reasoning_statement": "Vol. of sphere = (4/3)πr³ and Vol. of cylinder = πr²(2r) = 2πr³.",
-    "options": [
-      "(a) Both A and R are true and R is correct explanation",
-      "(b) Both A and R are true but R is not correct explanation",
-      "(c) A is true but R is false",
-      "(d) A is false but R is true"
-    ],
-    "answer": "(a) Both A and R are true and R is correct explanation",
-    "reason": "Step 1: Sphere Vol V1 = (4/3)πr³. Cylinder Vol V2 = 2πr³. Step 2: V1/V2 = [(4/3)πr³] / [2πr³] = 4/6 = 2/3. R provides the correct formulas to derive A.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "Assertion-Reason",
-    "assertion": "The total surface area of a cone of radius r and slant height l is πr(l + r).",
-    "reasoning_statement": "The base of a right circular cone is a circle.",
-    "options": [
-      "(a) Both A and R are true and R is correct explanation",
-      "(b) Both A and R are true but R is not correct explanation",
-      "(c) A is true but R is false",
-      "(d) A is false but R is true"
-    ],
-    "answer": "(b) Both A and R are true but R is not correct explanation",
-    "reason": "Step 1: TSA = CSA + Base Area. Step 2: CSA = πrl, Base Area = πr². Step 3: πr(l+r). R is true but doesn't mention the CSA, which is necessary to explain the TSA formula.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "Assertion-Reason",
-    "assertion": "If the diameter of a sphere is decreased by 25%, its surface area decreases by 43.75%.",
-    "reasoning_statement": "Surface area of a sphere is proportional to the square of its radius.",
-    "options": [
-      "(a) Both A and R are true and R is correct explanation",
-      "(b) Both A and R are true but R is not correct explanation",
-      "(c) A is true but R is false",
-      "(d) A is false but R is true"
-    ],
-    "answer": "(a) Both A and R are true and R is correct explanation",
-    "reason": "Step 1: New radius r' = 0.75r. Step 2: New area S' = 4π(0.75r)² = 0.5625(4πr²). Step 3: Decrease = 1 - 0.5625 = 0.4375 = 43.75%. R is the reason why we square 0.75.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "Assertion-Reason",
-    "assertion": "The volume of a right circular cone of radius 3.5 cm and height 12 cm is 154 cm³.",
-    "reasoning_statement": "Volume of cone = (1/3)πr²h.",
-    "options": [
-      "(a) Both A and R are true and R is correct explanation",
-      "(b) Both A and R are true but R is not correct explanation",
-      "(c) A is true but R is false",
-      "(d) A is false but R is true"
-    ],
-    "answer": "(a) Both A and R are true and R is correct explanation",
-    "reason": "Step 1: V = (1/3) × (22/7) × (3.5)² × 12 = (1/3) × 38.5 × 12 = 154 cm³. Calculation confirms assertion using the formula in reason.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "Assertion-Reason",
-    "assertion": "The surface area of a cube is 6 times the area of one of its faces.",
-    "reasoning_statement": "A cube has 6 congruent square faces.",
-    "options": [
-      "(a) Both A and R are true and R is correct explanation",
-      "(b) Both A and R are true but R is not correct explanation",
-      "(c) A is true but R is false",
-      "(d) A is false but R is true"
-    ],
-    "answer": "(a) Both A and R are true and R is correct explanation",
-    "reason": "Step 1: A cube is a polyhedra with 6 faces. Step 2: Each face is a square of side 'a'. Step 3: Total Area = 6 × a². Both are true and R explains A.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "Assertion-Reason",
-    "assertion": "If the height of a cone is tripled, its volume becomes 9 times the original volume.",
-    "reasoning_statement": "Volume of a cone is proportional to its height.",
-    "options": [
-      "(a) Both A and R are true and R is correct explanation",
-      "(b) Both A and R are true but R is not correct explanation",
-      "(c) A is true but R is false",
-      "(d) A is false but R is true"
-    ],
-    "answer": "(d) A is false but R is true",
-    "reason": "Step 1: V = (1/3)πr²h. If h' = 3h, V' = (1/3)πr²(3h) = 3V. Step 2: Volume only triples, not 9 times. Assertion is false. Reason is true as V ∝ h.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "Assertion-Reason",
-    "assertion": "The number of lead shots of diameter 2 cm that can be made from a solid cube of edge 4.4 cm is approx 20.",
-    "reasoning_statement": "Volume of 20 lead shots = 20 × (4/3)π(1)³ ≈ 83.7 cm³. Vol of cube = 4.4³ ≈ 85.1 cm³.",
-    "options": [
-      "(a) Both A and R are true and R is correct explanation",
-      "(b) Both A and R are true but R is not correct explanation",
-      "(c) A is true but R is false",
-      "(d) A is false but R is true"
-    ],
-    "answer": "(a) Both A and R are true and R is correct explanation",
-    "reason": "Step 1: Vol cube = 85.184 cm³. Step 2: Vol 1 lead shot (r=1) = 4/3 π = 4.188 cm³. Step 3: Number = 85.184 / 4.188 ≈ 20.3. So approx 20. Calculations support both.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "Assertion-Reason",
-    "assertion": "For a right circular cylinder, CSA is 2πrh and TSA is 2πr(h+r).",
-    "reasoning_statement": "The total surface area includes the curved area and the area of two circular ends.",
-    "options": [
-      "(a) Both A and R are true and R is correct explanation",
-      "(b) Both A and R are true but R is not correct explanation",
-      "(c) A is true but R is false",
-      "(d) A is false but R is true"
-    ],
-    "answer": "(a) Both A and R are true and R is correct explanation",
-    "reason": "Step 1: A cylinder has a curved side and two circular bases. Step 2: Area of two bases = 2πr². Step 3: TSA = CSA + 2πr² = 2πrh + 2πr² = 2πr(h+r). R explains how A is constructed.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "Assertion-Reason",
-    "assertion": "If a sphere of radius r is melted to form n small spheres of radius r/2, then n = 8.",
-    "reasoning_statement": "Volume of a sphere is proportional to the cube of its radius.",
-    "options": [
-      "(a) Both A and R are true and R is correct explanation",
-      "(b) Both A and R are true but R is not correct explanation",
-      "(c) A is true but R is false",
-      "(d) A is false but R is true"
-    ],
-    "answer": "(a) Both A and R are true and R is correct explanation",
-    "reason": "Step 1: Vol of big sphere V = (4/3)πr³. Step 2: Vol of one small sphere v = (4/3)π(r/2)³ = (1/8)V. Step 3: Number n = V/v = 8. R explains the cubic relationship leading to 8.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "Assertion-Reason",
-    "assertion": "The base radius and height of a cylinder are in ratio 2 : 3. If volume is 1617 cm³, then radius is 7 cm.",
-    "reasoning_statement": "Take π = 22/7.",
-    "options": [
-      "(a) Both A and R are true and R is correct explanation",
-      "(b) Both A and R are true but R is not correct explanation",
-      "(c) A is true but R is false",
-      "(d) A is false but R is true"
-    ],
-    "answer": "(a) Both A and R are true and R is correct explanation",
-    "reason": "Step 1: r = 2x, h = 3x. (22/7)(4x²)(3x) = 1617 => (264/7)x³ = 1617 => x³ = 42.875 => x = 3.5. Step 2: r = 2(3.5) = 7 cm. Assertion is correct using the π value in R.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
-  },
-  {
-    "type": "Assertion-Reason",
-    "assertion": "The area of a cross-section of a cylinder is constant throughout its height.",
-    "reasoning_statement": "A cylinder is a solid of uniform circular cross-sections.",
-    "options": [
-      "(a) Both A and R are true and R is correct explanation",
-      "(b) Both A and R are true but R is not correct explanation",
-      "(c) A is true but R is false",
-      "(d) A is false but R is true"
-    ],
-    "answer": "(a) Both A and R are true and R is correct explanation",
-    "reason": "Step 1: By definition of a right circular cylinder, every plane parallel to the base creates a circle of same radius r. Step 2: Area πr² remains same.",
-    "complexity": "hard",
-    "chapter": "Mensuration"
+    "answer": 1,
+    "chapter": "Mensuration",
+    "category": "Conceptual Definition",
+    "complexity": "medium",
+    "reason": "Step 1: Both statements are true but R describes measurement units, which doesn't define what capacity 'is' (A)."
   }
 ]
