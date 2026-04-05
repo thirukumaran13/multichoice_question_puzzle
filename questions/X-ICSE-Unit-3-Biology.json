@@ -2126,6 +2126,846 @@
     "category": "Assertion-Reasoning",
     "complexity": "hard",
     "reason": "The speed of a reflex is possible because the nervous pathway (arc) is extremely short and does not require initial processing by the brain."
-  }  
+  },
+  {
+    "question": "What is the biological significance of the testes descending into the scrotum shortly before birth?",
+    "choices": [
+      "To provide more space for the development of internal abdominal organs.",
+      "To ensure the sperm-producing cells are protected from physical shocks.",
+      "To allow spermatogenesis to occur at a temperature lower than that of the body.",
+      "To facilitate the direct connection of the sperm duct to the urethra."
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Sperms are produced in the testes at a temperature 2 to 3°C lower than that of the body. If they do not descend, the higher internal body temperature results in sterility."
+  },
+  {
+    "question": "Which specific structure in the male reproductive system is responsible for the maturation and motility of sperms?",
+    "choices": [
+      "Seminiferous tubules",
+      "Sperm duct (Vas deferens)",
+      "Epididymis",
+      "Interstitial cells"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "The epididymis is a coiled tube where sperms are stored for some days to mature and become motile (capable of moving)."
+  },
+  {
+    "question": "Which male accessory gland is responsible for pouring an alkaline secretion to neutralize the acidity in the female's vagina?",
+    "choices": [
+      "Seminal vesicles",
+      "Prostate gland",
+      "Bulbo-urethral glands",
+      "Leydig glands"
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The prostate gland pours an alkaline secretion into the semen as it passes through the urethra to neutralize acidic conditions in the vagina."
+  },
+  {
+    "question": "What is the role of the enzyme 'hyaluronidase' secreted by the sperm?",
+    "choices": [
+      "To provide ATP for the lashing movement of the tail.",
+      "To facilitate the fusion of the sperm nucleus with the egg nucleus.",
+      "To dissolve the wall of the ovum to allow entry of the sperm.",
+      "To create a chemical barrier that prevents other sperms from entering."
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "The acrosome at the head of the sperm secretes hyaluronidase, which dissolves the wall of the ovum, facilitating the entry of the sperm head."
+  },
+  {
+    "question": "In the menstrual cycle, the sudden rupture of the Graafian follicle and release of the ovum is primarily promoted by which hormones?",
+    "choices": [
+      "Oestrogen and Progesterone",
+      "Testosterone and Oestrogen",
+      "FSH (Follicle Stimulating Hormone) and LH (Luteinizing Hormone)",
+      "Progesterone and LH"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Pituitary hormones FSH and LH promote the maturation and release of the ovum during the ovulatory phase of the cycle."
+  },
+  {
+    "question": "The 'Corpus Luteum' is a yellow mass that forms from the remnant of a ruptured follicle. What is its endocrine function if fertilization occurs?",
+    "choices": [
+      "It secretes FSH to stimulate the next cycle.",
+      "It continues to release progesterone to maintain the uterine lining.",
+      "It produces oestrogen to trigger the follicular phase.",
+      "It disintegrates to allow for implantation."
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "If the ovum is fertilized, the corpus luteum continues to release progesterone, which keeps the uterus in a state suitable for implantation."
+  },
+  {
+    "question": "Why is the blood of the embryo in close contact with the mother's blood in the placenta but never actually mingles with it?",
+    "choices": [
+      "Because the mixing would cause a massive inflammatory response due to different blood types.",
+      "To prevent the mother's high blood pressure from damaging the delicate foetal tissues.",
+      "Because the embryo produces its own blood cells in the yolk sac.",
+      "To ensure that only nitrogenous wastes are exchanged."
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "If there was direct continuity, the relatively high pressure of the mother's blood would seriously damage the soft and delicate tissues of the foetus."
+  },
+  {
+    "question": "Identical twins are formed from:",
+    "choices": [
+      "Two different eggs fertilized by two different sperms.",
+      "A single egg fertilized by two different sperms.",
+      "A single fertilized egg that splits into two parts during early cell division.",
+      "Two eggs released from the same ovary at the same time."
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Identical twins are produced from one egg (monozygotic); a single fertilized egg splits into two parts, each developing into an independent individual."
+  },
+  {
+    "question": "Which of the following describes the 'Luteal Phase' of the menstrual cycle?",
+    "choices": [
+      "The shedding and rupturing of the endometrium blood vessels.",
+      "The maturation of a new follicle under the influence of oestrogen.",
+      "The further thickening of the uterus lining and secretion of progesterone by corpus luteum.",
+      "The release of the egg from the ovary around the 14th day."
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "The luteal phase (days 15-28) involves the emptied follicle turning into corpus luteum and releasing progesterone to prepare for potential pregnancy."
+  },
+  {
+    "question": "What is the technical term for the fixing of the blastocyst to the uterine wall?",
+    "choices": [
+      "Gestation",
+      "Fertilization",
+      "Parturition",
+      "Implantation"
+    ],
+    "answer": 3,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Implantation is the process where the hollow sphere of cells (blastocyst) fixes into the endometrium of the uterus."
+  },
+  {
+    "question": "Which substance produced by the foetus is eliminated into the mother's blood via the placenta?",
+    "choices": [
+      "Oxygen",
+      "Urea",
+      "Glucose",
+      "Antibodies"
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Nitrogenous wastes (urea) and carbon dioxide are excreted by the foetus and diffuse into the mother's blood through the placenta."
+  },
+  {
+    "question": "At what stage of development does the embryo start looking like a baby and is referred to as a 'foetus'?",
+    "choices": [
+      "After 2 weeks of gestation.",
+      "From 7-8 weeks of gestation onwards.",
+      "Once the heart starts beating at 5 weeks.",
+      "Only after the end of the second trimester."
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The term 'foetus' is used when the embryo starts having a human-like appearance, which occurs from approximately 7 to 8 weeks of gestation."
+  },
+  {
+    "question": "Which part of the sperm provides the energy required for swimming?",
+    "choices": [
+      "Head (Acrosome)",
+      "Head (Nucleus)",
+      "Middle piece (Mitochondria)",
+      "Tail (Axial filament)"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The middle piece contains mitochondria, which provide energy in the form of ATP for the sperm's movement."
+  },
+  {
+    "question": "The sharp cry of a newborn baby serves a physiological purpose. What is it?",
+    "choices": [
+      "To signal the mother to release oxytocin.",
+      "To clear the respiratory passage of the baby.",
+      "To stimulate the contraction of the umbilical cord.",
+      "To trigger the start of lactation in the mother."
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "The first cry is nature's way of clearing the baby's respiratory passage so it can begin breathing air."
+  },
+  {
+    "question": "What is the primary difference between Asexual and Sexual reproduction regarding genetic variation?",
+    "choices": [
+      "Sexual reproduction involves only one parent, resulting in high variation.",
+      "Asexual reproduction involves gametes, causing no variation.",
+      "Asexual reproduction involves no mixing of genetic material, leading to less variation.",
+      "Sexual reproduction produces more offspring, leading to stable genetics."
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "In asexual reproduction, there is no mixing of genetic material, so offspring have little to no variation. Sexual reproduction involves genetic mixing and increased variation."
+  },
+  {
+    "question": "Which membrane encloses the fluid that acts as a shock-absorber around the foetus?",
+    "choices": [
+      "Chorion",
+      "Allantois",
+      "Amnion",
+      "Endometrium"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The amnion is a sac that develops around the embryo and is filled with amniotic fluid, which protects the foetus from mechanical shocks."
+  },
+  {
+    "question": "During childbirth (parturition), which part of the baby is usually pushed out first through the cervix and vagina?",
+    "choices": [
+      "Feet first",
+      "Shoulders first",
+      "Head first",
+      "Placenta first"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Under normal conditions during birth, the baby is pushed out head first by powerful contractions of the uterus."
+  },
+  {
+    "question": "Secondary sexual characteristics in females, such as widening of hips and breast growth, are induced by which hormone?",
+    "choices": [
+      "Progesterone",
+      "Oestrogen",
+      "Testosterone",
+      "LH"
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Oestrogens released by the ovaries are responsible for secondary sexual characteristics and bodily changes in females during puberty."
+  },
+  {
+    "question": "A single ejaculation of human semen contains approximately how many sperms?",
+    "choices": [
+      "2,000 to 4,000",
+      "200,000 to 400,000",
+      "20,000,000 to 40,000,000",
+      "200,000,000 to 400,000,000"
+    ],
+    "answer": 3,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "A single ejaculation (2-3 ml) contains between 200 million and 400 million sperms."
+  },
+  {
+    "question": "Which of the following is NOT readily permeable through the placenta?",
+    "choices": [
+      "Nicotine and Alcohol",
+      "Oxygen and Glucose",
+      "Germs (Bacteria)",
+      "HIV Virus"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "The placenta allows nutrients and gases to pass but acts as a barrier to most germs (bacteria); however, some viruses (like HIV) can cross it."
+  },
+  {
+    "question": "The solid spherical mass of cells resulting from repeated division of the zygote is called the:",
+    "choices": [
+      "Morula",
+      "Blastocyst",
+      "Embryo",
+      "Foetus"
+    ],
+    "answer": 0,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The morula is the stage following initial cleavage where the zygote has divided into a solid ball of cells."
+  },
+  {
+    "question": "What happens to the level of testosterone production if a boy's testes fail to descend into the scrotum?",
+    "choices": [
+      "Testosterone production ceases entirely.",
+      "Testosterone production is unaffected as it depends on LH.",
+      "The testes disintegrate and hormones are no longer produced.",
+      "Testosterone production is lowered, but the primary impact is sterility."
+    ],
+    "answer": 3,
+    "chapter": "The Reproductive System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Failure to descend primarily stops sperm maturation (sterility). While hormone production may be affected, the most distinct biological impact highlighted is the inability to produce mature sperms due to heat."
+  },
+  {
+    "question": "Fraternal twins are biologically known as 'Dizygotic' because:",
+    "choices": [
+      "They are formed by the splitting of a single zygote.",
+      "They are formed from two different fertilized eggs (zygotes).",
+      "They always have the same genetic sequence.",
+      "They are produced in the same ovarian follicle."
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Dizygotic means 'produced from two zygotes'; this occurs when two separate eggs are fertilized by two different sperms."
+  },
+  {
+    "question": "What is the average duration of the human gestation period?",
+    "choices": [
+      "180 days",
+      "250 days",
+      "280 days",
+      "320 days"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "In humans, the full term of development of the embryo in the uterus lasts about 280 days."
+  },
+  {
+    "question": "Which structure connects the placenta to the foetus?",
+    "choices": [
+      "Oviducal funnel",
+      "Endometrium",
+      "Umbilical cord",
+      "Allantois"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The umbilical cord contains blood vessels that link the growing foetus to the placenta."
+  },
+  {
+    "question": "During which phase of the menstrual cycle does the uterus lining shed along with blood?",
+    "choices": [
+      "Follicular phase",
+      "Ovulatory phase",
+      "Luteal phase",
+      "Menstrual phase"
+    ],
+    "answer": 3,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The menstrual phase (days 1-5) is marked by the shedding and discharge of the endometrium and blood."
+  },
+  {
+    "question": "The sensitive erectile tissue in females that is equivalent to the male penis is the:",
+    "choices": [
+      "Labia majora",
+      "Hymen",
+      "Clitoris",
+      "Vulva"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The clitoris is a small erectile structure in the vulva that is highly sensitive and homologous to the penis."
+  },
+  {
+    "question": "Which of the following is considered a primary reproductive part?",
+    "choices": [
+      "Sperm duct",
+      "Uterus",
+      "Gonads (Testes and Ovaries)",
+      "Penis"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Primary reproductive parts are the gonads because they produce the actual sex cells (gametes)."
+  },
+  {
+    "question": "A 'Test-tube baby' is a result of:",
+    "choices": [
+      "Growth of an embryo entirely within a glass container.",
+      "In vitro fertilization followed by implantation in a uterus.",
+      "Asexual reproduction in a laboratory setting.",
+      "The birth of identical twins from a single egg in a petri dish."
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The term refers to in vitro fertilization (IVF), where fertilization occurs in a petri dish and the embryo is then placed back into a uterus for natural growth."
+  },
+  {
+    "question": "The mixture of sperms and the secretions from male accessory glands is known as:",
+    "choices": [
+      "Seminal fluid",
+      "Semen",
+      "Mucus",
+      "Chyme"
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Semen is the milky fluid produced by the combination of sperms and secretions from seminal vesicles, the prostate, and Cowper's glands."
+  },
+  {
+    "question": "Which hormone's presence in urine is the basis for most common pregnancy tests?",
+    "choices": [
+      "LH",
+      "Oestrogen",
+      "Progesterone",
+      "Testosterone"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "The presence of progesterone (or its metabolic derivatives) in urine is used to detect pregnancy because it is maintained at high levels during gestation."
+  },
+  {
+    "question": "Which structure in the ovary contains the developing egg and secretes oestrogen?",
+    "choices": [
+      "Corpus luteum",
+      "Follicle",
+      "Interstitial cell",
+      "Endometrium"
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The cellular sac containing the maturing egg is the follicle; it releases oestrogen into the bloodstream."
+  },
+  {
+    "question": "Siamese twins occur when:",
+    "choices": [
+      "Two different eggs are fertilized but share the same placenta.",
+      "A single fertilized egg fails to separate completely during cleavage.",
+      "Triplets are born where two share an umbilical cord.",
+      "A surrogate mother carries a dizygotic pregnancy."
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Siamese (conjoined) twins are identical twins (from a single egg) who failed to separate completely during development."
+  },
+  {
+    "question": "The funnel-shaped opening of the oviduct that picks up the released egg is called the:",
+    "choices": [
+      "Uterine neck",
+      "Oviducal funnel",
+      "Cervix",
+      "Ostium"
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The oviducal funnel, lined with cilia, picks up the released ovum from the ovary."
+  },
+  {
+    "question": "In the male reproductive system, which tube loops over the ureters and joins the urethra?",
+    "choices": [
+      "Efferent duct",
+      "Sperm duct (Vas deferens)",
+      "Epididymis",
+      "Ejaculatory duct"
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The two sperm ducts (vas deferens) travel into the abdomen, loop over the ureters, and join the urethra."
+  },
+  {
+    "question": "Which of the following is a secondary sexual character in males?",
+    "choices": [
+      "Production of sperms",
+      "Development of breasts",
+      "Deepening of the voice",
+      "Presence of ovaries"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Secondary sexual characters are external features that distinguish the sexes; in males, this includes a deeper voice and facial hair."
+  },
+  {
+    "question": "What is the typical diameter and thickness of the human uterus?",
+    "choices": [
+      "10 cm x 10 cm",
+      "2 cm x 1 cm",
+      "7 cm x 5 cm",
+      "15 cm x 10 cm"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "The human uterus is described as a hollow pear-shaped organ with dimensions of approximately 7 cm by 5 cm."
+  },
+  {
+    "question": "The time of onset of menstruation in a young female is termed:",
+    "choices": [
+      "Menopause",
+      "Puberty",
+      "Menarche",
+      "Ovulation"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Menarche is the beginning of the menstrual cycle in females, typically occurring around age 13."
+  },
+  {
+    "question": "The innermost lining of the uterus, which becomes thickened and vascularized each month, is the:",
+    "choices": [
+      "Myometrium",
+      "Perimetrium",
+      "Endometrium",
+      "Trophoblast"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The endometrium is the thickened innermost lining of the uterus that prepares for implantation or is shed during menstruation."
+  },
+  {
+    "question": "Which male gland's secretion serves primarily as a lubricant during coitus?",
+    "choices": [
+      "Seminal vesicle",
+      "Prostate gland",
+      "Bulbo-urethral (Cowper's) gland",
+      "Interstitial glands"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The small bulbo-urethral glands (Cowper's glands) secrete a fluid that serves as a lubricant."
+  },
+  {
+    "question": "If an alcoholic mother consumes alcohol during pregnancy, it can readily reach the foetus because:",
+    "choices": [
+      "Alcohol breaks down the placental villi.",
+      "The placenta is permeable to alcohol.",
+      "Alcohol causes direct continuity between maternal and foetal blood.",
+      "The foetus drinks the amniotic fluid containing alcohol."
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "The placenta is permeable to alcohol and nicotine, allowing these substances to pass from the mother to the foetus."
+  },
+  {
+    "question": "Which stage of the menstrual cycle occurs between days 5 and 12?",
+    "choices": [
+      "Menstrual phase",
+      "Follicular phase",
+      "Ovulatory phase",
+      "Luteal phase"
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The follicular phase follows the menstrual phase and continues from day 5 to day 12 as the follicle grows."
+  },
+  {
+    "question": "Fertilization normally occurs in which part of the female reproductive system?",
+    "choices": [
+      "Vagina",
+      "Cervix",
+      "Uterus",
+      "Oviduct (Fallopian tube)"
+    ],
+    "answer": 3,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Fertilization typically takes place in the upper part of the oviduct after the sperm swims through the uterus."
+  },
+  {
+    "question": "The placenta breaks away from the uterus and is expelled shortly after the baby is born. This is known as:",
+    "choices": [
+      "Parturition",
+      "After-birth",
+      "Lactation",
+      "Gestation"
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The placenta and foetal membranes expelled about 15 minutes after the baby is born are collectively called the after-birth."
+  },
+  {
+    "question": "Which cells in the testis produce the hormone testosterone?",
+    "choices": [
+      "Sperm producing cells",
+      "Seminiferous tubules",
+      "Leydig (Interstitial) cells",
+      "Sertoli cells"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Interstitial cells, also known as Leydig cells, are found between seminiferous tubules and produce testosterone."
+  },
+  {
+    "question": "At what age does menopause usually occur in human females?",
+    "choices": [
+      "Around 13 years",
+      "Between 20 and 30 years",
+      "Between 45 and 50 years",
+      "After 60 years"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Menopause is the permanent stoppage of menstruation, typically occurring around age 45-50."
+  },
+  {
+    "question": "What percentage of all twin cases belong to the fraternal (non-identical) type?",
+    "choices": [
+      "10%",
+      "25%",
+      "75%",
+      "99%"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "About 75 per cent of all cases of twins belong to the fraternal (diovular/dizygotic) type."
+  },
+  {
+    "question": "The 'Hollow sphere of cells with a surrounding single cellular layer (trophoblast)' describes which developmental stage?",
+    "choices": [
+      "Zygote",
+      "Morula",
+      "Blastocyst",
+      "Advanced embryo"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "The blastocyst is the hollow sphere stage that eventually implants into the uterine wall."
+  },
+  {
+    "question": "Which of the following describes the first sign of puberty in girls?",
+    "choices": [
+      "Onset of menstruation (Menarche)",
+      "Growth of hair in armpits",
+      "Enlargement of breasts",
+      "Deepening of voice"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "In girls, the first sign of puberty (around age 10) is usually the enlargement of the breasts."
+  },
+  {
+    "question": "What would be the total number of chromosomes in a human zygote?",
+    "choices": [
+      "23",
+      "44",
+      "46 (23 pairs)",
+      "92"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "The fusion of a sperm (23 chromosomes) and an egg (23 chromosomes) restores the normal human number of 46 chromosomes (23 pairs)."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If the testes fail to descend into the scrotum, it leads to sterility in males. <br><b>Reason (R):</b> The internal body temperature is too high for the maturation of sperms in the testes.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Spermatogenesis requires a temperature 2-3°C lower than normal body temperature, which is why the scrotum hangs away from the body."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Identical twins are always of the same sex (either both boys or both girls). <br><b>Reason (R):</b> They are produced from two different eggs fertilized by the same sperm.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Assertion A is true, but Reason R is false. Identical twins come from a single egg fertilized by a single sperm that later splits."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The placenta is an intimate connection between foetal membranes and the uterine wall. <br><b>Reason (R):</b> The blood of the mother and the foetus mix freely within the placental sinuses to exchange nutrients.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Assertion A is true, but Reason R is false. Maternal and foetal blood systems are separated by membranes and never mingle directly."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Progesterone is known as the pregnancy hormone. <br><b>Reason (R):</b> It prepares the uterus for receiving the embryo and maintains the pregnancy state.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Progesterone maintains the thickened endometrium for implantation and inhibits further menstrual cycles during pregnancy."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The acrosome of the sperm is vital for fertilization. <br><b>Reason (R):</b> It contains mitochondria that provide the kinetic energy for the sperm to reach the egg.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Assertion A is true because it contains enzymes to enter the egg, but Reason R is false because mitochondria are in the middle piece, not the acrosome."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Amniotic fluid provides protection and restricted movement to the foetus. <br><b>Reason (R):</b> It serves as a source of nutrition and oxygen for the foetus before the placenta is fully formed.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Assertion A is true, but Reason R is false. Amniotic fluid is for protection and cushioning; nutrition and oxygen come from the mother through the placenta."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The umbilical cord contains blood vessels with oxygenated and deoxygenated blood. <br><b>Reason (R):</b> The umbilical artery carries oxygenated blood from the placenta to the foetus.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Assertion A is true, but Reason R is false. In the umbilical cord, the artery carries deoxygenated blood (with wastes) away from the foetus, and the vein brings oxygenated blood to it."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Human reproduction is exclusively sexual. <br><b>Reason (R):</b> Humans reproduce by the production of gametes which must unite to produce a zygote.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Humans belong to higher organisms where asexual reproduction is non-existent; they rely on gamete fusion."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The secondary sexual characters are essential reproductive parts. <br><b>Reason (R):</b> They do not directly participate in the process of gamete formation or development of the egg.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Assertion A is false. Secondary sexual characters are external clues and do not act as reproductive parts. Reason R is a true statement."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The menstrual cycle is temporarily stopped by pregnancy. <br><b>Reason (R):</b> During pregnancy, high levels of progesterone prevent the shedding of the endometrium.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "The corpus luteum remains active during pregnancy to secrete progesterone, which maintains the uterine lining and prevents menstruation."
+  }
   
 ]
