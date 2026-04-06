@@ -10,7 +10,7 @@
     "answer": 0,
     "chapter": "Measures of Central Tendency",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Calculate the incorrect total sum: <latex>100 \\times 40 = 4000</latex>. Step 2: Adjust the sum by removing the wrong observation and adding the correct one: <latex>4000 - 83 + 53 = 3970</latex>. Step 3: Calculate the new mean: <latex>3970 / 100 = 39.7</latex>."
   },
   {
@@ -24,7 +24,7 @@
     "answer": 1,
     "chapter": "Measures of Central Tendency",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Set up the mean equation: <latex>(x + x+3 + x+5 + x+7 + x+10) / 5 = 9</latex>. Step 2: Simplify: <latex>(5x + 25) / 5 = 9 \\Rightarrow x + 5 = 9 \\Rightarrow x = 4</latex>. Step 3: Identify last three terms: <latex>x+5=9, x+7=11, x+10=14</latex>. Step 4: Calculate their mean: <latex>(9 + 11 + 14) / 3 = 34 / 3 \\approx 11.33</latex>."
   },
   {
@@ -38,7 +38,7 @@
     "answer": 2,
     "chapter": "Measures of Central Tendency",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Apply the property of the mean where if every observation <latex>x_i</latex> is transformed to <latex>ax_i + b</latex>, the mean <latex>\\bar{x}</latex> transforms to <latex>a\\bar{x} + b</latex>. Step 2: Substitute values: <latex>2 \\times 25 + 5 = 50 + 5 = 55</latex>."
   },
   {
@@ -52,7 +52,7 @@
     "answer": 1,
     "chapter": "Measures of Central Tendency",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Calculate the total increase in the sum of observations: <latex>1 + 2 + 3 + \\dots + n = \\frac{n(n+1)}{2}</latex>. Step 2: Calculate the increase in the mean: <latex>\\frac{\\text{Total Increase}}{n} = \\frac{n(n+1)}{2n} = \\frac{n+1}{2}</latex>. Step 3: Add the mean increase to the original mean: <latex>X + \\frac{n+1}{2}</latex>."
   },
   {
@@ -66,7 +66,7 @@
     "answer": 0,
     "chapter": "Measures of Central Tendency",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Since <latex>n=10</latex> is even, the median is the average of the <latex>\\frac{n}{2}</latex> and <latex>\\frac{n}{2}+1</latex> terms (5th and 6th terms). Step 2: Identify terms: 5th term = <latex>x+2</latex>, 6th term = <latex>x+3</latex>. Step 3: Solve for <latex>x</latex>: <latex>\\frac{(x+2) + (x+3)}{2} = 27.5 \\Rightarrow 2x + 5 = 55 \\Rightarrow 2x = 50 \\Rightarrow x = 25</latex>."
   },
   {
@@ -80,7 +80,7 @@
     "answer": 1,
     "chapter": "Measures of Central Tendency",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Recall the graphical property that the x-coordinate of the intersection of 'less than' and 'more than' ogives represents the median. Step 2: Given intersection is <latex>(30, 45)</latex>, the x-value is 30. Thus, Median = 30."
   },
   {
@@ -94,7 +94,7 @@
     "answer": 1,
     "chapter": "Measures of Central Tendency",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Use the empirical relationship between the three measures: <latex>\\text{Mode} = 3(\\text{Median}) - 2(\\text{Mean})</latex>. Step 2: Substitute values: <latex>3(15) - 2(12) = 45 - 24 = 21</latex>."
   },
   {
@@ -108,7 +108,7 @@
     "answer": 1,
     "chapter": "Measures of Central Tendency",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Find original median of sorted data {42, 45, 48, 50, 52, 55, 60}: 4th term = 50. Step 2: Create new sorted set after replacement: {45, 48, 50, 52, 55, 56, 60}. Step 3: Find new median: 4th term = 52. Step 4: Calculate difference: <latex>52 - 50 = 2</latex> kg."
   },
   {
@@ -122,7 +122,7 @@
     "answer": 1,
     "chapter": "Measures of Central Tendency",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Find current sum: <latex>20 \\times 15 = 300</latex>. Step 2: Calculate correct sum by adjusting errors: <latex>300 - (3+6) + (8+11) = 300 - 9 + 19 = 310</latex>. Step 3: Calculate correct mean: <latex>310 / 20 = 15.5</latex>."
   },
   {
@@ -136,7 +136,7 @@
     "answer": 0,
     "chapter": "Measures of Central Tendency",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Set up the equation from the empirical formula: <latex>12 = 3(Md) - 2(12)</latex>. Step 2: Simplify: <latex>12 = 3Md - 24 \\Rightarrow 36 = 3Md \\Rightarrow Md = 12</latex>."
   },
   {
@@ -150,7 +150,7 @@
     "answer": 0,
     "chapter": "Measures of Central Tendency",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Calculate the sum of all 5 numbers: <latex>5 \\times 27 = 135</latex>. Step 2: Calculate the sum of the remaining 4 numbers: <latex>4 \\times 25 = 100</latex>. Step 3: Find the excluded number by subtraction: <latex>135 - 100 = 35</latex>."
   },
   {
@@ -164,7 +164,7 @@
     "answer": 1,
     "chapter": "Measures of Central Tendency",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Apply linear interpolation for the fractional position. Step 2: <latex>Q_1 = 12\\text{th term} + 0.75 \\times (13\\text{th term} - 12\\text{th term})</latex>. Step 3: <latex>15 + 0.75 \\times (19 - 15) = 15 + 0.75 \\times 4 = 15 + 3 = 18</latex>."
   },
   {
@@ -430,7 +430,7 @@
     "answer": 0,
     "chapter": "Measures of Central Tendency",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Verify primes: 2, 3, 5, 7, 11 are correct. Step 2: Check sum: <latex>2+3+5+7+11 = 28</latex>. Step 3: Check mean: <latex>28/5 = 5.6</latex>. Reason provides the correct sum and data for the calculation in Assertion."
   },
   {
@@ -444,7 +444,7 @@
     "answer": 0,
     "chapter": "Measures of Central Tendency",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Sorted data has <latex>n=6</latex>. Step 2: Median is average of 3rd (16) and 4th (17) terms. Step 3: <latex>(16+17)/2 = 16.5</latex>. R gives the correct definition which is applied in A."
   },
   {
@@ -458,7 +458,7 @@
     "answer": 3,
     "chapter": "Measures of Central Tendency",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Assertion is false because every number has the same frequency (2), so the distribution is multimodal (modes are 2, 3, and 4). Reason correctly defines mode."
   },
   {
@@ -472,7 +472,7 @@
     "answer": 0,
     "chapter": "Measures of Central Tendency",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Substitute into formula: <latex>7 = 3(\\text{Median}) - 2(10)</latex>. Step 2: <latex>7 = 3(\\text{Median}) - 20 \\Rightarrow 27 = 3(\\text{Median}) \\Rightarrow \\text{Median} = 9</latex>. Calculation proves Assertion."
   },
   {
@@ -486,7 +486,7 @@
     "answer": 0,
     "chapter": "Measures of Central Tendency",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Deviations from mean 10 are <latex>(5-10)=-5</latex>, <latex>(10-10)=0</latex>, <latex>(15-10)=5</latex>. Step 2: Sum is <latex>-5+0+5=0</latex>. This is a general property of the arithmetic mean."
   },
   {
@@ -500,7 +500,7 @@
     "answer": 0,
     "chapter": "Measures of Central Tendency",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Sum of 5 terms is 50. Step 2: New sum is <latex>50 + 5 \\times 2 = 60</latex>. Step 3: New mean is <latex>60/5 = 12</latex>. Reason gives the property that explains this result."
   },
   {
@@ -514,7 +514,7 @@
     "answer": 3,
     "chapter": "Measures of Central Tendency",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Assertion is false because mean is easily distorted by outliers; median is considered 'robust' and a better representative for skewed data. Reason is true as a fact about the mean's calculation."
   },
   {
@@ -528,7 +528,7 @@
     "answer": 0,
     "chapter": "Measures of Central Tendency",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: IQR = <latex>Q_3 - Q_1</latex>. Step 2: Since <latex>Q_3</latex> and <latex>Q_1</latex> are positions within the data (75th and 25th percentiles), changing the values of the 1st or 100th term (extremes) doesn't change the quartiles unless their ranks change."
   },
   {
@@ -542,7 +542,7 @@
     "answer": 0,
     "chapter": "Measures of Central Tendency",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Reason correctly explains the procedure used to extract the median value from a cumulative frequency graph (ogive)."
   },
   {
@@ -570,7 +570,7 @@
     "answer": 1,
     "chapter": "Probability",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The total number of outcomes is 36. The pairs where the product is a perfect square are (1,1), (1,4), (2,2), (3,3), (4,1), (4,4), (5,5), and (6,6). Since there are 8 favourable outcomes, the probability is 8/36, which simplifies to 2/9."
   },
   {
@@ -584,7 +584,7 @@
     "answer": 2,
     "chapter": "Probability",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Total numbers = 52. Prime numbers up to 52 are 15 (2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47). Multiples of 4 up to 52 are 13 (4, 8, 12...52). The only number that is both is none. Total 'prime or multiple of 4' = 15 + 13 - 1 (for 2 is prime but not multiple of 4; 4 is multiple but not prime). Wait, no intersection exists. Total = 28. Neither is 52 - 28 = 24? Re-checking intersection: there are no prime multiples of 4. Total = 28. Neither = 52 - 28 = 24. No, wait, 1 is neither prime nor composite, and 1 is not a multiple of 4. Let's list: Primes (15), Multiples of 4 (13). Sum = 28. Discs that are prime or multiples of 4 = 28. Neither = 52 - 28 = 24. Probability = 24/52 = 6/13. Let's re-verify the question logic for 25/52 if 1 is included/excluded. Since 1 is not prime and not a multiple of 4, it is part of the 'neither' group. If choice 2 is 24/52, the answer is 0. If 25/52, we check for an overlooked number."
   },
   {
@@ -598,7 +598,7 @@
     "answer": 1,
     "chapter": "Probability",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Let the number of blue balls be x. Probability of blue = x/(x+5). Probability of red = 5/(x+5). Given P(blue) = 2 * P(red), so x/(x+5) = 10/(x+5), which gives x = 10. Total balls = 10 + 5 = 15."
   },
   {
@@ -654,7 +654,7 @@
     "answer": 0,
     "chapter": "Probability",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The prime numbers less than 23 are 2, 3, 5, 7, 11, 13, 17, and 19. There are 8 such numbers. The total number of discs is 90. Probability = 8/90 = 4/45."
   },
   {
@@ -668,7 +668,7 @@
     "answer": 0,
     "chapter": "Probability",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Sum of 9 occurs in 4 cases: (3,6), (4,5), (5,4), (6,3). Sum of 11 occurs in 2 cases: (5,6), (6,5). Total 'sum 9 or 11' cases = 6. Favourable cases (neither 9 nor 11) = 36 - 6 = 30. Probability = 30/36 = 5/6."
   },
   {
@@ -696,7 +696,7 @@
     "answer": 1,
     "chapter": "Probability",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Natural numbers from 1 to 25 have 9 prime numbers (2, 3, 5, 7, 11, 13, 17, 19, 23). The number 1 is neither prime nor composite. Total non-composite numbers = 9 + 1 = 10. Composite numbers = 25 - 10 = 15. Probability = 15/25 = 3/5."
   },
   {
@@ -808,7 +808,7 @@
     "answer": 0,
     "chapter": "Probability",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The total number of letters in 'ASSASSINATION' is 13. The vowels are A, A, I, A, I, O. There are 6 vowels. Probability = 6/13."
   },
   {
@@ -822,7 +822,7 @@
     "answer": 1,
     "chapter": "Probability",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Prime numbers in the set are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, and 31. There are 11 prime numbers. Probability = 11/35."
   },
   {
@@ -850,7 +850,7 @@
     "answer": 0,
     "chapter": "Probability",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The total outcomes for three dice are 6 * 6 * 6 = 216. The only outcome resulting in a sum of 18 is (6,6,6). Probability = 1/216."
   },
   {
@@ -864,7 +864,7 @@
     "answer": 1,
     "chapter": "Probability",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Prime sums possible are 2, 3, 5, 7, 11. Sum 2: 1 case; Sum 3: 2 cases; Sum 5: 4 cases; Sum 7: 6 cases; Sum 11: 2 cases. Total = 1+2+4+6+2 = 15. Probability = 15/36 = 5/12."
   },
   {
@@ -934,7 +934,7 @@
     "answer": 0,
     "chapter": "Probability",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The pairs with a difference of 3 are (1,4), (2,5), (3,6), (4,1), (5,2), and (6,3). There are 6 such outcomes. Probability = 6/36 = 1/6."
   },
   {
@@ -962,7 +962,7 @@
     "answer": 1,
     "chapter": "Probability",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "There are four balls numbered '1' and 13 blue balls. The ball that is both blue and numbered '1' is counted twice. Favourable = 4 + 13 - 1 = 16. Probability = 16/52 = 4/13."
   },
   {
@@ -976,7 +976,7 @@
     "answer": 0,
     "chapter": "Probability",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The numbers satisfying |x| < 2 are -1, 0, and 1. There are 3 such numbers. Total numbers are 7. Probability = 3/7."
   },
   {
@@ -990,7 +990,7 @@
     "answer": 0,
     "chapter": "Probability",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "A die has 6 possible outcomes {1, 2, 3, 4, 5, 6}. Out of these, 2, 3, and 5 are prime. Since there are 3 favourable cases, the probability is 3/6 = 1/2."
   },
   {
@@ -1004,7 +1004,7 @@
     "answer": 1,
     "chapter": "Probability",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Both statements are correct mathematical definitions. However, the sum being 1 is due to the exhaustive nature of the sample space, not simply because elementary events have one outcome."
   },
   {
@@ -1018,7 +1018,7 @@
     "answer": 0,
     "chapter": "Probability",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The fundamental property used to find the probability of a complement is that the total probability must equal 1."
   },
   {
@@ -1032,7 +1032,7 @@
     "answer": 0,
     "chapter": "Probability",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "In a non-leap year, 52 weeks are complete, and the remaining 1 day can be any of the 7 days of the week. For 53 Fridays, this day must be Friday, giving a probability of 1/7."
   },
   {
@@ -1046,7 +1046,7 @@
     "answer": 3,
     "chapter": "Probability",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Assertion is false because P(Red) = 2/52 = 1/26, not 1/13. Reason is a true general definition."
   },
   {
@@ -1060,7 +1060,7 @@
     "answer": 0,
     "chapter": "Probability",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The reason provides the correct definition for why the probability of an impossible event is mathematically assigned the value 0."
   },
   {
@@ -1074,7 +1074,7 @@
     "answer": 0,
     "chapter": "Probability",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Since each die must show at least a 1, the smallest possible sum is 1 + 1 = 2. Thus, a sum of 1 is impossible, making its probability 0."
   },
   {
@@ -1088,7 +1088,7 @@
     "answer": 3,
     "chapter": "Probability",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Assertion is false as probability is always non-negative. The reason correctly identifies why the numerator in the probability formula cannot be negative."
   },
   {
@@ -1102,7 +1102,7 @@
     "answer": 0,
     "chapter": "Probability",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "In a fair and unbiased coin, neither outcome is favoured, meaning they have the same chance (1/2) of occurring."
   },
   {
@@ -1116,7 +1116,7 @@
     "answer": 0,
     "chapter": "Probability",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The reason correctly provides the general principle for calculating the probability in a uniformly distributed sample space as described in the assertion."
   }
 ]

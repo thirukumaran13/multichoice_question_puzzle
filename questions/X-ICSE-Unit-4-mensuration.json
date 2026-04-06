@@ -10,7 +10,7 @@
     "answer": 0,
     "chapter": "Mensuration",
     "category": "Geometric Transformation",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: The foil length (22 cm) becomes the circumference <latex>2\\pi r</latex>. Step 2: <latex>2 \\times \\frac{22}{7} \\times r = 22 \\Rightarrow r = 3.5</latex> cm. Step 3: <latex>V = \\pi r^2 h = \\frac{22}{7} \\times 3.5 \\times 3.5 \\times 16 = 616</latex> <latex>cm^3</latex>."
   },
   {
@@ -24,7 +24,7 @@
     "answer": 1,
     "chapter": "Mensuration",
     "category": "Similar Solids",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Ratio of volumes <latex>V_1/V_2 = (h/H)^3</latex>. Step 2: <latex>1/27 = (h/30)^3 \\Rightarrow 1/3 = h/30 \\Rightarrow h = 10</latex> cm. Step 3: Height of frustum = <latex>30 - 10 = 20</latex> cm."
   },
   {
@@ -38,7 +38,7 @@
     "answer": 1,
     "chapter": "Mensuration",
     "category": "Volume Conversion",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Volume of bowl = <latex>\\frac{2}{3}\\pi(9)^3 = 486\\pi</latex>. Step 2: Volume of one bottle = <latex>\\pi(1.5)^2(4) = 9\\pi</latex>. Step 3: Number of bottles = <latex>486\\pi / 9\\pi = 54</latex>."
   },
   {
@@ -52,7 +52,7 @@
     "answer": 1,
     "chapter": "Mensuration",
     "category": "Recasting Solids",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Cylinder Vol = <latex>\\pi(14)^2(21) = 4116\\pi</latex>. Step 2: Sphere Vol = <latex>\\frac{4}{3}\\pi(3.5)^3 = \\frac{4}{3}\\pi(42.875) = 57.166\\pi</latex>. Step 3: <latex>4116 / 57.166 = 72</latex>."
   },
   {
@@ -66,7 +66,7 @@
     "answer": 2,
     "chapter": "Mensuration",
     "category": "Flow of Liquid",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Vol per sec = <latex>\\pi(1)^2(600) = 600\\pi</latex> <latex>cm^3</latex>. Step 2: Total Vol in 1800s = <latex>600\\pi \\times 1800 = 1,080,000\\pi</latex>. Step 3: Rise <latex>h = \\frac{1,080,000\\pi}{\\pi(60)^2} = 300</latex> cm = 3 m."
   },
   {
@@ -80,7 +80,7 @@
     "answer": 0,
     "chapter": "Mensuration",
     "category": "Combination of Solids",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Vol 1 = <latex>\\pi(12)^2(220) = 31680\\pi</latex>. Step 2: Vol 2 = <latex>\\pi(8)^2(60) = 3840\\pi</latex>. Step 3: Total Vol = <latex>35520\\pi \\approx 111532.8</latex> <latex>cm^3</latex>. Step 4: Mass = <latex>111532.8 \\times 8 / 1000 = 892.26</latex> kg."
   },
   {
@@ -94,7 +94,7 @@
     "answer": 0,
     "chapter": "Mensuration",
     "category": "Hollow Solids",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: <latex>2\\pi H(R-r) = 88 \\Rightarrow R-r = 1</latex>. Step 2: <latex>\\pi H(R^2-r^2) = 176 \\Rightarrow R^2-r^2 = 4</latex>. Step 3: <latex>(R-r)(R+r) = 4 \\Rightarrow R+r = 4</latex>. Step 4: Solving <latex>R-r=1, R+r=4</latex> gives <latex>r = 1.5</latex> cm."
   },
   {
@@ -122,7 +122,7 @@
     "answer": 0,
     "chapter": "Mensuration",
     "category": "Conceptual Calculation",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: <latex>4\\pi r^2 = 6a^2 \\Rightarrow r/a = \\sqrt{6/4\\pi}</latex>. Step 2: Ratio = <latex>\\frac{4}{3}\\pi r^3 / a^3 = \\frac{4}{3}\\pi (\\sqrt{6/4\\pi})^3</latex>. Step 3: Simplifying leads to <latex>\\sqrt{6} : \\sqrt{\\pi}</latex>."
   },
   {
@@ -136,7 +136,7 @@
     "answer": 1,
     "chapter": "Mensuration",
     "category": "Volume Division",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Vol of block = <latex>66 \\times 42 \\times 21 = 58212</latex>. Step 2: Vol of one shot = <latex>\\frac{4}{3} \\times \\frac{22}{7} \\times 2^3 = 33.52</latex>. Step 3: <latex>58212 / 33.52 = 1512.3</latex>. Answer 1512."
   },
   {
@@ -150,7 +150,7 @@
     "answer": 1,
     "chapter": "Mensuration",
     "category": "Combination Surface Area",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: CSA Cylinder = <latex>2\\pi(52.5)(3) = 315\\pi</latex>. Step 2: CSA Cone = <latex>\\pi(52.5)(53) = 2782.5\\pi</latex>. Step 3: Total = <latex>3097.5\\pi = 3097.5 \\times \\frac{22}{7} = 9735</latex> <latex>m^2</latex>."
   },
   {
@@ -164,7 +164,7 @@
     "answer": 1,
     "chapter": "Mensuration",
     "category": "Flow of Liquid",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Vol = <latex>\\frac{2}{3} \\times \\frac{22}{7} \\times (1.75)^3 = 11.229</latex> m^3. Step 2: 11229 litres. Step 3: Time = <latex>11229 / 7 = 1604</latex> seconds. Step 4: <latex>1604 / 60 \\approx 26.7</latex> mins."
   },
   {
@@ -206,7 +206,7 @@
     "answer": 0,
     "chapter": "Mensuration",
     "category": "Rotation of Figures",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Hypotenuse = 5 cm. Radius of cones = altitude to hypotenuse = <latex>3 \\times 4 / 5 = 2.4</latex> cm. Step 2: <latex>V = \\frac{1}{3}\\pi(2.4)^2(5) = 9.6\\pi \\approx 30.14</latex> <latex>cm^3</latex>."
   },
   {
@@ -220,7 +220,7 @@
     "answer": 0,
     "chapter": "Mensuration",
     "category": "Volume to Area",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: <latex>\\frac{4}{3}\\pi r^3 = 38808 \\Rightarrow r = 21</latex> cm. Step 2: <latex>S = 4\\pi(21)^2 = 4 \\times \\frac{22}{7} \\times 441 = 5544</latex> <latex>cm^2</latex>."
   },
   {
@@ -234,7 +234,7 @@
     "answer": 1,
     "chapter": "Mensuration",
     "category": "Recasting Solids",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Vol sphere = <latex>\\frac{4}{3}\\pi(64-8) = \\frac{224}{3}\\pi</latex>. Step 2: Vol cone = <latex>\\frac{1}{3}\\pi(16)h</latex>. Step 3: <latex>16h = 224 \\Rightarrow h = 14</latex> cm."
   },
   {
@@ -262,7 +262,7 @@
     "answer": 0,
     "chapter": "Mensuration",
     "category": "Relational Calculation",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: <latex>2\\pi r(r+h) = 1628 \\Rightarrow 2\\pi r(37) = 1628 \\Rightarrow r = 7</latex> cm. Step 2: <latex>h = 30</latex> cm. Step 3: <latex>V = \\pi(7)^2(30) = 4620</latex> <latex>cm^3</latex>."
   },
   {
@@ -290,7 +290,7 @@
     "answer": 0,
     "chapter": "Mensuration",
     "category": "Recasting Solids",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Vol sphere = <latex>\\frac{4}{3}\\pi(729) = 972\\pi</latex>. Step 2: Wire radius = 0.1 cm. Step 3: <latex>\\pi(0.1)^2 L = 972\\pi \\Rightarrow L = 97200</latex> cm = 972 m."
   },
   {
@@ -304,7 +304,7 @@
     "answer": 0,
     "chapter": "Mensuration",
     "category": "Scale Modeling",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Actual Vol = <latex>1.2 \\times (200)^3 = 9,600,000</latex> m^3. Step 2: 9.6 million m^3."
   },
   {
@@ -374,7 +374,7 @@
     "answer": 0,
     "chapter": "Mensuration",
     "category": "Hollow Solids",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Outer R = 4.5. Step 2: Vol = <latex>\\frac{2}{3}\\pi(4.5^3 - 4^3) = \\frac{2}{3} \\times 3.14159 \\times (91.125 - 64) = 56.83</latex>."
   },
   {
@@ -430,7 +430,7 @@
     "answer": 0,
     "chapter": "Mensuration",
     "category": "Dimensional Change",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: New Volume = <latex>\\pi(2r)^2(h/2) = \\pi(4r^2)(h/2) = 2\\pi r^2 h</latex>. Step 2: This is exactly double the original volume. R provides the formula used."
   },
   {
@@ -458,7 +458,7 @@
     "answer": 0,
     "chapter": "Mensuration",
     "category": "Recasting Properties",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Conservation of mass/volume is the physical basis of recasting. Step 2: Different shapes with same volume have different surface areas (e.g., sphere vs cylinder). R explains why area changes."
   },
   {
@@ -528,7 +528,7 @@
     "answer": 3,
     "chapter": "Mensuration",
     "category": "Relational Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: A is false because ratio should be <latex>1^3 : 2^3 = 1 : 8</latex>. Step 2: R is true as per the formula <latex>\\frac{4}{3}\\pi r^3</latex>."
   },
   {
@@ -542,7 +542,7 @@
     "answer": 0,
     "chapter": "Mensuration",
     "category": "Geometric Definition",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Cross-section is always a circle of same radius. Step 2: The generation method (R) ensures that the radius is uniform throughout the height."
   },
   {

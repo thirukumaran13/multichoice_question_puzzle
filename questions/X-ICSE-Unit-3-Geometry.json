@@ -108,7 +108,7 @@
     "answer": 0,
     "chapter": "Similarity",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Scale factor <latex>k = 1 / 2,000,000 = 1 / (2 \\times 10^{6})</latex>. Area ratio <latex>k^{2} = 1 / (4 \\times 10^{12})</latex>. Map area = <latex>20 \\times 10^{10} \\text{ cm}^{2} / (4 \\times 10^{12}) = 5</latex> <latex>cm^{2}</latex>."
   },
   {
@@ -248,7 +248,7 @@
     "answer": 1,
     "chapter": "Similarity",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Actual area = <latex>200 \\times 50^{2} = 200 \\times 2500 = 500,000</latex> <latex>cm^{2}</latex>. Converting to <latex>m^{2}</latex>: <latex>500,000 / 10,000 = 50</latex> Wait, <latex>500,000 / 10,000 = 50</latex>. No, calculation check: <latex>50 \\text{ m}^{2}</latex>."
   },
   {
@@ -276,7 +276,7 @@
     "answer": 0,
     "chapter": "Similarity",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>1 \\text{ cm} = 2.5</latex> km. <latex>1 \\text{ cm}^{2} = 6.25</latex> <latex>km^{2}</latex>. Actual area = <latex>4 \\times 6.25 = 25</latex> <latex>km^{2}</latex>."
   },
   {
@@ -710,7 +710,7 @@
     "answer": 1,
     "chapter": "Loci",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The center of any circle passing through <latex>A</latex> and <latex>B</latex> must be equidistant from <latex>A</latex> and <latex>B</latex>, which defines the perpendicular bisector."
   },
   {
@@ -724,7 +724,7 @@
     "answer": 2,
     "chapter": "Loci",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The angle in a semi-circle is <latex>90^{\\circ}</latex>. Thus, <latex>P</latex> must lie on the circle having <latex>AB</latex> as its diameter."
   },
   {
@@ -906,7 +906,7 @@
     "answer": 2,
     "chapter": "Loci",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The locus is the perpendicular bisector. The point where the bisector intersects <latex>AB</latex> (the midpoint) has a distance of <latex>0</latex> from the segment."
   },
   {
@@ -920,7 +920,7 @@
     "answer": 2,
     "chapter": "Loci",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Points can be <latex>2</latex> cm outside (<latex>5+2=7</latex>) or <latex>2</latex> cm inside (<latex>5-2=3</latex>) the given circle."
   },
   {
@@ -1116,7 +1116,7 @@
     "answer": 0,
     "chapter": "Loci",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The distance from the center to the origin (fixed point) must be the radius <latex>5</latex>. Thus the center lies on a circle of radius <latex>5</latex> centered at the origin."
   },
   {
@@ -1130,7 +1130,7 @@
     "answer": 1,
     "chapter": "Circles and Tangents",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Use the property of intersecting chords: <latex>AP \\times PB = CP \\times PD</latex>. Step 2: Substitute the known values: <latex>8 \\times 6 = 4 \\times PD</latex>. Step 3: Solve for <latex>PD</latex>: <latex>48 = 4 \\times PD \\Rightarrow PD = 12</latex> cm. Step 4: Calculate the total length of chord <latex>CD = CP + PD = 4 + 12 = 16</latex> cm."
   },
   {
@@ -1144,7 +1144,7 @@
     "answer": 0,
     "chapter": "Circles and Tangents",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: In a cyclic quadrilateral, opposite angles are supplementary: <latex>\\angle A + \\angle C = 180^{\\circ}</latex>. Step 2: Form the equation: <latex>(2x + 10) + (3x + 20) = 180</latex>. Step 3: Simplify: <latex>5x + 30 = 180</latex>. Step 4: Solve for <latex>x</latex>: <latex>5x = 150 \\Rightarrow x = 30</latex>."
   },
   {
@@ -1158,7 +1158,7 @@
     "answer": 0,
     "chapter": "Circles and Tangents",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Use the tangent-secant theorem: <latex>PT^{2} = PA \\times PB</latex>. Step 2: Substitute values: <latex>12^{2} = 8 \\times PB \\Rightarrow 144 = 8 \\times PB</latex>. Step 3: Solve for <latex>PB</latex>: <latex>PB = 144 / 8 = 18</latex> cm. Step 4: Calculate chord <latex>AB = PB - PA = 18 - 8 = 10</latex> cm."
   },
   {
@@ -1172,7 +1172,7 @@
     "answer": 1,
     "chapter": "Circles and Tangents",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Apply the Alternate Segment Theorem. Step 2: The theorem states that the angle between a tangent and a chord through the point of contact is equal to the angle subtended by the chord in the alternate segment. Step 3: Therefore, the angle is <latex>65^{\\circ}</latex>."
   },
   {
@@ -1186,7 +1186,7 @@
     "answer": 2,
     "chapter": "Circles and Tangents",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Let the chord be <latex>AB</latex> and the perpendicular from center <latex>O</latex> to <latex>AB</latex> be <latex>OM</latex>. Step 2: In right-angled <latex>\\Delta OMA</latex>, <latex>OA = 17</latex> cm (radius) and <latex>OM = 8</latex> cm (distance). Step 3: Use Pythagoras theorem: <latex>AM^{2} = OA^{2} - OM^{2} = 17^{2} - 8^{2} = 289 - 64 = 225</latex>. Step 4: <latex>AM = \\sqrt{225} = 15</latex> cm. Step 5: Since the perpendicular from the center bisects the chord, <latex>AB = 2 \\times AM = 2 \\times 15 = 30</latex> cm."
   },
   {
@@ -1200,7 +1200,7 @@
     "answer": 0,
     "chapter": "Circles and Tangents",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Let the center be <latex>O</latex> and tangents from <latex>P</latex> touch at <latex>A</latex> and <latex>B</latex>. Step 2: In quadrilateral <latex>OAPB</latex>, <latex>\\angle OAP = \\angle OBP = 90^{\\circ}</latex> (radius is perpendicular to tangent). Step 3: The sum of angles in a quadrilateral is <latex>360^{\\circ}</latex>. Step 4: <latex>\\angle AOB + \\angle APB = 180^{\\circ}</latex>. Step 5: <latex>\\angle APB = 180^{\\circ} - 130^{\\circ} = 50^{\\circ}</latex>."
   },
   {
@@ -1214,7 +1214,7 @@
     "answer": 2,
     "chapter": "Circles and Tangents",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: When two circles touch internally, the distance between their centers is the difference of their radii. Step 2: Distance <latex>= R - r = 5 - 3 = 2</latex> cm."
   },
   {
@@ -1228,7 +1228,7 @@
     "answer": 0,
     "chapter": "Circles and Tangents",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: The angle subtended by an arc at the center is double the angle subtended by it at any point on the circumference. Step 2: Reflex <latex>\\angle AOC = 2 \\times \\angle ABC</latex>. Step 3: Reflex <latex>\\angle AOC = 2 \\times 120^{\\circ} = 240^{\\circ}</latex>."
   },
   {
@@ -1242,7 +1242,7 @@
     "answer": 1,
     "chapter": "Circles and Tangents",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Let <latex>P</latex> be the external point, <latex>O</latex> the center, and <latex>T</latex> the point of contact. Step 2: <latex>\\Delta OTP</latex> is a right-angled triangle where <latex>OP = 41</latex> and <latex>OT = 9</latex>. Step 3: Use Pythagoras theorem: <latex>PT^{2} = OP^{2} - OT^{2} = 41^{2} - 9^{2} = 1681 - 81 = 1600</latex>. Step 4: <latex>PT = \\sqrt{1600} = 40</latex> cm."
   },
   {
@@ -1256,7 +1256,7 @@
     "answer": 1,
     "chapter": "Circles and Tangents",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: In cyclic quadrilateral <latex>ABCD</latex>, <latex>\\angle ABC = 180^{\\circ} - 130^{\\circ} = 50^{\\circ}</latex>. Step 2: <latex>\\angle ACB = 90^{\\circ}</latex> (angle in a semi-circle). Step 3: In <latex>\\Delta ABC</latex>, <latex>\\angle BAC = 180^{\\circ} - (90^{\\circ} + 50^{\\circ}) = 40^{\\circ}</latex>."
   },
   {
@@ -1270,7 +1270,7 @@
     "answer": 0,
     "chapter": "Circles and Tangents",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: In right <latex>\\Delta OTP</latex>, <latex>OT^{2} = OP^{2} - PT^{2}</latex>. Step 2: <latex>OT^{2} = 26^{2} - 24^{2} = 676 - 576 = 100</latex>. Step 3: <latex>OT = \\sqrt{100} = 10</latex> cm."
   },
   {
@@ -1284,7 +1284,7 @@
     "answer": 1,
     "chapter": "Circles and Tangents",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Let the tangents be <latex>PA</latex> and <latex>PB</latex>. <latex>\\angle APB = 60^{\\circ}</latex>. Step 2: <latex>OP</latex> bisects <latex>\\angle APB</latex>, so <latex>\\angle APO = 30^{\\circ}</latex>. Step 3: In right <latex>\\Delta OAP</latex>, <latex>\\tan 30^{\\circ} = OA/PA</latex>. Step 4: <latex>1/\\sqrt{3} = 3/PA \\Rightarrow PA = 3\\sqrt{3}</latex> cm."
   },
   {
@@ -1298,7 +1298,7 @@
     "answer": 2,
     "chapter": "Circles and Tangents",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Draw a common tangent at <latex>C</latex> intersecting <latex>AB</latex> at <latex>M</latex>. Step 2: <latex>MA = MC</latex> and <latex>MB = MC</latex> (tangents from an external point). Step 3: In <latex>\\Delta MAC</latex>, <latex>\\angle MAC = \\angle MCA</latex>. In <latex>\\Delta MBC</latex>, <latex>\\angle MBC = \\angle MCB</latex>. Step 4: In <latex>\\Delta ABC</latex>, <latex>\\angle ABC + \\angle BAC + \\angle ACB = 180^{\\circ}</latex>. Step 5: <latex>\\angle MBC + \\angle MAC + (\\angle MCA + \\angle MCB) = 180^{\\circ}</latex>. Step 6: <latex>2(\\angle MCA + \\angle MCB) = 180^{\\circ} \\Rightarrow 2\\angle ACB = 180^{\\circ} \\Rightarrow \\angle ACB = 90^{\\circ}</latex>."
   },
   {
@@ -1312,7 +1312,7 @@
     "answer": 0,
     "chapter": "Circles and Tangents",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Let the radius be <latex>r</latex> and the distance of the <latex>8</latex> cm chord from the center be <latex>x</latex>. Step 2: For the <latex>8</latex> cm chord, <latex>r^{2} = x^{2} + 4^{2} = x^{2} + 16</latex>. Step 3: For the <latex>6</latex> cm chord, the distance is <latex>x+1</latex>. So, <latex>r^{2} = (x+1)^{2} + 3^{2} = x^{2} + 2x + 1 + 9 = x^{2} + 2x + 10</latex>. Step 4: Equating both: <latex>x^{2} + 16 = x^{2} + 2x + 10 \\Rightarrow 6 = 2x \\Rightarrow x = 3</latex>. Step 5: <latex>r^{2} = 3^{2} + 16 = 25 \\Rightarrow r = 5</latex> cm."
   },
   {
@@ -1326,7 +1326,7 @@
     "answer": 1,
     "chapter": "Circles and Tangents",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: When circles intersect at two points, only direct common tangents are possible. Step 2: Transverse tangents cannot be drawn as they would pass through the interior of the intersection. Step 3: Thus, there are <latex>2</latex> common tangents."
   },
   {
@@ -1340,7 +1340,7 @@
     "answer": 0,
     "chapter": "Circles and Tangents",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: By the Alternate Segment Theorem, the angle between the tangent and the chord (<latex>\\angle PTA</latex>) is equal to the angle in the alternate segment (<latex>\\angle TBA</latex>). Step 2: In <latex>\\Delta PAT</latex>, the exterior angle <latex>\\angle PAT = \\angle PTA + \\angle PTA</latex>... wait. Step 1: Let's use <latex>\\angle PTA = \\angle ABT</latex>. Step 2: Since <latex>PT</latex> is tangent at <latex>T</latex>, <latex>\\angle PTA = \\angle ABT</latex>. Re-evaluating given values... if <latex>\\angle PAT = 70^{\\circ}</latex>, the sum in <latex>\\Delta</latex> is <latex>180^{\\circ}</latex>. (Example assumes geometry properties)."
   },
   {
@@ -1354,7 +1354,7 @@
     "answer": 1,
     "chapter": "Circles and Tangents",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: A segment smaller than a semi-circle is a minor segment. Step 2: The angle subtended by a minor arc in the minor segment is obtuse (greater than <latex>90^{\\circ}</latex>)."
   },
   {
@@ -1368,7 +1368,7 @@
     "answer": 0,
     "chapter": "Circles and Tangents",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Let <latex>AP = AR = x, BP = BQ = y, CQ = CR = z</latex>. Step 2: Equations: <latex>x+y=10, y+z=12, x+z=8</latex>. Step 3: Add all: <latex>2(x+y+z) = 30 \\Rightarrow x+y+z = 15</latex>. Step 4: <latex>y = (x+y+z) - (x+z) = 15 - 8 = 7</latex>. So <latex>BP = 7</latex>."
   },
   {
@@ -1382,7 +1382,7 @@
     "answer": 0,
     "chapter": "Circles and Tangents",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Let square side be <latex>a</latex>. Step 2: Incircle radius <latex>r = a/2</latex>. Step 3: Circumcircle radius <latex>R = \\text{diagonal}/2 = (a\\sqrt{2})/2 = a/\\sqrt{2}</latex>. Step 4: Area ratio <latex>= \\pi(a/2)^{2} : \\pi(a/\\sqrt{2})^{2} = a^{2}/4 : a^{2}/2 = 1/4 : 1/2 = 1 : 2</latex>."
   },
   {
@@ -1396,7 +1396,7 @@
     "answer": 2,
     "chapter": "Circles and Tangents",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: By the Alternate Segment Theorem, angle in the alternate segment is <latex>60^{\\circ}</latex>. Step 2: The angle at the center is double the angle at the circumference. Step 3: <latex>\\angle POQ = 2 \\times 60^{\\circ} = 120^{\\circ}</latex>."
   },
   {
@@ -1410,7 +1410,7 @@
     "answer": 1,
     "chapter": "Circles and Tangents",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Both statements are standard, correct theorems in circle geometry. Step 2: However, 'Angles in the same segment' is actually a *consequence* of the 'Angle at the center' theorem, not its explanation."
   },
   {
@@ -1424,7 +1424,7 @@
     "answer": 0,
     "chapter": "Circles and Tangents",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Let the point be <latex>P</latex> and center <latex>O</latex>, touching at <latex>A</latex> and <latex>B</latex>. Step 2: <latex>\\Delta OAP \\cong \\Delta OBP</latex> by SSS (radii are equal, tangents are equal per Reason, and <latex>OP</latex> is common). Step 3: By CPCT, <latex>\\angle AOP = \\angle BOP</latex>. Thus R explains why A is true."
   },
   {
@@ -1438,7 +1438,7 @@
     "answer": 0,
     "chapter": "Circles and Tangents",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: In a parallelogram, opposite angles are equal (<latex>x = x</latex>). Step 2: In a cyclic quadrilateral, opposite angles are supplementary (<latex>x + x = 180^{\\circ}</latex>). Step 3: This implies <latex>2x = 180^{\\circ} \\Rightarrow x = 90^{\\circ}</latex>. A parallelogram with a right angle is a rectangle."
   },
   {
@@ -1452,7 +1452,7 @@
     "answer": 1,
     "chapter": "Circles and Tangents",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Assertion is a property proven using congruent triangles formed by radii. Step 2: Reason is a true geometric fact about the uniqueness of bisectors. Step 3: However, the definition in R doesn't 'explain' the physical property in A; the proof of A relies on <latex>OA=OB</latex> (radii)."
   },
   {
@@ -1466,7 +1466,7 @@
     "answer": 0,
     "chapter": "Circles and Tangents",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Using the theorem that the angle at the center is twice the angle at the circumference. Step 2: Since the center angle for a semi-circle (diameter) is <latex>180^{\\circ}</latex>, the circumference angle must be <latex>180/2 = 90^{\\circ}</latex>."
   },
   {
@@ -1480,7 +1480,7 @@
     "answer": 0,
     "chapter": "Circles and Tangents",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: If the circles touch externally at <latex>C</latex>, then <latex>C</latex> is between centers <latex>O_1</latex> and <latex>O_2</latex>. Step 2: Because they are collinear (Reason), the total distance <latex>O_1O_2 = O_1C + CO_2</latex>. Step 3: Since <latex>O_1C = R</latex> and <latex>CO_2 = r</latex>, the distance is <latex>R + r</latex>."
   },
   {
@@ -1494,7 +1494,7 @@
     "answer": 3,
     "chapter": "Circles and Tangents",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: A line from a point inside a circle will always intersect the circle at two points (it is a secant). Step 2: Therefore, no tangent can be drawn from an internal point. Assertion is false. Step 3: Reason is the standard definition of a tangent, which is true."
   },
   {
@@ -1508,7 +1508,7 @@
     "answer": 0,
     "chapter": "Circles and Tangents",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: Any chord of the outer circle that touches the inner circle is at a distance equal to the radius of the inner circle from the center. Step 2: Since all these chords are at the same distance (<latex>r_{inner}</latex>), they must be equal in length according to the theorem in the Reason."
   },
   {
@@ -1522,7 +1522,7 @@
     "answer": 0,
     "chapter": "Circles and Tangents",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: The mathematical formula for tangent length is derived from Pythagoras theorem. Step 2: Since the radius (<latex>OT</latex>) is part of this formula, the value of the length (<latex>PT</latex>) directly depends on it."
   },
   {
@@ -1536,7 +1536,7 @@
     "answer": 1,
     "chapter": "Circles and Tangents",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Step 1: A cyclic rhombus must have opposite angles summing to <latex>180^{\\circ}</latex>. Since they are equal in a rhombus, each is <latex>90^{\\circ}</latex>. Step 2: A rhombus with <latex>90^{\\circ}</latex> angles is a square. Assertion is true. Step 3: Reason is a true property of squares but doesn't explain the angle constraint required for 'cyclic'."
   }  
 ]  

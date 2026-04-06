@@ -40,7 +40,7 @@
       },
       "complexity": {
         "type": "string",
-        "enum": ["low", "medium", "hard"],
+        "enum": ["low", "medium","high"],
         "description": "Difficulty level of the question"
       },
       "reason": {

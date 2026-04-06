@@ -1067,7 +1067,7 @@
     "answer": 3,
     "chapter": "Chemical Coordination in Plants",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Ethylene is produced in fruits and remain in the same fruit. Therefore unlike other hormones, its site of synthesis and site of action are not different[cite: 3298, 3299]."
   },
   {
@@ -1137,7 +1137,7 @@
     "answer": 2,
     "chapter": "Chemical Coordination in Plants",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The radicles start growing upwards towards the moist sawdust (against gravity), proving that for roots, water is a more effective stimulus than gravity[cite: 3421, 3422, 3423, 3424]."
   },
   {
@@ -1221,7 +1221,7 @@
     "answer": 1,
     "chapter": "Chemical Coordination in Plants",
     "category": "Tricky",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Stem cell elongation requires more auxin in comparison to roots[cite: 3268]."
   },
   {
@@ -1375,7 +1375,7 @@
     "answer": 3,
     "chapter": "Chemical Coordination in Plants",
     "category": "HOTS",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Both A and R are false. Ethylene is produced in fruits and remains there; its site of synthesis and action are NOT different[cite: 3298, 3299]."
   },
   {
@@ -1403,7 +1403,7 @@
     "answer": 2,
     "chapter": "Chemical Coordination in Plants",
     "category": "HOTS",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "A is true, but R is false. Auxins accumulate in the region of the shoot which is NOT facing the light (shaded region) to cause elongation[cite: 3339, 3340]."
   },
   {
@@ -1431,7 +1431,7 @@
     "answer": 2,
     "chapter": "Chemical Coordination in Plants",
     "category": "HOTS",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "A is true, but R is false. Heliotropism is driven by Auxins migrating to the shaded region to stimulate cell growth, not cytokinins on the sunny side[cite: 3434, 3435, 3437, 3438]."
   },
   {
@@ -1473,7 +1473,7 @@
     "answer": 1,
     "chapter": "Absorption by Roots",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "When a cell is fully turgid, the outward turgor pressure exerted by the cell contents is perfectly counterbalanced by the inward wall pressure exerted by the rigid cell wall, leading to a state of equilibrium where no further net water absorption occurs."
   },
   {
@@ -1487,7 +1487,7 @@
     "answer": 1,
     "chapter": "Absorption by Roots",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "High fertilizer concentration makes the soil water hypertonic relative to the cell sap. This causes water to move out of the root hairs (exosmosis), leading to plasmolysis and eventual death of the cells."
   },
   {
@@ -1501,7 +1501,7 @@
     "answer": 2,
     "chapter": "Absorption by Roots",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Phloem conducts manufactured food downwards. Removing the phloem stops the downward flow of sugar, causing it to accumulate and form a bulge just above the girdle, while the roots eventually starve."
   },
   {
@@ -1557,7 +1557,7 @@
     "answer": 1,
     "chapter": "Absorption by Roots",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The solution in the bag is hypertonic (higher solute/lower water concentration) compared to the beaker. Water will move into the bag by osmosis, increasing its weight."
   },
   {
@@ -1585,7 +1585,7 @@
     "answer": 1,
     "chapter": "Absorption by Roots",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "While both undergo endosmosis, the rigid cellulose cell wall of the plant cell provides mechanical strength and exerts wall pressure that limits expansion, whereas the RBC lacks a wall and eventually ruptures."
   },
   {
@@ -1669,7 +1669,7 @@
     "answer": 1,
     "chapter": "Absorption by Roots",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Dittmer worked out that while the root length was <latex>600 \\text{ km}</latex>, the total length of the <latex>14 \\text{ billion}</latex> root hairs exceeded <latex>10,000 \\text{ km}</latex>."
   },
   {
@@ -1795,7 +1795,7 @@
     "answer": 2,
     "chapter": "Absorption by Roots",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "While the wall is freely permeable, the plasma membrane is semi-permeable, allowing water molecules to pass while regulating larger solute molecules."
   },
   {
@@ -1865,7 +1865,7 @@
     "answer": 2,
     "chapter": "Absorption by Roots",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Because the cell wall is freely permeable, the external hypertonic solution passes through it and fills the gap created when the plasma membrane shrinks away."
   },
   {
@@ -1907,7 +1907,7 @@
     "answer": 3,
     "chapter": "Absorption by Roots",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "A is false because root pressure can only push water to a limited height (sufficient for herbaceous plants but not tall trees). R is a true description of root pressure."
   },
   {
@@ -1921,7 +1921,7 @@
     "answer": 2,
     "chapter": "Absorption by Roots",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "A is true, but R is false because active transport involves movement against the concentration gradient (lower to higher)."
   },
   {
@@ -1949,7 +1949,7 @@
     "answer": 2,
     "chapter": "Absorption by Roots",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "A is true (it acts as a rigid outer layer), but R is false because the cell wall is freely permeable, not semi-permeable."
   },
   {
@@ -1977,7 +1977,7 @@
     "answer": 1,
     "chapter": "Absorption by Roots",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Both statements are true facts from the text, but the behavior of seeds (R) does not explain 'why' imbibition is a force in the ascent of sap (A)."
   },
   {
@@ -1991,7 +1991,7 @@
     "answer": 0,
     "chapter": "Absorption by Roots",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Plants use energy to keep a high solute concentration in roots, which lowers the water potential and drives water uptake from the soil via osmosis."
   },
   {
@@ -2019,7 +2019,7 @@
     "answer": 1,
     "chapter": "Absorption by Roots",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Both are true, but the freshness of leaves (which proves xylem is intact) is an observation that 'confirms' the location rather than 'explaining the reason' why it is situated deeper."
   }
  
