@@ -234,7 +234,7 @@
     "answer": 1,
     "chapter": "Shares and Dividends",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Formula: Dividend % on N.V. = Profit % on M.V. (10/100 × 50) = (8/100 × M.V.). 5 = 0.08 × M.V. ⇒ M.V. = 5 / 0.08 = ₹62.50."
   },
   {
@@ -332,7 +332,7 @@
     "answer": 2,
     "chapter": "GST [Goods and Services Tax]",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Formula: IGST Liability = Output IGST - Input IGST. Profit = 10% of 25,000 = 2,500. Tax on Profit = 28% of 2,500 = ₹700."
   },
   {
@@ -374,7 +374,7 @@
     "answer": 0,
     "chapter": "GST [Goods and Services Tax]",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Formula: Tax Paid = GST on (S.P. - C.P.). Profit = 4,000. Total GST = 18% of 4,000 = ₹720. CGST = SGST = 720 / 2 = ₹360."
   },
   {
@@ -556,7 +556,7 @@
     "answer": 1,
     "chapter": "Banking",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Formula: Factor = [n(n+1)] / 24. For n = 24, Factor = [24 × 25] / 24 = 25."
   },
   {
@@ -626,7 +626,7 @@
     "answer": 1,
     "chapter": "Banking",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Formula: I ∝ n(n+1). Interest is not linear. For 2 years (n=24), Factor = 24*25/24 = 25. For 1 year (n=12), Factor = 12*13/24 = 6.5. 6.5 is less than half of 25 (12.5), so interest is less than 390."
   }
 ]

@@ -10,7 +10,7 @@
     "answer": 1,
     "chapter": "Trigonometrical Identities",
     "category": "Simplification",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>\\frac{\\sin^2 A + (1+\\cos A)^2}{\\sin A(1+\\cos A)} = \\frac{\\sin^2 A + 1 + 2\\cos A + \\cos^2 A}{\\sin A(1+\\cos A)} = \\frac{2+2\\cos A}{\\sin A(1+\\cos A)} = \\frac{2(1+\\cos A)}{\\sin A(1+\\cos A)} = 2\\csc A</latex>."
   },
   {
@@ -24,7 +24,7 @@
     "answer": 2,
     "chapter": "Trigonometrical Identities",
     "category": "Simplification",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Substitute <latex>\\tan A = \\frac{\\sin A}{\\cos A}</latex> and <latex>\\cot A = \\frac{\\cos A}{\\sin A}</latex>. The expression becomes <latex>\\frac{\\cos^2 A}{\\cos A - \\sin A} + \\frac{\\sin^2 A}{\\sin A - \\cos A} = \\frac{\\cos^2 A - \\sin^2 A}{\\cos A - \\sin A} = \\cos A + \\sin A</latex>."
   },
   {
@@ -38,7 +38,7 @@
     "answer": 2,
     "chapter": "Trigonometrical Identities",
     "category": "Simplification",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Replace the <latex>1</latex> in the numerator with <latex>\\sec^2 A - \\tan^2 A</latex>. The numerator becomes <latex>(\\tan A + \\sec A) - (\\sec A - \\tan A)(\\sec A + \\tan A) = (\\tan A + \\sec A)(1 - \\sec A + \\tan A)</latex>. Canceling with the denominator leaves <latex>\\tan A + \\sec A = \\frac{\\sin A + 1}{\\cos A}</latex>."
   },
   {
@@ -52,7 +52,7 @@
     "answer": 1,
     "chapter": "Trigonometrical Identities",
     "category": "Equivalence",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Multiply numerator and denominator by <latex>(1-\\sin A)</latex> to get <latex>\\frac{(1-\\sin A)^2}{1-\\sin^2 A} = \\frac{(1-\\sin A)^2}{\\cos^2 A} = (\\frac{1}{\\cos A} - \\frac{\\sin A}{\\cos A})^2 = (\\sec A - \\tan A)^2</latex>."
   },
   {
@@ -66,7 +66,7 @@
     "answer": 1,
     "chapter": "Trigonometrical Identities",
     "category": "Algebraic Manipulation",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Using <latex>a^3 \\pm b^3 = (a \\pm b)(a^2 \\mp ab + b^2)</latex>, the expression becomes <latex>(\\cos^2 A - \\sin A \\cos A + \\sin^2 A) + (\\cos^2 A + \\sin A \\cos A + \\sin^2 A) = (1 - \\sin A \\cos A) + (1 + \\sin A \\cos A) = 2</latex>."
   },
   {
@@ -80,7 +80,7 @@
     "answer": 2,
     "chapter": "Trigonometrical Identities",
     "category": "Simplification",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>\\sec^4 A - \\sec^4 A \\sin^4 A - 2\\tan^2 A = \\sec^4 A - \\tan^4 A - 2\\tan^2 A = (\\sec^2 A - \\tan^2 A)(\\sec^2 A + \\tan^2 A) - 2\\tan^2 A = 1(1 + 2\\tan^2 A) - 2\\tan^2 A = 1</latex>."
   },
   {
@@ -94,7 +94,7 @@
     "answer": 2,
     "chapter": "Trigonometrical Identities",
     "category": "Evaluation",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Convert to sine and cosine: <latex>(\\frac{\\sin A + \\cos A - 1}{\\sin A})(\\frac{\\cos A + \\sin A + 1}{\\cos A}) = \\frac{(\\sin A + \\cos A)^2 - 1}{\\sin A \\cos A} = \\frac{\\sin^2 A + \\cos^2 A + 2\\sin A \\cos A - 1}{\\sin A \\cos A} = \\frac{2\\sin A \\cos A}{\\sin A \\cos A} = 2</latex>."
   },
   {
@@ -108,7 +108,7 @@
     "answer": 1,
     "chapter": "Trigonometrical Identities",
     "category": "Equivalence",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Multiply by <latex>\\frac{1-\\cos A}{1-\\cos A}</latex> inside the root: <latex>\\sqrt{\\frac{(1-\\cos A)^2}{\\sin^2 A}} = \\frac{1-\\cos A}{\\sin A} = \\csc A - \\cot A</latex>."
   },
   {
@@ -122,7 +122,7 @@
     "answer": 1,
     "chapter": "Trigonometrical Identities",
     "category": "Simplification",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>\\frac{\\sin^2 A / \\cos A}{1-\\cos A} = \\frac{1-\\cos^2 A}{\\cos A(1-\\cos A)} = \\frac{(1-\\cos A)(1+\\cos A)}{\\cos A(1-\\cos A)} = \\frac{1+\\cos A}{\\cos A} = \\sec A + 1</latex>."
   },
   {
@@ -136,7 +136,7 @@
     "answer": 2,
     "chapter": "Trigonometrical Identities",
     "category": "Equivalence",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>1+\\tan^2 A = \\sec^2 A</latex>. The expression becomes <latex>\\frac{\\sec^2 A \\cdot \\cot A}{\\csc^2 A} = \\frac{(1/\\cos^2 A) \\cdot (\\cos A/\\sin A)}{1/\\sin^2 A} = \\frac{\\sin^2 A}{\\cos A \\sin A} = \\tan A</latex>."
   },
   {
@@ -150,7 +150,7 @@
     "answer": 1,
     "chapter": "Trigonometrical Identities",
     "category": "Algebraic Manipulation",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Common denominator: <latex>\\frac{\\sin A - \\cos A + \\sin A + \\cos A}{\\sin^2 A - \\cos^2 A} = \\frac{2\\sin A}{\\sin^2 A - (1-\\sin^2 A)} = \\frac{2\\sin A}{2\\sin^2 A - 1}</latex>. Also <latex>\\sin^2 A - \\cos^2 A = (1-\\cos^2 A) - \\cos^2 A = 1-2\\cos^2 A</latex>. Thus, it is <latex>\\frac{2\\sin A}{1-2\\cos^2 A}</latex>."
   },
   {
@@ -164,7 +164,7 @@
     "answer": 1,
     "chapter": "Trigonometrical Identities",
     "category": "Evaluation",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>(\\frac{1-\\sin^2 A}{\\sin A})(\\frac{1-\\cos^2 A}{\\cos A})(\\frac{\\sin^2 A + \\cos^2 A}{\\sin A \\cos A}) = (\\frac{\\cos^2 A}{\\sin A})(\\frac{\\sin^2 A}{\\cos A})(\\frac{1}{\\sin A \\cos A}) = \\frac{\\cos^2 A \\sin^2 A}{\\sin^2 A \\cos^2 A} = 1</latex>."
   },
   {
@@ -178,7 +178,7 @@
     "answer": 1,
     "chapter": "Trigonometrical Identities",
     "category": "Simplification",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>2 - \\sec^2 A = 2 - (1+\\tan^2 A) = 1 - \\tan^2 A = (1-\\tan A)(1+\\tan A)</latex>. Numerator is <latex>\\frac{1}{\\tan A} - 1 = \\frac{1-\\tan A}{\\tan A}</latex>. Thus, the expression is <latex>\\frac{1-\\tan A}{\\tan A(1-\\tan A)(1+\\tan A)} = \\frac{\\cot A}{1+\\tan A}</latex>."
   },
   {
@@ -192,7 +192,7 @@
     "answer": 1,
     "chapter": "Trigonometrical Identities",
     "category": "Simplification",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>\\frac{\\csc A(\\csc A + 1 + \\csc A - 1)}{\\csc^2 A - 1} = \\frac{2\\csc^2 A}{\\cot^2 A} = \\frac{2/\\sin^2 A}{\\cos^2 A/\\sin^2 A} = \\frac{2}{\\cos^2 A} = 2\\sec^2 A</latex>."
   },
   {
@@ -206,7 +206,7 @@
     "answer": 1,
     "chapter": "Trigonometrical Identities",
     "category": "Equivalence",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Factor out <latex>\\sin \\theta</latex> and <latex>\\cos \\theta</latex>: <latex>\\frac{\\sin \\theta(1-2\\sin^2 \\theta)}{\\cos \\theta(2\\cos^2 \\theta - 1)}</latex>. Since <latex>1-2\\sin^2 \\theta = 1 - 2(1-\\cos^2 \\theta) = 2\\cos^2 \\theta - 1</latex>, the bracketed terms cancel out, leaving <latex>\\frac{\\sin \\theta}{\\cos \\theta} = \\tan \\theta</latex>."
   },
   {
@@ -220,7 +220,7 @@
     "answer": 2,
     "chapter": "Trigonometrical Identities",
     "category": "Evaluation",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>(1+\\cot^2 A) = \\csc^2 A</latex>. <latex>(1-\\cos A)(1+\\cos A) = 1-\\cos^2 A = \\sin^2 A</latex>. The product is <latex>\\csc^2 A \\cdot \\sin^2 A = 1</latex>."
   },
   {
@@ -234,7 +234,7 @@
     "answer": 2,
     "chapter": "Trigonometrical Identities",
     "category": "Simplification",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Separate the fraction: <latex>\\frac{\\sin^4 A}{\\sin^2 A \\cos^2 A} + \\frac{\\cos^4 A}{\\sin^2 A \\cos^2 A} = \\frac{\\sin^2 A}{\\cos^2 A} + \\frac{\\cos^2 A}{\\sin^2 A} = \\tan^2 A + \\cot^2 A</latex>."
   },
   {
@@ -248,7 +248,7 @@
     "answer": 0,
     "chapter": "Trigonometrical Identities",
     "category": "Equivalence",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>(1+\\tan^2 A) + (1+\\cot^2 A) = \\sec^2 A + \\csc^2 A = \\frac{1}{\\cos^2 A} + \\frac{1}{\\sin^2 A} = \\frac{\\sin^2 A + \\cos^2 A}{\\sin^2 A \\cos^2 A} = \\frac{1}{\\sin^2 A (1-\\sin^2 A)} = \\frac{1}{\\sin^2 A - \\sin^4 A}</latex>."
   },
   {
@@ -262,7 +262,7 @@
     "answer": 2,
     "chapter": "Trigonometrical Identities",
     "category": "Simplification",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>(\\cos^2 A - \\sin^2 A)(\\cos^2 A + \\sin^2 A) = (\\cos^2 A - \\sin^2 A)(1) = \\cos^2 A - (1-\\cos^2 A) = 2\\cos^2 A - 1</latex>."
   },
   {
@@ -276,7 +276,7 @@
     "answer": 1,
     "chapter": "Trigonometrical Identities",
     "category": "Simplification",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>1 + \\cot^2 A + 2\\cot A + 1 + \\cot^2 A - 2\\cot A = 2 + 2\\cot^2 A = 2(1+\\cot^2 A) = 2\\csc^2 A</latex>."
   },
   {
@@ -290,7 +290,7 @@
     "answer": 2,
     "chapter": "Trigonometrical Identities",
     "category": "Evaluation",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>(\\sin \\theta + \\cos \\theta)(\\frac{\\sin \\theta}{\\cos \\theta} + \\frac{\\cos \\theta}{\\sin \\theta}) = (\\sin \\theta + \\cos \\theta)(\\frac{\\sin^2 \\theta + \\cos^2 \\theta}{\\sin \\theta \\cos \\theta}) = \\frac{\\sin \\theta + \\cos \\theta}{\\sin \\theta \\cos \\theta} = \\frac{1}{\\cos \\theta} + \\frac{1}{\\sin \\theta} = \\sec \\theta + \\csc \\theta</latex>."
   },
   {
@@ -304,7 +304,7 @@
     "answer": 0,
     "chapter": "Trigonometrical Identities",
     "category": "Conditional Identities",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Squaring both sides gives <latex>\\sin^2 A + \\cos^2 A + 2\\sin A \\cos A = 3 \\implies 1 + 2\\sin A \\cos A = 3 \\implies \\sin A \\cos A = 1</latex>. Then, <latex>\\tan A + \\cot A = \\frac{\\sin^2 A + \\cos^2 A}{\\sin A \\cos A} = \\frac{1}{1} = 1</latex>."
   },
   {
@@ -318,7 +318,7 @@
     "answer": 1,
     "chapter": "Trigonometrical Identities",
     "category": "Conditional Identities",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>p^2 = (\\frac{1+\\sin A}{\\cos A})^2 = \\frac{(1+\\sin A)^2}{1-\\sin^2 A} = \\frac{1+\\sin A}{1-\\sin A}</latex>. Solving <latex>\\frac{1+\\sin A}{1-\\sin A} = p^2</latex> for <latex>\\sin A</latex> yields <latex>\\sin A = \\frac{p^2-1}{p^2+1}</latex>."
   },
   {
@@ -332,7 +332,7 @@
     "answer": 1,
     "chapter": "Trigonometrical Identities",
     "category": "Conditional Identities",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Squaring and adding both equations: <latex>(x^2\\cos^2 A + y^2\\sin^2 A + 2xy\\sin A\\cos A) + (x^2\\sin^2 A + y^2\\cos^2 A - 2xy\\sin A\\cos A) = x^2(\\cos^2 A + \\sin^2 A) + y^2(\\sin^2 A + \\cos^2 A) = x^2 + y^2 = m^2 + n^2</latex>."
   },
   {
@@ -346,7 +346,7 @@
     "answer": 1,
     "chapter": "Trigonometrical Identities",
     "category": "Conditional Identities",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>m^2 - n^2 = (a^2\\sec^2 A + b^2\\tan^2 A + 2ab\\sec A\\tan A) - (a^2\\tan^2 A + b^2\\sec^2 A + 2ab\\sec A\\tan A) = a^2(\\sec^2 A - \\tan^2 A) - b^2(\\sec^2 A - \\tan^2 A) = a^2 - b^2</latex>."
   },
   {
@@ -360,7 +360,7 @@
     "answer": 1,
     "chapter": "Trigonometrical Identities",
     "category": "Conditional Identities",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>(\\frac{\\cos^2 A}{\\cos^2 B} + \\frac{\\cos^2 A}{\\sin^2 B})\\cos^2 B = \\cos^2 A (\\frac{\\sin^2 B + \\cos^2 B}{\\cos^2 B \\sin^2 B})\\cos^2 B = \\frac{\\cos^2 A}{\\sin^2 B} = n^2</latex>."
   },
   {
@@ -374,7 +374,7 @@
     "answer": 1,
     "chapter": "Trigonometrical Identities",
     "category": "Conditional Identities",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>m^2 - n^2 = (m+n)(m-n) = (2\\tan A)(2\\sin A) = 4\\tan A \\sin A</latex>. Also, <latex>4\\sqrt{mn} = 4\\sqrt{\\tan^2 A - \\sin^2 A} = 4\\sqrt{\\frac{\\sin^2 A}{\\cos^2 A} - \\sin^2 A} = 4\\sin A\\sqrt{\\sec^2 A - 1} = 4\\sin A \\tan A</latex>. Thus <latex>m^2-n^2 = 4\\sqrt{mn}</latex>."
   },
   {
@@ -388,7 +388,7 @@
     "answer": 1,
     "chapter": "Trigonometrical Identities",
     "category": "Complementary Angles",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Since <latex>\\sin(90^\\circ-A) = \\cos A</latex> and <latex>\\cos(90^\\circ-A) = \\sin A</latex>, the expression becomes <latex>\\frac{\\sin A}{\\cos A} + \\frac{\\cos A}{\\sin A} = \\frac{\\sin^2 A + \\cos^2 A}{\\sin A \\cos A} = \\frac{1}{\\sin A \\cos A} = \\sec A \\csc A</latex>."
   },
   {
@@ -402,7 +402,7 @@
     "answer": 0,
     "chapter": "Trigonometrical Identities",
     "category": "Complementary Angles",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Using <latex>\\cos(90^\\circ-\\theta) = \\sin \\theta</latex>, the expression is <latex>\\frac{\\sin \\theta \\cos \\theta}{\\cos \\theta / \\sin \\theta} = \\sin^2 \\theta</latex>."
   },
   {
@@ -416,7 +416,7 @@
     "answer": 1,
     "chapter": "Trigonometrical Identities",
     "category": "Complementary Angles",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Since <latex>A+B+C = 180^\\circ</latex>, <latex>\\frac{A+B}{2} = 90^\\circ - \\frac{C}{2}</latex>. Thus <latex>\\sin(90^\\circ - \\frac{C}{2}) = \\cos(\\frac{C}{2})</latex>."
   },
   {
@@ -430,7 +430,7 @@
     "answer": 1,
     "chapter": "Trigonometrical Identities",
     "category": "Evaluation",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Since <latex>\\sin 56^\\circ = \\cos 34^\\circ</latex> and <latex>\\tan 72^\\circ = \\cot 18^\\circ</latex>, the expression is <latex>(\\sin^2 34^\\circ + \\cos^2 34^\\circ) + 2(\\tan 18^\\circ \\cot 18^\\circ) - (\\sqrt{3})^2 = 1 + 2(1) - 3 = 0</latex>."
   },
   {
@@ -444,7 +444,7 @@
     "answer": 0,
     "chapter": "Trigonometrical Identities",
     "category": "Evaluation",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>\\tan 33^\\circ = \\cot 57^\\circ</latex>, so <latex>\\csc^2 57^\\circ - \\cot^2 57^\\circ = 1</latex>. <latex>\\csc 46^\\circ = \\sec 44^\\circ</latex>, so <latex>\\cos 44^\\circ \\sec 44^\\circ = 1</latex>. Expression <latex>= 1 + 1 - \\sqrt{2}(1/\\sqrt{2}) - (\\sqrt{3})^2 = 2 - 1 - 3 = -2</latex>."
   },
   {
@@ -458,7 +458,7 @@
     "answer": 2,
     "chapter": "Trigonometrical Identities",
     "category": "Equations",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>\\frac{\\cos A(1+\\sin A) + \\cos A(1-\\sin A)}{1-\\sin^2 A} = \\frac{2\\cos A}{\\cos^2 A} = 2\\sec A</latex>. So <latex>2\\sec A = 4 \\implies \\sec A = 2 \\implies \\cos A = 1/2 \\implies A = 60^\\circ</latex>."
   },
   {
@@ -472,7 +472,7 @@
     "answer": 3,
     "chapter": "Trigonometrical Identities",
     "category": "Equations",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>\\frac{\\sin A(\\sec A + 1 + \\sec A - 1)}{\\sec^2 A - 1} = \\frac{2\\sin A \\sec A}{\\tan^2 A} = \\frac{2\\tan A}{\\tan^2 A} = \\frac{2}{\\tan A} = 2\\cot A</latex>. Wait, <latex>\\sin A \\sec A = \\tan A</latex>. So <latex>2\\tan A / \\tan^2 A = 2\\cot A</latex>. But <latex>\\frac{2\\sin A (1/\\cos A)}{\\sin^2 A/\\cos^2 A} = \\frac{2\\tan A}{\\tan A \\cdot \\sin A / \\cos A} = \\frac{2}{\\sin A} = 2\\csc A</latex>. <latex>2\\csc A = 2 \\implies \\csc A = 1 \\implies A = 90^\\circ</latex>."
   },
   {
@@ -486,7 +486,7 @@
     "answer": 1,
     "chapter": "Trigonometrical Identities",
     "category": "Conditional Identities",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>x = \\frac{\\csc A}{2} \\implies x^2 = \\frac{\\csc^2 A}{4}</latex>. <latex>y = 2\\tan A \\implies \\frac{1}{y^2} = \\frac{\\cot^2 A}{4}</latex>. Thus <latex>x^2 - \\frac{1}{y^2} = \\frac{\\csc^2 A - \\cot^2 A}{4} = \\frac{1}{4}</latex>."
   },
   {
@@ -500,7 +500,7 @@
     "answer": 2,
     "chapter": "Trigonometrical Identities",
     "category": "Equations",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>\\cos 3A \\cdot \\csc 42^\\circ = 1 \\implies \\cos 3A = \\sin 42^\\circ</latex>. Since <latex>\\sin 42^\\circ = \\cos 48^\\circ</latex>, we have <latex>3A = 48^\\circ \\implies A = 16^\\circ</latex>."
   },
   {
@@ -514,7 +514,7 @@
     "answer": 1,
     "chapter": "Trigonometrical Identities",
     "category": "Simplification",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>\\frac{\\cos^3 A}{\\cos A - \\sin A} - \\frac{\\sin^3 A}{\\cos A - \\sin A} = \\frac{\\cos^3 A - \\sin^3 A}{\\cos A - \\sin A} = \\frac{(\\cos A - \\sin A)(\\cos^2 A + \\cos A \\sin A + \\sin^2 A)}{\\cos A - \\sin A} = 1 + \\sin A \\cos A</latex>."
   },
   {
@@ -528,7 +528,7 @@
     "answer": 1,
     "chapter": "Trigonometrical Identities",
     "category": "Simplification",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Numerator expands to <latex>1 + \\sec^2 A + \\tan^2 A - 2\\sec A \\tan A = 2\\sec^2 A - 2\\sec A \\tan A = 2\\sec A(\\sec A - \\tan A)</latex>. Dividing by denominator gives <latex>\\frac{2\\sec A}{\\csc A} = 2\\tan A</latex>."
   },
   {
@@ -542,7 +542,7 @@
     "answer": 2,
     "chapter": "Trigonometrical Identities",
     "category": "Simplification",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Numerator expands to <latex>\\csc^2 A + \\cot^2 A - 2\\csc A \\cot A + 1 = 2\\csc^2 A - 2\\csc A \\cot A = 2\\csc A(\\csc A - \\cot A)</latex>. Dividing by <latex>\\sec A(\\csc A - \\cot A)</latex> leaves <latex>\\frac{2\\csc A}{\\sec A} = 2\\cot A</latex>."
   },
   {
@@ -556,7 +556,7 @@
     "answer": 1,
     "chapter": "Trigonometrical Identities",
     "category": "Complementary Angles",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Substitute <latex>B = 90^\\circ - A</latex>: <latex>\\cot A \\tan A - \\sin A \\sin A - \\cos A \\cos A = 1 - (\\sin^2 A + \\cos^2 A) = 1 - 1 = 0</latex>."
   },
   {
@@ -570,7 +570,7 @@
     "answer": 0,
     "chapter": "Trigonometrical Identities",
     "category": "Complementary Angles",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>\\cos(90^\\circ-A) = \\sin A</latex>. LHS = <latex>\\frac{1}{1+\\sin A} + \\frac{1}{1-\\sin A} = \\frac{1-\\sin A + 1+\\sin A}{1-\\sin^2 A} = \\frac{2}{\\cos^2 A} = 2\\sec^2 A</latex>. Since <latex>2\\sec^2 A = 2\\csc^2(90^\\circ-A)</latex>, the first choice is correct."
   },
   {
@@ -584,7 +584,7 @@
     "answer": 0,
     "chapter": "Trigonometrical Identities",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Both statements are correct. Multiplying by the conjugate <latex>(1-\\cos A)</latex> creates a difference of squares in the denominator (<latex>1-\\cos^2 A = \\sin^2 A</latex>), allowing simplification into <latex>\\frac{1}{\\sin A} - \\frac{\\cos A}{\\sin A} = \\csc A - \\cot A</latex>."
   },
   {
@@ -598,7 +598,7 @@
     "answer": 0,
     "chapter": "Trigonometrical Identities",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The reasoning correctly maps the conversion of the terms to sines and cosines, forming <latex>\\frac{\\sin A+\\cos A-1}{\\sin A} \\times \\frac{\\sin A+\\cos A+1}{\\cos A}</latex>. This perfectly yields the stated expansion and conclusion."
   },
   {
@@ -612,7 +612,7 @@
     "answer": 0,
     "chapter": "Trigonometrical Identities",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The assertion is a standard property of complementary angles, and the reason explicitly derives it using the fundamental trigonometric identity <latex>\\sin^2 A + \\cos^2 A = 1</latex>."
   },
   {
@@ -626,7 +626,7 @@
     "answer": 0,
     "chapter": "Trigonometrical Identities",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>\\sec^2 \\theta(\\sec^2 \\theta - 1) = (1+\\tan^2 \\theta)(\\tan^2 \\theta) = \\tan^2 \\theta + \\tan^4 \\theta</latex>. The reason correctly outlines this proof methodology."
   },
   {
@@ -640,7 +640,7 @@
     "answer": 0,
     "chapter": "Trigonometrical Identities",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The algebraic step in the reason directly evaluates the assertion to be true."
   },
   {
@@ -654,7 +654,7 @@
     "answer": 0,
     "chapter": "Trigonometrical Identities",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Every <latex>\\tan x</latex> pairs with <latex>\\tan(90^\\circ-x)</latex> to equal 1 (e.g., <latex>\\tan 1^\\circ \\tan 89^\\circ = 1</latex>). The middle term <latex>\\tan 45^\\circ</latex> is also 1. The reason justifies the assertion perfectly."
   },
   {
@@ -668,7 +668,7 @@
     "answer": 3,
     "chapter": "Trigonometrical Identities",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The assertion is false because <latex>\\frac{1+\\sin A}{\\cos A} = \\sec A + \\tan A</latex>, not minus. The reason is a true mathematical statement correcting the assertion."
   },
   {
@@ -682,7 +682,7 @@
     "answer": 0,
     "chapter": "Trigonometrical Identities",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The reason maps out the exact algebraic simplification step-by-step to prove the assertion."
   },
   {
@@ -696,7 +696,7 @@
     "answer": 0,
     "chapter": "Trigonometrical Identities",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "<latex>\\frac{x}{a} = \\cos \\theta</latex> and <latex>\\frac{y}{b} = \\sin \\theta</latex>. Squaring and adding gives <latex>\\cos^2 \\theta + \\sin^2 \\theta = 1</latex>, strictly matching the given reason."
   },
   {
@@ -710,7 +710,7 @@
     "answer": 0,
     "chapter": "Trigonometrical Identities",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The reason provides the perfect algebraic method to rationalize the denominator and isolate the assertion's RHS."
   },
   {
@@ -724,7 +724,7 @@
     "answer": 0,
     "chapter": "Trigonometrical Identities",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The algebraic explanation explicitly references the mechanism by which the cross terms (<latex>2ab\\sec \\theta \\tan \\theta</latex>) cancel and the squares resolve to the coefficients."
   },
   {
@@ -738,7 +738,7 @@
     "answer": 0,
     "chapter": "Trigonometrical Identities",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The transformation logically proceeds from the denominator identity to the reciprocal identity, finishing with <latex>\\cos^2 A + \\sin^2 A = 1</latex>."
   },
   {
@@ -752,7 +752,7 @@
     "answer": 0,
     "chapter": "Trigonometrical Identities",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The reason elegantly tracks the identity conversion from sum of squares to product of squares, taking the root, and expanding back to sums."
   },
   {
@@ -766,7 +766,7 @@
     "answer": 0,
     "chapter": "Trigonometrical Identities",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The reason maps the exact simplification strategy that leads to <latex>\\frac{\\cos^2 A - \\sin^2 A}{\\cos A - \\sin A} = \\cos A + \\sin A</latex>."
   },
   {
@@ -780,7 +780,7 @@
     "answer": 0,
     "chapter": "Trigonometrical Identities",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The reason accurately factors the difference of squares, applies <latex>\\tan^2 A - \\sec^2 A = -1</latex>, and substitutes <latex>\\tan^2 A</latex> with <latex>\\sec^2 A - 1</latex>."
   },
   {
@@ -794,7 +794,7 @@
     "answer": 3,
     "chapter": "Trigonometrical Identities",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The assertion claims the value is 0, but the reason correctly proves the value evaluates to 2."
   },
   {
@@ -808,7 +808,7 @@
     "answer": 0,
     "chapter": "Trigonometrical Identities",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The reason isolates the exact remaining polynomials after division which perfectly sum to 2."
   },
   {
@@ -822,7 +822,7 @@
     "answer": 0,
     "chapter": "Trigonometrical Identities",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Using the conjugate <latex>(1+\\cos A)</latex> creates <latex>1-\\cos^2 A = \\sin^2 A</latex> in the denominator, allowing cancellation with <latex>\\sin A</latex> and conversion of <latex>\\tan A</latex> to yield <latex>1+\\sec A</latex>."
   },
   {
@@ -836,7 +836,7 @@
     "answer": 0,
     "chapter": "Trigonometrical Identities",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "This is the standard proof for spherical coordinates converting to Cartesian coordinates squared, flawlessly outlined in the reason."
   },
   {
@@ -850,7 +850,7 @@
     "answer": 0,
     "chapter": "Trigonometrical Identities",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The reason correctly documents the expansion and the Pythagorean identity <latex>\\sin^2 A + \\cos^2 A = 1</latex> to consolidate the numerator."
   },
 {

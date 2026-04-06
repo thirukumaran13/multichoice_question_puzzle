@@ -304,7 +304,7 @@
     "answer": 3,
     "chapter": "Human Evolution",
     "category": "HOTS",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Both statements describe Lamarck's theory, not Darwin's theory. Darwin explained the long neck through natural selection of inherent variations."
   },
   {
@@ -374,7 +374,7 @@
     "answer": 3,
     "chapter": "Human Evolution",
     "category": "HOTS",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Both A and R are false. 'Handy Man' and the first extensive use of chipped stone tools is attributed to Homo habilis, not Homo erectus."
   },
   {
@@ -402,7 +402,7 @@
     "answer": 2,
     "chapter": "Human Evolution",
     "category": "HOTS",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "A is true, but R is false. Early human ancestors and apes lacked a well-developed, prominent chin; they often had receding jaws."
   },
   {
@@ -626,7 +626,7 @@
     "answer": 2,
     "chapter": "Population - The Increasing Numbers and Rising Problems",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Abortion is legally permitted only within 5 months of pregnancy. [cite: 2343]"
   },
   {
@@ -710,7 +710,7 @@
     "answer": 1,
     "chapter": "Population - The Increasing Numbers and Rising Problems",
     "category": "HOTS",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The sharp dip was due to severe epidemics like the Black Death (Plague). R is true but it explains the rise, not the dip. [cite: 1857, 1858]"
   },
   {
@@ -738,7 +738,7 @@
     "answer": 3,
     "chapter": "Population - The Increasing Numbers and Rising Problems",
     "category": "HOTS",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "A is false because IUDs do not stop fertilisation but instead prevent implantation of the blastocyst (embryo). R is true. [cite: 2316]"
   },
   {
@@ -836,7 +836,7 @@
     "answer": 3,
     "chapter": "Population - The Increasing Numbers and Rising Problems",
     "category": "HOTS",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "A is false because MTP should not be considered a contraceptive method, but a last step. R is true as it involves forced abortion. [cite: 2341, 2342]"
   },
   {
@@ -1046,7 +1046,7 @@
     "answer": 1,
     "chapter": "Pollution - A Rising Environmental Problem",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Fertilizers wash into ponds, leading to faster growth of bacteria which consume oxygen, killing fish. [cite: 1559, 1560]"
   },
   {
@@ -1144,7 +1144,7 @@
     "answer": 2,
     "chapter": "Pollution - A Rising Environmental Problem",
     "category": "HOTS",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "A is true (pH ~6). R is false as the reason for normal rain being slightly acidic is naturally present CO2, not SO2 (which causes harmful acid rain). [cite: 1646, 1647]"
   },
   {
