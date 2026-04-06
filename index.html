@@ -2289,7 +2289,7 @@
           '<div class="ak-top">' +
             '<span class="ak-num">Q' + a.num + '</span>' +
             '<span class="ak-lbl">' + a.label + '</span>' +
-            '<span class="ak-txt">' + escHtml(a.text) + '</span>' +
+            '<span class="ak-txt">' + renderContent(a.text) + '</span>' +
           '</div>' +
           (a.reason ? '<div class="ak-reason">' + renderContent(a.reason) + '</div>' : '') +
         '</div>'

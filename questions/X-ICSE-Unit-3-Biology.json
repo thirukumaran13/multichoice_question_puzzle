@@ -1,0 +1,3531 @@
+[  
+  {
+    "question": "The hormone that induces vigorous contractions of the uterus in a pregnant mother is:",
+    "choices": [
+      "Oestrogen",
+      "Prolactin",
+      "Oxytocin",
+      "Progesterone"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Oxytocin is the hormone responsible for stimulating strong uterine contractions during labour and childbirth."
+  },
+  {
+    "question": "The hormone that affects urination is:",
+    "choices": [
+      "Adrenaline",
+      "Vasopressin",
+      "Oestrogen",
+      "Thyroxine"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Vasopressin is produced by the posterior pituitary gland. Also known as ADH (Anti-diuretic hormone), it plays a role in reabsorption of water in kidneys."
+  },
+  {
+    "question": "Gigantism and Acromegaly are due to:",
+    "choices": [
+      "Hypersecretion of Growth hormone",
+      "Hypersecretion of Thyroxine",
+      "Hyposecretion of Growth hormone",
+      "Hyposecretion of Thyroxine"
+    ],
+    "answer": 0,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Acromegaly and Gigantism are disorders in which the pituitary gland produces too much Growth hormone."
+  },
+  {
+    "question": "Islets of Langerhans are located in:",
+    "choices": [
+      "Liver",
+      "Pituitary gland",
+      "Spleen",
+      "Pancreas"
+    ],
+    "answer": 3,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Islets of Langerhans are endocrine cells present in the Pancreas. They have three types of cells: alpha, beta and delta cells."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Deficiency of Antidiuretic hormone causes an increase in urination.<br><b>Reason (R):</b> Antidiuretic hormone acts on the kidney to reabsorb water from the kidney tubules.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are False"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "ADH helps the kidneys reabsorb water, so less urine is made. If there is not enough ADH, water is not reabsorbed properly, causing more urine to be produced — so both A and R are true."
+  },
+  {
+    "question": "Observe the following picture. Identify the defect and the cause of the defect.<br><img src=\"questions/images/X-ICSE-Biology/image001.jpg\" alt=\"Goitre image\" style=\"max-width:280px\" />",
+    "choices": [
+      "Simple goitre, under secretion of thyroxine.",
+      "Ex-ophthalmic goitre, over secretion of thyroxine.",
+      "Simple goitre, over secretion of thyroxine.",
+      "Ex-ophthalmic goitre, under secretion of thyroxine."
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Ex-ophthalmic goitre is caused by the over secretion of thyroxine hormone from the thyroid gland. It results in symptoms like protruding eyes, increased metabolism, and swelling in the neck (goitre)."
+  },
+  {
+    "question": "Which endocrine gland is referred to as the 'master gland'?",
+    "choices": [
+      "Thyroid gland",
+      "Adrenal gland",
+      "Pituitary gland",
+      "Pancreas"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The pituitary gland is called the master gland because it secretes hormones that regulate and control the activity of most other endocrine glands in the body."
+  },
+  {
+    "question": "Insulin is secreted by which cells of the Pancreas?",
+    "choices": [
+      "Alpha cells",
+      "Beta cells",
+      "Delta cells",
+      "Acinar cells"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Beta cells of the Islets of Langerhans in the pancreas secrete insulin, which lowers blood sugar by promoting glucose uptake and storing it as glycogen."
+  },
+  {
+    "question": "Glucagon is secreted by which cells of the Islets of Langerhans?",
+    "choices": [
+      "Beta cells",
+      "Delta cells",
+      "Alpha cells",
+      "Gamma cells"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Alpha cells of the Islets of Langerhans secrete glucagon, which raises blood sugar by promoting the breakdown of glycogen (glycogenolysis) in the liver."
+  },
+  {
+    "question": "Dwarfism in a child is caused by:",
+    "choices": [
+      "Hypersecretion of Growth hormone",
+      "Hyposecretion of Thyroxine",
+      "Hyposecretion of Growth hormone",
+      "Hypersecretion of Insulin"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Dwarfism results from hyposecretion (under-secretion) of Growth hormone during childhood, causing the person to have stunted growth and proportionally small stature."
+  },
+  {
+    "question": "Cretinism is caused by:",
+    "choices": [
+      "Hypersecretion of Growth hormone in childhood",
+      "Hyposecretion of Thyroxine in children",
+      "Hyposecretion of Insulin",
+      "Hypersecretion of ADH"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Cretinism is a condition caused by deficiency (hyposecretion) of thyroxine in infants and young children. It leads to stunted physical and mental growth."
+  },
+  {
+    "question": "Myxoedema is caused by:",
+    "choices": [
+      "Hypersecretion of Thyroxine in adults",
+      "Hyposecretion of Growth hormone in adults",
+      "Hyposecretion of Thyroxine in adults",
+      "Hypersecretion of Insulin"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Myxoedema is caused by hyposecretion of thyroxine in adults. It leads to low metabolic rate, weight gain, swelling of the skin, and mental sluggishness."
+  },
+  {
+    "question": "Which hormone is called the 'emergency hormone' or 'fight-or-flight hormone'?",
+    "choices": [
+      "Thyroxine",
+      "Insulin",
+      "Oxytocin",
+      "Adrenaline"
+    ],
+    "answer": 3,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Adrenaline (Epinephrine), secreted by the adrenal medulla, is called the emergency hormone because it prepares the body for any emergency by increasing heart rate, blood pressure, and blood sugar levels."
+  },
+  {
+    "question": "Simple goitre is caused by:",
+    "choices": [
+      "Oversecretion of thyroxine",
+      "Deficiency of iodine in diet",
+      "Deficiency of calcium in diet",
+      "Hypersecretion of Growth hormone"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Simple goitre is caused by a deficiency of iodine in the diet. Without iodine, the thyroid gland cannot synthesise thyroxine and compensates by enlarging, causing a visible swelling in the neck."
+  },
+  {
+    "question": "Diabetes mellitus is caused by:",
+    "choices": [
+      "Hyposecretion of ADH",
+      "Hypersecretion of Glucagon",
+      "Hyposecretion of Insulin",
+      "Hypersecretion of Thyroxine"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Diabetes mellitus is caused by insufficient secretion of insulin by the beta cells of the pancreas, resulting in high blood sugar levels (hyperglycaemia) and glucose appearing in the urine."
+  },
+  {
+    "question": "Which of the following is a mixed gland (both exocrine and endocrine)?",
+    "choices": [
+      "Thyroid gland",
+      "Pituitary gland",
+      "Adrenal gland",
+      "Pancreas"
+    ],
+    "answer": 3,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The pancreas is a mixed gland. Its exocrine part secretes digestive enzymes into the duodenum, while its endocrine part (Islets of Langerhans) secretes hormones like insulin and glucagon directly into the blood."
+  },
+  {
+    "question": "Where are the adrenal glands located?",
+    "choices": [
+      "In the neck, in front of the trachea",
+      "At the base of the brain",
+      "On top of each kidney",
+      "In the abdominal cavity, near the liver"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The adrenal glands (also called suprarenal glands) are a pair of glands located on top of each kidney. Each gland has two parts: the outer cortex and the inner medulla."
+  },
+  {
+    "question": "Which mineral is essential for the synthesis of Thyroxine?",
+    "choices": [
+      "Calcium",
+      "Iodine",
+      "Iron",
+      "Phosphorus"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Iodine is an essential component of thyroxine (T4) and triiodothyronine (T3). Without adequate iodine, the thyroid gland cannot produce sufficient thyroxine, leading to goitre."
+  },
+  {
+    "question": "Testosterone is secreted by:",
+    "choices": [
+      "Adrenal cortex",
+      "Leydig cells of the testes",
+      "Beta cells of the pancreas",
+      "Anterior pituitary"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Testosterone is the male sex hormone secreted by the Leydig cells (interstitial cells) of the testes. It is responsible for the development of secondary sexual characters in males."
+  },
+  {
+    "question": "The hormone that promotes milk secretion in nursing mothers is:",
+    "choices": [
+      "Oxytocin",
+      "Oestrogen",
+      "Prolactin",
+      "Progesterone"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Prolactin is secreted by the anterior pituitary gland and is responsible for stimulating and maintaining milk production (lactation) in the mammary glands after childbirth."
+  },
+  {
+    "question": "Which hormone is responsible for regulating the calcium level in the blood?",
+    "choices": [
+      "Thyroxine",
+      "Insulin",
+      "Parathormone (PTH)",
+      "Adrenaline"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Parathormone (PTH) is secreted by the parathyroid glands. It regulates calcium and phosphate levels in the blood by stimulating the release of calcium from bones and increasing calcium absorption in the kidney."
+  },
+  {
+    "question": "The hormone that controls the sleep-wake cycle is secreted by:",
+    "choices": [
+      "Thyroid gland",
+      "Pineal gland",
+      "Pituitary gland",
+      "Adrenal gland"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Melatonin is secreted by the pineal gland. It regulates the circadian rhythm (sleep-wake cycle) and is released in higher amounts in darkness to induce sleep."
+  },
+  {
+    "question": "Which of the following is the correct sequence when blood sugar rises after a meal?",
+    "choices": [
+      "Glucagon release → Glycogen breakdown → Blood sugar rises further",
+      "Insulin release → Glucose uptake by cells → Blood sugar falls",
+      "ADH release → Water reabsorption → Blood sugar stabilises",
+      "Adrenaline release → Glycogen synthesis → Blood sugar falls"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "When blood sugar rises, beta cells of the pancreas secrete insulin. Insulin stimulates cells to take up glucose from the blood and promotes its storage as glycogen in the liver, thereby lowering blood sugar back to normal."
+  },
+  {
+    "question": "Which of the following pairs is correctly matched?",
+    "choices": [
+      "Cretinism — Hypersecretion of thyroxine",
+      "Gigantism — Hyposecretion of Growth hormone",
+      "Diabetes mellitus — Hyposecretion of ADH",
+      "Myxoedema — Hyposecretion of thyroxine in adults"
+    ],
+    "answer": 3,
+    "chapter": "Endocrine System",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Myxoedema is caused by hyposecretion of thyroxine in adults. Cretinism is due to hyposecretion of thyroxine in children. Gigantism is due to hypersecretion of Growth hormone. Diabetes mellitus is due to hyposecretion of insulin."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The pancreas is described as a heterocrine gland.<br><b>Reason (R):</b> The pancreas has both exocrine cells (secreting digestive enzymes) and endocrine cells (Islets of Langerhans secreting hormones).",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "The pancreas is correctly called a heterocrine (or mixed) gland because it has both exocrine functions (releasing digestive enzymes like amylase, lipase into the duodenum via a duct) and endocrine functions (Islets of Langerhans releasing insulin and glucagon directly into the bloodstream). R correctly explains why A is true."
+  },
+  {
+    "question": "<b>Assertion (A):</b> People living in hilly regions are more prone to simple goitre.<br><b>Reason (R):</b> Iodine is deficient in the soil, food, and drinking water of hilly regions.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Both statements are true and R directly explains A. Iodine is deficient in the rocky soil and glacial meltwater of hilly regions, so food grown there and local drinking water both lack iodine. This leads to insufficient thyroxine synthesis and enlargement of the thyroid gland (simple goitre)."
+  },
+  {
+    "question": "A patient shows symptoms of increased urine output, excessive thirst, and dehydration, but normal blood sugar levels. Which hormone is likely deficient?",
+    "choices": [
+      "Insulin",
+      "Glucagon",
+      "Antidiuretic hormone (ADH)",
+      "Thyroxine"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Normal blood sugar rules out diabetes mellitus (insulin deficiency). The symptoms of excess dilute urine, thirst, and dehydration with normal blood glucose point to diabetes insipidus, caused by deficiency of ADH (Vasopressin). Without ADH, the kidneys cannot reabsorb water efficiently."
+  },
+  {
+    "question": "Which of the following is NOT a function of Thyroxine?",
+    "choices": [
+      "Regulates basal metabolic rate",
+      "Controls physical and mental growth in children",
+      "Lowers blood glucose levels",
+      "Influences heart rate and body temperature"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Lowering blood glucose is the function of Insulin, not Thyroxine. Thyroxine regulates basal metabolic rate (BMR), promotes normal growth and mental development in children, and influences heart rate and heat production."
+  },
+  {
+    "question": "Acromegaly differs from Gigantism in that Acromegaly occurs due to hypersecretion of Growth hormone:",
+    "choices": [
+      "Before puberty",
+      "During childhood",
+      "After the growth plates have closed (in adults)",
+      "During the foetal stage"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Gigantism occurs when excess Growth hormone is produced before the growth plates close (in childhood), causing abnormal overall height. Acromegaly occurs in adults after the growth plates have already fused, so bones cannot lengthen but instead thicken, causing enlargement of hands, feet, and facial features."
+  },
+  {
+    "question": "Which of the following hormones is secreted by the adrenal cortex?",
+    "choices": [
+      "Adrenaline",
+      "Noradrenaline",
+      "Cortisol",
+      "Melatonin"
+    ],
+    "answer": 2,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The adrenal cortex secretes corticosteroid hormones such as Cortisol (a glucocorticoid), Aldosterone (a mineralocorticoid), and sex hormones. Adrenaline and Noradrenaline are secreted by the adrenal medulla (inner part). Melatonin is from the pineal gland."
+  },
+  {
+    "question": "Insulin : Beta cells :: Glucagon : ?",
+    "choices": [
+      "Delta cells",
+      "Alpha cells",
+      "Acinar cells",
+      "Leydig cells"
+    ],
+    "answer": 1,
+    "chapter": "Endocrine System",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "This is an analogy question. Just as Insulin is secreted by Beta cells of the Islets of Langerhans, Glucagon is secreted by the Alpha cells of the Islets of Langerhans in the pancreas."
+  },
+  {
+    "question": "The full form of ACTH is:",
+    "choices": [
+      "Adrenocorticotropic Hormone",
+      "Anti-Cortisol Thyroid Hormone",
+      "Adrenal Cortex Triggering Hormone",
+      "Anterior Cortisol Trophic Hormone"
+    ],
+    "answer": 0,
+    "chapter": "Endocrine System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "ACTH stands for Adrenocorticotropic Hormone. It is secreted by the anterior pituitary gland and stimulates the adrenal cortex to produce cortisol and other corticosteroids."
+  },
+  {
+    "question": "Which of the following represents the correct composition of the three principal fluids in the human body?",
+    "choices": [
+      "Blood, Synovial fluid, Lymph",
+      "Blood, Tissue fluid, Lymph",
+      "Plasma, Serum, Lymph",
+      "Blood, Vitreous humour, Tissue fluid"
+    ],
+    "answer": 1,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The three principal fluids in our body are Blood, Tissue fluid, and Lymph."
+  },
+  {
+    "question": "What is the normal pH of human blood?",
+    "choices": [
+      "Slightly acidic (6.5 to 6.8)",
+      "Neutral (7.0)",
+      "Slightly alkaline (7.3 to 7.45)",
+      "Highly alkaline (8.0 to 8.5)"
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The blood is slightly alkaline with a pH of 7.3 to 7.45."
+  },
+  {
+    "question": "Mammalian mature red blood cells are highly efficient in transporting oxygen because they lack certain organelles. Which of the following best explains the advantage of lacking mitochondria?",
+    "choices": [
+      "It allows the cell to change shape and squeeze through capillaries.",
+      "It increases the surface area for absorbing more oxygen.",
+      "It ensures that the RBCs do not consume the oxygen they are transporting for their own cellular respiration.",
+      "It allows the RBC to divide rapidly in the bloodstream."
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Loss of mitochondria means that the red cells cannot use oxygen for themselves, so all oxygen absorbed is delivered to the tissues unconsumed."
+  },
+  {
+    "question": "Carbon monoxide poisoning can be fatal because:",
+    "choices": [
+      "It destroys the white blood cells, shutting down the immune system.",
+      "It forms a stable compound, carboxyhaemoglobin, cutting down the blood's capacity to transport oxygen.",
+      "It dissolves the red blood cells leading to severe internal bleeding.",
+      "It prevents the formation of thrombokinase, stopping blood clotting."
+    ],
+    "answer": 1,
+    "chapter": "The Circulatory System",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Haemoglobin has a very strong affinity for carbon monoxide, forming a stable compound carboxyhaemoglobin (HbCO), which cuts down the capacity of transporting oxygen."
+  },
+  {
+    "question": " When observing a stained blood smear under a microscope, which white blood cell would appear as the smallest of the WBCs with a single large nucleus?",
+    "choices": [
+      "Neutrophil",
+      "Eosinophil",
+      "Lymphocyte",
+      "Monocyte"
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Diagram-based",
+    "complexity": "medium",
+    "reason": "Lymphocytes are the smallest of the WBCs and have a single large nucleus."
+  },
+  {
+    "question": "The process by which white blood cells squeeze through the walls of capillaries into the tissues is called:",
+    "choices": [
+      "Phagocytosis",
+      "Pinocytosis",
+      "Diapedesis",
+      "Haemolysis"
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Most WBCs are amoeboid and can squeeze through the walls of the capillaries into the tissues, a process called diapedesis."
+  },
+  {
+    "question": "Which of the following components of blood is directly responsible for producing antibodies?",
+    "choices": [
+      "Red blood cells",
+      "Platelets",
+      "Neutrophils",
+      "Lymphocytes"
+    ],
+    "answer": 3,
+    "chapter": "The Circulatory System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The WBCs, specifically the lymphocytes, produce antibodies which kill or neutralise germs or their poisons."
+  },
+  {
+    "question": "During the blood clotting process, what is the specific role of calcium ions?",
+    "choices": [
+      "They trap the red blood cells to form the clot.",
+      "They help convert inactive prothrombin into active thrombin.",
+      "They convert soluble fibrinogen into insoluble fibrin.",
+      "They release thrombokinase at the site of the injury."
+    ],
+    "answer": 1,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Thrombokinase acts as an enzyme and with the help of calcium ions present in the plasma, converts inactive prothrombin into active thrombin."
+  },
+  {
+    "question": "According to the ABO blood grouping system, a person with blood group AB is considered a 'universal recipient' because:",
+    "choices": [
+      "Their blood plasma contains both anti-a and anti-b antibodies.",
+      "Their red blood cells have no antigens on their surface.",
+      "Their blood plasma has no antibodies (neither anti-a nor anti-b).",
+      "Their red blood cells contain Rh factor."
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "A person with AB type of blood has both Antigen A & B on RBCs but 'no antibody' in the plasma, making them a universal recipient."
+  },
+  {
+    "question": " Which valve is located at the aperture between the left auricle and the left ventricle?",
+    "choices": [
+      "Tricuspid valve",
+      "Bicuspid (mitral) valve",
+      "Pulmonary semilunar valve",
+      "Aortic semilunar valve"
+    ],
+    "answer": 1,
+    "chapter": "The Circulatory System",
+    "category": "Diagram-based",
+    "complexity": "low",
+    "reason": "The Left atrio-ventricular valve is located on the left side of the heart. It has two cusps and is called the bicuspid (or mitral) valve."
+  },
+  {
+    "question": "What is the function of the chordae tendinae in the human heart?",
+    "choices": [
+      "To initiate the heartbeat impulse.",
+      "To hold the flaps of the atrio-ventricular valves in position and prevent their overturning into the atria.",
+      "To supply oxygenated blood directly to the heart muscles.",
+      "To separate the right ventricle from the left ventricle."
+    ],
+    "answer": 1,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The chordae tendinae hold the flaps of the valves in position and prevent their overturning into the atria due to the pressure exerted by the contracting ventricles."
+  },
+  {
+    "question": "Which specific blood vessels supply oxygenated blood to the heart muscles themselves?",
+    "choices": [
+      "Pulmonary veins",
+      "Superior vena cava",
+      "Coronary arteries",
+      "Hepatic arteries"
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Two coronary arteries (right and left) arising from the base of the aorta supply the heart muscles."
+  },
+  {
+    "question": "The first heart sound 'LUBB' is produced by:",
+    "choices": [
+      "The sharp closure of the semilunar valves at the roots of the aorta and pulmonary artery.",
+      "The sharp closure of the atrio-ventricular (tricuspid and bicuspid) valves at the start of ventricular systole.",
+      "The contraction of the atria pushing blood into the ventricles.",
+      "The opening of the semilunar valves."
+    ],
+    "answer": 1,
+    "chapter": "The Circulatory System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The first sound 'LUBB' is produced when the atrio-ventricular (tricuspid and bicuspid) valves get closed sharply at the start of ventricular systole."
+  },
+  {
+    "question": "The pacemaker of the human heart, responsible for initiating the heartbeat impulse, is the:",
+    "choices": [
+      "Atrio-ventricular node (AVN)",
+      "Bundle of HIS",
+      "Purkinje fibres",
+      "Sino-atrial node (SAN)"
+    ],
+    "answer": 3,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The impulse or command which starts the heart-beat arises in the 'Pacemaker' (sino-atrial node, 'SAN') located in the walls of the right auricle."
+  },
+  {
+    "question": " Unlike arteries, veins possess valves. What is the primary functional reason for this structural difference?",
+    "choices": [
+      "Veins carry blood under high pressure, and valves prevent the vessels from bursting.",
+      "Veins carry blood under very little pressure, and valves prevent the backward flow of blood.",
+      "Valves in veins filter out dead white blood cells and bacteria.",
+      "Valves help pump the blood actively towards the heart."
+    ],
+    "answer": 1,
+    "chapter": "The Circulatory System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Blood flows in veins continuously and under very little pressure, so they contain pocket-shaped valves to prevent the backward flow of the blood."
+  },
+  {
+    "question": "By definition, a portal vein is one which:",
+    "choices": [
+      "Carries oxygenated blood directly from the heart to an organ.",
+      "Carries deoxygenated blood from the lungs to the heart.",
+      "Starts with capillaries in one organ and ends in capillaries in another organ.",
+      "Connects the superior vena cava to the inferior vena cava."
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "By definition, a portal vein is one which starts with capillaries and also ends in capillaries (e.g., hepatic portal vein)."
+  },
+  {
+    "question": " In the human systemic (body) circulation, which blood vessel carries oxygenated blood away from the heart to all parts of the body?",
+    "choices": [
+      "Pulmonary artery",
+      "Pulmonary vein",
+      "Aorta",
+      "Vena Cava"
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Diagram-based",
+    "complexity": "low",
+    "reason": "The systemic circulation starts with the aorta that arises from the left ventricle. The aorta carries oxygenated blood to supply it to all parts of the body."
+  },
+  {
+    "question": "Which of the following statements about the lymphatic system is INCORRECT?",
+    "choices": [
+      "Lymph contains leukocytes, mostly lymphocytes, but no blood platelets.",
+      "Lacteals are specialized lymphatics in the intestinal villi that absorb fats.",
+      "The spleen is a large lymphatic organ that acts as a blood reservoir.",
+      "Lymph flows rapidly due to the high pumping pressure from the heart."
+    ],
+    "answer": 3,
+    "chapter": "The Circulatory System",
+    "category": "Tricky",
+    "complexity": "hard",
+    "reason": "The lymph flows in these vessels due to contraction of the surrounding muscles, not from the pumping action of the heart."
+  },
+  {
+    "question": "What happens to the tissue fluid that leaks out of the capillaries and bathes the cells?",
+    "choices": [
+      "It is entirely excreted as sweat through the skin.",
+      "Most of it enters another set of minute channels called lymph vessels.",
+      "It evaporates completely, cooling the body.",
+      "It travels back to the lungs through the trachea."
+    ],
+    "answer": 1,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Some of the tissue fluid may be reabsorbed into the blood vessels, but most of it enters another set of minute channels named lymph vessels where it is called lymph."
+  },
+  {
+    "question": "What is the average lifespan of a human red blood cell (RBC)?",
+    "choices": [
+      "3 to 5 days",
+      "About two weeks",
+      "About 120 days",
+      "Over 5 years"
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The average life of an RBC is about 120 days."
+  },
+  {
+    "question": "<b>Assertion (A):</b> In conventional diagrams, veins are shown in blue colour because the blood flowing inside them is actually blue.<br><b>Reason (R):</b> Deoxygenated blood completely lacks oxygen, which changes its colour to blue.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "Both A and R are False"
+    ],
+    "answer": 3,
+    "chapter": "The Circulatory System",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "Both A and R are false. Blood in veins is not blue; it is pale/dark red. Veins still carry about 75% oxygen, not zero."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Mammalian mature red blood cells lack a nucleus.<br><b>Reason (R):</b> The loss of the nucleus makes the red cells biconcave, increasing their surface area to volume ratio for absorbing more oxygen.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "The Circulatory System",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "The assertion is a fact, and the reason correctly explains the physiological advantage (increased surface area) of this evolutionary adaptation."
+  },
+  {
+    "question": "<b>Assertion (A):</b> People living at high altitudes (e.g., 4,200 m and above) generally have a significantly higher number of RBCs.<br><b>Reason (R):</b> The air at higher altitudes has a lower concentration of oxygen, so more RBCs are needed to absorb sufficient oxygen.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "The Circulatory System",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "People at high altitudes increase their RBCs by nearly 30% as a physiological adaptation to the thinner air (lower oxygen availability)."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The left ventricle of the heart has much thicker muscular walls than the right ventricle.<br><b>Reason (R):</b> The left ventricle has to pump blood to the farthest points in the body, requiring more force, whereas the right ventricle only pumps to the lungs.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "The Circulatory System",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "The reason directly explains the anatomical difference (thicker walls in the left ventricle) based on functional requirements (pumping distance)."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Serum and plasma are exactly the same fluid.<br><b>Reason (R):</b> Serum is the clear liquid that separates from a blood clot after the fibrin network shrinks.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 3,
+    "chapter": "The Circulatory System",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "A is false because serum is plasma from which the protein fibrinogen has been removed. R is true as it accurately describes how serum is squeezed out during clotting."
+  },
+  {
+    "question": "<b>Assertion (A):</b> A person with blood group O can receive blood from donors of any blood group (A, B, AB, or O).<br><b>Reason (R):</b> Blood group O is known as the universal donor because it lacks both Antigen A and Antigen B.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 3,
+    "chapter": "The Circulatory System",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "A is false; a person with blood group O can ONLY receive from O, but can donate to all (universal donor). R is a true statement."
+  },
+  {
+    "question": "<b>Assertion (A):</b> An abnormally low count of blood platelets can lead to severe haemorrhage (bleeding).<br><b>Reason (R):</b> Platelets release thrombokinase at the site of injury, which is essential to initiate the blood clotting process.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "The Circulatory System",
+    "category": "HOTS",
+    "complexity": "low",
+    "reason": "Platelets are critical for coagulation. A low count slows coagulation, causing hemorrhage. The reason correctly explains the assertion."
+  },
+  {
+    "question": "<b>Assertion (A):</b> During carbon monoxide poisoning, the spleen releases stored blood into the bloodstream.<br><b>Reason (R):</b> The spleen acts as a blood reservoir and releases blood during emergencies like haemorrhage or extreme stress.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "The Circulatory System",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "The spleen's function as a blood reservoir allows it to release blood during emergencies like carbon monoxide poisoning. R explains A."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Blood capillaries have the ability to dilate (vasodilation) and contract (vasoconstriction).<br><b>Reason (R):</b> The walls of capillaries are composed of a thick middle layer of smooth muscle.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "A is true (they can dilate/constrict), but R is false because capillary walls consist of only a *single layer* of squamous epithelial cells (endothelium) and have *no* muscular layer."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Lymph flows steadily through lymph vessels due to the pumping pressure of the heart.<br><b>Reason (R):</b> Lymph flows in its vessels primarily due to the contraction of the surrounding skeletal muscles.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 3,
+    "chapter": "The Circulatory System",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "A is false because lymph flow is not driven by the heart's pumping. R is true as it correctly identifies surrounding muscle contraction as the driving force."
+  },
+  {
+    "question": " What forms the sticky, insoluble microscopic threads that trap blood cells to form a clot?",
+    "choices": [
+      "Prothrombin",
+      "Thrombin",
+      "Fibrin",
+      "Thromboplastin"
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Diagram-based",
+    "complexity": "low",
+    "reason": "Thrombin converts soluble fibrinogen into insoluble fibrin. Fibrin forms microscopic threads that are sticky and form a network (mesh) trapping blood cells."
+  },
+  {
+    "question": "Which of the following white blood cells is associated with allergic reactions and stains with an acid dye (eosin)?",
+    "choices": [
+      "Neutrophil",
+      "Basophil",
+      "Eosinophil",
+      "Monocyte"
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Eosinophils have cytoplasmic granules that stain dark red with eosin (acid dye) and their count increases in allergies."
+  },
+  {
+    "question": "What is the primary function of the hepatic portal vein?",
+    "choices": [
+      "To carry oxygenated blood from the aorta to the liver.",
+      "To carry deoxygenated blood from the liver to the posterior vena cava.",
+      "To carry nutrient-rich blood from the stomach and intestines to the liver.",
+      "To carry urea from the liver directly to the kidneys."
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "The hepatic portal vein carries blood from the stomach and intestines (containing absorbed food) to the liver, where it acts as a store to regulate nutrients."
+  },
+  {
+    "question": "Smaller animals like rats and sparrows have a much faster heart rate compared to elephants or humans. What is the primary physiological reason for this?",
+    "choices": [
+      "Smaller animals have a smaller volume of blood that needs to be pumped more frequently.",
+      "Smaller animals have a higher surface-to-volume ratio, causing faster heat loss, requiring a faster heart rate to distribute body heat.",
+      "Smaller animals possess a less efficient two-chambered heart.",
+      "The pacemaker in smaller animals is naturally defective."
+    ],
+    "answer": 1,
+    "chapter": "The Circulatory System",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "Smaller size means higher surface-to-volume ratio, leading to faster loss of body heat; the increased heart rate distributes body heat faster to compensate."
+  },
+  {
+    "question": "Which condition occurs when an Rh-negative mother carries her second Rh-positive child, assuming she was sensitized during the first pregnancy?",
+    "choices": [
+      "The child develops leukaemia.",
+      "The mother's antibodies react with the transfused blood, potentially leading to the death of the foetus.",
+      "The mother develops polycythaemia to compensate for the baby's needs.",
+      "The baby is born with a higher than normal count of blood platelets."
+    ],
+    "answer": 1,
+    "chapter": "The Circulatory System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "If an Rh-negative mother is sensitized by a first Rh-positive child, the antibodies produced can cause a reaction in a subsequent Rh-positive pregnancy, sometimes leading to the death of the foetus."
+  },
+  {
+    "question": "What constitutes the non-cellular part of Lymph?",
+    "choices": [
+      "94% Water and 6% Solids (proteins, fats, carbohydrates, enzymes, antibodies)",
+      "Red blood cells and platelets",
+      "90% Water, 8% Proteins, and 2% Fibrinogen",
+      "Only inorganic salts and urea"
+    ],
+    "answer": 0,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The non-cellular part of lymph consists of Water (94%) and Solids (proteins, fats, carbohydrates, enzymes, antibodies, etc.) - 6%."
+  },
+  {
+    "question": "Which of the following is an accurate description of 'diastolic pressure'?",
+    "choices": [
+      "The upper limit of blood pressure during ventricular contraction.",
+      "The pressure recorded in the veins right before entering the right auricle.",
+      "The lower limit of blood pressure recorded when the wave of fresh blood has passed over.",
+      "The pressure exerted by the lymph inside lymphatic vessels."
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The lower limit (diastolic pressure) is the one recorded when the wave of blood pushed by ventricular contraction has passed over."
+  },
+  {
+    "question": "A rise in blood pressure above 140/90 is medically termed as:",
+    "choices": [
+      "Leucopenia",
+      "Hypertension",
+      "Polycythaemia",
+      "Angina pectoris"
+    ],
+    "answer": 1,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "A rise in blood pressure above 140/90 is known as hypertension."
+  },
+  {
+    "question": "Which cancer involves a massive increase in the number of white blood cells at the cost of red blood cells?",
+    "choices": [
+      "Polycythaemia",
+      "Erythropenia",
+      "Leukemia",
+      "Haemophilia"
+    ],
+    "answer": 2,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Leukemia is a cancer of the tissue forming WBCs whose number increases manifold at the cost of RBCs."
+  },
+  {
+    "question": "The blood vessels that carry deoxygenated blood from the right ventricle to the lungs are the:",
+    "choices": [
+      "Pulmonary veins",
+      "Coronary arteries",
+      "Aorta",
+      "Pulmonary arteries"
+    ],
+    "answer": 3,
+    "chapter": "The Circulatory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The pulmonary artery arises from the right ventricle and carries deoxygenated blood to the lungs for oxygenation."
+  },
+  {
+    "question": "In a healthy individual, which blood vessel would contain the highest concentration of urea before it is filtered?",
+    "choices": [
+      "Renal Vein",
+      "Hepatic Vein",
+      "Renal Artery",
+      "Posterior Vena Cava"
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Urea is produced in the liver from the breakdown of excess amino acids. Therefore, the blood leaving the liver through the hepatic vein carries the highest concentration of urea to the heart before it eventually reaches the kidneys."
+  },
+  {
+    "question": "Identify the correct sequence of blood flow through the kidney's vascular system.",
+    "choices": [
+      "Renal artery → Afferent arteriole → Glomerulus → Efferent arteriole → Secondary capillary network → Renal vein",
+      "Renal artery → Efferent arteriole → Glomerulus → Afferent arteriole → Vasa recta → Renal vein",
+      "Renal vein → Secondary capillary network → Efferent arteriole → Glomerulus → Afferent arteriole → Renal artery",
+      "Afferent arteriole → Glomerulus → Efferent arteriole → Renal artery → Renal vein"
+    ],
+    "answer": 0,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "The renal artery branches into arterioles, with the afferent arteriole entering the Bowman's capsule to form the glomerulus. It exits as the narrower efferent arteriole, which then forms the vasa recta (secondary capillary network) before joining the renal vein."
+  },
+  {
+    "question": "What is the primary physiological consequence of the efferent arteriole being narrower than the afferent arteriole?",
+    "choices": [
+      "It slows down the flow of blood to allow for selective reabsorption.",
+      "It prevents the backflow of glomerular filtrate into the blood.",
+      "It creates high hydrostatic pressure in the glomerulus to facilitate ultrafiltration.",
+      "It increases the concentration of red blood cells in the Bowman's capsule."
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "The difference in diameter between the incoming (wide) afferent arteriole and outgoing (narrow) efferent arteriole creates a high hydrostatic pressure that forces the liquid part of the blood into the Bowman's capsule."
+  },
+  {
+    "question": "Which of the following substances is normally found in the glomerular filtrate but is completely absent in the urine of a healthy person?",
+    "choices": [
+      "Urea",
+      "Sodium chloride",
+      "Glucose",
+      "Uric acid"
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Glucose is filtered into the Bowman's capsule during ultrafiltration but is entirely reabsorbed into the blood in the Proximal Convoluted Tubule (PCT) under normal conditions."
+  },
+  {
+    "question": "The 'dotted appearance' of the kidney cortex in a sectional view is primarily due to the presence of:",
+    "choices": [
+      "Conical pyramids",
+      "Malpighian corpuscles and convoluted tubules",
+      "Loops of Henle and collecting ducts",
+      "The Pelvis and Calyces"
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "The cortex contains millions of Bowman’s capsules and Proximal/Distal convoluted tubules, which appear as tiny dots when the kidney is cut longitudinally."
+  },
+  {
+    "question": "A patient is found to have a large amount of albumin in their urine. This condition is most likely caused by:",
+    "choices": [
+      "Insufficient secretion of ADH from the pituitary.",
+      "Infection causing increased permeability of the Bowman’s capsule membrane.",
+      "Excessive consumption of a high-protein diet.",
+      "Bacterial infection in the urinary bladder."
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Large molecules like albumin (proteins) do not pass through the glomerulus normally. Their presence in urine (Albuminuria) indicates damage or increased permeability of the filtration membrane."
+  },
+  {
+    "question": "During severe dehydration or in a tropical summer, why does urine become more concentrated and darker in color?",
+    "choices": [
+      "The liver produces more urochrome to protect the kidneys.",
+      "Water loss through perspiration causes the pituitary to release more ADH, increasing reabsorption.",
+      "The kidneys secrete more urea to maintain the osmotic pressure of the blood.",
+      "The sphincter muscles in the bladder remain contracted for longer periods."
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "In summer, water is lost through sweat. To maintain homeostasis, ADH (antidiuretic hormone) is secreted to make the kidney tubules reabsorb more water, resulting in concentrated urine."
+  },
+  {
+    "question": "What specifically distinguishes 'excretion' from 'egestion' (defaecation) in a biological sense?",
+    "choices": [
+      "Excretion is the removal of solid waste, while egestion is the removal of liquid waste.",
+      "Excretion involves metabolic chemical wastes, while egestion involves undigested food remains.",
+      "Excretion occurs through the lungs and skin only, while egestion occurs through the kidneys.",
+      "There is no functional difference; both terms describe the removal of toxins."
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Excretion is the removal of chemical wastes (like urea) formed during metabolism inside cells. Egestion is the passing out of undigested food that never entered the body cells."
+  },
+  {
+    "question": "If the total glomerular filtrate produced in 24 hours is 160 litres, but the urine excreted is only about 1.2 litres, what percentage of the filtrate is reabsorbed?",
+    "choices": [
+      "Approximately 75%",
+      "Approximately 90%",
+      "More than 99%",
+      "Exactly 50%"
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Calculating the reabsorption: (160 - 1.2) / 160 = 99.25%. This illustrates the massive efficiency of selective reabsorption in the nephron."
+  },
+  {
+    "question": "Which part of the renal tubule is specifically responsible for 'tubular secretion' of foreign chemicals like penicillin and excess potassium?",
+    "choices": [
+      "Bowman's Capsule",
+      "Proximal Convoluted Tubule (PCT)",
+      "Loop of Henle",
+      "Distal Convoluted Tubule (DCT)"
+    ],
+    "answer": 3,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "While reabsorption happens in various parts, the cells of the Distal Convoluted Tubule (DCT) actively secrete certain ions (K+) and drugs like penicillin into the forming urine."
+  },
+  {
+    "question": "The condition 'Gout' is caused by the crystallization and deposition of which substance in the joints?",
+    "choices": [
+      "Calcium Oxalate",
+      "Urea",
+      "Uric Acid",
+      "Creatinine"
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Uric acid is relatively insoluble in water. If it accumulates, it can crystallize and deposit in joints, leading to a painful condition called gout."
+  },
+  {
+    "question": "What is the primary role of the 'sphincter' muscle located at the opening of the urinary bladder?",
+    "choices": [
+      "To pump urine out of the bladder during micturition.",
+      "To prevent the backflow of urine into the ureters.",
+      "To guard the exit of the bladder and control the timing of urination.",
+      "To filter blood that enters the bladder wall."
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The circular sphincter muscle guards the opening into the urethra and only relaxes during urination under an impulse from the brain."
+  },
+  {
+    "question": "Urine typically has a pH ranging from 5 to 8. A person whose diet consists mostly of vegetables and fruits will likely produce urine that is:",
+    "choices": [
+      "Highly acidic (pH 4)",
+      "Strongly basic (pH 12)",
+      "Alkaline (higher pH)",
+      "Neutral (always pH 7.0)"
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "A protein-rich diet makes urine more acidic, whereas a vegetable-based diet tends to make it alkaline."
+  },
+  {
+    "question": "In the process of dialysis (Artificial Kidney), the patient's blood is usually led from which vessel in the arm?",
+    "choices": [
+      "Radial artery",
+      "Radial vein",
+      "Hepatic portal vein",
+      "Afferent arteriole"
+    ],
+    "answer": 0,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Blood is taken from the radial artery, passed through the dialysis machine to remove wastes, and then returned to a vein in the same arm."
+  },
+  {
+    "question": "Why is the oxygen demand of the kidneys 6 to 7 times higher than that of skeletal muscles?",
+    "choices": [
+      "Due to the continuous physical contraction of the renal pelvis.",
+      "Because of the energy required for the active transport involved in reabsorption and secretion.",
+      "To support the high pressure required for ultrafiltration.",
+      "To neutralize the acidic toxins produced in the medulla."
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Kidney functions, specifically the active transport of substances back into the blood during selective reabsorption, require significant metabolic energy (ATP), leading to high oxygen consumption."
+  },
+  {
+    "question": "The term 'Diabetes Insipidus' refers to a condition characterized by:",
+    "choices": [
+      "High sugar levels in urine due to insulin deficiency.",
+      "Tasteless, dilute urine produced in large quantities due to ADH deficiency.",
+      "Saltish urine caused by kidney stones.",
+      "Blood in the urine caused by infection."
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Insipid means tasteless. Diabetes insipidus occurs when insufficient ADH is produced, leading to massive production of very dilute, tasteless urine."
+  },
+  {
+    "question": "Bile pigments, such as bilirubin, are extracted by the liver from the circulation as breakdown products of:",
+    "choices": [
+      "Dead White Blood Cells",
+      "Haemoglobin of dead Red Blood Cells",
+      "Extra amino acids",
+      "Digestive enzymes in the duodenum"
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Bile pigments are primarily the breakdown products of haemoglobin from worn-out or dead RBCs extracted by liver cells."
+  },
+  {
+    "question": "The 'Hilum' of the kidney is:",
+    "choices": [
+      "The expanded front end of the ureter.",
+      "The notched inner concave surface where the ureter and renal vessels enter/exit.",
+      "The apex of the medullary pyramid.",
+      "The layer of tissue protecting the last two ribs."
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The hilum is the notch on the median surface of the kidney through which the ureter, renal artery, and renal vein pass."
+  },
+  {
+    "question": "Which of the following is NOT an accessory excretory organ?",
+    "choices": [
+      "Lungs",
+      "Skin",
+      "Liver",
+      "Heart"
+    ],
+    "answer": 3,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Lungs (CO2), Skin (incidental nitrogenous waste), and Liver (urea production/bile) assist in excretion. The heart is part of the circulatory system and does not eliminate waste directly."
+  },
+  {
+    "question": "Micturition is defined as:",
+    "choices": [
+      "The formation of urea in the liver.",
+      "The process of ultrafiltration in the nephron.",
+      "The act of passing out urine from the bladder through the urethra.",
+      "The reabsorption of water in the Loop of Henle."
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Micturition is the biological term for the act of urinating."
+  },
+  {
+    "question": "The average daily loss of water through the lungs in an adult human at rest is approximately:",
+    "choices": [
+      "1500 mL",
+      "500 mL",
+      "400 mL",
+      "100 mL"
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "According to the water balance table, loss in breath (via lungs) is about 400 mL, representing roughly 16% of total daily water loss."
+  },
+  {
+    "question": "Which of these constituents is primarily responsible for the straw-yellow color of normal urine?",
+    "choices": [
+      "Bilirubin",
+      "Urochrome",
+      "Uric Acid",
+      "Ammonia"
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Urochrome is the pigment that gives urine its characteristic yellow color."
+  },
+  {
+    "question": "Sweat contains small amounts of nitrogenous wastes. However, sweat glands are not truly 'excretory' because:",
+    "choices": [
+      "They do not contain nephrons.",
+      "Their primary function is thermoregulation (cooling), not waste removal.",
+      "The wastes they remove are not toxic.",
+      "They are located in the skin rather than the abdomen."
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Excretion by sweat glands is incidental; they only pass out sweat when cooling is required for the body."
+  },
+  {
+    "question": "Which part of the kidney tubule receives the glomerular filtrate first?",
+    "choices": [
+      "Proximal Convoluted Tubule",
+      "Collecting Duct",
+      "Bowman's Capsule",
+      "Loop of Henle"
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The funnel-shaped cavity of the Bowman's capsule is the first structure to receive the filtrate from the glomerulus."
+  },
+  {
+    "question": "The total length of uriniferous tubules in both human kidneys together is more than:",
+    "choices": [
+      "6 km",
+      "60 km",
+      "160 km",
+      "10 cm"
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "There are approximately 2 million tubules, each 4-5 cm long, totaling over 60 km. This provides a massive surface area for reabsorption."
+  },
+  {
+    "question": "In a case of cholera, the immediate cause of death related to the excretory system is often:",
+    "choices": [
+      "Rupture of the urinary bladder.",
+      "Poisoning by urea accumulation (uremia) because kidneys reabsorb almost all water and urea.",
+      "Loss of urochrome leading to blood thinning.",
+      "Total failure of the liver to produce bile."
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "In cholera, massive water loss through bowels causes kidneys to reabsorb every possible drop of water from the tubules, and with it, urea. This leads to uremia and death."
+  },
+  {
+    "question": "Which of the following is considered a 'diuretic' substance?",
+    "choices": [
+      "ORS (Oral Rehydration Solution)",
+      "Glucose-saline drip",
+      "Alcohol and Coffee",
+      "Insulin"
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Diuretics are substances that increase the formation and production of urine; tea, coffee, and alcohol are common examples."
+  },
+  {
+    "question": "Normal urine contains approximately what percentage of water?",
+    "choices": [
+      "50%",
+      "75%",
+      "95%",
+      "99%"
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Normal human urine consists of about 95% water and 5% solid wastes."
+  },
+  {
+    "question": "The 'Papilla' in the internal structure of the kidney is located at:",
+    "choices": [
+      "The outer surface of the cortex.",
+      "The apex of the medullary pyramid projecting into the pelvis.",
+      "The junction between the ureter and the bladder.",
+      "The opening of the urethra."
+    ],
+    "answer": 1,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "The medulla is arranged in conical pyramids; the apex of each pyramid is called the papilla, which projects into the renal pelvis."
+  },
+  {
+    "question": "An increase in blood pressure above 140/90 (hypertension) can lead to the appearance of which abnormal constituent in urine?",
+    "choices": [
+      "Glucose",
+      "Blood cells",
+      "Albumin",
+      "Bile pigments"
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Albumin may appear in urine due to high blood pressure, which increases the pressure in the glomerulus beyond the normal filtration capacity."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The renal vein contains less urea than the renal artery. <br><b>Reason (R):</b> Most of the urea is removed from the blood as it passes through the kidney tubules to form urine.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Since the kidney filters out urea from the renal artery to produce urine, the blood returning via the renal vein is significantly cleaner of urea."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Dialysis is required when both kidneys of a patient fail. <br><b>Reason (R):</b> One kidney is not sufficient to carry out the excretory needs of a normal human life.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Assertion is true, but the Reason is false because one healthy kidney is perfectly sufficient for a person to lead a normal life."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Ultrafiltration is also described as 'non-selective' filtration. <br><b>Reason (R):</b> During ultrafiltration, almost all liquid parts of the blood including glucose, amino acids, and urea are forced out into the Bowman's capsule.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "It is called non-selective because it filters everything based on size/pressure rather than usefulness; selective reabsorption happens later in the tubules."
+  },
+  {
+    "question": "<b>Assertion (A):</b> A person produces more urine in winter than in summer. <br><b>Reason (R):</b> In summer, we lose a considerable part of water through perspiration (sweating).",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Excretory System",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Increased sweating in summer reduces the need for kidneys to eliminate water, while in winter, reduced sweating results in higher urine output to maintain water balance."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Glucose is a normal constituent of human urine. <br><b>Reason (R):</b> Glucose is a primary energy source that is produced during metabolism in the liver.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Assertion is false because glucose is NOT a normal constituent (it is an abnormal one called Glycosuria). Reason is a true statement about metabolism."
+  },
+  {
+    "question": "<b>Assertion (A):</b> ADH (Antidiuretic Hormone) helps in the concentration of urine. <br><b>Reason (R):</b> ADH secretion is reduced when a person is dehydrated to prevent water loss.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Assertion is true, but Reason is false. ADH secretion is INCREASED during dehydration to promote water reabsorption."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The right kidney is slightly lower than the left kidney. <br><b>Reason (R):</b> The large liver on the right side takes up space in the abdominal cavity.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Excretory System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The anatomical position of the right kidney is pushed downward by the presence of the liver."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Urine becomes strong-smelling like ammonia if it is allowed to stand for some time. <br><b>Reason (R):</b> Bacterial activity breaks down the urea in the urine into ammonia.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The ammonia-like smell develops only after urination because of bacteria acting on urea; fresh urine has a faint smell."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Urea is formed in the kidneys and then carried to the liver for storage. <br><b>Reason (R):</b> Urea is a highly poisonous substance that causes death if it accumulates in the blood.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Assertion is false because urea is formed in the LIVER and excreted by the kidneys. Reason is a true statement."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Micturition is a reflex process but can be controlled to an extent in adults. <br><b>Reason (R):</b> The circular sphincter muscle at the exit of the bladder is under an impulse from the brain.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Excretory System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "While the bladder contraction is reflex-based, the external sphincter allows for voluntary control via the nervous system."
+  },
+  {
+    "question": "Which of the following best describes the state of a nerve fiber during the 'polarized' resting condition?",
+    "choices": [
+      "The inner side carries a positive charge due to high potassium concentration.",
+      "The outer side carries a positive charge because of more sodium ions outside the membrane.",
+      "The outer side is negatively charged due to the active transport of chloride ions.",
+      "Both sides are electrically neutral until a stimulus is received."
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "In the resting state, the nerve fiber is polarized with a positive charge on the outside, primarily due to a higher concentration of sodium ions (Na+) outside the axon membrane."
+  },
+  {
+    "question": "What is the specific role of the 'sodium pump' during the transmission of a nerve impulse?",
+    "choices": [
+      "To passivey allow sodium ions to flood into the axon during excitation.",
+      "To use ATP to actively transport sodium ions back to the outside to restore polarization.",
+      "To generate heat energy required for the electrical wave to jump over synapses.",
+      "To break down acetylcholine in the synaptic cleft."
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "After depolarization occurs, the sodium pump uses energy from ATP to actively transport sodium ions back to the outside of the membrane, achieving repolarization."
+  },
+  {
+    "question": "If the corpus callosum in a human brain is surgically severed, what would be the primary physiological impact?",
+    "choices": [
+      "Total loss of memory and cognitive ability.",
+      "Inability to coordinate balance and muscular activities.",
+      "Interruption of information transfer between the two cerebral hemispheres.",
+      "Cessation of involuntary activities like breathing and heart rate."
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "The corpus callosum is a sheet of fibers that connects the two cerebral hemispheres; its primary function is to transfer information from one hemisphere to the other."
+  },
+  {
+    "question": "Which brain part and its corresponding function is correctly matched regarding the coordination of voluntary movement?",
+    "choices": [
+      "Cerebellum: Originates the impulse for muscular acts.",
+      "Cerebrum: Responsible for the timing and coordination of contraction/relaxation.",
+      "Cerebrum: Originates the impulse; Cerebellum: Coordinates and times the movement.",
+      "Medulla Oblongata: Harmonizes all voluntary muscular activities."
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "The impulse for a voluntary act originates in the cerebrum (conscious part), but the coordination and timing of muscles involved are the responsibility of the cerebellum."
+  },
+  {
+    "question": "During an emergency, the Sympathetic Nervous System accelerates the heart rate. Which of the following is an additional effect of this system?",
+    "choices": [
+      "Constriction of bronchioles to conserve oxygen.",
+      "Stimulation of salivary glands to increase salivation.",
+      "Constriction of all blood vessels except the coronary vessels.",
+      "Contraction of the pupil to reduce light entry."
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "The sympathetic system prepares the body for action by constricting most blood vessels to increase pressure, while dilating coronary vessels to supply the heart."
+  },
+  {
+    "question": "A typical spinal nerve is described as a 'mixed nerve'. This means it:",
+    "choices": [
+      "Contains both grey and white matter internally.",
+      "Carries both sensory and motor fibers within the same nerve structure.",
+      "Emerges from both the brain and the spinal cord.",
+      "Interconnects the somatic and autonomic systems."
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Every spinal nerve is a mixed nerve because it originates from two roots (dorsal sensory and ventral motor) and carries both types of fibers."
+  },
+  {
+    "question": "In the internal structure of the spinal cord, the arrangement of matter is:",
+    "choices": [
+      "White matter on the inner side, grey matter on the outer side.",
+      "Grey matter on the inner side, white matter on the outer side.",
+      "Both grey and white matter mixed throughout the central canal.",
+      "Identical to the arrangement found in the cerebral hemispheres."
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The arrangement of matter in the spinal cord is the reverse of the brain: the grey matter containing cell bodies is on the inner side, while the white matter containing axons is on the outer side."
+  },
+  {
+    "question": "Which of the following accurately describes the 'Arachnoid' layer of the meninges?",
+    "choices": [
+      "The innermost highly vascular membrane.",
+      "The outermost tough fibrous membrane.",
+      "A thin, delicate middle layer providing a web-like cushion.",
+      "A fluid-filled space containing only cerebrospinal fluid."
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "The arachnoid is the middle layer of the meninges; its name refers to its thin, delicate, and web-like appearance."
+  },
+  {
+    "question": "What happens to the chemical acetylcholine after it sets a new impulse in the dendrites of an adjacent neuron at a synapse?",
+    "choices": [
+      "It is reabsorbed by the axon bulbs for immediate reuse.",
+      "It remains in the synaptic cleft to maintain a continuous signal.",
+      "It is broken down by an enzyme to prepare the synapse for the next impulse.",
+      "It travels down the next axon to the effector muscle."
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "To prevent continuous stimulation, acetylcholine is broken down by an enzyme shortly after transmission, resetting the synapse for the next signal."
+  },
+  {
+    "question": "The 31 pairs of spinal nerves are categorized by their exit points. Which of the following is correct?",
+    "choices": [
+      "12 pairs in the neck (Cervical) region.",
+      "5 pairs in the thorax (Thoracic) region.",
+      "12 pairs in the lumbar region.",
+      "5 pairs in the sacral region."
+    ],
+    "answer": 3,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "There are 31 pairs of spinal nerves: 8 cervical (neck), 12 thoracic (thorax), 5 lumbar, 5 sacral, and 1 coccygeal."
+  },
+  {
+    "question": "Which of the following is a 'Conditioned Reflex' according to Pavlov's definition?",
+    "choices": [
+      "Blinking when a strong light is flashed into the eyes.",
+      "The withdrawal of a hand when pricked by a needle.",
+      "Salivation at the sound of a bell that has been previously associated with food.",
+      "Sneezing when an irritant enters the nasal passage."
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "A conditioned reflex is an acquired response to a stimulus that was previously unrelated, learned through experience (like the dog salivating to a bell in Pavlov's experiment)."
+  },
+  {
+    "question": "In a simple spinal reflex arc, where is the cell body of the sensory neuron located?",
+    "choices": [
+      "In the ventral horn of the grey matter.",
+      "In the dorsal root ganglion.",
+      "In the cerebral cortex.",
+      "At the terminal end of the axon bulb."
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "In a spinal reflex, the sensory neuron enters through the dorsal root, and its cell body is located in the ovoid dorsal ganglion (dorsal root ganglion)."
+  },
+  {
+    "question": "Which region of the brain acts as the primary relay station for pain and pressure impulses moving toward the cerebrum?",
+    "choices": [
+      "Hypothalamus",
+      "Thalamus",
+      "Pons",
+      "Cerebellum"
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The thalamus, part of the diencephalon in the forebrain, relays pain and pressure impulses to the cerebrum."
+  },
+  {
+    "question": "The 'Pons' is located in the hindbrain. What is its specific function?",
+    "choices": [
+      "Controlling body temperature.",
+      "Managing the release of hormones from the pituitary.",
+      "Carrying impulses between cerebellar hemispheres and coordinating movements on both sides of the body.",
+      "Controlling peristaltic movements of the alimentary canal."
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "The pons is located below the cerebellum and serves to carry impulses between cerebellar hemispheres while coordinating muscular movements on both sides of the body."
+  },
+  {
+    "question": "What is the biological significance of the 'Gyri' and 'Sulci' on the surface of the cerebrum?",
+    "choices": [
+      "They provide paths for cerebrospinal fluid to circulate.",
+      "They increase surface area to accommodate a larger number of nerve cells.",
+      "They act as insulators to prevent the mixing of electrical impulses.",
+      "They represent the scars of past experiences stored in the subconscious."
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The convolutions (folds called gyri and grooves called sulci) increase the surface area of the gray matter, allowing for more neurons and thus higher intelligence."
+  },
+  {
+    "question": "Which of the following happens when the Parasympathetic Nervous System is active?",
+    "choices": [
+      "Pupils dilate to let in more light.",
+      "Salivation is inhibited, causing a dry mouth.",
+      "Heart rate increases to pump more blood to the muscles.",
+      "Peristalsis in the intestines is increased."
+    ],
+    "answer": 3,
+    "chapter": "The Nervous System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "The parasympathetic system is concerned with re-establishing normal conditions and relaxation; it increases peristalsis and stimulates salivary secretion, which is the opposite of the sympathetic system's actions."
+  },
+  {
+    "question": "A mixed nerve, such as a spinal nerve, contains both sensory and motor fibers. Which cranial nerve is an example of a purely 'sensory' nerve?",
+    "choices": [
+      "Optic nerve",
+      "Nerve supplying the eyeball muscles",
+      "Nerve to the tongue",
+      "Spinal accessory nerve"
+    ],
+    "answer": 0,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "The optic nerve (for eyes) and olfactory nerve (for nose) are purely sensory cranial nerves, carrying impulses only from the receptors to the brain."
+  },
+  {
+    "question": "Centrosomes are absent in neurons. What is the direct consequence of this?",
+    "choices": [
+      "Neurons cannot generate ATP for the sodium pump.",
+      "Neurons cannot conduct electrical impulses.",
+      "Neurons have lost the ability to divide and reproduce.",
+      "Neurons cannot produce neurotransmitters."
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Because centrosomes are absent, nerve cells have lost the ability to divide, making brain or spinal cord damage very difficult to repair."
+  },
+  {
+    "question": "Which of the following is considered an 'involuntary action' but not necessarily a 'reflex'?",
+    "choices": [
+      "Immediate flushing of tears to wash out a particle.",
+      "The continuous beating of the heart.",
+      "Blinking when an object suddenly approaches the eye.",
+      "Instantaneous withdrawal of a hand from a hot iron."
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "While reflexes are involuntary, not all involuntary actions are reflexes. Reflexes are usually quick responses to specific external stimuli, whereas rhythmic internal actions like heartbeats are broader involuntary processes."
+  },
+  {
+    "question": "What is the function of the 'Myelin sheath' regarding nerve impulse conduction?",
+    "choices": [
+      "It acts as a nutrient source for the cyton.",
+      "It acts as an insulation that prevents the mixing of impulses between adjacent axons.",
+      "It provides the electrical charge necessary for polarization.",
+      "It stores the neurotransmitter acetylcholine."
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The myelin sheath acts like the insulation on an electric wire, ensuring that impulses in one axon do not interfere with those in neighboring axons."
+  },
+  {
+    "question": "Cerebrospinal fluid (CSF) is found in the space between which two layers of the meninges?",
+    "choices": [
+      "Dura mater and Skull",
+      "Dura mater and Arachnoid",
+      "Arachnoid and Pia mater",
+      "Pia mater and the Brain surface"
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "The watery CSF is located in the space between the middle arachnoid layer and the innermost pia mater, acting as a cushion for the brain and spinal cord."
+  },
+  {
+    "question": "Which cranial nerve pair is responsible for the sense of smell?",
+    "choices": [
+      "Optic",
+      "Auditory",
+      "Olfactory",
+      "Vagus"
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The olfactory nerve is the sensory cranial nerve dedicated to the sense of smell from the nose."
+  },
+  {
+    "question": "The Autonomic Nervous System is strongly influenced by which of the following?",
+    "choices": [
+      "Conscious willing thought.",
+      "Emotions such as grief, anger, and fear.",
+      "Voluntary muscular activity in the limbs.",
+      "External temperature changes exclusively."
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Emotions strongly influence the ANS, and long-continued emotional stress can lead to health issues like high blood pressure or stomach ulcers."
+  },
+  {
+    "question": "What is the 'Reflex Arc'?",
+    "choices": [
+      "The curved shape of the spinal cord grey matter.",
+      "The longest route an impulse can take to reach the brain.",
+      "The shortest route taken by an impulse from a receptor to an effector.",
+      "The point of contact between a dendrite and an axon."
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The reflex arc is defined as the shortest possible pathway for a nerve impulse to travel from the receptor to the effector to ensure a rapid response."
+  },
+  {
+    "question": "The brain constitutes about 2% of total body weight. What percentage of total body oxygen does it consume?",
+    "choices": [
+      "2%",
+      "10%",
+      "25%",
+      "50%"
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Despite its relatively small weight, the brain is highly metabolic and consumes more than 25% (one-fourth) of the total oxygen taken into the body."
+  },
+  {
+    "question": "During an impulse transmission, which ions move inwards to cause 'depolarization'?",
+    "choices": [
+      "Potassium ions",
+      "Sodium ions",
+      "Chloride ions",
+      "Calcium ions"
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Upon stimulation, the axon membrane becomes more permeable to sodium ions (Na+), which move inwards and cause the loss of the polarized state (depolarization)."
+  },
+  {
+    "question": "The hypothalamus is a part of the forebrain. Which of the following is one of its primary functions?",
+    "choices": [
+      "Relaying sensory impulses to the cerebellum.",
+      "Controlling body temperature.",
+      "Coordinating the balance of the body.",
+      "Managing peristaltic movements of the gut."
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The hypothalamus controls body temperature and regulates the pituitary gland."
+  },
+  {
+    "question": "Which of the following describes the 'Acquired Reflex' accurately?",
+    "choices": [
+      "It is inborn and inherited from parents.",
+      "It is similar in all individuals of a species.",
+      "It is developed during a lifetime through learning and experience.",
+      "It occurs without the involvement of the brain."
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Acquired (conditioned) reflexes are developed during one's lifetime through experience and learning, unlike natural reflexes which are inborn."
+  },
+  {
+    "question": "What is the result of 'Meningitis'?",
+    "choices": [
+      "Degeneration of the myelin sheath.",
+      "Inflammation of the membranes protecting the brain.",
+      "The blockage of the central canal in the spinal cord.",
+      "The overproduction of acetylcholine at the synapse."
+    ],
+    "answer": 1,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Meningitis is the clinical term for the inflammation of the meninges (the three protective membranes of the brain and spinal cord)."
+  },
+  {
+    "question": "A nerve impulse travels at a maximum speed of about:",
+    "choices": [
+      "150,000 km per second",
+      "300,000 km per second",
+      "100 meters per second",
+      "10 meters per hour"
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "While electricity in a wire travels at 150,000 km/s, a nerve impulse is much slower, moving at a maximum speed of approximately 100 meters per second."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Neurons are unable to divide or reproduce to replace damaged cells. <br><b>Reason (R):</b> Nerve cells lack centrosomes, which are necessary for cell division.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Nervous System",
+    "category": "Assertion-Reasoning",
+    "complexity": "medium",
+    "reason": "The absence of centrosomes in neurons is the biological reason why they cannot undergo mitosis to replace themselves."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Conduction of a nerve impulse is essentially the same as the flow of electricity in a wire. <br><b>Reason (R):</b> Neither electrons nor ions move along the length of the nerve fiber; instead, it is a wave of depolarization.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "The Nervous System",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Assertion A is false because the conduction of a nerve impulse is not like electricity; no electrons or ions move along the wire/fiber. Reason R is true, explaining that it is a wave of chemical/electrical change (depolarization)."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Humans possess a higher degree of intelligence compared to other animals. <br><b>Reason (R):</b> The human cerebrum has a highly convoluted surface with many gyri and sulci, accommodating more nerve cells.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Nervous System",
+    "category": "Assertion-Reasoning",
+    "complexity": "medium",
+    "reason": "The increased surface area provided by convolutions allows for more neurons in the cerebral cortex, which is directly linked to higher intelligence."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Damage to the medulla oblongata is often fatal. <br><b>Reason (R):</b> The medulla controls vital involuntary activities such as heartbeat and breathing.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Nervous System",
+    "category": "Assertion-Reasoning",
+    "complexity": "medium",
+    "reason": "Since the medulla regulates essential life-sustaining functions, any injury to it can cause these functions to stop, resulting in death."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The spinal cord acts as a 'shock-proof' cushion for the backbone. <br><b>Reason (R):</b> The spinal cord is filled with cerebrospinal fluid and surrounded by three meninges.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "The Nervous System",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Assertion A is false because it is the fluid/membranes that cushion the spinal cord, not the cord cushioning the backbone. Reason R is true."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Alcohol consumption leads to clumsy walking and poor coordination. <br><b>Reason (R):</b> Alcohol primarily affects the cerebrum, where all muscular acts originate.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Assertion A is true, but Reason R is false in context. Alcohol affects the cerebellum, which is responsible for coordinating and timing muscle movements, not the cerebrum where they originate."
+  },
+  {
+    "question": "<b>Assertion (A):</b> In an emergency, the sympathetic system dilates the pupil of the eye. <br><b>Reason (R):</b> This system prepares the body for relaxation and restores normal conditions.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "The Nervous System",
+    "category": "Assertion-Reasoning",
+    "complexity": "medium",
+    "reason": "Assertion A is true (pupil dilation), but Reason R describes the Parasympathetic system, not the Sympathetic one."
+  },
+  {
+    "question": "<b>Assertion (A):</b> All involuntary actions occurring in the body are considered reflexes. <br><b>Reason (R):</b> Some involuntary actions, like the non-stop beating of the heart, are coordinated without immediate external sensory triggers.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "The Nervous System",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Assertion A is false; reflexes are a specific type of involuntary action triggered by stimulus. Reason R is true."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Acquired reflexes can differ significantly between individuals. <br><b>Reason (R):</b> These reflexes are developed through individual learning and specific life experiences.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Nervous System",
+    "category": "Assertion-Reasoning",
+    "complexity": "medium",
+    "reason": "Since conditioned reflexes depend on unique learning (like playing an instrument), they are not uniform across the species."
+  },
+  {
+    "question": "<b>Assertion (A):</b> A spinal reflex involves an instantaneous response flashed 'like a reflection' to the effector. <br><b>Reason (R):</b> The pathway for a spinal reflex arc is short, often involving only two or three neurons leaving at the same level they enter.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Nervous System",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "The speed of a reflex is possible because the nervous pathway (arc) is extremely short and does not require initial processing by the brain."
+  },
+  {
+    "question": "What is the biological significance of the testes descending into the scrotum shortly before birth?",
+    "choices": [
+      "To provide more space for the development of internal abdominal organs.",
+      "To ensure the sperm-producing cells are protected from physical shocks.",
+      "To allow spermatogenesis to occur at a temperature lower than that of the body.",
+      "To facilitate the direct connection of the sperm duct to the urethra."
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Sperms are produced in the testes at a temperature 2 to 3°C lower than that of the body. If they do not descend, the higher internal body temperature results in sterility."
+  },
+  {
+    "question": "Which specific structure in the male reproductive system is responsible for the maturation and motility of sperms?",
+    "choices": [
+      "Seminiferous tubules",
+      "Sperm duct (Vas deferens)",
+      "Epididymis",
+      "Interstitial cells"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "The epididymis is a coiled tube where sperms are stored for some days to mature and become motile (capable of moving)."
+  },
+  {
+    "question": "Which male accessory gland is responsible for pouring an alkaline secretion to neutralize the acidity in the female's vagina?",
+    "choices": [
+      "Seminal vesicles",
+      "Prostate gland",
+      "Bulbo-urethral glands",
+      "Leydig glands"
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The prostate gland pours an alkaline secretion into the semen as it passes through the urethra to neutralize acidic conditions in the vagina."
+  },
+  {
+    "question": "What is the role of the enzyme 'hyaluronidase' secreted by the sperm?",
+    "choices": [
+      "To provide ATP for the lashing movement of the tail.",
+      "To facilitate the fusion of the sperm nucleus with the egg nucleus.",
+      "To dissolve the wall of the ovum to allow entry of the sperm.",
+      "To create a chemical barrier that prevents other sperms from entering."
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "The acrosome at the head of the sperm secretes hyaluronidase, which dissolves the wall of the ovum, facilitating the entry of the sperm head."
+  },
+  {
+    "question": "In the menstrual cycle, the sudden rupture of the Graafian follicle and release of the ovum is primarily promoted by which hormones?",
+    "choices": [
+      "Oestrogen and Progesterone",
+      "Testosterone and Oestrogen",
+      "FSH (Follicle Stimulating Hormone) and LH (Luteinizing Hormone)",
+      "Progesterone and LH"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Pituitary hormones FSH and LH promote the maturation and release of the ovum during the ovulatory phase of the cycle."
+  },
+  {
+    "question": "The 'Corpus Luteum' is a yellow mass that forms from the remnant of a ruptured follicle. What is its endocrine function if fertilization occurs?",
+    "choices": [
+      "It secretes FSH to stimulate the next cycle.",
+      "It continues to release progesterone to maintain the uterine lining.",
+      "It produces oestrogen to trigger the follicular phase.",
+      "It disintegrates to allow for implantation."
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "If the ovum is fertilized, the corpus luteum continues to release progesterone, which keeps the uterus in a state suitable for implantation."
+  },
+  {
+    "question": "Why is the blood of the embryo in close contact with the mother's blood in the placenta but never actually mingles with it?",
+    "choices": [
+      "Because the mixing would cause a massive inflammatory response due to different blood types.",
+      "To prevent the mother's high blood pressure from damaging the delicate foetal tissues.",
+      "Because the embryo produces its own blood cells in the yolk sac.",
+      "To ensure that only nitrogenous wastes are exchanged."
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "If there was direct continuity, the relatively high pressure of the mother's blood would seriously damage the soft and delicate tissues of the foetus."
+  },
+  {
+    "question": "Identical twins are formed from:",
+    "choices": [
+      "Two different eggs fertilized by two different sperms.",
+      "A single egg fertilized by two different sperms.",
+      "A single fertilized egg that splits into two parts during early cell division.",
+      "Two eggs released from the same ovary at the same time."
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Identical twins are produced from one egg (monozygotic); a single fertilized egg splits into two parts, each developing into an independent individual."
+  },
+  {
+    "question": "Which of the following describes the 'Luteal Phase' of the menstrual cycle?",
+    "choices": [
+      "The shedding and rupturing of the endometrium blood vessels.",
+      "The maturation of a new follicle under the influence of oestrogen.",
+      "The further thickening of the uterus lining and secretion of progesterone by corpus luteum.",
+      "The release of the egg from the ovary around the 14th day."
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "The luteal phase (days 15-28) involves the emptied follicle turning into corpus luteum and releasing progesterone to prepare for potential pregnancy."
+  },
+  {
+    "question": "What is the technical term for the fixing of the blastocyst to the uterine wall?",
+    "choices": [
+      "Gestation",
+      "Fertilization",
+      "Parturition",
+      "Implantation"
+    ],
+    "answer": 3,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Implantation is the process where the hollow sphere of cells (blastocyst) fixes into the endometrium of the uterus."
+  },
+  {
+    "question": "Which substance produced by the foetus is eliminated into the mother's blood via the placenta?",
+    "choices": [
+      "Oxygen",
+      "Urea",
+      "Glucose",
+      "Antibodies"
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Nitrogenous wastes (urea) and carbon dioxide are excreted by the foetus and diffuse into the mother's blood through the placenta."
+  },
+  {
+    "question": "At what stage of development does the embryo start looking like a baby and is referred to as a 'foetus'?",
+    "choices": [
+      "After 2 weeks of gestation.",
+      "From 7-8 weeks of gestation onwards.",
+      "Once the heart starts beating at 5 weeks.",
+      "Only after the end of the second trimester."
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The term 'foetus' is used when the embryo starts having a human-like appearance, which occurs from approximately 7 to 8 weeks of gestation."
+  },
+  {
+    "question": "Which part of the sperm provides the energy required for swimming?",
+    "choices": [
+      "Head (Acrosome)",
+      "Head (Nucleus)",
+      "Middle piece (Mitochondria)",
+      "Tail (Axial filament)"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The middle piece contains mitochondria, which provide energy in the form of ATP for the sperm's movement."
+  },
+  {
+    "question": "The sharp cry of a newborn baby serves a physiological purpose. What is it?",
+    "choices": [
+      "To signal the mother to release oxytocin.",
+      "To clear the respiratory passage of the baby.",
+      "To stimulate the contraction of the umbilical cord.",
+      "To trigger the start of lactation in the mother."
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "The first cry is nature's way of clearing the baby's respiratory passage so it can begin breathing air."
+  },
+  {
+    "question": "What is the primary difference between Asexual and Sexual reproduction regarding genetic variation?",
+    "choices": [
+      "Sexual reproduction involves only one parent, resulting in high variation.",
+      "Asexual reproduction involves gametes, causing no variation.",
+      "Asexual reproduction involves no mixing of genetic material, leading to less variation.",
+      "Sexual reproduction produces more offspring, leading to stable genetics."
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "In asexual reproduction, there is no mixing of genetic material, so offspring have little to no variation. Sexual reproduction involves genetic mixing and increased variation."
+  },
+  {
+    "question": "Which membrane encloses the fluid that acts as a shock-absorber around the foetus?",
+    "choices": [
+      "Chorion",
+      "Allantois",
+      "Amnion",
+      "Endometrium"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The amnion is a sac that develops around the embryo and is filled with amniotic fluid, which protects the foetus from mechanical shocks."
+  },
+  {
+    "question": "During childbirth (parturition), which part of the baby is usually pushed out first through the cervix and vagina?",
+    "choices": [
+      "Feet first",
+      "Shoulders first",
+      "Head first",
+      "Placenta first"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Under normal conditions during birth, the baby is pushed out head first by powerful contractions of the uterus."
+  },
+  {
+    "question": "Secondary sexual characteristics in females, such as widening of hips and breast growth, are induced by which hormone?",
+    "choices": [
+      "Progesterone",
+      "Oestrogen",
+      "Testosterone",
+      "LH"
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Oestrogens released by the ovaries are responsible for secondary sexual characteristics and bodily changes in females during puberty."
+  },
+  {
+    "question": "A single ejaculation of human semen contains approximately how many sperms?",
+    "choices": [
+      "2,000 to 4,000",
+      "200,000 to 400,000",
+      "20,000,000 to 40,000,000",
+      "200,000,000 to 400,000,000"
+    ],
+    "answer": 3,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "A single ejaculation (2-3 ml) contains between 200 million and 400 million sperms."
+  },
+  {
+    "question": "Which of the following is NOT readily permeable through the placenta?",
+    "choices": [
+      "Nicotine and Alcohol",
+      "Oxygen and Glucose",
+      "Germs (Bacteria)",
+      "HIV Virus"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "The placenta allows nutrients and gases to pass but acts as a barrier to most germs (bacteria); however, some viruses (like HIV) can cross it."
+  },
+  {
+    "question": "The solid spherical mass of cells resulting from repeated division of the zygote is called the:",
+    "choices": [
+      "Morula",
+      "Blastocyst",
+      "Embryo",
+      "Foetus"
+    ],
+    "answer": 0,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The morula is the stage following initial cleavage where the zygote has divided into a solid ball of cells."
+  },
+  {
+    "question": "What happens to the level of testosterone production if a boy's testes fail to descend into the scrotum?",
+    "choices": [
+      "Testosterone production ceases entirely.",
+      "Testosterone production is unaffected as it depends on LH.",
+      "The testes disintegrate and hormones are no longer produced.",
+      "Testosterone production is lowered, but the primary impact is sterility."
+    ],
+    "answer": 3,
+    "chapter": "The Reproductive System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Failure to descend primarily stops sperm maturation (sterility). While hormone production may be affected, the most distinct biological impact highlighted is the inability to produce mature sperms due to heat."
+  },
+  {
+    "question": "Fraternal twins are biologically known as 'Dizygotic' because:",
+    "choices": [
+      "They are formed by the splitting of a single zygote.",
+      "They are formed from two different fertilized eggs (zygotes).",
+      "They always have the same genetic sequence.",
+      "They are produced in the same ovarian follicle."
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Dizygotic means 'produced from two zygotes'; this occurs when two separate eggs are fertilized by two different sperms."
+  },
+  {
+    "question": "What is the average duration of the human gestation period?",
+    "choices": [
+      "180 days",
+      "250 days",
+      "280 days",
+      "320 days"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "In humans, the full term of development of the embryo in the uterus lasts about 280 days."
+  },
+  {
+    "question": "Which structure connects the placenta to the foetus?",
+    "choices": [
+      "Oviducal funnel",
+      "Endometrium",
+      "Umbilical cord",
+      "Allantois"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The umbilical cord contains blood vessels that link the growing foetus to the placenta."
+  },
+  {
+    "question": "During which phase of the menstrual cycle does the uterus lining shed along with blood?",
+    "choices": [
+      "Follicular phase",
+      "Ovulatory phase",
+      "Luteal phase",
+      "Menstrual phase"
+    ],
+    "answer": 3,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The menstrual phase (days 1-5) is marked by the shedding and discharge of the endometrium and blood."
+  },
+  {
+    "question": "The sensitive erectile tissue in females that is equivalent to the male penis is the:",
+    "choices": [
+      "Labia majora",
+      "Hymen",
+      "Clitoris",
+      "Vulva"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The clitoris is a small erectile structure in the vulva that is highly sensitive and homologous to the penis."
+  },
+  {
+    "question": "Which of the following is considered a primary reproductive part?",
+    "choices": [
+      "Sperm duct",
+      "Uterus",
+      "Gonads (Testes and Ovaries)",
+      "Penis"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Primary reproductive parts are the gonads because they produce the actual sex cells (gametes)."
+  },
+  {
+    "question": "A 'Test-tube baby' is a result of:",
+    "choices": [
+      "Growth of an embryo entirely within a glass container.",
+      "In vitro fertilization followed by implantation in a uterus.",
+      "Asexual reproduction in a laboratory setting.",
+      "The birth of identical twins from a single egg in a petri dish."
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The term refers to in vitro fertilization (IVF), where fertilization occurs in a petri dish and the embryo is then placed back into a uterus for natural growth."
+  },
+  {
+    "question": "The mixture of sperms and the secretions from male accessory glands is known as:",
+    "choices": [
+      "Seminal fluid",
+      "Semen",
+      "Mucus",
+      "Chyme"
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Semen is the milky fluid produced by the combination of sperms and secretions from seminal vesicles, the prostate, and Cowper's glands."
+  },
+  {
+    "question": "Which hormone's presence in urine is the basis for most common pregnancy tests?",
+    "choices": [
+      "LH",
+      "Oestrogen",
+      "Progesterone",
+      "Testosterone"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "The presence of progesterone (or its metabolic derivatives) in urine is used to detect pregnancy because it is maintained at high levels during gestation."
+  },
+  {
+    "question": "Which structure in the ovary contains the developing egg and secretes oestrogen?",
+    "choices": [
+      "Corpus luteum",
+      "Follicle",
+      "Interstitial cell",
+      "Endometrium"
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The cellular sac containing the maturing egg is the follicle; it releases oestrogen into the bloodstream."
+  },
+  {
+    "question": "Siamese twins occur when:",
+    "choices": [
+      "Two different eggs are fertilized but share the same placenta.",
+      "A single fertilized egg fails to separate completely during cleavage.",
+      "Triplets are born where two share an umbilical cord.",
+      "A surrogate mother carries a dizygotic pregnancy."
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Siamese (conjoined) twins are identical twins (from a single egg) who failed to separate completely during development."
+  },
+  {
+    "question": "The funnel-shaped opening of the oviduct that picks up the released egg is called the:",
+    "choices": [
+      "Uterine neck",
+      "Oviducal funnel",
+      "Cervix",
+      "Ostium"
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The oviducal funnel, lined with cilia, picks up the released ovum from the ovary."
+  },
+  {
+    "question": "In the male reproductive system, which tube loops over the ureters and joins the urethra?",
+    "choices": [
+      "Efferent duct",
+      "Sperm duct (Vas deferens)",
+      "Epididymis",
+      "Ejaculatory duct"
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The two sperm ducts (vas deferens) travel into the abdomen, loop over the ureters, and join the urethra."
+  },
+  {
+    "question": "Which of the following is a secondary sexual character in males?",
+    "choices": [
+      "Production of sperms",
+      "Development of breasts",
+      "Deepening of the voice",
+      "Presence of ovaries"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Secondary sexual characters are external features that distinguish the sexes; in males, this includes a deeper voice and facial hair."
+  },
+  {
+    "question": "What is the typical diameter and thickness of the human uterus?",
+    "choices": [
+      "10 cm x 10 cm",
+      "2 cm x 1 cm",
+      "7 cm x 5 cm",
+      "15 cm x 10 cm"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "The human uterus is described as a hollow pear-shaped organ with dimensions of approximately 7 cm by 5 cm."
+  },
+  {
+    "question": "The time of onset of menstruation in a young female is termed:",
+    "choices": [
+      "Menopause",
+      "Puberty",
+      "Menarche",
+      "Ovulation"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Menarche is the beginning of the menstrual cycle in females, typically occurring around age 13."
+  },
+  {
+    "question": "The innermost lining of the uterus, which becomes thickened and vascularized each month, is the:",
+    "choices": [
+      "Myometrium",
+      "Perimetrium",
+      "Endometrium",
+      "Trophoblast"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The endometrium is the thickened innermost lining of the uterus that prepares for implantation or is shed during menstruation."
+  },
+  {
+    "question": "Which male gland's secretion serves primarily as a lubricant during coitus?",
+    "choices": [
+      "Seminal vesicle",
+      "Prostate gland",
+      "Bulbo-urethral (Cowper's) gland",
+      "Interstitial glands"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The small bulbo-urethral glands (Cowper's glands) secrete a fluid that serves as a lubricant."
+  },
+  {
+    "question": "If an alcoholic mother consumes alcohol during pregnancy, it can readily reach the foetus because:",
+    "choices": [
+      "Alcohol breaks down the placental villi.",
+      "The placenta is permeable to alcohol.",
+      "Alcohol causes direct continuity between maternal and foetal blood.",
+      "The foetus drinks the amniotic fluid containing alcohol."
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "The placenta is permeable to alcohol and nicotine, allowing these substances to pass from the mother to the foetus."
+  },
+  {
+    "question": "Which stage of the menstrual cycle occurs between days 5 and 12?",
+    "choices": [
+      "Menstrual phase",
+      "Follicular phase",
+      "Ovulatory phase",
+      "Luteal phase"
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The follicular phase follows the menstrual phase and continues from day 5 to day 12 as the follicle grows."
+  },
+  {
+    "question": "Fertilization normally occurs in which part of the female reproductive system?",
+    "choices": [
+      "Vagina",
+      "Cervix",
+      "Uterus",
+      "Oviduct (Fallopian tube)"
+    ],
+    "answer": 3,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Fertilization typically takes place in the upper part of the oviduct after the sperm swims through the uterus."
+  },
+  {
+    "question": "The placenta breaks away from the uterus and is expelled shortly after the baby is born. This is known as:",
+    "choices": [
+      "Parturition",
+      "After-birth",
+      "Lactation",
+      "Gestation"
+    ],
+    "answer": 1,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The placenta and foetal membranes expelled about 15 minutes after the baby is born are collectively called the after-birth."
+  },
+  {
+    "question": "Which cells in the testis produce the hormone testosterone?",
+    "choices": [
+      "Sperm producing cells",
+      "Seminiferous tubules",
+      "Leydig (Interstitial) cells",
+      "Sertoli cells"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Interstitial cells, also known as Leydig cells, are found between seminiferous tubules and produce testosterone."
+  },
+  {
+    "question": "At what age does menopause usually occur in human females?",
+    "choices": [
+      "Around 13 years",
+      "Between 20 and 30 years",
+      "Between 45 and 50 years",
+      "After 60 years"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Menopause is the permanent stoppage of menstruation, typically occurring around age 45-50."
+  },
+  {
+    "question": "What percentage of all twin cases belong to the fraternal (non-identical) type?",
+    "choices": [
+      "10%",
+      "25%",
+      "75%",
+      "99%"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "About 75 per cent of all cases of twins belong to the fraternal (diovular/dizygotic) type."
+  },
+  {
+    "question": "The 'Hollow sphere of cells with a surrounding single cellular layer (trophoblast)' describes which developmental stage?",
+    "choices": [
+      "Zygote",
+      "Morula",
+      "Blastocyst",
+      "Advanced embryo"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "The blastocyst is the hollow sphere stage that eventually implants into the uterine wall."
+  },
+  {
+    "question": "Which of the following describes the first sign of puberty in girls?",
+    "choices": [
+      "Onset of menstruation (Menarche)",
+      "Growth of hair in armpits",
+      "Enlargement of breasts",
+      "Deepening of voice"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "In girls, the first sign of puberty (around age 10) is usually the enlargement of the breasts."
+  },
+  {
+    "question": "What would be the total number of chromosomes in a human zygote?",
+    "choices": [
+      "23",
+      "44",
+      "46 (23 pairs)",
+      "92"
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "The fusion of a sperm (23 chromosomes) and an egg (23 chromosomes) restores the normal human number of 46 chromosomes (23 pairs)."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If the testes fail to descend into the scrotum, it leads to sterility in males. <br><b>Reason (R):</b> The internal body temperature is too high for the maturation of sperms in the testes.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Spermatogenesis requires a temperature 2-3°C lower than normal body temperature, which is why the scrotum hangs away from the body."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Identical twins are always of the same sex (either both boys or both girls). <br><b>Reason (R):</b> They are produced from two different eggs fertilized by the same sperm.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Assertion A is true, but Reason R is false. Identical twins come from a single egg fertilized by a single sperm that later splits."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The placenta is an intimate connection between foetal membranes and the uterine wall. <br><b>Reason (R):</b> The blood of the mother and the foetus mix freely within the placental sinuses to exchange nutrients.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Assertion A is true, but Reason R is false. Maternal and foetal blood systems are separated by membranes and never mingle directly."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Progesterone is known as the pregnancy hormone. <br><b>Reason (R):</b> It prepares the uterus for receiving the embryo and maintains the pregnancy state.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Progesterone maintains the thickened endometrium for implantation and inhibits further menstrual cycles during pregnancy."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The acrosome of the sperm is vital for fertilization. <br><b>Reason (R):</b> It contains mitochondria that provide the kinetic energy for the sperm to reach the egg.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Assertion A is true because it contains enzymes to enter the egg, but Reason R is false because mitochondria are in the middle piece, not the acrosome."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Amniotic fluid provides protection and restricted movement to the foetus. <br><b>Reason (R):</b> It serves as a source of nutrition and oxygen for the foetus before the placenta is fully formed.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Assertion A is true, but Reason R is false. Amniotic fluid is for protection and cushioning; nutrition and oxygen come from the mother through the placenta."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The umbilical cord contains blood vessels with oxygenated and deoxygenated blood. <br><b>Reason (R):</b> The umbilical artery carries oxygenated blood from the placenta to the foetus.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Assertion A is true, but Reason R is false. In the umbilical cord, the artery carries deoxygenated blood (with wastes) away from the foetus, and the vein brings oxygenated blood to it."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Human reproduction is exclusively sexual. <br><b>Reason (R):</b> Humans reproduce by the production of gametes which must unite to produce a zygote.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Humans belong to higher organisms where asexual reproduction is non-existent; they rely on gamete fusion."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The secondary sexual characters are essential reproductive parts. <br><b>Reason (R):</b> They do not directly participate in the process of gamete formation or development of the egg.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Assertion A is false. Secondary sexual characters are external clues and do not act as reproductive parts. Reason R is a true statement."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The menstrual cycle is temporarily stopped by pregnancy. <br><b>Reason (R):</b> During pregnancy, high levels of progesterone prevent the shedding of the endometrium.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "The Reproductive System",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "The corpus luteum remains active during pregnancy to secrete progesterone, which maintains the uterine lining and prevents menstruation."
+  },
+  {
+    "question": "Which specific structure of the eye is primarily responsible for preventing light rays from reflecting and scattering inside the eyeball?",
+    "choices": [
+      "Sclerotic layer",
+      "Melanin in the choroid",
+      "Vitreous humour",
+      "Conjunctiva"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The middle choroid layer contains a dark black pigment called melanin, which absorbs light to prevent internal reflection and scattering."
+  },
+  {
+    "question": "A patient is able to see distant objects clearly but finds nearby text blurred. Upon examination, it is found that the image of near objects falls behind the retina. Identify the defect and its physiological cause.",
+    "choices": [
+      "Myopia; eyeball is lengthened",
+      "Hyperopia; eyeball is shortened",
+      "Astigmatism; uneven cornea curvature",
+      "Cataract; opaque lens"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Hyperopia (long-sightedness) results from a shortened eyeball or a lens that is too flat, causing the image of near objects to form behind the retina."
+  },
+  {
+    "question": "During the process of dark adaptation, which of the following physiological changes occurs in the eye?",
+    "choices": [
+      "Bleaching of rhodopsin and constriction of the pupil",
+      "Regeneration of rhodopsin and dilation of the pupil",
+      "Synthesis of iodopsin and constriction of the pupil",
+      "Regeneration of visual violet and partial closure of eyelids"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Dark adaptation involves the regeneration of visual purple (rhodopsin) in the rods and the dilation of the pupil to allow more light to enter."
+  },
+  {
+    "question": "The 'Organ of Corti', which contains sensory hair cells for hearing, is specifically located on which membrane of the cochlea?",
+    "choices": [
+      "Tectorial membrane",
+      "Reissner's membrane",
+      "Basilar membrane",
+      "Tympanic membrane"
+    ],
+    "answer": 2,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The sensory cells of the spiral organ (Organ of Corti) lie on the basilar membrane within the median canal of the cochlea."
+  },
+  {
+    "question": "Which part of the ear is responsible for perceiving dynamic equilibrium while the body is in motion?",
+    "choices": [
+      "Utriculus and Sacculus",
+      "Cochlea",
+      "Semicircular canals",
+      "Ear ossicles"
+    ],
+    "answer": 2,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The sensory hair cells in the ampullae of the semicircular canals are concerned with dynamic balance when the body is moving."
+  },
+  {
+    "question": "What is the primary function of the Eustachian tube?",
+    "choices": [
+      "Transmission of sound vibrations to the oval window",
+      "Equalizing air pressure on either side of the ear drum",
+      "Secreting ear wax to protect the auditory canal",
+      "Amplifying sound waves using a lever-like action"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The Eustachian tube connects the middle ear to the throat to equalize air pressure on both sides of the tympanum, allowing it to vibrate freely."
+  },
+  {
+    "question": "In the human eye, 'Yellow Spot' or Macula Lutea is characterized by:",
+    "choices": [
+      "High concentration of rods and absence of cones",
+      "Convergence of all nerve fibres to form the optic nerve",
+      "Maximum number of sensory cells, particularly cones",
+      "Presence of visual purple and high sensitivity to dim light"
+    ],
+    "answer": 2,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The yellow spot contains the highest density of sensory cells, especially cones, making it the area of brightest and best vision."
+  },
+  {
+    "question": "Which of the following describes the correct sequence of sound wave transmission in the middle ear?",
+    "choices": [
+      "Ear drum -> Stapes -> Incus -> Malleus -> Oval window",
+      "Ear drum -> Malleus -> Incus -> Stapes -> Oval window",
+      "Ear drum -> Hammer -> Stirrup -> Anvil -> Round window",
+      "Pinna -> Auditory canal -> Malleus -> Incus -> Cochlea"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Sound strikes the ear drum, which vibrates the malleus (hammer), then the incus (anvil), and finally the stapes (stirrup) which pushes against the oval window."
+  },
+  {
+    "question": "When focusing on a nearby object (less than 6 meters), which of the following actions is performed by the ciliary muscles?",
+    "choices": [
+      "They relax, tightening the suspensory ligaments to flatten the lens",
+      "They contract, pulling the ciliary body forward and slackening the suspensory ligaments",
+      "They contract to pull the lens thinner and increase its focal length",
+      "They relax to allow the lens to become more rounded due to high tension"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "For near vision, the circular ciliary muscles contract, releasing tension on the suspensory ligaments, allowing the elastic lens to become thicker and more convex."
+  },
+  {
+    "question": "A person has difficulty distinguishing between red and green colors. This condition is most likely:",
+    "choices": [
+      "Night blindness due to Vitamin A deficiency",
+      "Colour blindness due to a genetic defect",
+      "Astigmatism due to uneven corneal curvature",
+      "Presbyopia due to loss of lens flexibility"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Colour blindness is a genetic condition where an individual cannot discriminate between certain colours, common examples being red and green."
+  },
+  {
+    "question": "The antiseptic property of tears is attributed to the presence of which enzyme?",
+    "choices": [
+      "Thrombokinase",
+      "Pepsin",
+      "Lysozyme",
+      "Amylase"
+    ],
+    "answer": 2,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Tears contain lysozyme, an enzyme that kills germs and provides an antiseptic effect for the front surface of the eye."
+  },
+  {
+    "question": "What happens if the fluid in the semicircular canals continues to spin after a person stops rotating?",
+    "choices": [
+      "The person hears a ringing sound in the ears",
+      "The person experiences dizziness and involuntary eye movement",
+      "The person loses static balance relative to gravity",
+      "The ear ossicles lock to prevent damage to the cochlea"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "The continued spinning of the fluid (endolymph) after motion stops disrupts the equilibrium signals, leading to dizziness and back-and-forth eye movements."
+  },
+  {
+    "question": "Which structure connects the middle ear directly with the inner ear to transmit amplified mechanical vibrations?",
+    "choices": [
+      "Round window",
+      "Oval window",
+      "Eustachian canal",
+      "Auditory canal"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The stapes (stirrup) fits against the membrane-covered oval window, which leads directly into the inner ear's fluid-filled vestibule."
+  },
+  {
+    "question": "The visual purple pigment (Rhodopsin) is found in which retinal cells and is sensitive to what type of light?",
+    "choices": [
+      "Cones; bright light",
+      "Cones; dim light",
+      "Rods; bright light",
+      "Rods; dim light"
+    ],
+    "answer": 3,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Rod cells contain rhodopsin (visual purple) and are highly sensitive to low levels of illumination (dim light)."
+  },
+  {
+    "question": "Which of the following is a symptom of Astigmatism?",
+    "choices": [
+      "Complete loss of vision in one eye",
+      "Some parts of an object are in focus while others are blurred",
+      "Difficulty in seeing objects in dim light",
+      "Inability to perceive depth or 3D effects"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Astigmatism is caused by uneven curvature of the cornea, resulting in some parts of the visual field being in focus while others remain blurred."
+  },
+  {
+    "question": "Stereoscopic vision in humans is advantageous because it allows:",
+    "choices": [
+      "Vision in extremely dark environments",
+      "Perception of depth and relative distance of objects",
+      "A wider field of vision compared to animals with lateral eyes",
+      "Automatic correction of inverted images on the retina"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Binocular or stereoscopic vision involves simultaneous focusing in both eyes, creating overlapping images in the brain that provide a 3D effect and depth perception."
+  },
+  {
+    "question": "Which part of the inner ear contains sensory patches for registering static (positional) balance with respect to gravity?",
+    "choices": [
+      "Ampulla",
+      "Utriculus and Sacculus",
+      "Median canal of the cochlea",
+      "Organ of Corti"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The vestibule, consisting of the utriculus and sacculus, contains sensory patches for static equilibrium while the body is stationary."
+  },
+  {
+    "question": "What is the function of the 'Ciliary Body' in the eye?",
+    "choices": [
+      "To produce the vitreous humour",
+      "To regulate the amount of light entering the pupil",
+      "To alter the shape of the lens through contraction and relaxation",
+      "To provide blood supply to the retina"
+    ],
+    "answer": 2,
+    "chapter": "Sense Organs",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The ciliary body contains smooth muscles that adjust the curvature of the lens for viewing objects at various distances."
+  },
+  {
+    "question": "The 'Blind Spot' is the point of no vision because:",
+    "choices": [
+      "It is located on the nasal side of the yellow spot",
+      "It contains only rod cells and no cones",
+      "There are no sensory cells (rods or cones) at this location",
+      "The vitreous humour is too thick to allow light to pass through there"
+    ],
+    "answer": 2,
+    "chapter": "Sense Organs",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "The blind spot is where nerve fibres from the entire retina converge to form the optic nerve; it lacks any photoreceptors."
+  },
+  {
+    "question": "In the context of the ear, what does 'amplification of vibrations' refer to?",
+    "choices": [
+      "The collection of sound waves by the pinna",
+      "The lever-like action of the malleus and incus on the stapes",
+      "The movement of hair cells in the Organ of Corti",
+      "The resonance of air within the external auditory canal"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "The chain of ear ossicles amplifies the vibrations from the ear drum to the oval window due to their lever-like arrangement."
+  },
+  {
+    "question": "Which layer of the eyeball is continuous with the optic nerve and contains the photoreceptor cells?",
+    "choices": [
+      "Choroid",
+      "Sclera",
+      "Retina",
+      "Uvea"
+    ],
+    "answer": 2,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The retina is the innermost layer sensitive to light, containing rods and cones, and it transmits impulses to the brain via the optic nerve."
+  },
+  {
+    "question": "The transparent front portion of the sclerotic layer is called the:",
+    "choices": [
+      "Iris",
+      "Cornea",
+      "Conjunctiva",
+      "Pupil"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The sclera bulges out and becomes transparent in the front to form the cornea."
+  },
+  {
+    "question": "What is the typical range of sound frequencies that a normal human ear can detect?",
+    "choices": [
+      "2 to 2,000 Hz",
+      "20 to 20,000 Hz",
+      "200 to 200,000 Hz",
+      "1,000 to 4,000 Hz only"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Human sensory endings can detect vibrations in the frequency range of 20 to 20,000 Hertz."
+  },
+  {
+    "question": "If the suspensory ligaments of the eye are tightened, what is the effect on the lens?",
+    "choices": [
+      "The lens becomes more convex and thicker",
+      "The lens becomes longer and thinner (flattened)",
+      "The lens detaches from the ciliary body",
+      "The lens remains flexible but loses its biconvexity"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "When ciliary muscles relax, the suspensory ligaments tighten, pulling the elastic lens into a thinner, flattened shape suited for distant vision."
+  },
+  {
+    "question": "Persistence of vision, the basis of motion pictures, occurs because an after-image lasts for about:",
+    "choices": [
+      "1/2 second",
+      "1/10 second",
+      "1/24 second",
+      "1/100 second"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "An after-image or persistence image lasts for about one-tenth of a second in the eye after the object is removed."
+  },
+  {
+    "question": "Which fluid is Thicker and jelly-like, filling the chamber behind the lens?",
+    "choices": [
+      "Aqueous humour",
+      "Vitreous humour",
+      "Perilymph",
+      "Endolymph"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The vitreous chamber behind the lens is filled with a transparent, jelly-like thicker fluid called vitreous humour."
+  },
+  {
+    "question": "Presbyopia is a condition where older people cannot see near objects clearly primarily because:",
+    "choices": [
+      "The eyeball becomes too long",
+      "The cornea develops an uneven curvature",
+      "The lens loses its flexibility and power of accommodation",
+      "There is a deficiency of visual purple in the rods"
+    ],
+    "answer": 2,
+    "chapter": "Sense Organs",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "In presbyopia, age-related loss of lens flexibility makes it difficult for the eye to focus on near objects."
+  },
+  {
+    "question": "The 'lever-like action' of the ear ossicles is a feature of which part of the ear?",
+    "choices": [
+      "Outer ear",
+      "Middle ear",
+      "Inner ear",
+      "Pharynx"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The three bones (malleus, incus, stapes) are located in the middle ear and amplify vibrations through their lever-like arrangement."
+  },
+  {
+    "question": "What happens to the pupil when a person is exposed to very bright light?",
+    "choices": [
+      "It dilates due to the contraction of radial muscles",
+      "It constricts due to the contraction of circular muscles",
+      "It remains the same size while the eyelids close partially",
+      "It shifts toward the nasal side to protect the yellow spot"
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "In bright light, circular muscles of the iris contract while radial muscles relax, causing the pupil to constrict and reduce light entry."
+  },
+  {
+    "question": "Which of the following is NOT a divisions of the inner ear (membranous labyrinth)?",
+    "choices": [
+      "Cochlea",
+      "Semicircular canals",
+      "Vestibule",
+      "Auditory canal"
+    ],
+    "answer": 3,
+    "chapter": "Sense Organs",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The inner ear consists of the cochlea, semicircular canals, and the vestibule. The auditory canal is part of the outer ear."
+  },
+  {
+    "question": "Assertion (A): A person moving from a bright outdoor environment into a dimly lit room feels blinded for a short time. \nReason (R): This dazzling effect occurs because rhodopsin in the rods is bleached and needs time to regenerate for vision in dim light.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Sense Organs",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "In bright light, visual purple (rhodopsin) is broken down. Moving into a dark room requires time for this pigment to regenerate so the rods can function again."
+  },
+  {
+    "question": "Assertion (A): The image formed on the retina of the human eye is real and inverted. \nReason (R): The brain interprets these inverted signals such that we see objects in an upright position.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Both statements are true. However, the fact that the brain interprets images as upright does not 'explain' why the physical optics of the eye produce an inverted image; that is a result of the lens curvature."
+  },
+  {
+    "question": "Assertion (A): Myopia is corrected using a convex lens. \nReason (R): A concave lens causes light rays to diverge before they strike the lens of the eye, moving the image back onto the retina.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Sense Organs",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Assertion A is false because Myopia (short-sightedness) is corrected using a concave (diverging) lens. Reason R is a true statement about the function of a concave lens in myopia correction."
+  },
+  {
+    "question": "Assertion (A): The middle ear ossicles are malleus, incus, and stapes. \nReason (R): These three bones are collectively called the labyrinth of the inner ear.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "Sense Organs",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Assertion A is true. Reason R is false because the ear ossicles are part of the middle ear; the 'labyrinth' refers specifically to the inner ear structures."
+  },
+  {
+    "question": "Assertion (A): In a right-angled triangle, the perpendicular from the vertex to the hypotenuse divides it into two similar triangles. \nReason (R): Similarity of figures means they have the same shape but may differ in size.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 1,
+    "chapter": "Sense Organs",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "While both are true mathematical principles mentioned in the textbook context, the general definition of similarity doesn't specifically explain the geometric theorem of triangle division."
+  },
+  {
+    "question": "Assertion (A): The optic nerve leaves the eyeball at the yellow spot. \nReason (R): The yellow spot is the point of brightest vision containing only cone cells.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Sense Organs",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Assertion A is false; the optic nerve leaves the eye at the blind spot. Reason R is a true description of the yellow spot (Macula Lutea)."
+  },
+  {
+    "question": "Assertion (A): Guttation occurs through specialized vein endings called hydathodes. \nReason (R): This process is often driven by high root pressure and low transpiration rates.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Sense Organs",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "The assertion is true, and the reason correctly explains the physiological cause of water droplets forming at the hydathodes."
+  },
+  {
+    "question": "Assertion (A): A cataract is corrected by replacing the opaque lens with a donated healthy cornea. \nReason (R): The lens in a cataract patient turns opaque, cutting down vision even to total blindness.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Sense Organs",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Assertion A is false; cataracts are corrected by surgically removing the opaque lens and replacing it with a plastic lens or glasses, not a cornea. Reason R is true."
+  },
+  {
+    "question": "Assertion (A): The semicircular canals are involved in maintaining the static balance of the body. \nReason (R): The vestibule containing the utriculus and sacculus registers balance with respect to gravity while the body is stationary.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Sense Organs",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Assertion A is false because semicircular canals are concerned with dynamic balance. Reason R is a true description of the vestibule's role in static balance."
+  },
+  {
+    "question": "Assertion (A): Accommodation of the eye for near vision is achieved by making the lens more rounded. \nReason (R): The ciliary muscles contract to increase the tension on the suspensory ligaments during near vision.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "Sense Organs",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Assertion A is true. Reason R is false because during near vision, ciliary muscle contraction 'releases' tension on the ligaments, allowing the lens to bulge."
+  }
+  
+]

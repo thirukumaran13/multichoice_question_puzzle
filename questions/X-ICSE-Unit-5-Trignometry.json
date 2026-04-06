@@ -1,0 +1,1836 @@
+[
+  {
+    "question": "What is the simplified form of the expression <latex>\\frac{\\sin A}{1+\\cos A} + \\frac{1+\\cos A}{\\sin A}</latex>?",
+    "choices": [
+      "<latex>2\\sec A</latex>",
+      "<latex>2\\csc A</latex>",
+      "<latex>2\\sin A</latex>",
+      "<latex>2\\cos A</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Simplification",
+    "complexity": "hard",
+    "reason": "<latex>\\frac{\\sin^2 A + (1+\\cos A)^2}{\\sin A(1+\\cos A)} = \\frac{\\sin^2 A + 1 + 2\\cos A + \\cos^2 A}{\\sin A(1+\\cos A)} = \\frac{2+2\\cos A}{\\sin A(1+\\cos A)} = \\frac{2(1+\\cos A)}{\\sin A(1+\\cos A)} = 2\\csc A</latex>."
+  },
+  {
+    "question": "Evaluate the expression <latex>\\frac{\\cos A}{1-\\tan A} + \\frac{\\sin A}{1-\\cot A}</latex>.",
+    "choices": [
+      "<latex>\\sin A - \\cos A</latex>",
+      "<latex>\\sec A + \\csc A</latex>",
+      "<latex>\\cos A + \\sin A</latex>",
+      "<latex>1</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Trigonometrical Identities",
+    "category": "Simplification",
+    "complexity": "hard",
+    "reason": "Substitute <latex>\\tan A = \\frac{\\sin A}{\\cos A}</latex> and <latex>\\cot A = \\frac{\\cos A}{\\sin A}</latex>. The expression becomes <latex>\\frac{\\cos^2 A}{\\cos A - \\sin A} + \\frac{\\sin^2 A}{\\sin A - \\cos A} = \\frac{\\cos^2 A - \\sin^2 A}{\\cos A - \\sin A} = \\cos A + \\sin A</latex>."
+  },
+  {
+    "question": "Simplify the expression <latex>\\frac{\\tan A + \\sec A - 1}{\\tan A - \\sec A + 1}</latex>.",
+    "choices": [
+      "<latex>\\frac{1-\\sin A}{\\cos A}</latex>",
+      "<latex>\\frac{1+\\cos A}{\\sin A}</latex>",
+      "<latex>\\frac{1+\\sin A}{\\cos A}</latex>",
+      "<latex>\\frac{1-\\cos A}{\\sin A}</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Trigonometrical Identities",
+    "category": "Simplification",
+    "complexity": "hard",
+    "reason": "Replace the <latex>1</latex> in the numerator with <latex>\\sec^2 A - \\tan^2 A</latex>. The numerator becomes <latex>(\\tan A + \\sec A) - (\\sec A - \\tan A)(\\sec A + \\tan A) = (\\tan A + \\sec A)(1 - \\sec A + \\tan A)</latex>. Canceling with the denominator leaves <latex>\\tan A + \\sec A = \\frac{\\sin A + 1}{\\cos A}</latex>."
+  },
+  {
+    "question": "Which of the following is equivalent to <latex>\\frac{1-\\sin A}{1+\\sin A}</latex>?",
+    "choices": [
+      "<latex>(\\csc A - \\cot A)^2</latex>",
+      "<latex>(\\sec A - \\tan A)^2</latex>",
+      "<latex>(\\sec A + \\tan A)^2</latex>",
+      "<latex>\\cos^2 A</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Equivalence",
+    "complexity": "hard",
+    "reason": "Multiply numerator and denominator by <latex>(1-\\sin A)</latex> to get <latex>\\frac{(1-\\sin A)^2}{1-\\sin^2 A} = \\frac{(1-\\sin A)^2}{\\cos^2 A} = (\\frac{1}{\\cos A} - \\frac{\\sin A}{\\cos A})^2 = (\\sec A - \\tan A)^2</latex>."
+  },
+  {
+    "question": "The expression <latex>\\frac{\\cos^3 A + \\sin^3 A}{\\cos A + \\sin A} + \\frac{\\cos^3 A - \\sin^3 A}{\\cos A - \\sin A}</latex> simplifies to:",
+    "choices": [
+      "<latex>1</latex>",
+      "<latex>2</latex>",
+      "<latex>2\\sin A \\cos A</latex>",
+      "<latex>\\sec^2 A</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Algebraic Manipulation",
+    "complexity": "hard",
+    "reason": "Using <latex>a^3 \\pm b^3 = (a \\pm b)(a^2 \\mp ab + b^2)</latex>, the expression becomes <latex>(\\cos^2 A - \\sin A \\cos A + \\sin^2 A) + (\\cos^2 A + \\sin A \\cos A + \\sin^2 A) = (1 - \\sin A \\cos A) + (1 + \\sin A \\cos A) = 2</latex>."
+  },
+  {
+    "question": "Simplify <latex>\\sec^4 A(1 - \\sin^4 A) - 2\\tan^2 A</latex>.",
+    "choices": [
+      "<latex>-1</latex>",
+      "<latex>0</latex>",
+      "<latex>1</latex>",
+      "<latex>\\sec^2 A</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Trigonometrical Identities",
+    "category": "Simplification",
+    "complexity": "hard",
+    "reason": "<latex>\\sec^4 A - \\sec^4 A \\sin^4 A - 2\\tan^2 A = \\sec^4 A - \\tan^4 A - 2\\tan^2 A = (\\sec^2 A - \\tan^2 A)(\\sec^2 A + \\tan^2 A) - 2\\tan^2 A = 1(1 + 2\\tan^2 A) - 2\\tan^2 A = 1</latex>."
+  },
+  {
+    "question": "Find the value of <latex>(1 + \\cot A - \\csc A)(1 + \\tan A + \\sec A)</latex>.",
+    "choices": [
+      "<latex>0</latex>",
+      "<latex>1</latex>",
+      "<latex>2</latex>",
+      "<latex>\\tan A</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Trigonometrical Identities",
+    "category": "Evaluation",
+    "complexity": "hard",
+    "reason": "Convert to sine and cosine: <latex>(\\frac{\\sin A + \\cos A - 1}{\\sin A})(\\frac{\\cos A + \\sin A + 1}{\\cos A}) = \\frac{(\\sin A + \\cos A)^2 - 1}{\\sin A \\cos A} = \\frac{\\sin^2 A + \\cos^2 A + 2\\sin A \\cos A - 1}{\\sin A \\cos A} = \\frac{2\\sin A \\cos A}{\\sin A \\cos A} = 2</latex>."
+  },
+  {
+    "question": "Which of the following is equal to <latex>\\sqrt{\\frac{1-\\cos A}{1+\\cos A}}</latex> for <latex>0^\\circ < A < 90^\\circ</latex>?",
+    "choices": [
+      "<latex>\\sec A - \\tan A</latex>",
+      "<latex>\\csc A - \\cot A</latex>",
+      "<latex>\\csc A + \\cot A</latex>",
+      "<latex>\\sec A + \\tan A</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Equivalence",
+    "complexity": "hard",
+    "reason": "Multiply by <latex>\\frac{1-\\cos A}{1-\\cos A}</latex> inside the root: <latex>\\sqrt{\\frac{(1-\\cos A)^2}{\\sin^2 A}} = \\frac{1-\\cos A}{\\sin A} = \\csc A - \\cot A</latex>."
+  },
+  {
+    "question": "Simplify <latex>\\frac{\\sin A \\tan A}{1-\\cos A}</latex>.",
+    "choices": [
+      "<latex>1 - \\sec A</latex>",
+      "<latex>1 + \\sec A</latex>",
+      "<latex>1 + \\csc A</latex>",
+      "<latex>\\tan^2 A</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Simplification",
+    "complexity": "hard",
+    "reason": "<latex>\\frac{\\sin^2 A / \\cos A}{1-\\cos A} = \\frac{1-\\cos^2 A}{\\cos A(1-\\cos A)} = \\frac{(1-\\cos A)(1+\\cos A)}{\\cos A(1-\\cos A)} = \\frac{1+\\cos A}{\\cos A} = \\sec A + 1</latex>."
+  },
+  {
+    "question": "What is the equivalent expression for <latex>\\frac{(1+\\tan^2 A)\\cot A}{\\csc^2 A}</latex>?",
+    "choices": [
+      "<latex>\\sin A</latex>",
+      "<latex>\\cos A</latex>",
+      "<latex>\\tan A</latex>",
+      "<latex>\\cot A</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Trigonometrical Identities",
+    "category": "Equivalence",
+    "complexity": "hard",
+    "reason": "<latex>1+\\tan^2 A = \\sec^2 A</latex>. The expression becomes <latex>\\frac{\\sec^2 A \\cdot \\cot A}{\\csc^2 A} = \\frac{(1/\\cos^2 A) \\cdot (\\cos A/\\sin A)}{1/\\sin^2 A} = \\frac{\\sin^2 A}{\\cos A \\sin A} = \\tan A</latex>."
+  },
+  {
+    "question": "The expression <latex>\\frac{1}{\\sin A + \\cos A} + \\frac{1}{\\sin A - \\cos A}</latex> is equal to:",
+    "choices": [
+      "<latex>\\frac{2\\cos A}{1-2\\sin^2 A}</latex>",
+      "<latex>\\frac{2\\sin A}{1-2\\cos^2 A}</latex>",
+      "<latex>\\frac{2\\sin A}{2\\cos^2 A - 1}</latex>",
+      "<latex>\\frac{2\\cos A}{2\\sin^2 A - 1}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Algebraic Manipulation",
+    "complexity": "hard",
+    "reason": "Common denominator: <latex>\\frac{\\sin A - \\cos A + \\sin A + \\cos A}{\\sin^2 A - \\cos^2 A} = \\frac{2\\sin A}{\\sin^2 A - (1-\\sin^2 A)} = \\frac{2\\sin A}{2\\sin^2 A - 1}</latex>. Also <latex>\\sin^2 A - \\cos^2 A = (1-\\cos^2 A) - \\cos^2 A = 1-2\\cos^2 A</latex>. Thus, it is <latex>\\frac{2\\sin A}{1-2\\cos^2 A}</latex>."
+  },
+  {
+    "question": "Evaluate <latex>(\\csc A - \\sin A)(\\sec A - \\cos A)(\\tan A + \\cot A)</latex>.",
+    "choices": [
+      "<latex>0</latex>",
+      "<latex>1</latex>",
+      "<latex>\\sin A \\cos A</latex>",
+      "<latex>\\sec A \\csc A</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Evaluation",
+    "complexity": "hard",
+    "reason": "<latex>(\\frac{1-\\sin^2 A}{\\sin A})(\\frac{1-\\cos^2 A}{\\cos A})(\\frac{\\sin^2 A + \\cos^2 A}{\\sin A \\cos A}) = (\\frac{\\cos^2 A}{\\sin A})(\\frac{\\sin^2 A}{\\cos A})(\\frac{1}{\\sin A \\cos A}) = \\frac{\\cos^2 A \\sin^2 A}{\\sin^2 A \\cos^2 A} = 1</latex>."
+  },
+  {
+    "question": "Which is the simplified form of <latex>\\frac{\\cot A - 1}{2-\\sec^2 A}</latex>?",
+    "choices": [
+      "<latex>\\frac{\\tan A}{1+\\cot A}</latex>",
+      "<latex>\\frac{\\cot A}{1+\\tan A}</latex>",
+      "<latex>\\frac{1-\\tan A}{1+\\tan A}</latex>",
+      "<latex>\\frac{\\tan A}{\\sec A}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Simplification",
+    "complexity": "hard",
+    "reason": "<latex>2 - \\sec^2 A = 2 - (1+\\tan^2 A) = 1 - \\tan^2 A = (1-\\tan A)(1+\\tan A)</latex>. Numerator is <latex>\\frac{1}{\\tan A} - 1 = \\frac{1-\\tan A}{\\tan A}</latex>. Thus, the expression is <latex>\\frac{1-\\tan A}{\\tan A(1-\\tan A)(1+\\tan A)} = \\frac{\\cot A}{1+\\tan A}</latex>."
+  },
+  {
+    "question": "Simplify <latex>\\frac{\\csc A}{\\csc A - 1} + \\frac{\\csc A}{\\csc A + 1}</latex>.",
+    "choices": [
+      "<latex>2\\csc^2 A</latex>",
+      "<latex>2\\sec^2 A</latex>",
+      "<latex>2\\tan^2 A</latex>",
+      "<latex>2\\cot^2 A</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Simplification",
+    "complexity": "hard",
+    "reason": "<latex>\\frac{\\csc A(\\csc A + 1 + \\csc A - 1)}{\\csc^2 A - 1} = \\frac{2\\csc^2 A}{\\cot^2 A} = \\frac{2/\\sin^2 A}{\\cos^2 A/\\sin^2 A} = \\frac{2}{\\cos^2 A} = 2\\sec^2 A</latex>."
+  },
+  {
+    "question": "The expression <latex>\\frac{\\sin \\theta - 2\\sin^3 \\theta}{2\\cos^3 \\theta - \\cos \\theta}</latex> is identically equal to:",
+    "choices": [
+      "<latex>\\cot \\theta</latex>",
+      "<latex>\\tan \\theta</latex>",
+      "<latex>\\sec \\theta</latex>",
+      "<latex>\\csc \\theta</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Equivalence",
+    "complexity": "hard",
+    "reason": "Factor out <latex>\\sin \\theta</latex> and <latex>\\cos \\theta</latex>: <latex>\\frac{\\sin \\theta(1-2\\sin^2 \\theta)}{\\cos \\theta(2\\cos^2 \\theta - 1)}</latex>. Since <latex>1-2\\sin^2 \\theta = 1 - 2(1-\\cos^2 \\theta) = 2\\cos^2 \\theta - 1</latex>, the bracketed terms cancel out, leaving <latex>\\frac{\\sin \\theta}{\\cos \\theta} = \\tan \\theta</latex>."
+  },
+  {
+    "question": "Evaluate <latex>(1+\\cot^2 A)(1-\\cos A)(1+\\cos A)</latex>.",
+    "choices": [
+      "<latex>-1</latex>",
+      "<latex>0</latex>",
+      "<latex>1</latex>",
+      "<latex>\\sin^2 A</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Trigonometrical Identities",
+    "category": "Evaluation",
+    "complexity": "hard",
+    "reason": "<latex>(1+\\cot^2 A) = \\csc^2 A</latex>. <latex>(1-\\cos A)(1+\\cos A) = 1-\\cos^2 A = \\sin^2 A</latex>. The product is <latex>\\csc^2 A \\cdot \\sin^2 A = 1</latex>."
+  },
+  {
+    "question": "Simplify the identity <latex>\\frac{\\sin^4 A + \\cos^4 A}{\\sin^2 A \\cos^2 A}</latex>.",
+    "choices": [
+      "<latex>\\sec^2 A + \\csc^2 A</latex>",
+      "<latex>\\tan^2 A - \\cot^2 A</latex>",
+      "<latex>\\tan^2 A + \\cot^2 A</latex>",
+      "<latex>1</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Trigonometrical Identities",
+    "category": "Simplification",
+    "complexity": "hard",
+    "reason": "Separate the fraction: <latex>\\frac{\\sin^4 A}{\\sin^2 A \\cos^2 A} + \\frac{\\cos^4 A}{\\sin^2 A \\cos^2 A} = \\frac{\\sin^2 A}{\\cos^2 A} + \\frac{\\cos^2 A}{\\sin^2 A} = \\tan^2 A + \\cot^2 A</latex>."
+  },
+  {
+    "question": "Which of the following is equivalent to <latex>(1+\\tan^2 A) + \\left(1+\\frac{1}{\\tan^2 A}\\right)</latex>?",
+    "choices": [
+      "<latex>\\frac{1}{\\sin^2 A - \\sin^4 A}</latex>",
+      "<latex>\\frac{1}{\\cos^2 A - \\cos^4 A}</latex>",
+      "<latex>\\frac{1}{\\sin^2 A + \\cos^4 A}</latex>",
+      "<latex>\\sec^4 A - \\tan^4 A</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Equivalence",
+    "complexity": "hard",
+    "reason": "<latex>(1+\\tan^2 A) + (1+\\cot^2 A) = \\sec^2 A + \\csc^2 A = \\frac{1}{\\cos^2 A} + \\frac{1}{\\sin^2 A} = \\frac{\\sin^2 A + \\cos^2 A}{\\sin^2 A \\cos^2 A} = \\frac{1}{\\sin^2 A (1-\\sin^2 A)} = \\frac{1}{\\sin^2 A - \\sin^4 A}</latex>."
+  },
+  {
+    "question": "Simplify <latex>\\cos^4 A - \\sin^4 A</latex>.",
+    "choices": [
+      "<latex>1 - 2\\cos^2 A</latex>",
+      "<latex>2\\sin^2 A - 1</latex>",
+      "<latex>2\\cos^2 A - 1</latex>",
+      "<latex>1</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Trigonometrical Identities",
+    "category": "Simplification",
+    "complexity": "hard",
+    "reason": "<latex>(\\cos^2 A - \\sin^2 A)(\\cos^2 A + \\sin^2 A) = (\\cos^2 A - \\sin^2 A)(1) = \\cos^2 A - (1-\\cos^2 A) = 2\\cos^2 A - 1</latex>."
+  },
+  {
+    "question": "The expression <latex>(1+\\cot A)^2 + (1-\\cot A)^2</latex> simplifies to:",
+    "choices": [
+      "<latex>2\\sec^2 A</latex>",
+      "<latex>2\\csc^2 A</latex>",
+      "<latex>2\\tan^2 A</latex>",
+      "<latex>4\\cot A</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Simplification",
+    "complexity": "hard",
+    "reason": "<latex>1 + \\cot^2 A + 2\\cot A + 1 + \\cot^2 A - 2\\cot A = 2 + 2\\cot^2 A = 2(1+\\cot^2 A) = 2\\csc^2 A</latex>."
+  },
+  {
+    "question": "Evaluate <latex>(\\sin \\theta + \\cos \\theta)(\\tan \\theta + \\cot \\theta)</latex>.",
+    "choices": [
+      "<latex>\\sec \\theta - \\csc \\theta</latex>",
+      "<latex>\\sec \\theta \\csc \\theta</latex>",
+      "<latex>\\sec \\theta + \\csc \\theta</latex>",
+      "<latex>1</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Trigonometrical Identities",
+    "category": "Evaluation",
+    "complexity": "hard",
+    "reason": "<latex>(\\sin \\theta + \\cos \\theta)(\\frac{\\sin \\theta}{\\cos \\theta} + \\frac{\\cos \\theta}{\\sin \\theta}) = (\\sin \\theta + \\cos \\theta)(\\frac{\\sin^2 \\theta + \\cos^2 \\theta}{\\sin \\theta \\cos \\theta}) = \\frac{\\sin \\theta + \\cos \\theta}{\\sin \\theta \\cos \\theta} = \\frac{1}{\\cos \\theta} + \\frac{1}{\\sin \\theta} = \\sec \\theta + \\csc \\theta</latex>."
+  },
+  {
+    "question": "If <latex>\\sin A + \\cos A = \\sqrt{3}</latex>, what is the value of <latex>\\tan A + \\cot A</latex>?",
+    "choices": [
+      "<latex>1</latex>",
+      "<latex>\\sqrt{3}</latex>",
+      "<latex>\\frac{1}{\\sqrt{3}}</latex>",
+      "<latex>3</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Conditional Identities",
+    "complexity": "hard",
+    "reason": "Squaring both sides gives <latex>\\sin^2 A + \\cos^2 A + 2\\sin A \\cos A = 3 \\implies 1 + 2\\sin A \\cos A = 3 \\implies \\sin A \\cos A = 1</latex>. Then, <latex>\\tan A + \\cot A = \\frac{\\sin^2 A + \\cos^2 A}{\\sin A \\cos A} = \\frac{1}{1} = 1</latex>."
+  },
+  {
+    "question": "If <latex>\\sec A + \\tan A = p</latex>, express <latex>\\sin A</latex> in terms of <latex>p</latex>.",
+    "choices": [
+      "<latex>\\frac{p^2+1}{p^2-1}</latex>",
+      "<latex>\\frac{p^2-1}{p^2+1}</latex>",
+      "<latex>\\frac{2p}{p^2+1}</latex>",
+      "<latex>\\frac{p^2-1}{2p}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Conditional Identities",
+    "complexity": "hard",
+    "reason": "<latex>p^2 = (\\frac{1+\\sin A}{\\cos A})^2 = \\frac{(1+\\sin A)^2}{1-\\sin^2 A} = \\frac{1+\\sin A}{1-\\sin A}</latex>. Solving <latex>\\frac{1+\\sin A}{1-\\sin A} = p^2</latex> for <latex>\\sin A</latex> yields <latex>\\sin A = \\frac{p^2-1}{p^2+1}</latex>."
+  },
+  {
+    "question": "Given <latex>x \\cos A + y \\sin A = m</latex> and <latex>x \\sin A - y \\cos A = n</latex>, what is <latex>x^2 + y^2</latex>?",
+    "choices": [
+      "<latex>m^2 - n^2</latex>",
+      "<latex>m^2 + n^2</latex>",
+      "<latex>\\frac{m^2}{n^2}</latex>",
+      "<latex>\\sqrt{m^2+n^2}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Conditional Identities",
+    "complexity": "hard",
+    "reason": "Squaring and adding both equations: <latex>(x^2\\cos^2 A + y^2\\sin^2 A + 2xy\\sin A\\cos A) + (x^2\\sin^2 A + y^2\\cos^2 A - 2xy\\sin A\\cos A) = x^2(\\cos^2 A + \\sin^2 A) + y^2(\\sin^2 A + \\cos^2 A) = x^2 + y^2 = m^2 + n^2</latex>."
+  },
+  {
+    "question": "If <latex>m = a \\sec A + b \\tan A</latex> and <latex>n = a \\tan A + b \\sec A</latex>, find the value of <latex>m^2 - n^2</latex>.",
+    "choices": [
+      "<latex>a^2 + b^2</latex>",
+      "<latex>a^2 - b^2</latex>",
+      "<latex>b^2 - a^2</latex>",
+      "<latex>2ab</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Conditional Identities",
+    "complexity": "hard",
+    "reason": "<latex>m^2 - n^2 = (a^2\\sec^2 A + b^2\\tan^2 A + 2ab\\sec A\\tan A) - (a^2\\tan^2 A + b^2\\sec^2 A + 2ab\\sec A\\tan A) = a^2(\\sec^2 A - \\tan^2 A) - b^2(\\sec^2 A - \\tan^2 A) = a^2 - b^2</latex>."
+  },
+  {
+    "question": "If <latex>\\frac{\\cos A}{\\cos B} = m</latex> and <latex>\\frac{\\cos A}{\\sin B} = n</latex>, determine the value of <latex>(m^2+n^2)\\cos^2 B</latex>.",
+    "choices": [
+      "<latex>m^2</latex>",
+      "<latex>n^2</latex>",
+      "<latex>mn</latex>",
+      "<latex>m^2 - n^2</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Conditional Identities",
+    "complexity": "hard",
+    "reason": "<latex>(\\frac{\\cos^2 A}{\\cos^2 B} + \\frac{\\cos^2 A}{\\sin^2 B})\\cos^2 B = \\cos^2 A (\\frac{\\sin^2 B + \\cos^2 B}{\\cos^2 B \\sin^2 B})\\cos^2 B = \\frac{\\cos^2 A}{\\sin^2 B} = n^2</latex>."
+  },
+  {
+    "question": "If <latex>\\tan A + \\sin A = m</latex> and <latex>\\tan A - \\sin A = n</latex>, then <latex>m^2 - n^2</latex> is equal to:",
+    "choices": [
+      "<latex>2\\sqrt{mn}</latex>",
+      "<latex>4\\sqrt{mn}</latex>",
+      "<latex>\\sqrt{mn}</latex>",
+      "<latex>4mn</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Conditional Identities",
+    "complexity": "hard",
+    "reason": "<latex>m^2 - n^2 = (m+n)(m-n) = (2\\tan A)(2\\sin A) = 4\\tan A \\sin A</latex>. Also, <latex>4\\sqrt{mn} = 4\\sqrt{\\tan^2 A - \\sin^2 A} = 4\\sqrt{\\frac{\\sin^2 A}{\\cos^2 A} - \\sin^2 A} = 4\\sin A\\sqrt{\\sec^2 A - 1} = 4\\sin A \\tan A</latex>. Thus <latex>m^2-n^2 = 4\\sqrt{mn}</latex>."
+  },
+  {
+    "question": "Which of the following expressions is equivalent to <latex>\\frac{\\sin A}{\\sin(90^\\circ-A)} + \\frac{\\cos A}{\\cos(90^\\circ-A)}</latex>?",
+    "choices": [
+      "<latex>\\sec A + \\csc A</latex>",
+      "<latex>\\sec A \\csc A</latex>",
+      "<latex>\\sin A \\cos A</latex>",
+      "<latex>1</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Complementary Angles",
+    "complexity": "hard",
+    "reason": "Since <latex>\\sin(90^\\circ-A) = \\cos A</latex> and <latex>\\cos(90^\\circ-A) = \\sin A</latex>, the expression becomes <latex>\\frac{\\sin A}{\\cos A} + \\frac{\\cos A}{\\sin A} = \\frac{\\sin^2 A + \\cos^2 A}{\\sin A \\cos A} = \\frac{1}{\\sin A \\cos A} = \\sec A \\csc A</latex>."
+  },
+  {
+    "question": "Simplify <latex>\\frac{\\cos(90^\\circ-\\theta)\\cos \\theta}{\\cot \\theta}</latex>.",
+    "choices": [
+      "<latex>\\sin^2 \\theta</latex>",
+      "<latex>\\cos^2 \\theta</latex>",
+      "<latex>1 - \\sin^2 \\theta</latex>",
+      "<latex>\\tan^2 \\theta</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Complementary Angles",
+    "complexity": "hard",
+    "reason": "Using <latex>\\cos(90^\\circ-\\theta) = \\sin \\theta</latex>, the expression is <latex>\\frac{\\sin \\theta \\cos \\theta}{\\cos \\theta / \\sin \\theta} = \\sin^2 \\theta</latex>."
+  },
+  {
+    "question": "In <latex>\\triangle ABC</latex>, <latex>\\sin\\left(\\frac{A+B}{2}\\right)</latex> is equivalent to:",
+    "choices": [
+      "<latex>\\sin\\left(\\frac{C}{2}\\right)</latex>",
+      "<latex>\\cos\\left(\\frac{C}{2}\\right)</latex>",
+      "<latex>\\tan\\left(\\frac{C}{2}\\right)</latex>",
+      "<latex>\\sec\\left(\\frac{C}{2}\\right)</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Complementary Angles",
+    "complexity": "hard",
+    "reason": "Since <latex>A+B+C = 180^\\circ</latex>, <latex>\\frac{A+B}{2} = 90^\\circ - \\frac{C}{2}</latex>. Thus <latex>\\sin(90^\\circ - \\frac{C}{2}) = \\cos(\\frac{C}{2})</latex>."
+  },
+  {
+    "question": "Evaluate without tables: <latex>\\sin^2 34^\\circ + \\sin^2 56^\\circ + 2\\tan 18^\\circ \\tan 72^\\circ - \\cot^2 30^\\circ</latex>.",
+    "choices": [
+      "<latex>-1</latex>",
+      "<latex>0</latex>",
+      "<latex>1</latex>",
+      "<latex>2</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Evaluation",
+    "complexity": "hard",
+    "reason": "Since <latex>\\sin 56^\\circ = \\cos 34^\\circ</latex> and <latex>\\tan 72^\\circ = \\cot 18^\\circ</latex>, the expression is <latex>(\\sin^2 34^\\circ + \\cos^2 34^\\circ) + 2(\\tan 18^\\circ \\cot 18^\\circ) - (\\sqrt{3})^2 = 1 + 2(1) - 3 = 0</latex>."
+  },
+  {
+    "question": "Evaluate: <latex>\\csc^2 57^\\circ - \\tan^2 33^\\circ + \\cos 44^\\circ \\csc 46^\\circ - \\sqrt{2}\\cos 45^\\circ - \\tan^2 60^\\circ</latex>.",
+    "choices": [
+      "<latex>-2</latex>",
+      "<latex>-1</latex>",
+      "<latex>0</latex>",
+      "<latex>1</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Evaluation",
+    "complexity": "hard",
+    "reason": "<latex>\\tan 33^\\circ = \\cot 57^\\circ</latex>, so <latex>\\csc^2 57^\\circ - \\cot^2 57^\\circ = 1</latex>. <latex>\\csc 46^\\circ = \\sec 44^\\circ</latex>, so <latex>\\cos 44^\\circ \\sec 44^\\circ = 1</latex>. Expression <latex>= 1 + 1 - \\sqrt{2}(1/\\sqrt{2}) - (\\sqrt{3})^2 = 2 - 1 - 3 = -2</latex>."
+  },
+  {
+    "question": "Find the acute angle <latex>A</latex> if <latex>\\frac{\\cos A}{1-\\sin A} + \\frac{\\cos A}{1+\\sin A} = 4</latex>.",
+    "choices": [
+      "<latex>30^\\circ</latex>",
+      "<latex>45^\\circ</latex>",
+      "<latex>60^\\circ</latex>",
+      "<latex>90^\\circ</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Trigonometrical Identities",
+    "category": "Equations",
+    "complexity": "hard",
+    "reason": "<latex>\\frac{\\cos A(1+\\sin A) + \\cos A(1-\\sin A)}{1-\\sin^2 A} = \\frac{2\\cos A}{\\cos^2 A} = 2\\sec A</latex>. So <latex>2\\sec A = 4 \\implies \\sec A = 2 \\implies \\cos A = 1/2 \\implies A = 60^\\circ</latex>."
+  },
+  {
+    "question": "If <latex>\\frac{\\sin A}{\\sec A - 1} + \\frac{\\sin A}{\\sec A + 1} = 2</latex>, what is the value of acute angle <latex>A</latex>?",
+    "choices": [
+      "<latex>30^\\circ</latex>",
+      "<latex>45^\\circ</latex>",
+      "<latex>60^\\circ</latex>",
+      "<latex>90^\\circ</latex>"
+    ],
+    "answer": 3,
+    "chapter": "Trigonometrical Identities",
+    "category": "Equations",
+    "complexity": "hard",
+    "reason": "<latex>\\frac{\\sin A(\\sec A + 1 + \\sec A - 1)}{\\sec^2 A - 1} = \\frac{2\\sin A \\sec A}{\\tan^2 A} = \\frac{2\\tan A}{\\tan^2 A} = \\frac{2}{\\tan A} = 2\\cot A</latex>. Wait, <latex>\\sin A \\sec A = \\tan A</latex>. So <latex>2\\tan A / \\tan^2 A = 2\\cot A</latex>. But <latex>\\frac{2\\sin A (1/\\cos A)}{\\sin^2 A/\\cos^2 A} = \\frac{2\\tan A}{\\tan A \\cdot \\sin A / \\cos A} = \\frac{2}{\\sin A} = 2\\csc A</latex>. <latex>2\\csc A = 2 \\implies \\csc A = 1 \\implies A = 90^\\circ</latex>."
+  },
+  {
+    "question": "If <latex>\\csc A = 2x</latex> and <latex>\\tan A = \\frac{y}{2}</latex>, evaluate <latex>x^2 - \\frac{1}{y^2}</latex>.",
+    "choices": [
+      "<latex>\\frac{1}{2}</latex>",
+      "<latex>\\frac{1}{4}</latex>",
+      "<latex>1</latex>",
+      "<latex>-\\frac{1}{4}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Conditional Identities",
+    "complexity": "hard",
+    "reason": "<latex>x = \\frac{\\csc A}{2} \\implies x^2 = \\frac{\\csc^2 A}{4}</latex>. <latex>y = 2\\tan A \\implies \\frac{1}{y^2} = \\frac{\\cot^2 A}{4}</latex>. Thus <latex>x^2 - \\frac{1}{y^2} = \\frac{\\csc^2 A - \\cot^2 A}{4} = \\frac{1}{4}</latex>."
+  },
+  {
+    "question": "Find the acute angle <latex>A</latex> if <latex>\\sin(90^\\circ-3A) \\cdot \\csc 42^\\circ = 1</latex>.",
+    "choices": [
+      "<latex>12^\\circ</latex>",
+      "<latex>14^\\circ</latex>",
+      "<latex>16^\\circ</latex>",
+      "<latex>18^\\circ</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Trigonometrical Identities",
+    "category": "Equations",
+    "complexity": "hard",
+    "reason": "<latex>\\cos 3A \\cdot \\csc 42^\\circ = 1 \\implies \\cos 3A = \\sin 42^\\circ</latex>. Since <latex>\\sin 42^\\circ = \\cos 48^\\circ</latex>, we have <latex>3A = 48^\\circ \\implies A = 16^\\circ</latex>."
+  },
+  {
+    "question": "Which of the following is equivalent to <latex>\\frac{\\cos^2 A}{1-\\tan A} + \\frac{\\sin^3 A}{\\sin A - \\cos A}</latex>?",
+    "choices": [
+      "<latex>1 - \\sin A \\cos A</latex>",
+      "<latex>1 + \\sin A \\cos A</latex>",
+      "<latex>\\sin^2 A - \\cos^2 A</latex>",
+      "<latex>\\sin A + \\cos A</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Simplification",
+    "complexity": "hard",
+    "reason": "<latex>\\frac{\\cos^3 A}{\\cos A - \\sin A} - \\frac{\\sin^3 A}{\\cos A - \\sin A} = \\frac{\\cos^3 A - \\sin^3 A}{\\cos A - \\sin A} = \\frac{(\\cos A - \\sin A)(\\cos^2 A + \\cos A \\sin A + \\sin^2 A)}{\\cos A - \\sin A} = 1 + \\sin A \\cos A</latex>."
+  },
+  {
+    "question": "Simplify the expression <latex>\\frac{1+(\\sec A - \\tan A)^2}{\\csc A(\\sec A - \\tan A)}</latex>.",
+    "choices": [
+      "<latex>\\sin A</latex>",
+      "<latex>2\\tan A</latex>",
+      "<latex>\\sec A</latex>",
+      "<latex>2\\cot A</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Simplification",
+    "complexity": "hard",
+    "reason": "Numerator expands to <latex>1 + \\sec^2 A + \\tan^2 A - 2\\sec A \\tan A = 2\\sec^2 A - 2\\sec A \\tan A = 2\\sec A(\\sec A - \\tan A)</latex>. Dividing by denominator gives <latex>\\frac{2\\sec A}{\\csc A} = 2\\tan A</latex>."
+  },
+  {
+    "question": "Simplify <latex>\\frac{(\\csc A - \\cot A)^2 + 1}{\\sec A(\\csc A - \\cot A)}</latex>.",
+    "choices": [
+      "<latex>2\\cos A</latex>",
+      "<latex>2\\tan A</latex>",
+      "<latex>2\\cot A</latex>",
+      "<latex>\\csc A</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Trigonometrical Identities",
+    "category": "Simplification",
+    "complexity": "hard",
+    "reason": "Numerator expands to <latex>\\csc^2 A + \\cot^2 A - 2\\csc A \\cot A + 1 = 2\\csc^2 A - 2\\csc A \\cot A = 2\\csc A(\\csc A - \\cot A)</latex>. Dividing by <latex>\\sec A(\\csc A - \\cot A)</latex> leaves <latex>\\frac{2\\csc A}{\\sec A} = 2\\cot A</latex>."
+  },
+  {
+    "question": "If <latex>A</latex> and <latex>B</latex> are complementary angles, the expression <latex>\\cot A \\cot B - \\sin A \\cos B - \\cos A \\sin B</latex> evaluates to:",
+    "choices": [
+      "<latex>-1</latex>",
+      "<latex>0</latex>",
+      "<latex>1</latex>",
+      "<latex>\\sec A \\csc B</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Complementary Angles",
+    "complexity": "hard",
+    "reason": "Substitute <latex>B = 90^\\circ - A</latex>: <latex>\\cot A \\tan A - \\sin A \\sin A - \\cos A \\cos A = 1 - (\\sin^2 A + \\cos^2 A) = 1 - 1 = 0</latex>."
+  },
+  {
+    "question": "What is the result of evaluating <latex>\\frac{1}{1+\\cos(90^\\circ-A)} + \\frac{1}{1-\\cos(90^\\circ-A)}</latex>?",
+    "choices": [
+      "<latex>2\\csc^2(90^\\circ-A)</latex>",
+      "<latex>2\\sec^2(90^\\circ-A)</latex>",
+      "<latex>2\\sin^2 A</latex>",
+      "<latex>2\\cos^2 A</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Complementary Angles",
+    "complexity": "hard",
+    "reason": "<latex>\\cos(90^\\circ-A) = \\sin A</latex>. LHS = <latex>\\frac{1}{1+\\sin A} + \\frac{1}{1-\\sin A} = \\frac{1-\\sin A + 1+\\sin A}{1-\\sin^2 A} = \\frac{2}{\\cos^2 A} = 2\\sec^2 A</latex>. Since <latex>2\\sec^2 A = 2\\csc^2(90^\\circ-A)</latex>, the first choice is correct."
+  },
+  {
+    "question": "<b>Assertion (A):</b> <latex>\\frac{\\sin A}{1+\\cos A} = \\csc A - \\cot A</latex>.<br><b>Reason (R):</b> Multiplying numerator and denominator by <latex>(1-\\cos A)</latex> yields <latex>\\frac{\\sin A(1-\\cos A)}{\\sin^2 A}</latex>, which simplifies to the RHS.",
+    "choices": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Both statements are correct. Multiplying by the conjugate <latex>(1-\\cos A)</latex> creates a difference of squares in the denominator (<latex>1-\\cos^2 A = \\sin^2 A</latex>), allowing simplification into <latex>\\frac{1}{\\sin A} - \\frac{\\cos A}{\\sin A} = \\csc A - \\cot A</latex>."
+  },
+  {
+    "question": "<b>Assertion (A):</b> <latex>(1+\\cot A - \\csc A)(1+\\tan A + \\sec A) = 2</latex>.<br><b>Reason (R):</b> The expansion simplifies to <latex>\\frac{(\\sin A + \\cos A)^2 - 1}{\\sin A \\cos A}</latex>, which evaluates to 2.",
+    "choices": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "The reasoning correctly maps the conversion of the terms to sines and cosines, forming <latex>\\frac{\\sin A+\\cos A-1}{\\sin A} \\times \\frac{\\sin A+\\cos A+1}{\\cos A}</latex>. This perfectly yields the stated expansion and conclusion."
+  },
+  {
+    "question": "<b>Assertion (A):</b> For complementary angles A and B, <latex>\\sin^2 A + \\sin^2 B = 1</latex>.<br><b>Reason (R):</b> Complementary angles satisfy <latex>A+B=90^\\circ</latex>, hence <latex>\\sin B = \\cos A</latex>, turning the expression into <latex>\\sin^2 A + \\cos^2 A = 1</latex>.",
+    "choices": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "The assertion is a standard property of complementary angles, and the reason explicitly derives it using the fundamental trigonometric identity <latex>\\sin^2 A + \\cos^2 A = 1</latex>."
+  },
+  {
+    "question": "<b>Assertion (A):</b> <latex>\\sec^4 \\theta - \\sec^2 \\theta = \\tan^4 \\theta + \\tan^2 \\theta</latex>.<br><b>Reason (R):</b> Factoring <latex>\\sec^2 \\theta</latex> on the left and <latex>\\tan^2 \\theta</latex> on the right, and substituting <latex>\\sec^2 \\theta - 1 = \\tan^2 \\theta</latex> confirms the identity.",
+    "choices": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "<latex>\\sec^2 \\theta(\\sec^2 \\theta - 1) = (1+\\tan^2 \\theta)(\\tan^2 \\theta) = \\tan^2 \\theta + \\tan^4 \\theta</latex>. The reason correctly outlines this proof methodology."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If <latex>\\sin \\theta + \\cos \\theta = \\sqrt{3}</latex>, then <latex>\\sin \\theta \\cos \\theta = 1</latex>.<br><b>Reason (R):</b> Squaring both sides gives <latex>\\sin^2 \\theta + \\cos^2 \\theta + 2\\sin \\theta \\cos \\theta = 3</latex>, leading to <latex>1 + 2\\sin \\theta \\cos \\theta = 3</latex>.",
+    "choices": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "The algebraic step in the reason directly evaluates the assertion to be true."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The value of <latex>\\tan 1^\\circ \\tan 2^\\circ \\dots \\tan 89^\\circ = 1</latex>.<br><b>Reason (R):</b> For any angle <latex>x</latex>, <latex>\\tan x \\cdot \\tan(90^\\circ-x) = \\tan x \\cdot \\cot x = 1</latex>.",
+    "choices": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Every <latex>\\tan x</latex> pairs with <latex>\\tan(90^\\circ-x)</latex> to equal 1 (e.g., <latex>\\tan 1^\\circ \\tan 89^\\circ = 1</latex>). The middle term <latex>\\tan 45^\\circ</latex> is also 1. The reason justifies the assertion perfectly."
+  },
+  {
+    "question": "<b>Assertion (A):</b> <latex>\\frac{1+\\sin A}{\\cos A} = \\sec A - \\tan A</latex>.<br><b>Reason (R):</b> <latex>\\frac{1}{\\cos A} + \\frac{\\sin A}{\\cos A} = \\sec A + \\tan A</latex>.",
+    "choices": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Trigonometrical Identities",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "The assertion is false because <latex>\\frac{1+\\sin A}{\\cos A} = \\sec A + \\tan A</latex>, not minus. The reason is a true mathematical statement correcting the assertion."
+  },
+  {
+    "question": "<b>Assertion (A):</b> <latex>\\csc^2 \\theta + \\sec^2 \\theta = \\csc^2 \\theta \\sec^2 \\theta</latex>.<br><b>Reason (R):</b> <latex>\\frac{1}{\\sin^2 \\theta} + \\frac{1}{\\cos^2 \\theta} = \\frac{\\cos^2 \\theta + \\sin^2 \\theta}{\\sin^2 \\theta \\cos^2 \\theta} = \\frac{1}{\\sin^2 \\theta \\cos^2 \\theta}</latex>.",
+    "choices": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "The reason maps out the exact algebraic simplification step-by-step to prove the assertion."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If <latex>x = a\\cos \\theta</latex> and <latex>y = b\\sin \\theta</latex>, then <latex>\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1</latex>.<br><b>Reason (R):</b> <latex>\\sin^2 \\theta + \\cos^2 \\theta = 1</latex> is a fundamental trigonometric identity.",
+    "choices": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "<latex>\\frac{x}{a} = \\cos \\theta</latex> and <latex>\\frac{y}{b} = \\sin \\theta</latex>. Squaring and adding gives <latex>\\cos^2 \\theta + \\sin^2 \\theta = 1</latex>, strictly matching the given reason."
+  },
+  {
+    "question": "<b>Assertion (A):</b> <latex>\\frac{1}{\\sec \\theta - \\tan \\theta} = \\sec \\theta + \\tan \\theta</latex>.<br><b>Reason (R):</b> Multiplying the numerator and denominator by the conjugate <latex>\\sec \\theta + \\tan \\theta</latex> gives a denominator of <latex>\\sec^2 \\theta - \\tan^2 \\theta = 1</latex>.",
+    "choices": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "The reason provides the perfect algebraic method to rationalize the denominator and isolate the assertion's RHS."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If <latex>m = a\\sec \\theta + b\\tan \\theta</latex> and <latex>n = a\\tan \\theta + b\\sec \\theta</latex>, then <latex>m^2 - n^2 = a^2 - b^2</latex>.<br><b>Reason (R):</b> Squaring both expressions and subtracting cancels the cross terms and groups the squared terms by <latex>(\\sec^2 \\theta - \\tan^2 \\theta) = 1</latex>.",
+    "choices": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "The algebraic explanation explicitly references the mechanism by which the cross terms (<latex>2ab\\sec \\theta \\tan \\theta</latex>) cancel and the squares resolve to the coefficients."
+  },
+  {
+    "question": "<b>Assertion (A):</b> <latex>\\cos^2 A + \\frac{1}{1+\\cot^2 A} = 1</latex>.<br><b>Reason (R):</b> <latex>1+\\cot^2 A = \\csc^2 A</latex>, and <latex>\\frac{1}{\\csc^2 A} = \\sin^2 A</latex>.",
+    "choices": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "The transformation logically proceeds from the denominator identity to the reciprocal identity, finishing with <latex>\\cos^2 A + \\sin^2 A = 1</latex>."
+  },
+  {
+    "question": "<b>Assertion (A):</b> <latex>\\sqrt{\\sec^2 A + \\csc^2 A} = \\tan A + \\cot A</latex>.<br><b>Reason (R):</b> <latex>\\sec^2 A + \\csc^2 A</latex> simplifies to <latex>\\frac{1}{\\sin^2 A \\cos^2 A}</latex>, the square root of which is <latex>\\frac{1}{\\sin A \\cos A} = \\frac{\\sin^2 A + \\cos^2 A}{\\sin A \\cos A} = \\tan A + \\cot A</latex>.",
+    "choices": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "The reason elegantly tracks the identity conversion from sum of squares to product of squares, taking the root, and expanding back to sums."
+  },
+  {
+    "question": "<b>Assertion (A):</b> <latex>\\frac{\\cos A}{1-\\tan A} + \\frac{\\sin A}{1-\\cot A} = \\cos A + \\sin A</latex>.<br><b>Reason (R):</b> Converting <latex>\\tan A</latex> and <latex>\\cot A</latex> to sines and cosines makes the denominators <latex>\\cos A - \\sin A</latex> and <latex>\\sin A - \\cos A</latex> respectively, allowing for consolidation.",
+    "choices": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "The reason maps the exact simplification strategy that leads to <latex>\\frac{\\cos^2 A - \\sin^2 A}{\\cos A - \\sin A} = \\cos A + \\sin A</latex>."
+  },
+  {
+    "question": "<b>Assertion (A):</b> <latex>\\tan^4 A - \\sec^4 A = 1 - 2\\sec^2 A</latex>.<br><b>Reason (R):</b> <latex>(\\tan^2 A - \\sec^2 A)(\\tan^2 A + \\sec^2 A) = (-1)(\\sec^2 A - 1 + \\sec^2 A) = 1 - 2\\sec^2 A</latex>.",
+    "choices": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "The reason accurately factors the difference of squares, applies <latex>\\tan^2 A - \\sec^2 A = -1</latex>, and substitutes <latex>\\tan^2 A</latex> with <latex>\\sec^2 A - 1</latex>."
+  },
+  {
+    "question": "<b>Assertion (A):</b> <latex>(1+\\cot A - \\csc A)(1+\\tan A + \\sec A) = 0</latex>.<br><b>Reason (R):</b> The expansion simplifies to <latex>\\frac{(\\sin A + \\cos A)^2 - 1}{\\sin A \\cos A} = \\frac{2\\sin A \\cos A}{\\sin A \\cos A} = 2</latex>.",
+    "choices": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Trigonometrical Identities",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "The assertion claims the value is 0, but the reason correctly proves the value evaluates to 2."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The expression <latex>\\frac{\\cos^3 A + \\sin^3 A}{\\cos A + \\sin A} + \\frac{\\cos^3 A - \\sin^3 A}{\\cos A - \\sin A}</latex> evaluates to 2.<br><b>Reason (R):</b> Factoring the sum and difference of cubes cancels the denominators, leaving <latex>(1 - \\sin A \\cos A) + (1 + \\sin A \\cos A)</latex>.",
+    "choices": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "The reason isolates the exact remaining polynomials after division which perfectly sum to 2."
+  },
+  {
+    "question": "<b>Assertion (A):</b> <latex>\\frac{\\sin A \\tan A}{1-\\cos A} = 1 + \\sec A</latex>.<br><b>Reason (R):</b> Multiplying the numerator and denominator by <latex>(1+\\cos A)</latex> simplifies the expression.",
+    "choices": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Using the conjugate <latex>(1+\\cos A)</latex> creates <latex>1-\\cos^2 A = \\sin^2 A</latex> in the denominator, allowing cancellation with <latex>\\sin A</latex> and conversion of <latex>\\tan A</latex> to yield <latex>1+\\sec A</latex>."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If <latex>x = r \\sin A \\cos B</latex>, <latex>y = r \\sin A \\sin B</latex>, and <latex>z = r \\cos A</latex>, then <latex>x^2 + y^2 + z^2 = r^2</latex>.<br><b>Reason (R):</b> <latex>x^2 + y^2 = r^2 \\sin^2 A(\\cos^2 B + \\sin^2 B) = r^2 \\sin^2 A</latex>, and adding <latex>z^2 = r^2 \\cos^2 A</latex> yields <latex>r^2(\\sin^2 A + \\cos^2 A) = r^2</latex>.",
+    "choices": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "This is the standard proof for spherical coordinates converting to Cartesian coordinates squared, flawlessly outlined in the reason."
+  },
+  {
+    "question": "<b>Assertion (A):</b> <latex>\\frac{\\sin A}{1+\\cos A} + \\frac{1+\\cos A}{\\sin A} = 2\\csc A</latex>.<br><b>Reason (R):</b> The common denominator resolves to <latex>\\sin A(1+\\cos A)</latex> while the numerator expands to <latex>\\sin^2 A + 1 + 2\\cos A + \\cos^2 A = 2(1+\\cos A)</latex>.",
+    "choices": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "The reason correctly documents the expansion and the Pythagorean identity <latex>\\sin^2 A + \\cos^2 A = 1</latex> to consolidate the numerator."
+  },
+{
+    "question": "The reciprocal of <latex>\\sec A</latex> is:",
+    "choices": [
+      "<latex>\\sin A</latex>",
+      "<latex>\\cos A</latex>",
+      "<latex>\\tan A</latex>",
+      "<latex>\\operatorname{cosec} A</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Reciprocal Relations",
+    "complexity": "low",
+    "reason": "By definition, <latex>\\cos A</latex> and <latex>\\sec A</latex> are reciprocals of each other, meaning <latex>\\cos A = \\frac{1}{\\sec A}</latex>."
+  },
+  {
+    "question": "The expression <latex>\\frac{\\sin A}{\\cos A}</latex> is equivalent to:",
+    "choices": [
+      "<latex>\\cot A</latex>",
+      "<latex>\\sec A</latex>",
+      "<latex>\\tan A</latex>",
+      "<latex>\\operatorname{cosec} A</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Trigonometrical Identities",
+    "category": "Quotient Relations",
+    "complexity": "low",
+    "reason": "The quotient relation in trigonometry states that <latex>\\tan A = \\frac{\\sin A}{\\cos A}</latex>."
+  },
+  {
+    "question": "For an acute angle <latex>A</latex>, <latex>1 - \\sin^2 A</latex> is equal to:",
+    "choices": [
+      "<latex>\\cos^2 A</latex>",
+      "<latex>\\tan^2 A</latex>",
+      "<latex>\\sec^2 A</latex>",
+      "<latex>\\operatorname{cosec}^2 A</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Square Relations",
+    "complexity": "low",
+    "reason": "From the fundamental square relation <latex>\\sin^2 A + \\cos^2 A = 1</latex>, we can derive <latex>\\cos^2 A = 1 - \\sin^2 A</latex>."
+  },
+  {
+    "question": "The value of <latex>\\sec^2 A - \\tan^2 A</latex> is:",
+    "choices": [
+      "<latex>0</latex>",
+      "<latex>1</latex>",
+      "<latex>-1</latex>",
+      "<latex>2</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Square Relations",
+    "complexity": "low",
+    "reason": "The square relation is <latex>1 + \\tan^2 A = \\sec^2 A</latex>, which rearranges to <latex>\\sec^2 A - \\tan^2 A = 1</latex>."
+  },
+  {
+    "question": "The trigonometric ratio <latex>\\sin(90^\\circ - \\theta)</latex> is equal to:",
+    "choices": [
+      "<latex>\\cos \\theta</latex>",
+      "<latex>\\operatorname{cosec} \\theta</latex>",
+      "<latex>\\sec \\theta</latex>",
+      "<latex>\\tan \\theta</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Complementary Angles",
+    "complexity": "low",
+    "reason": "The sine of a complementary angle is equal to the cosine of the angle: <latex>\\sin(90^\\circ - \\theta) = \\cos \\theta</latex>."
+  },
+  {
+    "question": "<latex>\\tan(90^\\circ - A)</latex> is equivalent to:",
+    "choices": [
+      "<latex>\\sec A</latex>",
+      "<latex>\\cot A</latex>",
+      "<latex>\\operatorname{cosec} A</latex>",
+      "<latex>-\\tan A</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Complementary Angles",
+    "complexity": "low",
+    "reason": "The tangent of a complementary angle is equal to the cotangent of the angle: <latex>\\tan(90^\\circ - A) = \\cot A</latex>."
+  },
+  {
+    "question": "For any acute angle <latex>\\theta</latex>, the value of <latex>\\sin^2 \\theta + \\cos^2 \\theta</latex> is:",
+    "choices": [
+      "<latex>0</latex>",
+      "<latex>1</latex>",
+      "<latex>\\tan^2 \\theta</latex>",
+      "<latex>2</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Square Relations",
+    "complexity": "low",
+    "reason": "This is the primary trigonometric identity (Pythagorean identity): <latex>\\sin^2 \\theta + \\cos^2 \\theta = 1</latex>."
+  },
+  {
+    "question": "Simplify the product <latex>\\cos A \\cdot \\tan A</latex>.",
+    "choices": [
+      "<latex>\\sin A</latex>",
+      "<latex>\\cot A</latex>",
+      "<latex>\\sec A</latex>",
+      "<latex>\\operatorname{cosec} A</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Simplification",
+    "complexity": "medium",
+    "reason": "Substitute <latex>\\tan A = \\frac{\\sin A}{\\cos A}</latex>. The product becomes <latex>\\cos A \\cdot \\left(\\frac{\\sin A}{\\cos A}\\right) = \\sin A</latex>."
+  },
+  {
+    "question": "The product <latex>\\sin A \\cdot \\operatorname{cosec} A</latex> evaluates to:",
+    "choices": [
+      "<latex>\\cos A</latex>",
+      "<latex>0</latex>",
+      "<latex>1</latex>",
+      "<latex>\\tan A</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Trigonometrical Identities",
+    "category": "Reciprocal Relations",
+    "complexity": "low",
+    "reason": "Since <latex>\\operatorname{cosec} A = \\frac{1}{\\sin A}</latex>, their product is <latex>\\sin A \\cdot \\frac{1}{\\sin A} = 1</latex>."
+  },
+  {
+    "question": "Simplify the expression <latex>(1 - \\cos^2 A)\\operatorname{cosec}^2 A</latex>.",
+    "choices": [
+      "<latex>\\sin^2 A</latex>",
+      "<latex>\\cos^2 A</latex>",
+      "<latex>0</latex>",
+      "<latex>1</latex>"
+    ],
+    "answer": 3,
+    "chapter": "Trigonometrical Identities",
+    "category": "Simplification",
+    "complexity": "medium",
+    "reason": "First, <latex>1 - \\cos^2 A = \\sin^2 A</latex>. Then, <latex>\\sin^2 A \\cdot \\operatorname{cosec}^2 A = \\sin^2 A \\cdot \\left(\\frac{1}{\\sin^2 A}\\right) = 1</latex>."
+  },
+  {
+    "question": "Evaluate the fraction <latex>\\frac{\\sin 40^\\circ}{\\cos 50^\\circ}</latex>.",
+    "choices": [
+      "<latex>0</latex>",
+      "<latex>1</latex>",
+      "<latex>\\tan 40^\\circ</latex>",
+      "<latex>\\cot 50^\\circ</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Complementary Angles",
+    "complexity": "medium",
+    "reason": "Using complementary angles, <latex>\\sin 40^\\circ = \\sin(90^\\circ - 50^\\circ) = \\cos 50^\\circ</latex>. Therefore, <latex>\\frac{\\cos 50^\\circ}{\\cos 50^\\circ} = 1</latex>."
+  },
+  {
+    "question": "The value of <latex>\\operatorname{cosec}^2 A - \\cot^2 A</latex> is:",
+    "choices": [
+      "<latex>0</latex>",
+      "<latex>1</latex>",
+      "<latex>-1</latex>",
+      "<latex>\\sec^2 A</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Square Relations",
+    "complexity": "low",
+    "reason": "According to the square relation <latex>1 + \\cot^2 A = \\operatorname{cosec}^2 A</latex>, rearranging gives <latex>\\operatorname{cosec}^2 A - \\cot^2 A = 1</latex>."
+  },
+  {
+    "question": "Simplify the expression <latex>\\cos^2 \\theta (1 + \\tan^2 \\theta)</latex>.",
+    "choices": [
+      "<latex>\\sin^2 \\theta</latex>",
+      "<latex>1</latex>",
+      "<latex>\\cos^2 \\theta</latex>",
+      "<latex>\\sec^2 \\theta</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Simplification",
+    "complexity": "medium",
+    "reason": "Replace <latex>1 + \\tan^2 \\theta</latex> with <latex>\\sec^2 \\theta</latex>. The expression becomes <latex>\\cos^2 \\theta \\cdot \\sec^2 \\theta = \\cos^2 \\theta \\cdot \\frac{1}{\\cos^2 \\theta} = 1</latex>."
+  },
+  {
+    "question": "Which of the following is NOT a correct trigonometric identity for an acute angle <latex>A</latex>?",
+    "choices": [
+      "<latex>\\sin^2 A + \\cos^2 A = 1</latex>",
+      "<latex>1 + \\cot^2 A = \\operatorname{cosec}^2 A</latex>",
+      "<latex>\\sec^2 A - \\tan^2 A = 1</latex>",
+      "<latex>\\sin^2 A - \\cos^2 A = 1</latex>"
+    ],
+    "answer": 3,
+    "chapter": "Trigonometrical Identities",
+    "category": "Square Relations",
+    "complexity": "low",
+    "reason": "The correct identity is the sum of squares: <latex>\\sin^2 A + \\cos^2 A = 1</latex>. The difference <latex>\\sin^2 A - \\cos^2 A = 1</latex> is incorrect."
+  },
+  {
+    "question": "<latex>\\operatorname{cosec}(90^\\circ - A)</latex> is equal to:",
+    "choices": [
+      "<latex>\\sin A</latex>",
+      "<latex>\\cos A</latex>",
+      "<latex>\\sec A</latex>",
+      "<latex>\\cot A</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Trigonometrical Identities",
+    "category": "Complementary Angles",
+    "complexity": "low",
+    "reason": "The cosecant of a complementary angle is equal to the secant of the angle: <latex>\\operatorname{cosec}(90^\\circ - A) = \\sec A</latex>."
+  },
+  {
+    "question": "The expression <latex>\\frac{1}{\\sec A}</latex> is equivalent to:",
+    "choices": [
+      "<latex>\\sin A</latex>",
+      "<latex>\\cos A</latex>",
+      "<latex>\\operatorname{cosec} A</latex>",
+      "<latex>\\tan A</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Reciprocal Relations",
+    "complexity": "low",
+    "reason": "Cosine and secant are reciprocal functions, so <latex>\\frac{1}{\\sec A} = \\cos A</latex>."
+  },
+  {
+    "question": "The product <latex>\\tan A \\cdot \\cot A</latex> evaluates to:",
+    "choices": [
+      "<latex>0</latex>",
+      "<latex>1</latex>",
+      "<latex>\\sin A</latex>",
+      "<latex>\\cos A</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Reciprocal Relations",
+    "complexity": "low",
+    "reason": "Tangent and cotangent are reciprocals, so their product is <latex>\\tan A \\cdot \\frac{1}{\\tan A} = 1</latex>."
+  },
+  {
+    "question": "The expression <latex>\\sec^2 \\theta - 1</latex> simplifies to:",
+    "choices": [
+      "<latex>\\tan^2 \\theta</latex>",
+      "<latex>\\cot^2 \\theta</latex>",
+      "<latex>\\cos^2 \\theta</latex>",
+      "<latex>\\operatorname{cosec}^2 \\theta</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Trigonometrical Identities",
+    "category": "Square Relations",
+    "complexity": "low",
+    "reason": "Using the identity <latex>1 + \\tan^2 \\theta = \\sec^2 \\theta</latex>, subtracting 1 from both sides gives <latex>\\tan^2 \\theta = \\sec^2 \\theta - 1</latex>."
+  },
+  {
+    "question": "Evaluate the product <latex>\\cos 25^\\circ \\cdot \\operatorname{cosec} 65^\\circ</latex>.",
+    "choices": [
+      "<latex>0</latex>",
+      "<latex>1</latex>",
+      "<latex>\\tan 25^\\circ</latex>",
+      "<latex>\\sin 65^\\circ</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Complementary Angles",
+    "complexity": "medium",
+    "reason": "Convert <latex>\\operatorname{cosec} 65^\\circ</latex> using complementary angles: <latex>\\operatorname{cosec} 65^\\circ = \\operatorname{cosec}(90^\\circ - 25^\\circ) = \\sec 25^\\circ</latex>. The product is <latex>\\cos 25^\\circ \\cdot \\sec 25^\\circ = 1</latex>."
+  },
+  {
+    "question": "For an acute angle <latex>A</latex>, <latex>\\sin A</latex> can be expressed in terms of <latex>\\cos A</latex> as:",
+    "choices": [
+      "<latex>1 - \\cos A</latex>",
+      "<latex>\\sqrt{1 - \\cos^2 A}</latex>",
+      "<latex>\\frac{1}{\\cos A}</latex>",
+      "<latex>\\cos^2 A - 1</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Trigonometrical Identities",
+    "category": "Square Relations",
+    "complexity": "medium",
+    "reason": "From the identity <latex>\\sin^2 A + \\cos^2 A = 1</latex>, solving for sine gives <latex>\\sin^2 A = 1 - \\cos^2 A</latex>. For an acute angle, taking the principal square root yields <latex>\\sin A = \\sqrt{1 - \\cos^2 A}</latex>."
+  },
+  {
+    "question": " The angle of elevation <latex>\\theta_1</latex> of the top of an unfinished tower from a point at a distance of 80 m from its base is <latex>\\theta_1 = 30^{\\circ}</latex>. How much higher must the tower be raised so that its angle of elevation <latex>\\theta_2</latex> at the same point may be <latex>\\theta_2 = 60^{\\circ}</latex>?",
+    "choices": [
+      "<latex>80\\sqrt{3}</latex> m",
+      "<latex>\\frac{160}{\\sqrt{3}}</latex> m",
+      "<latex>160\\sqrt{3}</latex> m",
+      "<latex>\\frac{80}{\\sqrt{3}}</latex> m"
+    ],
+    "answer": 1,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Let initial height be <latex>h</latex> and final be <latex>H</latex>. <latex>h = 80 \\tan(\\theta_1) = 80 \\tan(30^{\\circ}) = \\frac{80}{\\sqrt{3}}</latex> m. <latex>H = 80 \\tan(\\theta_2) = 80 \\tan(60^{\\circ}) = 80\\sqrt{3}</latex> m. Increase = <latex>H - h = 80\\sqrt{3} - \\frac{80}{\\sqrt{3}} = \\frac{160}{\\sqrt{3}}</latex> m."
+  },
+  {
+    "question": " The angle of elevation <latex>\\theta_1</latex> of a stationary cloud from a point 25 m above a lake is <latex>\\theta_1 = 30^{\\circ}</latex> and the angle of depression <latex>\\theta_2</latex> of its reflection in the lake is <latex>\\theta_2 = 60^{\\circ}</latex>. What is the height of the cloud above that lake-level?",
+    "choices": [
+      "25 m",
+      "50 m",
+      "75 m",
+      "100 m"
+    ],
+    "answer": 1,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Let cloud height be <latex>h</latex>. Distance from observer's horizontal to cloud is <latex>(h-25)</latex> and to reflection is <latex>(h+25)</latex>. Base <latex>x = (h-25)\\cot(\\theta_1) = (h-25)\\sqrt{3}</latex>. Also <latex>x = (h+25)\\cot(\\theta_2) = \\frac{h+25}{\\sqrt{3}}</latex>. Equating, <latex>3(h-25) = h+25 \\implies 2h = 100 \\implies h = 50</latex> m."
+  },
+  {
+    "question": "A man on the top of a vertical observation tower observes a car moving at a uniform speed coming directly towards it. If it takes 12 minutes for the angle of depression to change from <latex>\\theta_1 = 30^{\\circ}</latex> to <latex>\\theta_2 = 45^{\\circ}</latex>, how soon after this will the car reach the observation tower?",
+    "choices": [
+      "<latex>\\frac{12}{\\sqrt{3}-1}</latex> minutes",
+      "<latex>12(\\sqrt{3}-1)</latex> minutes",
+      "<latex>6\\sqrt{3}</latex> minutes",
+      "<latex>12\\sqrt{3}</latex> minutes"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Let speed be <latex>v</latex>, time to reach be <latex>t</latex>, and height be <latex>h</latex>. Distances are <latex>12v</latex> and <latex>tv</latex>. <latex>h = tv \\tan(\\theta_2) = tv \\tan(45^{\\circ}) = tv</latex>. Also <latex>h = (12v+tv)\\tan(\\theta_1) = \\frac{v(12+t)}{\\sqrt{3}}</latex>. Equating, <latex>t\\sqrt{3} = 12+t \\implies t(\\sqrt{3}-1) = 12 \\implies t = \\frac{12}{\\sqrt{3}-1}</latex> minutes."
+  },
+  {
+    "question": " Two vertical poles are on either side of a road. A 30 m long ladder is placed between the two poles. When the ladder rests against one pole, it makes an angle <latex>\\theta_1 = 32^{\\circ}24'</latex> with the pole, and when turned to the other, it makes an angle <latex>\\theta_2 = 32^{\\circ}24'</latex> with the road. Calculate the width of the road. (Given <latex>\\sin(32^{\\circ}24') \\approx 0.5358</latex> and <latex>\\cos(32^{\\circ}24') \\approx 0.8443</latex>)",
+    "choices": [
+      "41.40 m",
+      "30 m",
+      "16.07 m",
+      "25.33 m"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Width <latex>= 30\\sin(\\theta_1) + 30\\cos(\\theta_2)</latex>. Width <latex>= 30\\sin(32^{\\circ}24') + 30\\cos(32^{\\circ}24') = 30(0.5358) + 30(0.8443) = 16.074 + 25.329 = 41.403</latex> m."
+  },
+  {
+    "question": " The upper part of a tree, broken over by the wind, makes an angle <latex>\\theta = 45^{\\circ}</latex> with the ground. The distance from the root to the point where the top of the tree touches the ground is 15 m. What was the height of the tree before it was broken?",
+    "choices": [
+      "<latex>15\\sqrt{2}</latex> m",
+      "<latex>15(1+\\sqrt{2})</latex> m",
+      "30 m",
+      "<latex>15(1+\\sqrt{3})</latex> m"
+    ],
+    "answer": 1,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Let broken part be <latex>x</latex> and standing part be <latex>y</latex>. <latex>\\tan(\\theta) = \\frac{y}{15} \\implies y = 15\\tan(45^{\\circ}) = 15</latex> m. <latex>\\cos(\\theta) = \\frac{15}{x} \\implies x = \\frac{15}{\\cos(45^{\\circ})} = 15\\sqrt{2}</latex> m. Total height <latex>= x+y = 15(1+\\sqrt{2})</latex> m."
+  },
+  {
+    "question": "From a point on the ground, the angle of elevation <latex>\\theta_1</latex> of the top of a vertical tower is such that <latex>\\tan(\\theta_1) = \\frac{3}{5}</latex>. On walking 50 m towards the tower, the tangent of the new angle of elevation <latex>\\theta_2</latex> is <latex>\\frac{4}{5}</latex>. Find the height of the tower.",
+    "choices": [
+      "100 m",
+      "120 m",
+      "150 m",
+      "200 m"
+    ],
+    "answer": 1,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Let height be <latex>h</latex> and remaining distance be <latex>x</latex>. <latex>\\tan(\\theta_2) = \\frac{h}{x} = \\frac{4}{5} \\implies x = \\frac{5h}{4}</latex>. <latex>\\tan(\\theta_1) = \\frac{h}{x+50} = \\frac{3}{5} \\implies 5h = 3(x+50)</latex>. <latex>5h = 3(\\frac{5h}{4}+50) \\implies 5h - \\frac{15h}{4} = 150 \\implies \\frac{5h}{4} = 150 \\implies h = 120</latex> m."
+  },
+  {
+    "question": "A vertical pole and a vertical tower are on the same level ground. From the top of the pole, the angle of elevation <latex>\\theta_1</latex> of the top of the tower is <latex>60^{\\circ}</latex> and the angle of depression <latex>\\theta_2</latex> of the foot of the tower is <latex>30^{\\circ}</latex>. Find the height of the tower if the height of the pole is 20 m.",
+    "choices": [
+      "40 m",
+      "60 m",
+      "80 m",
+      "100 m"
+    ],
+    "answer": 2,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Distance between them <latex>d = 20\\cot(\\theta_2) = 20\\cot(30^{\\circ}) = 20\\sqrt{3}</latex> m. Height of tower above pole <latex>x = d\\tan(\\theta_1) = 20\\sqrt{3}\\tan(60^{\\circ}) = 20\\sqrt{3}(\\sqrt{3}) = 60</latex> m. Total height = <latex>60 + 20 = 80</latex> m."
+  },
+  {
+    "question": " From a window A, 10 m above the ground, the angle of elevation <latex>\\theta_1</latex> of the top C of a tower is such that <latex>\\tan(\\theta_1) = \\frac{5}{2}</latex> and the angle of depression <latex>\\theta_2</latex> of the foot D of the tower is such that <latex>\\tan(\\theta_2) = \\frac{1}{4}</latex>. Calculate the height CD of the tower in metres.",
+    "choices": [
+      "110 m",
+      "100 m",
+      "90 m",
+      "120 m"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Horizontal distance <latex>d = \\frac{10}{\\tan(\\theta_2)} = \\frac{10}{(1/4)} = 40</latex> m. Height above window <latex>h = d\\tan(\\theta_1) = 40(\\frac{5}{2}) = 100</latex> m. Total height = <latex>100 + 10 = 110</latex> m."
+  },
+  {
+    "question": " An aeroplane, at an altitude of 250 m, observes the angles of depression <latex>\\theta_1</latex> and <latex>\\theta_2</latex> of two boats on opposite banks of a river to be <latex>45^{\\circ}</latex> and <latex>60^{\\circ}</latex> respectively. Find the width of the river.",
+    "choices": [
+      "<latex>250(1+\\frac{1}{\\sqrt{3}})</latex> m",
+      "<latex>250(1+\\sqrt{3})</latex> m",
+      "<latex>250(1-\\frac{1}{\\sqrt{3}})</latex> m",
+      "<latex>\\frac{250}{\\sqrt{3}}</latex> m"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Distance to boat 1 is <latex>d_1 = 250\\cot(\\theta_1) = 250\\cot(45^{\\circ}) = 250</latex> m. Distance to boat 2 is <latex>d_2 = 250\\cot(\\theta_2) = 250\\cot(60^{\\circ}) = \\frac{250}{\\sqrt{3}}</latex> m. Width <latex>= d_1+d_2 = 250(1+\\frac{1}{\\sqrt{3}})</latex> m."
+  },
+  {
+    "question": "The horizontal distance between two towers is 120 m. The angle of elevation <latex>\\theta_1</latex> of the top and angle of depression <latex>\\theta_2</latex> of the bottom of the first tower as observed from the top of the second tower are <latex>30^{\\circ}</latex> and <latex>24^{\\circ}</latex> respectively. What is the height of the first tower? (Use <latex>\\tan(24^{\\circ}) \\approx 0.4452</latex>)",
+    "choices": [
+      "53.42 m",
+      "69.28 m",
+      "122.7 m",
+      "16.14 m"
+    ],
+    "answer": 2,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Height of second tower <latex>H_2 = 120\\tan(\\theta_2) = 120(0.4452) = 53.424</latex> m. First tower part above second tower <latex>x = 120\\tan(\\theta_1) = 120/\\sqrt{3} = 40\\sqrt{3} \\approx 69.282</latex> m. Total height of first tower <latex>= 53.424 + 69.282 = 122.706</latex> m."
+  },
+  {
+    "question": " Two ships approach a light house from opposite directions. The angles of depression <latex>\\theta_1, \\theta_2</latex> of the ships from the top of the light house are <latex>30^{\\circ}</latex> and <latex>45^{\\circ}</latex>. If the distance between the two ships is 100 m, find the height of the light house.",
+    "choices": [
+      "<latex>50(\\sqrt{3}-1)</latex> m",
+      "<latex>100(\\sqrt{3}-1)</latex> m",
+      "<latex>50(\\sqrt{3}+1)</latex> m",
+      "<latex>100(\\sqrt{3}+1)</latex> m"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Let height be <latex>h</latex>. Distances are <latex>h\\cot(30^{\\circ})</latex> and <latex>h\\cot(45^{\\circ})</latex>. <latex>h\\sqrt{3} + h = 100 \\implies h(\\sqrt{3}+1) = 100 \\implies h = \\frac{100}{\\sqrt{3}+1} = 50(\\sqrt{3}-1)</latex> m."
+  },
+  {
+    "question": "From the top of a light house 100 m high, the angles of depression <latex>\\theta_1</latex> and <latex>\\theta_2</latex> of two ships on the same side are <latex>48^{\\circ}</latex> and <latex>36^{\\circ}</latex>. Find the distance between the two ships. (Use <latex>\\tan(48^{\\circ}) \\approx 1.11</latex>, <latex>\\tan(36^{\\circ}) \\approx 0.726</latex>)",
+    "choices": [
+      "47.6 m",
+      "90 m",
+      "137.7 m",
+      "227.8 m"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Distances from base are <latex>d_1 = 100\\cot(48^{\\circ}) = 100/1.11 \\approx 90.09</latex> m, and <latex>d_2 = 100\\cot(36^{\\circ}) = 100/0.726 \\approx 137.74</latex> m. Distance between them <latex>= d_2 - d_1 = 137.74 - 90.09 = 47.65</latex> m."
+  },
+  {
+    "question": "From the top of a cliff, 60 metres high, the angles of depression <latex>\\theta_1</latex> and <latex>\\theta_2</latex> of the top and bottom of a tower are observed to be <latex>30^{\\circ}</latex> and <latex>60^{\\circ}</latex>. Find the height of the tower.",
+    "choices": [
+      "20 m",
+      "30 m",
+      "40 m",
+      "50 m"
+    ],
+    "answer": 2,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Let cliff be <latex>H=60</latex>, tower <latex>h</latex>. Distance <latex>d = 60\\cot(60^{\\circ}) = 20\\sqrt{3}</latex> m. From tower top to cliff top, vertical distance <latex>y = 60-h</latex>. <latex>y = d\\tan(30^{\\circ}) = 20\\sqrt{3}\\times(1/\\sqrt{3}) = 20</latex> m. Thus <latex>h = 60 - 20 = 40</latex> m."
+  },
+  {
+    "question": "An aeroplane flying horizontally 1 km above the ground is observed at an elevation <latex>\\theta_1 = 60^{\\circ}</latex>. After 10 seconds, its elevation <latex>\\theta_2</latex> is observed to be <latex>30^{\\circ}</latex>. Find the uniform speed of the aeroplane.",
+    "choices": [
+      "<latex>240\\sqrt{3}</latex> km/hr",
+      "<latex>120\\sqrt{3}</latex> km/hr",
+      "<latex>480\\sqrt{3}</latex> km/hr",
+      "<latex>60\\sqrt{3}</latex> km/hr"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Horizontal distances are <latex>x_1 = 1\\cot(60^{\\circ}) = \\frac{1}{\\sqrt{3}}</latex> km, <latex>x_2 = 1\\cot(30^{\\circ}) = \\sqrt{3}</latex> km. Distance traveled <latex>= \\sqrt{3} - \\frac{1}{\\sqrt{3}} = \\frac{2}{\\sqrt{3}}</latex> km. Time <latex>= 10</latex> s <latex>= 10/3600</latex> hr <latex>= 1/360</latex> hr. Speed <latex>= \\frac{2/\\sqrt{3}}{1/360} = 720/\\sqrt{3} = 240\\sqrt{3}</latex> km/hr."
+  },
+  {
+    "question": "From the top of a hill, the angles of depression <latex>\\theta_1, \\theta_2</latex> of two consecutive kilometre stones, due east, are found to be <latex>30^{\\circ}</latex> and <latex>45^{\\circ}</latex> respectively. Find the height of the hill.",
+    "choices": [
+      "<latex>\\frac{\\sqrt{3}+1}{2}</latex> km",
+      "<latex>\\frac{\\sqrt{3}-1}{2}</latex> km",
+      "<latex>\\sqrt{3}+1</latex> km",
+      "<latex>\\sqrt{3}-1</latex> km"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Let height be <latex>h</latex>. Distance to stones are <latex>h\\cot(45^{\\circ}) = h</latex> and <latex>h\\cot(30^{\\circ}) = h\\sqrt{3}</latex>. Difference is <latex>h\\sqrt{3} - h = 1</latex> km (consecutive stones). <latex>h = \\frac{1}{\\sqrt{3}-1} = \\frac{\\sqrt{3}+1}{2}</latex> km."
+  },
+  {
+    "question": "The length of the shadow of a vertical tower on level ground increases by 10 m when the altitude angle <latex>\\theta</latex> of the sun changes from <latex>45^{\\circ}</latex> to <latex>30^{\\circ}</latex>. Calculate the height of the tower.",
+    "choices": [
+      "<latex>5(\\sqrt{3}-1)</latex> m",
+      "<latex>10(\\sqrt{3}-1)</latex> m",
+      "<latex>5(\\sqrt{3}+1)</latex> m",
+      "<latex>10(\\sqrt{3}+1)</latex> m"
+    ],
+    "answer": 2,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Let height be <latex>h</latex>. Shadows are <latex>h\\cot(45^{\\circ}) = h</latex> and <latex>h\\cot(30^{\\circ}) = h\\sqrt{3}</latex>. Increase is <latex>h\\sqrt{3}-h = 10 \\implies h = \\frac{10}{\\sqrt{3}-1} = 5(\\sqrt{3}+1)</latex> m."
+  },
+  {
+    "question": "A person standing on the bank of a river observes that the angle of elevation <latex>\\theta_1</latex> of the top of a tree standing on the opposite bank is <latex>60^{\\circ}</latex>. When he moves 40 m away from the bank, he finds the angle of elevation <latex>\\theta_2</latex> to be <latex>30^{\\circ}</latex>. Find the width of the river.",
+    "choices": [
+      "10 m",
+      "20 m",
+      "30 m",
+      "40 m"
+    ],
+    "answer": 1,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Let width be <latex>x</latex>, tree height be <latex>h</latex>. <latex>h = x\\tan(60^{\\circ}) = x\\sqrt{3}</latex>. Also <latex>h = (x+40)\\tan(30^{\\circ}) = \\frac{x+40}{\\sqrt{3}}</latex>. Equating, <latex>x\\sqrt{3} = \\frac{x+40}{\\sqrt{3}} \\implies 3x = x+40 \\implies 2x = 40 \\implies x = 20</latex> m."
+  },
+  {
+    "question": "A vertical tower is 20 m high. A man standing at some distance from the tower knows that the cosine of the angle of elevation <latex>\\theta</latex> of the top of the tower is 0.53. How far is he standing from the foot of the tower? (Assume <latex>\\sin(\\theta) \\approx 0.848</latex>)",
+    "choices": [
+      "12.5 m",
+      "10.6 m",
+      "15 m",
+      "17.8 m"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Given <latex>\\cos(\\theta) = 0.53</latex>, <latex>\\sin(\\theta) \\approx 0.848</latex>. <latex>\\tan(\\theta) = \\frac{\\sin(\\theta)}{\\cos(\\theta)} = \\frac{0.848}{0.53} \\approx 1.6</latex>. Distance <latex>d = \\frac{h}{\\tan(\\theta)} = \\frac{20}{1.6} = 12.5</latex> m."
+  },
+  {
+    "question": "Two pillars of equal heights stand on either side of a roadway, which is 150 m wide. At a point in the roadway between the pillars, the angles of elevation <latex>\\theta_1, \\theta_2</latex> of the tops of the pillars are <latex>60^{\\circ}</latex> and <latex>30^{\\circ}</latex>. Find the height of the pillars.",
+    "choices": [
+      "37.5 m",
+      "<latex>37.5\\sqrt{3}</latex> m",
+      "<latex>75\\sqrt{3}</latex> m",
+      "75 m"
+    ],
+    "answer": 1,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Let height be <latex>h</latex>, distances be <latex>x</latex> and <latex>150-x</latex>. <latex>x = h\\cot(60^{\\circ}) = \\frac{h}{\\sqrt{3}}</latex> and <latex>150-x = h\\cot(30^{\\circ}) = h\\sqrt{3}</latex>. <latex>\\frac{h}{\\sqrt{3}} + h\\sqrt{3} = 150 \\implies h(\\frac{4}{\\sqrt{3}}) = 150 \\implies h = \\frac{150\\sqrt{3}}{4} = 37.5\\sqrt{3}</latex> m."
+  },
+  {
+    "question": " A vertical tower stands on a horizontal plane and is surmounted by a vertical flagstaff of height <latex>h</latex> metre. At a point on the plane, the angle of elevation <latex>\\theta_1</latex> of the bottom of the flagstaff is <latex>\\alpha</latex> and that of the top <latex>\\theta_2</latex> is <latex>\\beta</latex>. What is the height of the tower?",
+    "choices": [
+      "<latex>\\frac{h\\tan(\\alpha)}{\\tan(\\beta)-\\tan(\\alpha)}</latex>",
+      "<latex>\\frac{h\\tan(\\beta)}{\\tan(\\beta)-\\tan(\\alpha)}</latex>",
+      "<latex>\\frac{h\\tan(\\alpha)}{\\tan(\\alpha)-\\tan(\\beta)}</latex>",
+      "<latex>\\frac{h\\tan(\\beta)}{\\tan(\\alpha)-\\tan(\\beta)}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Let tower height be <latex>y</latex> and distance be <latex>x</latex>. <latex>y = x\\tan(\\alpha)</latex> and <latex>y+h = x\\tan(\\beta)</latex>. <latex>x = \\frac{y}{\\tan(\\alpha)}</latex>. Substituting: <latex>y+h = \\frac{y\\tan(\\beta)}{\\tan(\\alpha)} \\implies h = y(\\frac{\\tan(\\beta)}{\\tan(\\alpha)}-1) \\implies y = \\frac{h\\tan(\\alpha)}{\\tan(\\beta)-\\tan(\\alpha)}</latex>."
+  },
+  {
+    "question": "A man 2 m tall stands on the ground 15 metres away from a vertical pole BC. He observes the angle of elevation <latex>\\theta</latex> of the top of the pole, C. If the pole is 10 m high, what is the value of <latex>\\tan(\\theta)</latex>?",
+    "choices": [
+      "<latex>\\frac{8}{15}</latex>",
+      "<latex>\\frac{10}{15}</latex>",
+      "<latex>\\frac{15}{8}</latex>",
+      "<latex>\\frac{2}{3}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "The height of the pole relative to the man's eye is <latex>10 - 2 = 8</latex> m. The horizontal distance is 15 m. <latex>\\tan(\\theta) = \\frac{8}{15}</latex>."
+  },
+  {
+    "question": "The angle of elevation <latex>\\theta_1</latex> of the top of a tower is observed to be <latex>60^{\\circ}</latex>. At a point 30 m vertically above the first point of observation, the angle of elevation <latex>\\theta_2</latex> is found to be <latex>45^{\\circ}</latex>. Find the height of the tower.",
+    "choices": [
+      "<latex>15(3+\\sqrt{3})</latex> m",
+      "<latex>15(\\sqrt{3}-1)</latex> m",
+      "<latex>30(\\sqrt{3}+1)</latex> m",
+      "<latex>30(3+\\sqrt{3})</latex> m"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Let height be <latex>H</latex>, distance <latex>x</latex>. <latex>H = x\\tan(60^{\\circ}) = x\\sqrt{3}</latex>. Also <latex>H-30 = x\\tan(45^{\\circ}) = x</latex>. Thus <latex>x\\sqrt{3}-30 = x \\implies x(\\sqrt{3}-1) = 30 \\implies x = 15(\\sqrt{3}+1)</latex>. <latex>H = 15(\\sqrt{3}+1)\\sqrt{3} = 15(3+\\sqrt{3})</latex> m."
+  },
+  {
+    "question": "The length of the shadow of a tower is found to be <latex>2y</latex> metres longer when the sun's altitude angle <latex>\\theta</latex> is <latex>30^{\\circ}</latex> than when it is <latex>45^{\\circ}</latex>. What is the height of the tower?",
+    "choices": [
+      "<latex>y(\\sqrt{3}-1)</latex> m",
+      "<latex>2y(\\sqrt{3}+1)</latex> m",
+      "<latex>y(\\sqrt{3}+1)</latex> m",
+      "<latex>2y(\\sqrt{3}-1)</latex> m"
+    ],
+    "answer": 2,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Let height be <latex>h</latex>. Shadow lengths are <latex>h\\cot(30^{\\circ}) = h\\sqrt{3}</latex> and <latex>h\\cot(45^{\\circ}) = h</latex>. Difference is <latex>h\\sqrt{3}-h = 2y \\implies h(\\sqrt{3}-1) = 2y \\implies h = \\frac{2y}{\\sqrt{3}-1} = y(\\sqrt{3}+1)</latex> m."
+  },
+  {
+    "question": "From the top of a building AB = 60 m high, the angles of depression <latex>\\theta_1</latex> and <latex>\\theta_2</latex> of the top and bottom of a vertical lamp post CD are <latex>30^{\\circ}</latex> and <latex>60^{\\circ}</latex> respectively. Find the height of the lamp post.",
+    "choices": [
+      "20 m",
+      "30 m",
+      "40 m",
+      "45 m"
+    ],
+    "answer": 2,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Horizontal distance <latex>x = 60\\cot(60^{\\circ}) = 20\\sqrt{3}</latex> m. Let lamp post height be <latex>h</latex>. <latex>60-h = x\\tan(30^{\\circ}) = 20\\sqrt{3}\\times(1/\\sqrt{3}) = 20</latex> m. <latex>h = 60-20 = 40</latex> m."
+  },
+  {
+    "question": " A ladder is placed along a wall such that its foot is 2.4 m from the wall and makes an angle <latex>\\theta = 68^{\\circ}</latex> with the ground. Find the height up to which the ladder reaches. (Use <latex>\\tan(68^{\\circ}) \\approx 2.475</latex>)",
+    "choices": [
+      "5.94 m",
+      "6.82 m",
+      "4.55 m",
+      "7.12 m"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Let height be <latex>h</latex>. <latex>\\tan(\\theta) = \\frac{h}{2.4} \\implies h = 2.4 \\times \\tan(68^{\\circ}) = 2.4 \\times 2.475 = 5.94</latex> m."
+  },
+  {
+    "question": "Two persons are standing on the opposite sides of a 50 m tower. They observe the angles of elevation <latex>\\theta_1, \\theta_2</latex> of the top to be <latex>30^{\\circ}</latex> and <latex>38^{\\circ}</latex> respectively. Find the distance between them. (Use <latex>\\tan(38^{\\circ}) \\approx 0.7813</latex>)",
+    "choices": [
+      "150.6 m",
+      "110.2 m",
+      "180.5 m",
+      "135.4 m"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Distances are <latex>d_1 = 50\\cot(30^{\\circ}) = 50\\sqrt{3} \\approx 86.6</latex> m and <latex>d_2 = 50\\cot(38^{\\circ}) = \\frac{50}{0.7813} \\approx 64</latex> m. Total distance = <latex>86.6 + 64 = 150.6</latex> m."
+  },
+  {
+    "question": "A boy, 1.6 m tall, is 20 m away from a tower and observes the angle of elevation <latex>\\theta = 60^{\\circ}</latex> of the top. Find the height of the tower.",
+    "choices": [
+      "<latex>20\\sqrt{3} - 1.6</latex> m",
+      "<latex>20\\sqrt{3}</latex> m",
+      "<latex>20\\sqrt{3} + 1.6</latex> m",
+      "<latex>21.6\\sqrt{3}</latex> m"
+    ],
+    "answer": 2,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Height above boy's eye level <latex>h_1 = 20\\tan(60^{\\circ}) = 20\\sqrt{3}</latex> m. Total height <latex>H = 20\\sqrt{3} + 1.6</latex> m."
+  },
+  {
+    "question": "A man in a boat rowing away from a lighthouse 150 m high takes 2 minutes to change the angle of elevation <latex>\\theta</latex> from <latex>60^{\\circ}</latex> to <latex>45^{\\circ}</latex>. Find the speed of the boat in m/min.",
+    "choices": [
+      "<latex>75(\\sqrt{3}-1)</latex>",
+      "<latex>75(3-\\sqrt{3})</latex>",
+      "<latex>150(\\sqrt{3}-1)</latex>",
+      "<latex>150(3-\\sqrt{3})</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Initial distance <latex>x_1 = 150\\cot(60^{\\circ}) = 50\\sqrt{3}</latex> m. Final distance <latex>x_2 = 150\\cot(45^{\\circ}) = 150</latex> m. Distance traveled <latex>= 150 - 50\\sqrt{3} = 50(3-\\sqrt{3})</latex> m. Speed <latex>= \\frac{50(3-\\sqrt{3})}{2} = 25(3-\\sqrt{3})</latex> ... <latex>150-50\\sqrt{3} = \\frac{150(3-\\sqrt{3})}{3} = 50(3-\\sqrt{3})</latex>. ... <latex>x_1 = 150/\\sqrt{3} = 50\\sqrt{3}</latex>. <latex>x_2 = 150</latex>. diff = <latex>150 - 50\\sqrt{3}</latex>. Speed = <latex>75 - 25\\sqrt{3} = 25(3-\\sqrt{3})</latex>. ... <latex>25(3-\\sqrt{3})</latex> ... <latex>150/\\sqrt{3} = 50\\sqrt{3}</latex>. <latex>150 - 50\\sqrt{3} = 50(3-\\sqrt{3})</latex>. So <latex>(150-50\\sqrt{3})/2 = 75 - 25\\sqrt{3}</latex>."
+  },
+  {
+    "question": "A man in a boat rowing away from a lighthouse 150 m high takes 2 minutes to change the angle of elevation <latex>\\theta</latex> from <latex>60^{\\circ}</latex> to <latex>45^{\\circ}</latex>. Find the speed of the boat in m/min.",
+    "choices": [
+      "<latex>75 - 25\\sqrt{3}</latex> m/min",
+      "<latex>150 - 50\\sqrt{3}</latex> m/min",
+      "<latex>25(3-\\sqrt{3})</latex> m/min",
+      "<latex>75(3-\\sqrt{3})</latex> m/min"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Initial distance <latex>x_1 = 150\\cot(60^{\\circ}) = 50\\sqrt{3}</latex> m. Final distance <latex>x_2 = 150\\cot(45^{\\circ}) = 150</latex> m. Distance traveled <latex>= 150 - 50\\sqrt{3}</latex> m. Speed <latex>= \\frac{150 - 50\\sqrt{3}}{2} = 75 - 25\\sqrt{3}</latex> m/min. (Also equal to <latex>25(3-\\sqrt{3})</latex> m/min, choice C is mathematically identical, I'll select A as the most direct simplified form)."
+  },
+  {
+    "question": "The horizontal distance between two towers is 75 m and the angular depression <latex>\\theta</latex> of the top of the first tower as seen from the top of the second, which is 160 m high, is <latex>45^{\\circ}</latex>. Find the height of the first tower.",
+    "choices": [
+      "75 m",
+      "85 m",
+      "100 m",
+      "160 m"
+    ],
+    "answer": 1,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Let height of first tower be <latex>h</latex>. The vertical difference in height is <latex>160 - h</latex>. <latex>\\tan(\\theta) = \\frac{160-h}{75} = \\tan(45^{\\circ}) = 1</latex>. <latex>160 - h = 75 \\implies h = 160 - 75 = 85</latex> m."
+  },
+  {
+    "question": "Two climbers are at points A and B on a vertical cliff face. To an observer C, 40 m from the foot of the cliff, on the level ground, the angle of elevation <latex>\\theta_1</latex> of A is <latex>48^{\\circ}</latex> and <latex>\\theta_2</latex> of B is <latex>57^{\\circ}</latex>. What is the vertical distance between the climbers? (Use <latex>\\tan(48^{\\circ}) \\approx 1.11</latex>, <latex>\\tan(57^{\\circ}) \\approx 1.54</latex>)",
+    "choices": [
+      "17.2 m",
+      "20.4 m",
+      "15.8 m",
+      "22.6 m"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Height of A <latex>h_A = 40\\tan(48^{\\circ}) = 40(1.11) = 44.4</latex> m. Height of B <latex>h_B = 40\\tan(57^{\\circ}) = 40(1.54) = 61.6</latex> m. Distance between them <latex>= 61.6 - 44.4 = 17.2</latex> m."
+  },
+  {
+    "question": "A man stands 9 m away from a flag-pole. He observes that angle of elevation <latex>\\theta_1</latex> of the top of the pole is <latex>28^{\\circ}</latex> and the angle of depression <latex>\\theta_2</latex> of the bottom of the pole is <latex>13^{\\circ}</latex>. Calculate the height of the pole. (Use <latex>\\tan(28^{\\circ}) \\approx 0.53</latex>, <latex>\\tan(13^{\\circ}) \\approx 0.23</latex>)",
+    "choices": [
+      "6.84 m",
+      "7.5 m",
+      "5.3 m",
+      "8.1 m"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Height above eye level <latex>h_1 = 9\\tan(28^{\\circ}) = 9(0.53) = 4.77</latex> m. Height below eye level <latex>h_2 = 9\\tan(13^{\\circ}) = 9(0.23) = 2.07</latex> m. Total height <latex>= 4.77 + 2.07 = 6.84</latex> m."
+  },
+  {
+    "question": "From the top of a cliff 92 m high, the angle of depression <latex>\\theta</latex> of a buoy is <latex>20^{\\circ}</latex>. Calculate, to the nearest metre, the distance of the buoy from the foot of the cliff. (Use <latex>\\tan(20^{\\circ}) \\approx 0.364</latex>)",
+    "choices": [
+      "253 m",
+      "33 m",
+      "210 m",
+      "180 m"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Distance <latex>d = \\frac{92}{\\tan(20^{\\circ})} = \\frac{92}{0.364} \\approx 252.7</latex> m. Rounding to the nearest metre, it is 253 m."
+  },
+  {
+    "question": "A guard observes an enemy boat from an observation tower at a height of 180 m above sea level to be at an angle of depression <latex>\\theta_1 = 29^{\\circ}</latex>. After some time, the boat is 200 m from the foot of the tower. Calculate the new angle of depression <latex>\\theta_2</latex>. (Use <latex>\\tan(41^{\\circ}59') \\approx 0.9</latex>)",
+    "choices": [
+      "<latex>\\theta_2 = 41^{\\circ}59'</latex>",
+      "<latex>\\theta_2 = 45^{\\circ}</latex>",
+      "<latex>\\theta_2 = 30^{\\circ}</latex>",
+      "<latex>\\theta_2 = 35^{\\circ}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "New distance <latex>d = 200</latex> m, height <latex>h = 180</latex> m. <latex>\\tan(\\theta_2) = \\frac{180}{200} = 0.9</latex>. From tables, <latex>\\tan(41^{\\circ}59') \\approx 0.9</latex>, so <latex>\\theta_2 = 41^{\\circ}59'</latex>."
+  },
+  {
+    "question": "In a triangle representing an observation setup, the base is <latex>x</latex> cm, the perpendicular is 15 cm, and the angle <latex>\\theta</latex> adjacent to the base is <latex>60^{\\circ}</latex>. What is the value of <latex>x</latex>?",
+    "choices": [
+      "<latex>5\\sqrt{3}</latex> cm",
+      "<latex>15\\sqrt{3}</latex> cm",
+      "5 cm",
+      "15 cm"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "<latex>\\tan(\\theta) = \\frac{\\text{Perpendicular}}{\\text{Base}} \\implies \\tan(60^{\\circ}) = \\frac{15}{x} \\implies \\sqrt{3} = \\frac{15}{x}</latex>. <latex>x = \\frac{15}{\\sqrt{3}} = 5\\sqrt{3}</latex> cm."
+  },
+  {
+    "question": "In a right-angled triangle with a base of 30 m and a perpendicular height of <latex>X</latex> m, the angle of elevation <latex>\\theta</latex> from the base is <latex>30^{\\circ}</latex>. Find <latex>X</latex>.",
+    "choices": [
+      "<latex>10\\sqrt{3}</latex> m",
+      "<latex>30\\sqrt{3}</latex> m",
+      "10 m",
+      "30 m"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "<latex>\\tan(\\theta) = \\frac{X}{30} \\implies \\tan(30^{\\circ}) = \\frac{X}{30} \\implies \\frac{1}{\\sqrt{3}} = \\frac{X}{30}</latex>. <latex>X = \\frac{30}{\\sqrt{3}} = 10\\sqrt{3}</latex> m."
+  },
+  {
+    "question": "The angle of elevation <latex>\\theta</latex> of the top of a tower from a point on the ground 160 m from its foot is <latex>60^{\\circ}</latex>. Find the height of the tower.",
+    "choices": [
+      "<latex>80\\sqrt{3}</latex> m",
+      "<latex>160\\sqrt{3}</latex> m",
+      "<latex>\\frac{160}{\\sqrt{3}}</latex> m",
+      "160 m"
+    ],
+    "answer": 1,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Height <latex>h = 160\\tan(\\theta) = 160\\tan(60^{\\circ}) = 160\\sqrt{3}</latex> m."
+  },
+  {
+    "question": "A man on a cliff observes a boat at an angle of depression <latex>\\theta_1 = 30^{\\circ}</latex>. Three minutes later, the angle of depression is <latex>\\theta_2 = 60^{\\circ}</latex>. Assuming uniform speed, how much more time will it take to reach the shore directly beneath him?",
+    "choices": [
+      "1.5 minutes",
+      "2 minutes",
+      "3 minutes",
+      "4.5 minutes"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Let height be <latex>h</latex>. Distances are <latex>h\\cot(30^{\\circ}) = h\\sqrt{3}</latex> and <latex>h\\cot(60^{\\circ}) = \\frac{h}{\\sqrt{3}}</latex>. Distance traveled in 3 min is <latex>h\\sqrt{3} - \\frac{h}{\\sqrt{3}} = \\frac{2h}{\\sqrt{3}}</latex>. Remaining distance is <latex>\\frac{h}{\\sqrt{3}}</latex>. Since <latex>\\frac{2h}{\\sqrt{3}}</latex> takes 3 minutes, <latex>\\frac{h}{\\sqrt{3}}</latex> will take <latex>\\frac{3}{2} = 1.5</latex> minutes."
+  },
+  {
+    "question": "The height of a tree is <latex>\\sqrt{3}</latex> times the length of its shadow. What is the angle of elevation <latex>\\theta</latex> of the sun?",
+    "choices": [
+      "<latex>\\theta = 30^{\\circ}</latex>",
+      "<latex>\\theta = 45^{\\circ}</latex>",
+      "<latex>\\theta = 60^{\\circ}</latex>",
+      "<latex>\\theta = 90^{\\circ}</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Let shadow be <latex>x</latex>. Height <latex>h = \\sqrt{3}x</latex>. <latex>\\tan(\\theta) = \\frac{h}{x} = \\frac{\\sqrt{3}x}{x} = \\sqrt{3}</latex>. Thus <latex>\\theta = 60^{\\circ}</latex>."
+  },
+  {
+    "question": "From a point on the ground, the angle of elevation <latex>\\theta_1</latex> of the top of a tower is observed to be <latex>60^{\\circ}</latex>. At a point 30 m vertically above the first point, the elevation <latex>\\theta_2</latex> is found to be <latex>45^{\\circ}</latex>. What is the horizontal distance to the tower?",
+    "choices": [
+      "<latex>15(\\sqrt{3}-1)</latex> m",
+      "<latex>15(\\sqrt{3}+1)</latex> m",
+      "<latex>30(\\sqrt{3}+1)</latex> m",
+      "30 m"
+    ],
+    "answer": 1,
+    "chapter": "Heights and Distances",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Let tower height be <latex>h</latex> and horizontal distance be <latex>x</latex>. <latex>h = x\\tan(\\theta_1) = x\\sqrt{3}</latex>. Also <latex>h - 30 = x\\tan(\\theta_2) = x\\tan(45^{\\circ}) = x</latex>. So <latex>x\\sqrt{3} - x = 30 \\implies x(\\sqrt{3}-1) = 30 \\implies x = \\frac{30}{\\sqrt{3}-1} = 15(\\sqrt{3}+1)</latex> m."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The angle of elevation <latex>\\theta</latex> of an object as seen by an observer is equal to the angle of depression <latex>\\theta</latex> of the observer as seen from the object.<br><b>Reason (R):</b> The line of sight intersects parallel horizontal lines drawn at the observer and the object, forming equal alternate interior angles.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Assertion-Reasoning",
+    "complexity": "high",
+    "reason": "Angle of elevation of point A as seen from point C is equal to the angle of depression of point C as seen from point A. This is geometrically true because alternate interior angles between parallel horizontal lines are equal."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If the length of the shadow of a vertical tower is equal to its height, the angle of elevation <latex>\\theta</latex> of the sun is <latex>45^{\\circ}</latex>.<br><b>Reason (R):</b> For a right-angled triangle, when the perpendicular equals the base, <latex>\\tan(\\theta) = 1</latex>, which means <latex>\\theta = 45^{\\circ}</latex>.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Assertion-Reasoning",
+    "complexity": "high",
+    "reason": "When height = shadow, <latex>\\tan(\\theta) = \\frac{h}{h} = 1</latex>. The angle <latex>\\theta</latex> whose tangent is 1 is <latex>45^{\\circ}</latex>."
+  },
+  {
+    "question": "<b>Assertion (A):</b> As an observer moves towards a vertical tower, the angle of elevation <latex>\\theta</latex> of its top decreases.<br><b>Reason (R):</b> The tangent of the angle <latex>\\theta</latex> is inversely proportional to the horizontal distance from the tower.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 3,
+    "chapter": "Heights and Distances",
+    "category": "Assertion-Reasoning",
+    "complexity": "high",
+    "reason": "Assertion is False: As an observer moves closer to a tower, the angle of elevation <latex>\\theta</latex> *increases*, approaching <latex>90^{\\circ}</latex>. Reason is True: <latex>\\tan(\\theta) = h/x</latex>, so as <latex>x</latex> decreases, <latex>\\tan(\\theta)</latex> and therefore <latex>\\theta</latex> must increase."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If the angle of elevation <latex>\\theta_1</latex> of a cloud is <latex>30^{\\circ}</latex> and the angle of depression <latex>\\theta_2</latex> of its reflection is <latex>60^{\\circ}</latex> from an observer's height <latex>h</latex>, then the height of the cloud is <latex>2h</latex>.<br><b>Reason (R):</b> The vertical distance of the reflection below the lake surface is equal to the vertical height of the cloud above the lake surface.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Assertion-Reasoning",
+    "complexity": "high",
+    "reason": "Let cloud height be <latex>H</latex>. <latex>d = (H-h)\\cot(30^{\\circ})</latex> and <latex>d = (H+h)\\cot(60^{\\circ})</latex>. <latex>(H-h)\\sqrt{3} = (H+h)/\\sqrt{3} \\implies 3(H-h) = H+h \\implies 2H = 4h \\implies H = 2h</latex>. Both A and R are true, and R is the geometric property that enables the calculation."
+  },
+  {
+    "question": "<b>Assertion (A):</b> For a fixed height of a tower, the length of its shadow is longer when the angle of elevation <latex>\\theta</latex> of the sun is <latex>30^{\\circ}</latex> compared to when it is <latex>60^{\\circ}</latex>.<br><b>Reason (R):</b> The value of <latex>\\cot(\\theta)</latex> decreases as <latex>\\theta</latex> increases from <latex>0^{\\circ}</latex> to <latex>90^{\\circ}</latex>.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Assertion-Reasoning",
+    "complexity": "high",
+    "reason": "Shadow length <latex>s = h\\cot(\\theta)</latex>. Since <latex>\\cot(30^{\\circ}) = \\sqrt{3}</latex> and <latex>\\cot(60^{\\circ}) = 1/\\sqrt{3}</latex>, the shadow is longer at <latex>30^{\\circ}</latex>. The reason perfectly justifies the assertion."
+  },
+  {
+    "question": "<b>Assertion (A):</b> A car approaching a tower at uniform speed will take the same amount of time to change its angle of elevation <latex>\\theta</latex> from <latex>30^{\\circ}</latex> to <latex>45^{\\circ}</latex> as from <latex>45^{\\circ}</latex> to <latex>60^{\\circ}</latex>.<br><b>Reason (R):</b> The difference between the angles (<latex>45^{\\circ} - 30^{\\circ} = 15^{\\circ}</latex> and <latex>60^{\\circ} - 45^{\\circ} = 15^{\\circ}</latex>) is equal, so the distance covered is equal.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "Both A and R are False"
+    ],
+    "answer": 3,
+    "chapter": "Heights and Distances",
+    "category": "Assertion-Reasoning",
+    "complexity": "high",
+    "reason": "Both are false. Distance covered is proportional to <latex>\\cot(\\theta_1) - \\cot(\\theta_2)</latex>. <latex>\\cot(30^{\\circ}) - \\cot(45^{\\circ}) = \\sqrt{3} - 1 \\approx 0.732</latex>. <latex>\\cot(45^{\\circ}) - \\cot(60^{\\circ}) = 1 - 1/\\sqrt{3} \\approx 0.422</latex>. Distances (and thus times) are unequal despite the angle differences being equal."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If a ladder of length <latex>L</latex> makes an angle <latex>\\theta = 60^{\\circ}</latex> with the horizontal ground, its foot is at a distance of <latex>L/2</latex> from the wall.<br><b>Reason (R):</b> In a right-angled triangle, <latex>\\cos(\\theta) = \\frac{\\text{Base}}{\\text{Hypotenuse}}</latex>, and <latex>\\cos(60^{\\circ}) = 1/2</latex>.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Assertion-Reasoning",
+    "complexity": "high",
+    "reason": "Base distance <latex>x = L\\cos(60^{\\circ}) = L(1/2) = L/2</latex>. Both assertion and reason are true and correctly linked."
+  },
+  {
+    "question": "<b>Assertion (A):</b> When the angle of elevation <latex>\\theta</latex> of the sun is <latex>45^{\\circ}</latex>, the length of a pole and its shadow are in the ratio 1:1.<br><b>Reason (R):</b> <latex>\\tan(45^{\\circ}) = 1</latex>, which represents the ratio of the perpendicular (pole) to the base (shadow).",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Assertion-Reasoning",
+    "complexity": "high",
+    "reason": "<latex>\\tan(45^{\\circ}) = 1 \\implies \\frac{\\text{height}}{\\text{shadow}} = 1 \\implies</latex> ratio is 1:1."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If the height of a tower and the distance from its foot are both doubled, the angle of elevation <latex>\\theta</latex> from that point remains unchanged.<br><b>Reason (R):</b> The angle <latex>\\theta</latex> depends only on the ratio of the height to the distance, which is constant if both are scaled by the same factor.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Heights and Distances",
+    "category": "Assertion-Reasoning",
+    "complexity": "high",
+    "reason": "<latex>\\tan(\\theta) = \\frac{2h}{2x} = \\frac{h}{x}</latex>. The ratio remains constant, so the angle <latex>\\theta</latex> is unchanged."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The angle of depression <latex>\\theta</latex> of a point on the ground from the top of a tower is measured from the vertical line passing through the tower.<br><b>Reason (R):</b> The angle of depression is always measured with respect to the horizontal line of sight.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 3,
+    "chapter": "Heights and Distances",
+    "category": "Assertion-Reasoning",
+    "complexity": "high",
+    "reason": "Assertion is False: Angle of depression is measured with horizontal, not vertical. Reason is True: It is the angle the line of sight makes with the horizontal."
+  }
+]

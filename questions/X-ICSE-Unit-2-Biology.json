@@ -1,0 +1,2026 @@
+[
+  {
+    "question": "Transpiration is the process of:",
+    "choices": ["Absorption of water by roots", "Loss of water vapor from plants", "Transport of food", "Photosynthesis"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Transpiration is the loss of water in the form of water vapour from aerial parts of plants."
+  },
+  {
+    "question": "Transpiration mainly occurs through:",
+    "choices": ["Roots", "Stem", "Stomata", "Flowers"],
+    "answer": 2,
+    "chapter": "Transpiration",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Stomata are tiny pores on leaves through which most transpiration occurs."
+  },
+  {
+    "question": "The main force generated due to transpiration is:",
+    "choices": ["Osmotic pressure", "Transpiration pull", "Root pressure", "Capillary action"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Transpiration creates a suction force called transpiration pull that helps in upward movement of water."
+  },
+  {
+    "question": "Transpiration helps in:",
+    "choices": ["Food storage", "Cooling the plant", "Reproduction", "Respiration"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Evaporation of water cools the plant similar to sweating in humans."
+  },
+  {
+    "question": "Another function of transpiration is:",
+    "choices": ["Protein synthesis", "Mineral absorption", "Creating suction force", "Pollination"],
+    "answer": 2,
+    "chapter": "Transpiration",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Transpiration creates suction force that helps in water transport."
+  },
+  {
+    "question": "Water is lost during transpiration in the form of:",
+    "choices": ["Liquid", "Ice", "Vapour", "Plasma"],
+    "answer": 2,
+    "chapter": "Transpiration",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Water evaporates from plant surfaces as vapour."
+  },
+  {
+    "question": "Which experiment shows transpiration using polythene bags?",
+    "choices": ["Photosynthesis experiment", "Demonstration of transpiration", "Respiration test", "Germination test"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Polythene bags trap water vapour released by leaves, demonstrating transpiration."
+  },
+  {
+    "question": "Cobalt chloride paper is used to detect:",
+    "choices": ["Oxygen", "Carbon dioxide", "Water vapor", "Nitrogen"],
+    "answer": 2,
+    "chapter": "Transpiration",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Cobalt chloride paper changes color in presence of moisture."
+  },
+  {
+    "question": "Cobalt chloride paper turns from blue to:",
+    "choices": ["Red", "Green", "Pink", "Yellow"],
+    "answer": 2,
+    "chapter": "Transpiration",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "It turns pink when exposed to water vapour."
+  },
+  {
+    "question": "Ganong’s potometer is used to measure:",
+    "choices": ["Photosynthesis rate", "Transpiration rate", "Respiration rate", "Growth rate"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Potometer measures rate of water uptake, indirectly indicating transpiration."
+  },
+  {
+    "question": "A limitation of Ganong’s potometer is:",
+    "choices": ["Cannot measure water uptake", "Does not measure exact transpiration", "Very expensive", "Not portable"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "It measures water uptake, not actual transpiration loss."
+  },
+  {
+    "question": "Transpiration rate increases with:",
+    "choices": ["Low temperature", "High humidity", "Wind", "Darkness"],
+    "answer": 2,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Wind removes water vapour, increasing transpiration."
+  },
+  {
+    "question": "Transpiration rate decreases with:",
+    "choices": ["High wind", "Low humidity", "High humidity", "High temperature"],
+    "answer": 2,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "High humidity reduces evaporation rate."
+  },
+  {
+    "question": "Which factor affects transpiration?",
+    "choices": ["Light", "Temperature", "Humidity", "All of the above"],
+    "answer": 3,
+    "chapter": "Transpiration",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "All environmental factors influence transpiration."
+  },
+  {
+    "question": "Stomata open mainly during:",
+    "choices": ["Night", "Day", "Winter", "Rain"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Stomata open during the day for photosynthesis."
+  },
+  {
+    "question": "Closing of stomata reduces:",
+    "choices": ["Photosynthesis", "Transpiration", "Respiration", "Growth"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Closed stomata prevent water loss."
+  },
+  {
+    "question": "Guttation involves loss of water in:",
+    "choices": ["Vapour form", "Liquid form", "Solid form", "Gas form"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Guttation releases liquid water droplets."
+  },
+  {
+    "question": "Bleeding in plants refers to:",
+    "choices": ["Loss of sap", "Loss of leaves", "Loss of roots", "Loss of flowers"],
+    "answer": 0,
+    "chapter": "Transpiration",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Bleeding is the loss of sap from injured plant parts."
+  },
+  {
+    "question": "Which structure controls stomatal opening?",
+    "choices": ["Guard cells", "Xylem", "Phloem", "Cortex"],
+    "answer": 0,
+    "chapter": "Transpiration",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Guard cells regulate opening and closing of stomata."
+  },
+  {
+    "question": "Transpiration creates suction force in:",
+    "choices": ["Leaves", "Stem", "Roots", "Flowers"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Transpiration pull acts through xylem in stem."
+  },
+  {
+    "question": "Which part loses maximum water?",
+    "choices": ["Root", "Stem", "Leaves", "Flower"],
+    "answer": 2,
+    "chapter": "Transpiration",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Leaves have maximum stomata."
+  },
+  {
+    "question": "Plants reduce transpiration by:",
+    "choices": ["Large leaves", "Thick cuticle", "Open stomata", "Thin stem"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Thick cuticle prevents water loss."
+  },
+  {
+    "question": "Desert plants reduce transpiration by:",
+    "choices": ["Large stomata", "Thick cuticle", "Thin leaves", "Soft tissues"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Adaptations like thick cuticle reduce water loss."
+  },
+  {
+    "question": "Transpiration is essential for:",
+    "choices": ["Food digestion", "Water movement", "Seed formation", "Pollination"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "It helps in upward movement of water."
+  },
+  {
+    "question": "Which condition increases transpiration?",
+    "choices": ["High humidity", "Low temperature", "Bright sunlight", "Still air"],
+    "answer": 2,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Sunlight opens stomata and increases evaporation."
+  },
+  {
+    "question": "Which condition reduces transpiration?",
+    "choices": ["Wind", "High temperature", "High humidity", "Light"],
+    "answer": 2,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Humidity reduces evaporation gradient."
+  },
+  {
+    "question": "The movement of water through xylem is due to:",
+    "choices": ["Diffusion", "Transpiration pull", "Active transport", "Osmosis"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Transpiration pull drives water upward."
+  },
+  {
+    "question": "Water droplets on polythene bag indicate:",
+    "choices": ["Respiration", "Transpiration", "Photosynthesis", "Germination"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "They are condensed water vapour from transpiration."
+  },
+  {
+    "question": "Which instrument indirectly measures transpiration?",
+    "choices": ["Thermometer", "Potometer", "Barometer", "Hygrometer"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Potometer measures water uptake indirectly."
+  },
+  {
+    "question": "Transpiration helps in mineral transport because:",
+    "choices": ["It produces energy", "It creates upward pull", "It stores food", "It breaks molecules"],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Upward pull carries dissolved minerals."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Transpiration creates a pulling force in plants.<br><b>Reason (R):</b> Water evaporates from leaf surfaces generating suction in xylem.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are True and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "chapter": "Transpiration",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "Evaporation of water from leaves creates negative pressure, generating transpiration pull."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Transpiration rate is higher during the day.<br><b>Reason (R):</b> Stomata are usually open during daylight.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are True and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Stomata open during the day allowing more water vapour to escape."
+  },
+  {
+    "question": "<b>Assertion (A):</b> High humidity reduces transpiration.<br><b>Reason (R):</b> Moist air reduces the diffusion gradient for water vapour.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are True and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "When air is already moist, evaporation slows due to reduced gradient."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Wind increases transpiration.<br><b>Reason (R):</b> Wind removes water vapour surrounding leaves.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are True and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Wind removes saturated air, increasing evaporation rate."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Thick cuticle reduces transpiration.<br><b>Reason (R):</b> Cuticle acts as a waterproof layer on leaves.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are True and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "chapter": "Transpiration",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Thick cuticle reduces water loss by limiting evaporation."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Transpiration helps in cooling plants.<br><b>Reason (R):</b> Evaporation of water absorbs heat energy.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are True and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "chapter": "Transpiration",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Evaporation removes heat, cooling the plant surface."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Potometer measures transpiration directly.<br><b>Reason (R):</b> It measures water uptake by the plant.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are True and R is the correct explanation of A"
+    ],
+    "answer": 1,
+    "chapter": "Transpiration",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Potometer measures water uptake, not actual transpiration."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Guttation occurs at night.<br><b>Reason (R):</b> Root pressure is high and transpiration is low at night.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are True and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "chapter": "Transpiration",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "Low transpiration and high root pressure lead to liquid water exudation."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Closing stomata reduces water loss.<br><b>Reason (R):</b> Stomata are the main sites of transpiration.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are True and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "chapter": "Transpiration",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Closing stomata blocks the main pathway of water loss."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Transpiration is essential for mineral transport.<br><b>Reason (R):</b> It generates upward pull in xylem.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are True and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "chapter": "Transpiration",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "Transpiration pull helps transport dissolved minerals upward."
+  },
+  {
+    "question": "Photosynthesis primarily occurs in which part of the plant cell?",
+    "choices": [
+      "Mitochondria",
+      "Chloroplast",
+      "Nucleus",
+      "Ribosome"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Chloroplast contains chlorophyll and is the site of photosynthesis."
+  },
+  {
+    "question": "The green pigment responsible for photosynthesis is:",
+    "choices": [
+      "Carotene",
+      "Chlorophyll",
+      "Xanthophyll",
+      "Hemoglobin"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Chlorophyll absorbs light energy."
+  },
+  {
+    "question": "Which gas is released during photosynthesis?",
+    "choices": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Oxygen is released as a by-product."
+  },
+  {
+    "question": "Which raw material is absorbed from the soil for photosynthesis?",
+    "choices": [
+      "Oxygen",
+      "Water",
+      "Carbon dioxide",
+      "Glucose"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Water is absorbed by roots."
+  },
+  {
+    "question": "The process of splitting water using light energy is called:",
+    "choices": [
+      "Photolysis",
+      "Hydrolysis",
+      "Electrolysis",
+      "Reduction"
+    ],
+    "answer": 0,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Photolysis occurs in light reaction."
+  },
+
+  {
+    "question": "Stomata are mainly responsible for:",
+    "choices": [
+      "Water absorption",
+      "Gas exchange",
+      "Food storage",
+      "Photosynthesis"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Stomata regulate gas exchange."
+  },
+  {
+    "question": "Which of the following is a product of photosynthesis?",
+    "choices": [
+      "Carbon dioxide",
+      "Water",
+      "Glucose",
+      "Chlorophyll"
+    ],
+    "answer": 2,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Glucose is synthesized."
+  },
+  {
+    "question": "The light reaction occurs in:",
+    "choices": [
+      "Stroma",
+      "Thylakoid",
+      "Nucleus",
+      "Cytoplasm"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Occurs in thylakoid membranes."
+  },
+  {
+    "question": "Dark reaction occurs in:",
+    "choices": [
+      "Thylakoid",
+      "Stroma",
+      "Cytoplasm",
+      "Cell membrane"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Occurs in stroma."
+  },
+  {
+    "question": "Which factor does NOT affect photosynthesis?",
+    "choices": [
+      "Light intensity",
+      "Temperature",
+      "Oxygen concentration",
+      "Carbon dioxide"
+    ],
+    "answer": 2,
+    "chapter": "Photosynthesis",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "Oxygen is not a limiting factor."
+  },
+
+  {
+    "question": "Which experiment proves starch formation in leaves?",
+    "choices": [
+      "Benedict test",
+      "Iodine test",
+      "Biuret test",
+      "Litmus test"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Iodine turns blue-black with starch."
+  },
+  {
+    "question": "Which color of light is most effective for photosynthesis?",
+    "choices": [
+      "Green",
+      "Blue and Red",
+      "Yellow",
+      "Orange"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "Chlorophyll absorbs red and blue light."
+  },
+  {
+    "question": "Green light is least effective because:",
+    "choices": [
+      "It is absorbed",
+      "It is reflected",
+      "It is refracted",
+      "It is transmitted"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Green light is reflected."
+  },
+  {
+    "question": "Which compound stores energy in light reaction?",
+    "choices": [
+      "ATP",
+      "Glucose",
+      "Oxygen",
+      "Water"
+    ],
+    "answer": 0,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "ATP stores chemical energy."
+  },
+  {
+    "question": "Carbon fixation occurs in:",
+    "choices": [
+      "Light reaction",
+      "Dark reaction",
+      "Respiration",
+      "Transpiration"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "CO2 is fixed in Calvin cycle."
+  },
+
+  {
+    "question": "Which scientist discovered photosynthesis?",
+    "choices": [
+      "Priestley",
+      "Newton",
+      "Darwin",
+      "Mendel"
+    ],
+    "answer": 0,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Priestley demonstrated oxygen release."
+  },
+  {
+    "question": "Which condition increases photosynthesis rate?",
+    "choices": [
+      "Low light",
+      "High CO2",
+      "Low temperature",
+      "No water"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "CO2 is a limiting factor."
+  },
+  {
+    "question": "Which pigment absorbs maximum light?",
+    "choices": [
+      "Chlorophyll a",
+      "Chlorophyll b",
+      "Carotene",
+      "Xanthophyll"
+    ],
+    "answer": 0,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Primary pigment is chlorophyll a."
+  },
+  {
+    "question": "Which process converts light energy into chemical energy?",
+    "choices": [
+      "Respiration",
+      "Photosynthesis",
+      "Digestion",
+      "Transpiration"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Photosynthesis stores energy in glucose."
+  },
+  {
+    "question": "Limiting factor concept was given by:",
+    "choices": [
+      "Blackman",
+      "Darwin",
+      "Mendel",
+      "Pasteur"
+    ],
+    "answer": 0,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Blackman proposed limiting factors."
+  },
+
+  {
+    "question": "Which organ is responsible for photosynthesis?",
+    "choices": [
+      "Root",
+      "Stem",
+      "Leaf",
+      "Flower"
+    ],
+    "answer": 2,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Leaves contain chloroplast."
+  },
+
+  {
+    "question": "Which structure contains chlorophyll?",
+    "choices": [
+      "Grana",
+      "Stroma",
+      "Nucleus",
+      "Vacuole"
+    ],
+    "answer": 0,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Grana contain chlorophyll."
+  },
+
+  {
+    "question": "Photosynthesis equation includes:",
+    "choices": [
+      "CO2 + H2O",
+      "O2 + Glucose",
+      "ATP only",
+      "Nitrogen"
+    ],
+    "answer": 0,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "CO2 and water are reactants."
+  },
+
+  {
+    "question": "Which factor affects stomatal opening?",
+    "choices": [
+      "Light",
+      "Water",
+      "CO2",
+      "All of these"
+    ],
+    "answer": 3,
+    "chapter": "Photosynthesis",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "All factors influence stomata."
+  },
+
+  {
+    "question": "Which cell type performs photosynthesis?",
+    "choices": [
+      "Root cells",
+      "Leaf mesophyll cells",
+      "Muscle cells",
+      "Nerve cells"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Mesophyll cells contain chloroplasts."
+  },
+
+  {
+    "question": "Which gas is used in photosynthesis?",
+    "choices": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "answer": 2,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "CO2 is a raw material."
+  },
+
+  {
+    "question": "What is the main carbohydrate formed?",
+    "choices": [
+      "Sucrose",
+      "Glucose",
+      "Starch",
+      "Fructose"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Glucose is the primary product."
+  },
+
+  {
+    "question": "Which structure controls gas exchange?",
+    "choices": [
+      "Cuticle",
+      "Stomata",
+      "Xylem",
+      "Phloem"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Stomata regulate gases."
+  },
+
+  {
+    "question": "Which condition stops photosynthesis?",
+    "choices": [
+      "Presence of light",
+      "Absence of chlorophyll",
+      "High CO2",
+      "Warm temperature"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "Chlorophyll is essential."
+  },
+
+  {
+    "question": "Which process produces oxygen?",
+    "choices": [
+      "Respiration",
+      "Photolysis",
+      "Digestion",
+      "Fermentation"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Water splitting releases oxygen."
+  },
+
+  {
+    "question": "Which structure contains enzymes for dark reaction?",
+    "choices": [
+      "Grana",
+      "Stroma",
+      "Nucleus",
+      "Membrane"
+    ],
+    "answer": 1,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Stroma has enzymes."
+  },
+
+  {
+    "question": "Which is NOT required for photosynthesis?",
+    "choices": [
+      "Light",
+      "Chlorophyll",
+      "Oxygen",
+      "Water"
+    ],
+    "answer": 2,
+    "chapter": "Photosynthesis",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "Oxygen is a product, not required."
+  },
+
+  {
+    "question": "<b>Assertion (A):</b> Photosynthesis produces oxygen.<br><b>Reason (R):</b> Oxygen is released during photolysis of water.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True and R is the correct explanation of A",
+      "Both A and R are True but R is not the correct explanation"
+    ],
+    "answer": 2,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Photolysis releases oxygen."
+  },
+
+  {
+    "question": "<b>Assertion (A):</b> Chlorophyll appears green.<br><b>Reason (R):</b> It reflects green light.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True and R is the correct explanation of A",
+      "Both A and R are True but R is not the correct explanation"
+    ],
+    "answer": 2,
+    "chapter": "Photosynthesis",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Green light is reflected."
+  },   
+  {
+    "question": "The term 'hormone' was first used in 1902 by:",
+    "choices": [
+      "Skoog and Miller",
+      "F.W. Went",
+      "William Bayliss and Ernest Starling",
+      "Charles Darwin"
+    ],
+    "answer": 2,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The term 'hormone' was first used by William Bayliss and Ernest Starling in 1902[cite: 3254]."
+  },
+  {
+    "question": "Which of the following plant hormones was the first to be discovered?",
+    "choices": [
+      "Gibberellins",
+      "Auxins",
+      "Cytokinins",
+      "Abscisic Acid"
+    ],
+    "answer": 1,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Auxin is the first growth hormone discovered in plants[cite: 3262]."
+  },
+  {
+    "question": "Which is the main natural auxin found in plants?",
+    "choices": [
+      "Indole 3-acetic acid (IAA)",
+      "Gibberellic acid (GA3)",
+      "Abscisic acid (ABA)",
+      "Ethylene"
+    ],
+    "answer": 0,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "IAA (Indole 3-acetic acid) is the main natural auxin found in plants[cite: 3263]."
+  },
+  {
+    "question": "Pruning of tea plants is a common agricultural practice to ensure dense growth. Which scientific phenomenon is being artificially overcome by this practice?",
+    "choices": [
+      "Senescence",
+      "Parthenocarpy",
+      "Apical dominance",
+      "Phototropism"
+    ],
+    "answer": 2,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "By cutting apical buds (pruning), the suppression of lateral buds is lifted, overcoming apical dominance caused by auxins[cite: 3270, 3271, 3273, 3584, 3585, 3586]."
+  },
+  {
+    "question": "Which of the following hormones is antagonistic to Auxins in the context of apical dominance?",
+    "choices": [
+      "Gibberellins",
+      "Ethylene",
+      "Cytokinins",
+      "Abscisic Acid"
+    ],
+    "answer": 2,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Auxins promote the growth of apical buds and inhibit lateral buds (apical dominance) [cite: 3270], whereas Cytokinins inhibit apical dominance[cite: 3294, 3310]."
+  },
+  {
+    "question": "The development of fruits like apples and tomatoes without fertilization is called:",
+    "choices": [
+      "Parthenogenesis",
+      "Apomixis",
+      "Parthenocarpy",
+      "Senescence"
+    ],
+    "answer": 2,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Development of fruits without fertilization is called parthenocarpy and the fruits are called parthenocarpic fruits[cite: 3275]."
+  },
+  {
+    "question": "Which hormone is widely used in the brewing industry to speed up the malting process?",
+    "choices": [
+      "Auxins",
+      "Cytokinins",
+      "Gibberellic acid",
+      "Ethylene"
+    ],
+    "answer": 2,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Gibberellic acid is used to speed up the malting process in brewing industry[cite: 3285]."
+  },
+  {
+    "question": "Which hormone is uniquely known to stimulate plant growth by promoting cell division rather than just cell elongation?",
+    "choices": [
+      "Auxins",
+      "Cytokinins",
+      "Gibberellins",
+      "Ethylene"
+    ],
+    "answer": 1,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Cytokinins stimulate plant growth by cell division as against auxins and gibberellins which stimulate growth by cell elongation[cite: 3290]."
+  },
+  {
+    "question": "Which gaseous phytohormone is responsible for the sprouting of potato tubers and initiating germination in peanut seeds?",
+    "choices": [
+      "Ethylene",
+      "Ethane",
+      "Methane",
+      "Abscisic acid"
+    ],
+    "answer": 0,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Ethylene is a gas at ordinary temperature [cite: 3297] and it helps in initiating germination in peanut seeds and sprouting of potato tuber[cite: 3306, 3307]."
+  },
+  {
+    "question": "Which plant hormone is directly responsible for increasing the tolerance of plants to extreme dryness by stimulating the closure of stomata?",
+    "choices": [
+      "Cytokinins",
+      "Abscisic acid (ABA)",
+      "Gibberellins",
+      "Auxins"
+    ],
+    "answer": 1,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "ABA stimulates the closure of stomata and increases the tolerance of plants to various stresses like desiccation[cite: 3317, 3319, 3323]."
+  },
+  {
+    "question": "What is the primary reason bodily movement is not essential in plants compared to animals?",
+    "choices": [
+      "Plants have a rigid cell wall.",
+      "Plants do not have a nervous system.",
+      "Plants synthesize their own food.",
+      "Plants lack muscle tissues."
+    ],
+    "answer": 2,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Plants synthesize their own food, while animals depend on plants for their food directly or indirectly. Hence bodily movement in plants is not needed[cite: 3236, 3237, 3238]."
+  },
+  {
+    "question": "Unlike most other plant hormones, which hormone's site of synthesis and site of action are typically the same?",
+    "choices": [
+      "Auxin",
+      "Gibberellin",
+      "Cytokinin",
+      "Ethylene"
+    ],
+    "answer": 3,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "Ethylene is produced in fruits and remain in the same fruit. Therefore unlike other hormones, its site of synthesis and site of action are not different[cite: 3298, 3299]."
+  },
+  {
+    "question": "Which of the following is NOT a function of Ethylene?",
+    "choices": [
+      "Ripening of fruits",
+      "Inducing flowering in mango",
+      "Promoting root growth and root-hair formation",
+      "Enhancing longitudinal growth of internodes"
+    ],
+    "answer": 3,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Ethylene causes reduction in stem elongation [cite: 3304], while Gibberellins enhance longitudinal growth of internodes[cite: 3283]."
+  },
+  {
+    "question": "Which part of the plant shows a negatively phototropic and positively geotropic response?",
+    "choices": [
+      "Shoot apex",
+      "Leaf tendrils",
+      "Root tip",
+      "Lateral buds"
+    ],
+    "answer": 2,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Roots grow away from light (negatively phototropic) [cite: 3335, 3336] and towards gravity (positively geotropic)[cite: 3349]."
+  },
+  {
+    "question": "During phototropism, how do auxins facilitate the bending of the shoot towards the light?",
+    "choices": [
+      "By accumulating on the side facing the light and inhibiting growth.",
+      "By accumulating on the shaded side of the shoot and causing rapid cell-elongation.",
+      "By destroying cells on the illuminated side.",
+      "By migrating to the roots to increase water uptake."
+    ],
+    "answer": 1,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Auxins help in bending of a shoot towards light by getting accumulated in the region of the shoot which is not facing the light (shaded side), causing rapid cell-elongation[cite: 3339, 3340]."
+  },
+  {
+    "question": " What is the primary purpose of a Clinostat in a plant physiology laboratory?",
+    "choices": [
+      "To measure the rate of transpiration.",
+      "To demonstrate chemotropism in pollen tubes.",
+      "To demonstrate the effects of gravity on plant growth (geotropism).",
+      "To measure the intensity of light required for phototropism."
+    ],
+    "answer": 2,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Geotropism can be demonstrated in the laboratory with the help of an instrument called Clinostat[cite: 3367, 3520, 3521, 3523]."
+  },
+  {
+    "question": "In an experiment, bean seeds are placed on a wire mesh with moist sawdust directly above them. As they grow, the radicles initially grow downwards but eventually bend upwards towards the sawdust.  What does this prove?",
+    "choices": [
+      "Geotropism is a stronger stimulus than hydrotropism for roots.",
+      "Roots are negatively geotropic.",
+      "Hydrotropism is a more effective stimulus than gravity for roots.",
+      "Plumules are positively hydrotropic."
+    ],
+    "answer": 2,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "The radicles start growing upwards towards the moist sawdust (against gravity), proving that for roots, water is a more effective stimulus than gravity[cite: 3421, 3422, 3423, 3424]."
+  },
+  {
+    "question": "The movement of tentacles in Drosera towards the source of nutrition is an example of:",
+    "choices": [
+      "Thigmotropism",
+      "Chemotropism",
+      "Hydrotropism",
+      "Phototropism"
+    ],
+    "answer": 1,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The movement of tentacles in Drosera towards the source of nutrition is another chemotropic phenomenon[cite: 3433]."
+  },
+  {
+    "question": "Which of the following combinations correctly matches the plant part to its thigmotropic structure?",
+    "choices": [
+      "Sunflower - Roots",
+      "Cuscuta and vines - Tendrils",
+      "Mango - Apical buds",
+      "Drosera - Pollen tube"
+    ],
+    "answer": 1,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Plants such as sweet peas, Cuscuta and vines have tendrils which coil around other plants in response to one-sided contact (thigmotropism)[cite: 3383, 3397]."
+  },
+  {
+    "question": " Heliotropism is observed in sunflowers where the young flower heads track the sun. This movement is fundamentally driven by which hormone?",
+    "choices": [
+      "Ethylene",
+      "Abscisic Acid",
+      "Cytokinins",
+      "Auxins"
+    ],
+    "answer": 3,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Sunflowers exhibit heliotropism because the plant contains auxins which are sensitive to sunlight and migrate to the shaded region, stimulating growth[cite: 3434, 3435, 3437, 3438]."
+  },
+  {
+    "question": " The growth of a pollen tube towards the ovule is stimulated by sugars and peptones secreted by the female gametophyte. This is a classic example of:",
+    "choices": [
+      "Chemotropism",
+      "Geotropism",
+      "Thigmotropism",
+      "Hydrotropism"
+    ],
+    "answer": 0,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The movement of pollen-tube towards sugars and peptones secreted by neck canal cells of the female gametophyte is an example of chemotropism[cite: 3431]."
+  },
+  {
+    "question": "Which of the following phytohormones is known to break seed dormancy and initiate germination?",
+    "choices": [
+      "Abscisic acid only",
+      "Auxins only",
+      "Gibberellins and Cytokinins",
+      "Ethylene and Abscisic acid"
+    ],
+    "answer": 2,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Gibberellins break seed dormancy and initiate germination[cite: 3280]. Cytokinins also break seed dormancy and promote germination[cite: 3293]."
+  },
+  {
+    "question": "How do Auxins affect the growth of stem cells versus root cells?",
+    "choices": [
+      "Stem cells and root cells require the exact same concentration of auxins for elongation.",
+      "Stem cell elongation requires more auxin in comparison to roots.",
+      "Roots require significantly more auxin for elongation than stems.",
+      "Auxins inhibit cell elongation in both stems and roots."
+    ],
+    "answer": 1,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Tricky",
+    "complexity": "hard",
+    "reason": "Stem cell elongation requires more auxin in comparison to roots[cite: 3268]."
+  },
+  {
+    "question": "Who coined the term 'phytohormone' to distinguish plant hormones from animal hormones?",
+    "choices": [
+      "Skoog and Miller",
+      "R. Gane",
+      "F.W. Went",
+      "William Bayliss and Ernest Starling"
+    ],
+    "answer": 3,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The term 'hormone' was first used by William Bayliss and Ernest Starling in 1902. The term phytohormone was coined to distinguish them from animal hormones[cite: 3254]."
+  },
+  {
+    "question": "Which of the following physiological processes is primarily accelerated by Abscisic Acid?",
+    "choices": [
+      "Internode elongation",
+      "Senescence and abscission of leaves",
+      "Sprouting of potato tubers",
+      "Chlorophyll synthesis"
+    ],
+    "answer": 1,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "ABA accelerates senescence (ageing) and abscission (falling) of leaves, buds, flowers and fruits[cite: 3318]."
+  },
+  {
+    "question": "Which two hormones act in direct opposition regarding their effect on leaf senescence?",
+    "choices": [
+      "Auxins delay it, while Abscisic Acid accelerates it.",
+      "Ethylene delays it, while Cytokinins accelerate it.",
+      "Gibberellins accelerate it, while Auxins accelerate it.",
+      "Cytokinins accelerate it, while Abscisic acid delays it."
+    ],
+    "answer": 0,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "Auxins delay leaf senescence [cite: 3269, 3310], whereas Abscisic acid (and Ethylene) accelerates senescence[cite: 3304, 3318, 3320]."
+  },
+  {
+    "question": "Which of the following accurately describes the transmission of a touch stimulus in tendrils?",
+    "choices": [
+      "The stimulus is perceived by the basal parts and transmitted to the tips.",
+      "The stimulus is perceived by the tendril tips and transmitted to the basal parts.",
+      "The entire tendril perceives the stimulus simultaneously without transmission.",
+      "Tendrils only respond to chemical secretions, not physical touch."
+    ],
+    "answer": 1,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Stimulus is perceived by tendril tips and then it is transmitted to basal parts. In this way, the entire tendril becomes sensitive to the stimulus[cite: 3397, 3398]."
+  },
+  {
+    "question": "If you want to increase the commercial length of grapes and elongate apples, which plant hormone would you spray?",
+    "choices": [
+      "Abscisic Acid",
+      "Ethylene",
+      "Gibberellins",
+      "Cytokinins"
+    ],
+    "answer": 2,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Gibberellins are used commercially to increase the length of grapes, elongate apples and improve their shape[cite: 3284]."
+  },
+  {
+    "question": "Which of the following statements about Cytokinins is INCORRECT?",
+    "choices": [
+      "They promote cell division even in non-meristematic tissues.",
+      "They break seed dormancy.",
+      "They are synthesized primarily in apical buds.",
+      "They promote chlorophyll synthesis."
+    ],
+    "answer": 2,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Cytokinins are produced in root tips and transported through xylem[cite: 3288, 3310]. Auxins and gibberellins are synthesized heavily in shoot/apical buds[cite: 3310]."
+  },
+  {
+    "question": "Who discovered that a gas emanating from oranges helped in the ripening of bananas?",
+    "choices": [
+      "F.W. Went",
+      "Skoog and Miller",
+      "R. Gane",
+      "Charles Darwin"
+    ],
+    "answer": 2,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "A gas causing ripening of fruits from oranges was found to be ethylene by R. Gane[cite: 3300, 3301]."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Roots of a plant exhibit negative phototropism.<br><b>Reason (R):</b> Roots grow away from the source of light to reach the soil.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "Roots grow away from unilateral light, showing negative phototropism. The reason correctly explains the response[cite: 3335, 3336, 3461]."
+  },
+  {
+    "question": "<b>Assertion (A):</b> A potted plant horizontally attached to a slowly rotating Clinostat does not show geotropic bending.<br><b>Reason (R):</b> Rotation distributes the gravitational force equally across all parts of the shoot and root.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "Both A and R are False"
+    ],
+    "answer": 0,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "A rotating clinostat prevents bending because all parts are equally exposed to the gravitational force during rotation[cite: 3367, 3368, 3371, 3373]."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Bodily movement (locomotion) is largely absent in plants compared to animals.<br><b>Reason (R):</b> Plants synthesize their own food and do not need to move to search for nutrition.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "The difference in movement is due to different modes of nutrition. Since plants synthesize their own food, bodily movement is not needed[cite: 3236, 3237, 3238]."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Ethylene's site of synthesis and site of action are far apart within the plant body.<br><b>Reason (R):</b> Ethylene is transported exclusively through the xylem vessels.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "Both A and R are False"
+    ],
+    "answer": 3,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "Both A and R are false. Ethylene is produced in fruits and remains there; its site of synthesis and action are NOT different[cite: 3298, 3299]."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Abscisic acid (ABA) is widely known as the 'stress hormone' in plants.<br><b>Reason (R):</b> ABA stimulates the closure of stomata, increasing tolerance to desiccation and other unfavorable factors.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "ABA stimulates stomatal closure and increases tolerance to stresses, earning it the name stress hormone[cite: 3319, 3323]."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Auxins cause the shoot to bend towards the light source.<br><b>Reason (R):</b> Auxins get accumulated in the region of the shoot facing the light, causing rapid cell-elongation.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 2,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "A is true, but R is false. Auxins accumulate in the region of the shoot which is NOT facing the light (shaded region) to cause elongation[cite: 3339, 3340]."
+  },
+  {
+    "question": "<b>Assertion (A):</b> If the apical bud is removed from a vascular plant, lateral buds begin to grow rapidly.<br><b>Reason (R):</b> The removal of the apical bud eliminates the source of auxins that suppress the growth of lateral buds.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 0,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "Auxins from the apical bud suppress lateral buds (apical dominance). Removing the apical bud removes the auxins, allowing lateral growth[cite: 3270, 3271, 3272, 3273]."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Sunflowers track the movement of the sun from east to west.<br><b>Reason (R):</b> This heliotropism is due to the rapid cell division driven by Cytokinins on the sunny side of the stem.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 2,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "HOTS",
+    "complexity": "hard",
+    "reason": "A is true, but R is false. Heliotropism is driven by Auxins migrating to the shaded region to stimulate cell growth, not cytokinins on the sunny side[cite: 3434, 3435, 3437, 3438]."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The tentacles of the Drosera plant exhibit thigmotropism when searching for food.<br><b>Reason (R):</b> Drosera tentacles move towards the source of nutrition through a chemical response.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 3,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "A is false because Drosera tentacles exhibit chemotropism towards nutrition, not thigmotropism. R is true as it describes the chemotropic phenomenon[cite: 3433]."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Cytokinins stimulate plant growth by cell division.<br><b>Reason (R):</b> Auxins and Gibberellins stimulate growth primarily by cell elongation.",
+    "choices": [
+      "Both A and R are True, and R is the correct explanation of A",
+      "Both A and R are True, but R is not the correct explanation of A",
+      "A is True and R is False",
+      "A is False and R is True"
+    ],
+    "answer": 1,
+    "chapter": "Chemical Coordination in Plants",
+    "category": "HOTS",
+    "complexity": "medium",
+    "reason": "Both A and R are true statements outlining the differences in hormone mechanisms[cite: 3290]. However, R is just a comparative fact and not the reason WHY cytokinins cause cell division."
+  },
+  {
+    "question": "Which of the following scenarios best describes the state of a plant cell when its <latex>Turgor Pressure (TP)</latex> is exactly equal to its <latex>Wall Pressure (WP)</latex>?",
+    "choices": [
+      "The cell is in a state of plasmolysis.",
+      "The cell is fully turgid and no net movement of water occurs.",
+      "The cell will burst due to excessive endosmosis.",
+      "The cell is flaccid and beginning to wilt."
+    ],
+    "answer": 1,
+    "chapter": "Absorption by Roots",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "When a cell is fully turgid, the outward turgor pressure exerted by the cell contents is perfectly counterbalanced by the inward wall pressure exerted by the rigid cell wall, leading to a state of equilibrium where no further net water absorption occurs."
+  },
+  {
+    "question": "If a plant is grown in soil with an excessively high concentration of chemical fertilizers, the roots may die. This is primarily due to:",
+    "choices": [
+      "Inhibition of active transport mechanisms.",
+      "Exosmosis resulting in plasmolysis of root hair cells.",
+      "Excessive turgidity leading to the rupture of cell walls.",
+      "The toxic effect of mineral ions on the xylem vessels."
+    ],
+    "answer": 1,
+    "chapter": "Absorption by Roots",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "High fertilizer concentration makes the soil water hypertonic relative to the cell sap. This causes water to move out of the root hairs (exosmosis), leading to plasmolysis and eventual death of the cells."
+  },
+  {
+    "question": "In a girdling (ringing) experiment where a ring of bark (including phloem) is removed but the xylem remains intact, what is the most likely long-term observation?",
+    "choices": [
+      "The leaves wilt immediately because water supply is cut off.",
+      "The stem below the ring continues to grow while the top dies.",
+      "A bulge forms above the ring due to accumulated manufactured food.",
+      "The roots increase in size to compensate for the loss of bark."
+    ],
+    "answer": 2,
+    "chapter": "Absorption by Roots",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "Phloem conducts manufactured food downwards. Removing the phloem stops the downward flow of sugar, causing it to accumulate and form a bulge just above the girdle, while the roots eventually starve."
+  },
+  {
+    "question": "Which physical force is primarily responsible for the ascent of sap in tall trees like pines, which lack significant root pressure?",
+    "choices": [
+      "Imbibitional pressure",
+      "Capillary force",
+      "Transpiration pull and Cohesion",
+      "Active transport of water"
+    ],
+    "answer": 2,
+    "chapter": "Absorption by Roots",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "In tall trees, root pressure is insufficient. The main driving force is transpiration pull, which creates a suction force assisted by the cohesive properties of water molecules that maintain a continuous column."
+  },
+  {
+    "question": "The 'Sodium-Potassium Pump' in root cells is an example of active transport. This process is characterized by:",
+    "choices": [
+      "Movement of ions along the concentration gradient using kinetic energy.",
+      "Movement of ions against the concentration gradient using <latex>ATP</latex>.",
+      "Passive diffusion through a freely permeable membrane.",
+      "Movement of solvent molecules from high to low potential."
+    ],
+    "answer": 1,
+    "chapter": "Absorption by Roots",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Active transport involves the movement of substances (like mineral ions) from a region of lower concentration to a region of higher concentration, requiring metabolic energy in the form of ATP."
+  },
+  {
+    "question": "When a root hair cell absorbs water, the correct path of water through the root tissues is:",
+    "choices": [
+      "Root hair → Phloem → Cortex → Endodermis → Xylem",
+      "Root hair → Cortex → Endodermis → Pericycle → Xylem",
+      "Root hair → Epidermis → Xylem → Endodermis → Cortex",
+      "Root hair → Endodermis → Cortex → Xylem → Phloem"
+    ],
+    "answer": 1,
+    "chapter": "Absorption by Roots",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Water enters through the root hair and moves cell-to-cell through the cortex, passes the endodermis and pericycle, and finally enters the xylem vessels for upward conduction."
+  },
+  {
+    "question": "A visking bag containing <latex>20\\%</latex> sucrose solution is placed in a beaker containing <latex>5\\%</latex> sucrose solution. After one hour, the visking bag will:",
+    "choices": [
+      "Shrink due to exosmosis.",
+      "Increase in weight due to endosmosis.",
+      "Show no change as sucrose cannot pass the membrane.",
+      "Decrease in weight as sucrose diffuses into the beaker."
+    ],
+    "answer": 1,
+    "chapter": "Absorption by Roots",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "The solution in the bag is hypertonic (higher solute/lower water concentration) compared to the beaker. Water will move into the bag by osmosis, increasing its weight."
+  },
+  {
+    "question": "The phenomenon of 'Guttation' occurs through specialized structures called:",
+    "choices": [
+      "Stomata",
+      "Lenticels",
+      "Hydathodes (Vein endings)",
+      "Root hairs"
+    ],
+    "answer": 2,
+    "chapter": "Absorption by Roots",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Guttation is the loss of excessive water as droplets from the tips or margins of leaves through specialized vein endings, often due to high root pressure."
+  },
+  {
+    "question": "Why does a plant cell not burst when placed in pure water, unlike a human Red Blood Cell (RBC)?",
+    "choices": [
+      "Plant cells have a more concentrated cell sap.",
+      "The presence of a rigid cell wall exerts wall pressure to prevent bursting.",
+      "Plant cells perform active transport to pump water out.",
+      "The plasma membrane of a plant cell is impermeable to pure water."
+    ],
+    "answer": 1,
+    "chapter": "Absorption by Roots",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "While both undergo endosmosis, the rigid cellulose cell wall of the plant cell provides mechanical strength and exerts wall pressure that limits expansion, whereas the RBC lacks a wall and eventually ruptures."
+  },
+  {
+    "question": "Which of the following is a characteristic of Imbibition?",
+    "choices": [
+      "It requires a semi-permeable membrane.",
+      "It is the absorption of water by surface attraction of hydrophilic substances.",
+      "It only occurs in living cells.",
+      "It involves the movement of solute particles from high to low concentration."
+    ],
+    "answer": 1,
+    "chapter": "Absorption by Roots",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Imbibition is a passive process where water is absorbed by solid particles (like cellulose or proteins in seeds/wood) through surface attraction, and it can occur in both living and dead cells."
+  },
+  {
+    "question": "What happens to the level of mercury in a manometer connected to a cut root stump of a well-watered balsam plant?",
+    "choices": [
+      "It falls because of transpirational pull.",
+      "It rises because of root pressure.",
+      "It remains stationary as the plant is no longer intact.",
+      "It oscillates due to the opening and closing of stomata."
+    ],
+    "answer": 1,
+    "chapter": "Absorption by Roots",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Root pressure is the upward pressure developed in the roots due to cell-to-cell osmosis. In a cut stem, this pressure forces water up, which can be measured by the rise of mercury in a manometer."
+  },
+  {
+    "question": "The sweetness of 'coconut milk' is a result of:",
+    "choices": [
+      "Diffusion of sugar from the soil into the roots.",
+      "Active transport of sugar from the leaves to the fruit via phloem.",
+      "Imbibition of sugar by the coconut shell.",
+      "Osmosis of sugar from the surrounding water."
+    ],
+    "answer": 1,
+    "chapter": "Absorption by Roots",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "The sweet taste comes from manufactured sugars transported through the phloem from the leaves to the developing fruit."
+  },
+  {
+    "question": "In the evening, wilted leaves of a plant often stand erect again. This is because:",
+    "choices": [
+      "The rate of photosynthesis increases in the evening.",
+      "The rate of transpiration decreases, allowing turgidity to be restored.",
+      "Root pressure is only active at night.",
+      "Active transport of water is faster in cooler temperatures."
+    ],
+    "answer": 1,
+    "chapter": "Absorption by Roots",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "During the hot afternoon, transpiration exceeds water absorption, causing wilting. In the evening, lower transpiration allows roots to catch up, restoring cell turgidity."
+  },
+  {
+    "question": "A cell is said to be 'Flaccid' when:",
+    "choices": [
+      "The vacuole is fully distended with water.",
+      "The cell wall is stretched to its maximum limit.",
+      "The protoplasm has shrunken away from the cell wall.",
+      "The cell is placed in an isotonic solution."
+    ],
+    "answer": 2,
+    "chapter": "Absorption by Roots",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Flaccidity is the state where the cell content is shrunken and the cell is no longer tight, typically occurring during plasmolysis when water leaves the cell."
+  },
+  {
+    "question": "The aggregate length of root hairs in a four-month-old rye plant was estimated by botanist H.J. Dittmer to be approximately:",
+    "choices": [
+      "<latex>600 \\text{ km}</latex>",
+      "<latex>10,000 \\text{ km}</latex>",
+      "<latex>14 \\text{ billion km}</latex>",
+      "<latex>1,000 \\text{ m}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Absorption by Roots",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "Dittmer worked out that while the root length was <latex>600 \\text{ km}</latex>, the total length of the <latex>14 \\text{ billion}</latex> root hairs exceeded <latex>10,000 \\text{ km}</latex>."
+  },
+  {
+    "question": "In an experiment using a thistle funnel covered with cellophane, why does the sugar solution not leak into the beaker water?",
+    "choices": [
+      "Because sugar molecules are too large to pass through the cellophane pores.",
+      "Because the external pressure of the water holds the sugar in.",
+      "Because cellophane is an impermeable membrane.",
+      "Because the sugar solution is too viscous to flow."
+    ],
+    "answer": 0,
+    "chapter": "Absorption by Roots",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Cellophane acts as a semi-permeable membrane; it allows small solvent molecules (water) to pass but blocks larger solute molecules (sugar)."
+  },
+  {
+    "question": "Which of the following is NOT a purpose for which plants need water?",
+    "choices": [
+      "Raw material for photosynthesis.",
+      "Mechanical stiffness through turgidity.",
+      "Production of lipids in the root cap.",
+      "Transportation of mineral salts into the shoot."
+    ],
+    "answer": 2,
+    "chapter": "Absorption by Roots",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The four primary needs are photosynthesis, transpiration, transportation, and mechanical stiffness. Lipid production in the root cap is not a standard physiological reason listed for water uptake."
+  },
+  {
+    "question": "If you use a rubber sheet instead of cellophane in an osmosis experiment setup, the level of the sugar solution will:",
+    "choices": [
+      "Rise slowly.",
+      "Drop as sugar escapes.",
+      "Remain unchanged.",
+      "Oscillate."
+    ],
+    "answer": 2,
+    "chapter": "Absorption by Roots",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "A rubber sheet is impermeable, meaning it does not allow even water molecules to pass through, thus stopping any osmotic movement."
+  },
+  {
+    "question": "What is the primary role of the 'Pulvinus' in the sensitive plant (Mimosa pudica)?",
+    "choices": [
+      "It acts as a site for rapid photosynthesis.",
+      "It is a thickened leaf base that facilitates turgor-driven movement.",
+      "It protects the plant from fungal infections.",
+      "It serves as a storage organ for water."
+    ],
+    "answer": 1,
+    "chapter": "Absorption by Roots",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The pulvinus is the base of the petiole; the drooping of leaves occurs when cells on the lower side of the pulvinus lose turgor pressure upon being touched."
+  },
+  {
+    "question": "Deplasmolysis occurs when a plasmolysed cell is placed in:",
+    "choices": [
+      "A strong salt solution.",
+      "A hypertonic sugar solution.",
+      "Pure water or a hypotonic solution.",
+      "An isotonic solution."
+    ],
+    "answer": 2,
+    "chapter": "Absorption by Roots",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Deplasmolysis is the recovery where the protoplasm swells again after water re-enters the cell, which happens in a hypotonic environment."
+  },
+  {
+    "question": "The movement of molecules from a region of higher concentration to a region of lower concentration in direct contact is:",
+    "choices": [
+      "Osmosis",
+      "Diffusion",
+      "Active Transport",
+      "Imbibition"
+    ],
+    "answer": 1,
+    "chapter": "Absorption by Roots",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "This is the basic definition of diffusion, which occurs without the need for a separating membrane."
+  },
+  {
+    "question": "Which tissue in a root section becomes stained pink when the plant is placed in an eosin solution?",
+    "choices": [
+      "Phloem",
+      "Cortex",
+      "Xylem",
+      "Pith"
+    ],
+    "answer": 2,
+    "chapter": "Absorption by Roots",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Xylem is responsible for the upward conduction of water and dissolved minerals (including dyes like eosin), making it the tissue that shows the stain."
+  },
+  {
+    "question": "Osmotic pressure is defined as the minimum pressure required to:",
+    "choices": [
+      "Force water out of a cell.",
+      "Increase the rate of diffusion.",
+      "Prevent the passage of pure solvent into a solution.",
+      "Rupture the cell wall."
+    ],
+    "answer": 2,
+    "chapter": "Absorption by Roots",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Osmotic pressure is a measure of the tendency of a solution to take in water; it is the pressure needed to nullify osmosis."
+  },
+  {
+    "question": "The characteristic of root hairs that is MOST critical for the 'selective' nature of absorption is:",
+    "choices": [
+      "The large surface area.",
+      "The thin cellulose cell wall.",
+      "The semi-permeable plasma membrane.",
+      "The presence of a large vacuole."
+    ],
+    "answer": 2,
+    "chapter": "Absorption by Roots",
+    "category": "Conceptual",
+    "complexity": "hard",
+    "reason": "While the wall is freely permeable, the plasma membrane is semi-permeable, allowing water molecules to pass while regulating larger solute molecules."
+  },
+  {
+    "question": "Root pressure is developed due to:",
+    "choices": [
+      "Rapid evaporation from the leaves.",
+      "Capillarity in the xylem vessels.",
+      "Continued inward movement of water through cell-to-cell osmosis.",
+      "The gravitational pull on the sap."
+    ],
+    "answer": 2,
+    "chapter": "Absorption by Roots",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Root pressure is the hydrostatic pressure built up in the root tissue due to the accumulation of water absorbed via osmosis."
+  },
+  {
+    "question": "In the experiment to show that roots absorb water, why is oil added to the test tubes?",
+    "choices": [
+      "To provide nutrients to the plant.",
+      "To lubricate the roots.",
+      "To prevent water loss by evaporation from the surface.",
+      "To mimic the density of soil."
+    ],
+    "answer": 2,
+    "chapter": "Absorption by Roots",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Oil forms a layer on top of the water, ensuring that any decrease in the water level is solely due to absorption by the roots and not evaporation."
+  },
+  {
+    "question": "What is the primary difference between diffusion and osmosis?",
+    "choices": [
+      "Diffusion is slow, osmosis is fast.",
+      "Diffusion involves only gases, osmosis involves only liquids.",
+      "Osmosis requires a semi-permeable membrane, diffusion does not.",
+      "Diffusion requires energy, osmosis is passive."
+    ],
+    "answer": 2,
+    "chapter": "Absorption by Roots",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Osmosis is a specialized form of diffusion that specifically involves the movement of water through a semi-permeable membrane."
+  },
+  {
+    "question": "Which of the following would have the HIGHEST water potential?",
+    "choices": [
+      "Pure water",
+      "<latex>10\\%</latex> salt solution",
+      "Honey",
+      "<latex>50\\%</latex> sugar solution"
+    ],
+    "answer": 0,
+    "chapter": "Absorption by Roots",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Pure water has the maximum capacity to move into solutions (highest water potential) because it has no solutes to lower its concentration."
+  },
+  {
+    "question": "In a plasmolysed cell, the space between the shrunken protoplasm and the cell wall is occupied by:",
+    "choices": [
+      "Air",
+      "Pure water",
+      "The surrounding hypertonic solution",
+      "Cytoplasm"
+    ],
+    "answer": 2,
+    "chapter": "Absorption by Roots",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Because the cell wall is freely permeable, the external hypertonic solution passes through it and fills the gap created when the plasma membrane shrinks away."
+  },
+  {
+    "question": "The process of 'bleeding' in plants refers to:",
+    "choices": [
+      "Loss of water through stomata.",
+      "Loss of sap from a cut or injured part of the stem.",
+      "Infection of the vascular tissues.",
+      "Downward flow of sugar through the phloem."
+    ],
+    "answer": 1,
+    "chapter": "Absorption by Roots",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Bleeding is the exudation of cell sap from the cut end of a plant stem, primarily driven by root pressure."
+  },
+  {
+    "question": "<b>Assertion (A):</b> A plant cell placed in a hypotonic solution becomes turgid. <br><b>Reason (R):</b> Water molecules move from a region of higher concentration (outside) to lower concentration (inside) across a semi-permeable membrane.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Absorption by Roots",
+    "category": "Assertion-Reasoning",
+    "complexity": "medium",
+    "reason": "Endosmosis occurs in a hypotonic solution, leading to the distension of the vacuole and cell turgidity."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Root pressure is sufficient to push water to the top of tall trees like Redwoods. <br><b>Reason (R):</b> Root pressure is a force developed in the roots due to cell-to-cell osmosis.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Absorption by Roots",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "A is false because root pressure can only push water to a limited height (sufficient for herbaceous plants but not tall trees). R is a true description of root pressure."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Active transport requires the use of energy in the form of ATP. <br><b>Reason (R):</b> Molecules in active transport move from a region of their higher concentration to a region of their lower concentration.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "Absorption by Roots",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "A is true, but R is false because active transport involves movement against the concentration gradient (lower to higher)."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Weeds can be killed by sprinkling excessive salt around their base. <br><b>Reason (R):</b> Salt causes plasmolysis in the root cells by drawing water out through exosmosis.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Absorption by Roots",
+    "category": "Assertion-Reasoning",
+    "complexity": "medium",
+    "reason": "The salt creates a hypertonic environment, leading to water loss from the roots and death of the weed."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The cell wall is like the 'leather casing' of a football. <br><b>Reason (R):</b> The cell wall is thin, elastic, and semi-permeable.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 2,
+    "chapter": "Absorption by Roots",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "A is true (it acts as a rigid outer layer), but R is false because the cell wall is freely permeable, not semi-permeable."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Transpiration pull is a suction force. <br><b>Reason (R):</b> As water evaporates from the leaves, a vacuum is created that pulls water up from the roots.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Absorption by Roots",
+    "category": "Assertion-Reasoning",
+    "complexity": "medium",
+    "reason": "The loss of water vapor from leaf cells creates a negative pressure (suction) that pulls the water column upwards."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Imbibition is a significant force in the ascent of sap. <br><b>Reason (R):</b> Dry seeds swell and burst their coats when soaked in water due to imbibition.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 1,
+    "chapter": "Absorption by Roots",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Both statements are true facts from the text, but the behavior of seeds (R) does not explain 'why' imbibition is a force in the ascent of sap (A)."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The concentration of mineral ions is higher inside the root cells than in the soil. <br><b>Reason (R):</b> This high internal concentration is maintained by active transport to facilitate osmosis.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 0,
+    "chapter": "Absorption by Roots",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Plants use energy to keep a high solute concentration in roots, which lowers the water potential and drives water uptake from the soil via osmosis."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Diffusion is a rapid process in liquids. <br><b>Reason (R):</b> Stirring a solution with a glass rod hastens the process of uniform distribution.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 3,
+    "chapter": "Absorption by Roots",
+    "category": "Assertion-Reasoning",
+    "complexity": "medium",
+    "reason": "A is false because diffusion is rapid in gases but slow in liquids. R is true."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Xylem is located deeper in the stem than phloem. <br><b>Reason (R):</b> In the girdling experiment, the leaves remain fresh if only the outer ring of bark is removed.",
+    "choices": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": 1,
+    "chapter": "Absorption by Roots",
+    "category": "Assertion-Reasoning",
+    "complexity": "hard",
+    "reason": "Both are true, but the freshness of leaves (which proves xylem is intact) is an observation that 'confirms' the location rather than 'explaining the reason' why it is situated deeper."
+  }
+ 
+]

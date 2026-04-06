@@ -1,0 +1,828 @@
+[
+	{
+    "question": "Which of the following is considered the 'structural and functional unit' of all living organisms?",
+    "choices": [
+      "Organ",
+      "Tissue",
+      "Cell",
+      "Protoplasm"
+    ],
+    "answer": 2,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The cell is the basic structural and functional unit of the body, and all living beings are made up of cells."
+  },
+  {
+    "question": "The cell wall in plant cells is primarily composed of:",
+    "choices": [
+      "Lipoproteins",
+      "Cellulose",
+      "Glycogen",
+      "Chitin"
+    ],
+    "answer": 1,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The cell wall is a non-living rigid layer in plant cells mainly composed of cellulose."
+  },
+  {
+    "question": "Which cell organelle is known as the 'suicide bag' of the cell?",
+    "choices": [
+      "Mitochondria",
+      "Ribosomes",
+      "Lysosomes",
+      "Golgi apparatus"
+    ],
+    "answer": 2,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Lysosomes contain enzymes that destroy organelles when the cell is old or injured, earning them the name 'suicide bags'."
+  },
+  {
+    "question": "Observe the image of the cell organelle below. What is its primary function? <br><img src=\"questions/images/X-ICSE-Biology/Ch1_cells_mitochondria.jpg\" alt=\"Cells_1 image\" style=\"max-width:280px\" /",
+    "choices": [
+      "Protein synthesis",
+      "Release of energy in the form of ATP",
+      "Intracellular digestion",
+      "Synthesis of fats"
+    ],
+    "answer": 1,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Mitochondria are the seat of cellular aerobic respiration where energy is released from pyruvic acid in the form of ATP."
+  },
+  {
+    "question": "Identify the 'master' or 'key performer' that regulates all cell functions:",
+    "choices": [
+      "Chloroplast",
+      "Nucleus",
+      "Nucleolus",
+      "Centrosome"
+    ],
+    "answer": 1,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The nucleus is the master of each cell; it regulates cell functions, and if it is removed, the cell dies."
+  },
+  {
+    "question": "<b>Assertion (A):</b> The cell membrane is called selectively permeable.<br><b>Reason (R):</b> It allows only certain substances to pass through while preventing others.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are False"
+    ],
+    "answer": 2,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "The cell membrane is semi-permeable (selectively permeable) because it regulates the entry of certain solutes and ions."
+  },
+  {
+    "question": "Which of the following is found exclusively in animal cells?",
+    "choices": [
+      "Plastids",
+      "Cell wall",
+      "Centrosome",
+      "Large vacuoles"
+    ],
+    "answer": 2,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Centrosomes with centrioles are present in animal cells only, whereas cell walls and plastids are unique to plant cells."
+  },
+  {
+    "question": "The network of dark-coloured fibres inside the nucleus that condenses into chromosomes is called:",
+    "choices": [
+      "Nucleoplasm",
+      "Chromatin fibres",
+      "Cisternae",
+      "Cytosol"
+    ],
+    "answer": 1,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Chromatin fibres are a thread-like network in the nucleus that condenses into chromosomes during cell division."
+  },
+  {
+    "question": "Identify the bean-shaped cells shown in the image that regulate the opening and closing of stomata:<br><img src=\"questions/images/X-ICSE-Biology/ch1_cells_stoma.jpg\" alt=\"Stomata with Guard Cells\" style=\"max-width:280px; height:auto;\" />",
+    "choices": [
+      "Nerve cells",
+      "Red blood cells",
+      "Guard cells",
+      "Epidermal cells"
+    ],
+    "answer": 2,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Guard cells of stomatal pores in leaves are bean-shaped to open and close them."
+  },
+  {
+    "question": "What is the function of the Nucleolus?",
+    "choices": [
+      "Produces ribosomes",
+      "Produces ATP",
+      "Initiates cell division",
+      "Stores starch"
+    ],
+    "answer": 0,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The nucleolus produces ribosomes and participates in protein synthesis by forming and storing RNA."
+  },
+  {
+    "question": "Which organelle serves as the 'supportive framework' for the cell and is involved in protein synthesis when ribosomes are attached?",
+    "choices": [
+      "Golgi apparatus",
+      "Endoplasmic Reticulum",
+      "Lysosomes",
+      "Vacuoles"
+    ],
+    "answer": 1,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The Endoplasmic Reticulum (ER) provides a supportive framework and synthesizes/transports proteins and fats."
+  },
+  {
+    "question": "Human red blood cells (RBCs) have a biconcave shape primarily to:",
+    "choices": [
+      "Attack bacteria",
+      "Carry out photosynthesis",
+      "Pass easily through capillaries and transport oxygen",
+      "Divide rapidly"
+    ],
+    "answer": 2,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "The biconcave shape of human RBCs allows for easy passage through narrow blood capillaries and efficient oxygen transport."
+  },
+  {
+    "question": "Match the following types of plastids with their characteristics: (i) Chloroplast, (ii) Chromoplast, (iii) Leucoplast.",
+    "choices": [
+      "(i) Green, (ii) Variously coloured, (iii) Colourless",
+      "(i) Colourless, (ii) Green, (iii) Variously coloured",
+      "(i) Variously coloured, (ii) Colourless, (iii) Green",
+      "(i) Green, (ii) Colourless, (iii) Variously coloured"
+    ],
+    "answer": 0,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Chloroplasts contain chlorophyll (green), Leucoplasts are colourless, and Chromoplasts are variously coloured."
+  },
+  {
+    "question": "The thin covering of a vacuole is known as the:",
+    "choices": [
+      "Cell membrane",
+      "Tonoplast",
+      "Nuclear membrane",
+      "Cytosol"
+    ],
+    "answer": 1,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Vacuoles are covered by a membrane called the tonoplast."
+  },
+  {
+    "question": "Which of these is a non-living cell inclusion?",
+    "choices": [
+      "Mitochondria",
+      "Granules",
+      "Nucleus",
+      "Ribosomes"
+    ],
+    "answer": 1,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Vacuoles and granules are considered non-living cell inclusions."
+  },
+  {
+    "question": "In plant cells, Golgi bodies are often referred to as:",
+    "choices": [
+      "Centrosomes",
+      "Dictyosomes",
+      "Astrosomes",
+      "Cisternae"
+    ],
+    "answer": 1,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "In plant cells, the Golgi apparatus is known as dictyosomes."
+  },
+  {
+    "question": "Protoplasm is composed of which two major parts?",
+    "choices": [
+      "Cell wall and Cell membrane",
+      "Cytoplasm and Nucleus",
+      "Mitochondria and Ribosomes",
+      "Vacuoles and Granules"
+    ],
+    "answer": 1,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Cytoplasm and nucleus together constitute the protoplasm."
+  },
+  {
+    "question": "What happens during Glycolysis in the cytoplasm?",
+    "choices": [
+      "Synthesis of glucose",
+      "Initial steps of respiration to produce pyruvic acid",
+      "Formation of spindle fibres",
+      "Digestion of food"
+    ],
+    "answer": 1,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "The cytoplasm is the medium for initial steps of respiration (glycolysis), resulting in the production of pyruvic acid."
+  },
+  {
+    "question": "Observe the image below. Identify the longest cell in the human body:<br><img src=\"questions/images/X-ICSE-Biology/ch1_cells_nervecell.jpg\" alt=\"Neuron structure\" style=\"max-width:280px; height:auto;\" />",
+    "choices": [
+      "Red blood cell",
+      "Sperm cell",
+      "Nerve cell (Neuron)",
+      "Muscle cell"
+    ],
+    "answer": 2,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Nerve cells are the longest cells in the body, designed to conduct impulses."
+  },
+  {
+    "question": "<b>Assertion (A):</b> Plant cells have a large central vacuole.<br><b>Reason (R):</b> The vacuole provides turgidity to the plant cell by pressing against the cell wall.",
+    "choices": [
+      "A is True and R is False",
+      "A is False and R is True",
+      "Both A and R are True",
+      "Both A and R are False"
+    ],
+    "answer": 2,
+    "chapter": "Cell - The Structural and Functional Unit of Life",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Plant cells have large vacuoles that store substances and provide turgidity by pressing against the cell wall."
+  },
+  {
+    "question": "The nucleus was first discovered by:",
+    "choices": ["Robert Hooke", "Robert Brown", "Schleiden", "Virchow"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Robert Brown discovered the nucleus in 1831."
+  },
+  {
+    "question": "The control center of the cell is:",
+    "choices": ["Mitochondria", "Nucleus", "Ribosome", "Golgi body"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The nucleus controls all cellular activities."
+  },
+  {
+    "question": "The nuclear membrane is also called:",
+    "choices": ["Tonoplast", "Plasma membrane", "Nuclear envelope", "Cell wall"],
+    "answer": 2,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The nucleus is enclosed by a double membrane called nuclear envelope."
+  },
+  {
+    "question": "The fluid inside the nucleus is called:",
+    "choices": ["Cytoplasm", "Nucleoplasm", "Protoplasm", "Matrix"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Nucleoplasm is the semi-fluid substance inside the nucleus."
+  },
+  {
+    "question": "Chromatin fibers are made up of:",
+    "choices": ["RNA and protein", "DNA and protein", "Lipids and DNA", "Carbohydrates"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Chromatin consists of DNA and proteins."
+  },
+  {
+    "question": "Chromosomes become visible during:",
+    "choices": ["Interphase", "Cell division", "Photosynthesis", "Respiration"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Chromatin condenses into chromosomes during cell division."
+  },
+  {
+    "question": "The functional unit of heredity is:",
+    "choices": ["Chromosome", "Gene", "DNA", "Nucleus"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Genes carry hereditary information."
+  },
+   {
+    "question": "Genes are located on:",
+    "choices": ["Ribosomes", "Chromosomes", "Mitochondria", "Cell wall"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Genes are segments of DNA present on chromosomes."
+  },
+  {
+    "question": "The structure that produces ribosomes is:",
+    "choices": ["Nucleus", "Nucleolus", "Golgi body", "Centrosome"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Nucleolus synthesizes ribosomes."
+  },
+  {
+    "question": "Human somatic cells contain how many chromosomes?",
+    "choices": ["23", "46", "44", "48"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Human cells contain 46 chromosomes (23 pairs)."
+  },
+  {
+    "question": "Chromosomes are composed of:",
+    "choices": ["RNA only", "DNA and proteins", "Proteins only", "Lipids"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Chromosomes consist of DNA wrapped around proteins."
+  },
+  {
+    "question": "The point where chromatids are attached is called:",
+    "choices": ["Centrosome", "Centromere", "Spindle", "Axon"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Centromere holds sister chromatids together."
+  },
+  {
+    "question": "Each chromosome consists of:",
+    "choices": ["One chromatid", "Two chromatids", "Three chromatids", "Four chromatids"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "A replicated chromosome has two chromatids."
+  },
+  {
+    "question": "Chromosomes carry:",
+    "choices": ["Water", "Minerals", "Genetic information", "Food"],
+    "answer": 2,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Chromosomes carry genes responsible for heredity."
+  },
+  {
+    "question": "The thread-like structures in nucleus are:",
+    "choices": ["Chromosomes", "Chromatin fibers", "Genes", "Centrioles"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Chromatin fibers form chromosomes."
+  },
+  {
+    "question": "The nucleolus disappears during:",
+    "choices": ["Interphase", "Cell division", "Respiration", "Photosynthesis"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Nucleolus disappears during division."
+  },
+  {
+    "question": "Chromosomes are best seen during:",
+    "choices": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Chromosomes are most condensed in metaphase."
+  },
+  {
+    "question": "The shape of chromosome depends on:",
+    "choices": ["Gene", "Centromere position", "DNA", "Protein"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Centromere position determines shape."
+  },
+  {
+    "question": "Chromosomes replicate during:",
+    "choices": ["G1 phase", "S phase", "G2 phase", "M phase"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "DNA replication occurs in S phase."
+  },
+  {
+    "question": "Genes control:",
+    "choices": ["Respiration", "Growth", "Heredity", "Movement"],
+    "answer": 2,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Genes determine hereditary traits."
+  },
+
+  {
+    "question": "The basic unit of chromosome is:",
+    "choices": ["Gene", "DNA", "Protein", "RNA"],
+    "answer": 0,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Genes are functional units present on chromosomes."
+  },
+  {
+    "question": "Sex chromosomes determine:",
+    "choices": ["Height", "Gender", "Weight", "Color"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Sex chromosomes determine gender."
+  },
+  {
+    "question": "Autosomes are:",
+    "choices": ["Sex chromosomes", "Non-sex chromosomes", "Genes", "Proteins"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Autosomes are all chromosomes except sex chromosomes."
+  },
+  {
+    "question": "DNA stands for:",
+    "choices": ["Deoxyribonucleic Acid", "Ribonucleic Acid", "Dinitrogen Acid", "Double Acid"],
+    "answer": 0,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "DNA is the hereditary material."
+  },
+  {
+    "question": "Chromosomes are found in:",
+    "choices": ["Cytoplasm", "Nucleus", "Cell wall", "Membrane"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Chromosomes are present in the nucleus."
+  },
+  {
+    "question": "The number of chromosomes is constant for:",
+    "choices": ["Species", "Individuals", "Cells", "Organs"],
+    "answer": 0,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Chromosome number is constant within a species."
+  },
+  {
+    "question": "Chromosome duplication ensures:",
+    "choices": ["Growth", "Repair", "Genetic continuity", "Respiration"],
+    "answer": 2,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Ensures equal distribution of genetic material."
+  },
+  {
+    "question": "Each chromatid contains:",
+    "choices": ["Protein", "DNA molecule", "RNA", "Lipid"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Each chromatid has one DNA molecule."
+  },
+  {
+    "question": "Chromosomes appear like rods during:",
+    "choices": ["Interphase", "Division", "Respiration", "Growth"],
+    "answer": 1,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Chromosomes condense during division."
+  },
+  {
+    "question": "The study of chromosomes is called:",
+    "choices": ["Genetics", "Cytology", "Karyology", "Biology"],
+    "answer": 2,
+    "chapter": "Structure of Cell and Chromosome",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Karyology deals with chromosome study."
+  },
+  {
+    "question": "In a monohybrid cross (Tt × Tt), what is the probability of obtaining a homozygous recessive offspring?",
+    "choices": ["1/2", "1/4", "3/4", "1/8"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Genotypic ratio is 1:2:1, so recessive homozygous = 1/4."
+  },
+  {
+    "question": "A cross between two heterozygous individuals results in which phenotypic ratio?",
+    "choices": ["1:1", "3:1", "1:2:1", "9:3:3:1"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Typical monohybrid cross gives 3:1 phenotypic ratio."
+  },
+  {
+    "question": "Incomplete dominance results in:",
+    "choices": ["Dominant phenotype only", "Recessive phenotype only", "Blended phenotype", "No phenotype"],
+    "answer": 2,
+    "chapter": "Genetics",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Neither allele is completely dominant."
+  },
+  {
+    "question": "In a dihybrid cross, the phenotypic ratio observed is:",
+    "choices": ["3:1", "1:2:1", "9:3:3:1", "1:1"],
+    "answer": 2,
+    "chapter": "Genetics",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Classic Mendelian dihybrid ratio."
+  },
+  {
+    "question": "Law of segregation is based on:",
+    "choices": ["Independent assortment", "Separation of alleles", "Linkage", "Mutation"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Alleles separate during gamete formation."
+  },
+
+  {
+    "question": "If a tall plant (TT) is crossed with a dwarf plant (tt), the F1 generation will be:",
+    "choices": ["All tall", "All dwarf", "50% tall", "Mixed"],
+    "answer": 0,
+    "chapter": "Genetics",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "All offspring are heterozygous tall (Tt)."
+  },
+  {
+    "question": "Test cross is used to determine:",
+    "choices": ["Genotype", "Phenotype", "Dominance", "Mutation"],
+    "answer": 0,
+    "chapter": "Genetics",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Cross with recessive reveals genotype."
+  },
+  {
+    "question": "If a heterozygous individual is test-crossed, the expected ratio is:",
+    "choices": ["3:1", "1:1", "9:3:3:1", "1:2:1"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Tt × tt gives 1:1 ratio."
+  },
+  {
+    "question": "Which of the following violates Mendel’s law of independent assortment?",
+    "choices": ["Linkage", "Segregation", "Mutation", "Dominance"],
+    "answer": 0,
+    "chapter": "Genetics",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "Linked genes do not assort independently."
+  },
+  {
+    "question": "Crossing over occurs during:",
+    "choices": ["Prophase I", "Metaphase I", "Anaphase I", "Telophase"],
+    "answer": 0,
+    "chapter": "Genetics",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Occurs in prophase I of meiosis."
+  },
+
+  {
+    "question": "The frequency of recombination is directly proportional to:",
+    "choices": ["Gene dominance", "Distance between genes", "Mutation rate", "Chromosome number"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "Greater distance increases crossing over chances."
+  },
+  {
+    "question": "A cross producing 9:7 ratio indicates:",
+    "choices": ["Codominance", "Epistasis", "Incomplete dominance", "Linkage"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "Typical complementary gene interaction."
+  },
+  {
+    "question": "If both alleles express equally, it is called:",
+    "choices": ["Dominance", "Incomplete dominance", "Codominance", "Epistasis"],
+    "answer": 2,
+    "chapter": "Genetics",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Both alleles are expressed equally."
+  },
+  {
+    "question": "Blood group AB represents:",
+    "choices": ["Dominance", "Recessiveness", "Codominance", "Mutation"],
+    "answer": 2,
+    "chapter": "Genetics",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "A and B alleles both expressed."
+  },
+  {
+    "question": "A mutation is defined as:",
+    "choices": ["Change in phenotype", "Change in genotype", "Change in DNA sequence", "Change in cell"],
+    "answer": 2,
+    "chapter": "Genetics",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Mutation is alteration in DNA sequence."
+  },
+
+  {
+    "question": "Sex-linked traits are carried on:",
+    "choices": ["Autosomes", "X chromosome", "Y chromosome only", "Mitochondria"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Most sex-linked traits are X-linked."
+  },
+  {
+    "question": "Color blindness is:",
+    "choices": ["Autosomal", "Sex-linked recessive", "Dominant", "Codominant"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "It is X-linked recessive."
+  },
+  {
+    "question": "Pedigree analysis helps in:",
+    "choices": ["Mutation study", "Inheritance pattern study", "Cell division", "Protein synthesis"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Used to trace inheritance."
+  },
+  {
+    "question": "Homozygous condition means:",
+    "choices": ["Different alleles", "Identical alleles", "No alleles", "Mutated alleles"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Same alleles present."
+  },
+  {
+    "question": "Heterozygous condition means:",
+    "choices": ["Same alleles", "Different alleles", "No genes", "Multiple genes"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Two different alleles."
+  },
+
+  {
+    "question": "Which genotype produces recessive phenotype?",
+    "choices": ["TT", "Tt", "tt", "All"],
+    "answer": 2,
+    "chapter": "Genetics",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Recessive appears only in homozygous condition."
+  },
+  {
+    "question": "A cross between AaBb × AaBb results in how many genotypes?",
+    "choices": ["4", "9", "16", "8"],
+    "answer": 2,
+    "chapter": "Genetics",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "16 genotype combinations possible."
+  },
+  {
+    "question": "Independent assortment occurs during:",
+    "choices": ["Meiosis I", "Mitosis", "Replication", "Translation"],
+    "answer": 0,
+    "chapter": "Genetics",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Occurs in meiosis I."
+  },
+  {
+    "question": "Alleles are:",
+    "choices": ["Genes on different chromosomes", "Different forms of a gene", "Proteins", "Chromosomes"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Alleles are variants of genes."
+  },
+  {
+    "question": "Genotype refers to:",
+    "choices": ["Physical trait", "Genetic makeup", "Cell structure", "Protein"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Genotype is genetic constitution."
+  },
+
+  {
+    "question": "Phenotype refers to:",
+    "choices": ["Genetic code", "Observable trait", "DNA sequence", "Mutation"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Conceptual",
+    "complexity": "low",
+    "reason": "Phenotype is expressed trait."
+  },
+  {
+    "question": "Linkage results in:",
+    "choices": ["Independent assortment", "Reduced recombination", "Mutation", "Dominance"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "Linked genes inherited together."
+  },
+  {
+    "question": "Which cross produces uniform offspring?",
+    "choices": ["Monohybrid", "Test cross", "Pure line cross", "Back cross"],
+    "answer": 2,
+    "chapter": "Genetics",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "Pure lines produce uniform offspring."
+  },
+  {
+    "question": "Epistasis refers to:",
+    "choices": ["Gene mutation", "Gene masking another gene", "Allele separation", "DNA replication"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "One gene masks expression of another."
+  },
+  {
+    "question": "Which condition leads to variation?",
+    "choices": ["Mitosis", "Crossing over", "Replication", "Translation"],
+    "answer": 1,
+    "chapter": "Genetics",
+    "category": "Conceptual",
+    "complexity": "medium",
+    "reason": "Crossing over increases variation."
+  }
+]
