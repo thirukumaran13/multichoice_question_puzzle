@@ -5541,7 +5541,7 @@
   {
     "type": "MCQ",
     "question": "According to the Remainder Theorem, if a polynomial <latex>f(x)</latex> is divided by <latex>(x - a)</latex>, the remainder is:",
-    "options": [
+    "choices": [
       "<latex>f(-a)</latex>",
       "<latex>f(a)</latex>",
       "<latex>f(0)</latex>",
@@ -5556,7 +5556,7 @@
   {
     "type": "MCQ",
     "question": "Find the remainder when <latex>x^2 - 5x + 8</latex> is divided by <latex>x - 3</latex>.",
-    "options": [
+    "choices": [
       "<latex>2</latex>",
       "<latex>3</latex>",
       "<latex>8</latex>",
@@ -5571,7 +5571,7 @@
   {
     "type": "MCQ",
     "question": "If <latex>(x - 2)</latex> is a factor of <latex>x^3 - 3x^2 + kx - 10</latex>, find the value of <latex>k</latex>.",
-    "options": [
+    "choices": [
       "<latex>7</latex>",
       "<latex>-7</latex>",
       "<latex>5</latex>",
@@ -5586,7 +5586,7 @@
   {
     "type": "MCQ",
     "question": "Find the remainder when <latex>2x^3 - 3x^2 + 4x + 7</latex> is divided by <latex>x + 2</latex>.",
-    "options": [
+    "choices": [
       "<latex>-29</latex>",
       "<latex>-1</latex>",
       "<latex>31</latex>",
@@ -5601,7 +5601,7 @@
   {
     "type": "MCQ",
     "question": "If <latex>f(x) = ax^3 + 9x^2 + 4x - 10</latex> is divided by <latex>x + 3</latex>, the remainder is 5. Find <latex>a</latex>.",
-    "options": [
+    "choices": [
       "<latex>3</latex>",
       "<latex>2</latex>",
       "<latex>-2</latex>",
@@ -5616,7 +5616,7 @@
   {
     "type": "MCQ",
     "question": "Determine if <latex>(2x + 1)</latex> is a factor of <latex>2x^2 + 5x + 2</latex>.",
-    "options": [
+    "choices": [
       "Yes, it is a factor",
       "No, it is not a factor",
       "Cannot be determined",
@@ -5631,7 +5631,7 @@
   {
     "type": "MCQ",
     "question": "The polynomials <latex>x^3 + 2x^2 - 5ax - 7</latex> and <latex>x^3 + ax^2 - 12x + 6</latex> leave the same remainder when divided by <latex>x - 1</latex>. Find <latex>a</latex>.",
-    "options": [
+    "choices": [
       "<latex>1</latex>",
       "<latex>2</latex>",
       "<latex>0</latex>",
@@ -5646,7 +5646,7 @@
   {
     "type": "MCQ",
     "question": "Complete the factorization: <latex>x^3 - 2x^2 - x + 2</latex>.",
-    "options": [
+    "choices": [
       "<latex>(x-1)(x+1)(x-2)</latex>",
       "<latex>(x-1)(x-1)(x+2)</latex>",
       "<latex>(x+1)(x+1)(x-2)</latex>",
@@ -5661,7 +5661,7 @@
   {
     "type": "MCQ",
     "question": "If <latex>x - 1</latex> is a factor of <latex>kx^2 - \\sqrt{2}x + 1</latex>, then <latex>k</latex> is:",
-    "options": [
+    "choices": [
       "<latex>\\sqrt{2} - 1</latex>",
       "<latex>\\sqrt{2} + 1</latex>",
       "<latex>1 - \\sqrt{2}</latex>",
@@ -5676,7 +5676,7 @@
   {
     "type": "MCQ",
     "question": "What must be subtracted from <latex>x^3 - 3x^2 + 5x - 10</latex> so that the result is exactly divisible by <latex>x - 2</latex>?",
-    "options": [
+    "choices": [
       "<latex>-4</latex>",
       "<latex>4</latex>",
       "<latex>2</latex>",
@@ -5691,7 +5691,7 @@
   {
     "type": "MCQ",
     "question": "What must be added to <latex>x^3 - 6x^2 + 11x - 8</latex> to make it divisible by <latex>x - 3</latex>?",
-    "options": [
+    "choices": [
       "<latex>2</latex>",
       "<latex>-2</latex>",
       "<latex>8</latex>",
@@ -5706,7 +5706,7 @@
   {
     "type": "MCQ",
     "question": "Factorize completely: <latex>x^3 + 6x^2 + 11x + 6</latex>.",
-    "options": [
+    "choices": [
       "<latex>(x+1)(x+2)(x+3)</latex>",
       "<latex>(x-1)(x-2)(x-3)</latex>",
       "<latex>(x+1)(x-2)(x+3)</latex>",
@@ -5721,7 +5721,7 @@
   {
     "type": "MCQ",
     "question": "If <latex>x - a</latex> is a common factor of <latex>x^2 + px + q</latex> and <latex>x^2 + mx + n</latex>, then <latex>a</latex> is equal to:",
-    "options": [
+    "choices": [
       "<latex>\\frac{n-q}{p-m}</latex>",
       "<latex>\\frac{q-n}{p-m}</latex>",
       "<latex>\\frac{p-m}{n-q}</latex>",
@@ -5736,7 +5736,7 @@
   {
     "type": "MCQ",
     "question": "The remainder when <latex>x^4 - y^4</latex> is divided by <latex>x - y</latex> is:",
-    "options": [
+    "choices": [
       "<latex>2y^4</latex>",
       "<latex>0</latex>",
       "<latex>x^4</latex>",
@@ -5751,7 +5751,7 @@
   {
     "type": "MCQ",
     "question": "If <latex>x+1</latex> and <latex>x-2</latex> are factors of <latex>x^3 + ax^2 + bx - 6</latex>, find <latex>a</latex> and <latex>b</latex>.",
-    "options": [
+    "choices": [
       "<latex>a=2, b=-5</latex>",
       "<latex>a=5, b=-2</latex>",
       "<latex>a=2, b=5</latex>",
@@ -5766,7 +5766,7 @@
   {
     "type": "MCQ",
     "question": "Factorize completely: <latex>2x^3 - 9x^2 + 7x + 6</latex>.",
-    "options": [
+    "choices": [
       "<latex>(x-2)(x-3)(2x+1)</latex>",
       "<latex>(x-2)(x+3)(2x-1)</latex>",
       "<latex>(x+2)(x-3)(2x-1)</latex>",
@@ -5781,7 +5781,7 @@
   {
     "type": "MCQ",
     "question": "If <latex>(x - 1)</latex> divides <latex>ax^3 + bx^2 + cx + d</latex> exactly, then:",
-    "options": [
+    "choices": [
       "<latex>a+b+c+d = 0</latex>",
       "<latex>a+c = b+d</latex>",
       "<latex>a+b = c+d</latex>",
@@ -5796,7 +5796,7 @@
   {
     "type": "MCQ",
     "question": "Find the remainder when <latex>f(x) = x^3 - ax^2 + 6x - a</latex> is divided by <latex>x - a</latex>.",
-    "options": [
+    "choices": [
       "<latex>a</latex>",
       "<latex>5a</latex>",
       "<latex>0</latex>",
@@ -5811,7 +5811,7 @@
   {
     "type": "MCQ",
     "question": "Which of the following is a factor of <latex>x^n + a^n</latex> when <latex>n</latex> is an odd integer?",
-    "options": [
+    "choices": [
       "<latex>x - a</latex>",
       "<latex>x + a</latex>",
       "<latex>x^2 - a^2</latex>",
@@ -5826,7 +5826,7 @@
   {
     "type": "MCQ",
     "question": "If <latex>x^2 - 1</latex> is a factor of <latex>ax^4 + bx^3 + cx^2 + dx + e</latex>, then:",
-    "options": [
+    "choices": [
       "<latex>a+c+e = b+d = 0</latex>",
       "<latex>a+b+c+d+e = 0</latex>",
       "<latex>a+c+e = b+d</latex>",
@@ -5841,7 +5841,7 @@
   {
     "type": "MCQ",
     "question": "Find the values of <latex>m</latex> and <latex>n</latex> if <latex>x-1</latex> and <latex>x+2</latex> are factors of <latex>x^3 + (m+1)x^2 + (n-1)x - 10</latex>.",
-    "options": [
+    "choices": [
       "<latex>m=3, n=6</latex>",
       "<latex>m=4, n=5</latex>",
       "<latex>m=3, n=-6</latex>",
@@ -5856,7 +5856,7 @@
   {
     "type": "MCQ",
     "question": "The remainder when <latex>x^3 + 3x^2 + 3x + 1</latex> is divided by <latex>x + 1</latex> is:",
-    "options": [
+    "choices": [
       "<latex>1</latex>",
       "<latex>0</latex>",
       "<latex>-1</latex>",
@@ -5871,7 +5871,7 @@
   {
     "type": "MCQ",
     "question": "Using the Factor Theorem, factorize <latex>x^3 - 7x + 6</latex>.",
-    "options": [
+    "choices": [
       "<latex>(x-1)(x-2)(x+3)</latex>",
       "<latex>(x+1)(x+2)(x-3)</latex>",
       "<latex>(x-1)(x+2)(x-3)</latex>",
@@ -5886,7 +5886,7 @@
   {
     "type": "MCQ",
     "question": "If <latex>f(x) = x^2 - x - 6</latex>, then which of the following is a factor?",
-    "options": [
+    "choices": [
       "<latex>x - 2</latex>",
       "<latex>x + 3</latex>",
       "<latex>x - 3</latex>",
@@ -5901,7 +5901,7 @@
   {
     "type": "MCQ",
     "question": "A factor of <latex>x^3 - 6x^2 + 11x - 6</latex> is:",
-    "options": [
+    "choices": [
       "<latex>x - 1</latex>",
       "<latex>x + 1</latex>",
       "<latex>x + 2</latex>",
@@ -5916,7 +5916,7 @@
   {
     "type": "MCQ",
     "question": "The remainder when <latex>x^3 - 2x^2 + x + 1</latex> is divided by <latex>x - 1</latex> is:",
-    "options": [
+    "choices": [
       "<latex>0</latex>",
       "<latex>1</latex>",
       "<latex>2</latex>",
@@ -5931,7 +5931,7 @@
   {
     "type": "MCQ",
     "question": "Find <latex>k</latex> such that <latex>x-2</latex> is a factor of <latex>x^4 - 2x^3 + 3x^2 - kx + 4</latex>.",
-    "options": [
+    "choices": [
       "<latex>8</latex>",
       "<latex>6</latex>",
       "<latex>4</latex>",
@@ -5946,7 +5946,7 @@
   {
     "type": "MCQ",
     "question": "If <latex>x-3</latex> is a factor of <latex>x^2 - (k+1)x + 12</latex>, find <latex>k</latex>.",
-    "options": [
+    "choices": [
       "<latex>6</latex>",
       "<latex>7</latex>",
       "<latex>8</latex>",
@@ -5961,7 +5961,7 @@
   {
     "type": "MCQ",
     "question": "The constant term in the polynomial <latex>f(x) = (x-1)(x-2)(x-3)</latex> is:",
-    "options": [
+    "choices": [
       "<latex>-6</latex>",
       "<latex>6</latex>",
       "<latex>1</latex>",
@@ -5976,7 +5976,7 @@
   {
     "type": "MCQ",
     "question": "If <latex>x^2 - x - 2</latex> is a factor of <latex>x^3 + ax^2 + bx + c</latex>, how many linear factors does the cubic polynomial have?",
-    "options": [
+    "choices": [
       "<latex>1</latex>",
       "<latex>2</latex>",
       "<latex>3</latex>",
@@ -5991,7 +5991,7 @@
   {
     "type": "MCQ",
     "question": "Assertion (A): <latex>(x - 1)</latex> is a factor of <latex>x^3 - 1</latex>. Reason (R): If <latex>f(a) = 0</latex>, then <latex>x - a</latex> is a factor of <latex>f(x)</latex>.",
-    "options": [
+    "choices": [
       "Both A and R are true and R is the correct explanation of A",
       "Both A and R are true but R is not the correct explanation of A",
       "A is true but R is false",
@@ -6006,7 +6006,7 @@
   {
     "type": "MCQ",
     "question": "Assertion (A): The remainder of <latex>x^2 + 1</latex> divided by <latex>x - 1</latex> is 2. Reason (R): The Remainder Theorem applies only to polynomials of degree 3 or more.",
-    "options": [
+    "choices": [
       "Both A and R are true",
       "A is true, R is false",
       "A is false, R is true",
@@ -6021,7 +6021,7 @@
   {
     "type": "MCQ",
     "question": "Find <latex>a</latex> if <latex>x-a</latex> is a factor of <latex>x^3 - ax^2 + x + 2</latex>.",
-    "options": [
+    "choices": [
       "<latex>a = -2</latex>",
       "<latex>a = 2</latex>",
       "<latex>a = 0</latex>",
@@ -6036,7 +6036,7 @@
   {
     "type": "MCQ",
     "question": "If <latex>x+2</latex> is a factor of <latex>x^3 + 2x^2 - px + 10</latex>, find <latex>p</latex>.",
-    "options": [
+    "choices": [
       "<latex>5</latex>",
       "<latex>-5</latex>",
       "<latex>10</latex>",
@@ -6051,7 +6051,7 @@
   {
     "type": "MCQ",
     "question": "When <latex>2x^3 - ax^2 + 5x - 8</latex> is divided by <latex>x-2</latex>, the remainder is 6. Find <latex>a</latex>.",
-    "options": [
+    "choices": [
       "<latex>3</latex>",
       "<latex>2</latex>",
       "<latex>4</latex>",
@@ -6066,7 +6066,7 @@
   {
     "type": "MCQ",
     "question": "Factorize completely: <latex>x^3 - 3x^2 - 9x - 5</latex>.",
-    "options": [
+    "choices": [
       "<latex>(x+1)(x+1)(x-5)</latex>",
       "<latex>(x-1)(x-1)(x+5)</latex>",
       "<latex>(x+1)(x-1)(x-5)</latex>",
@@ -6081,7 +6081,7 @@
   {
     "type": "MCQ",
     "question": "If <latex>x-2</latex> and <latex>x+3</latex> are factors of <latex>x^3 + ax + b</latex>, find <latex>a</latex> and <latex>b</latex>.",
-    "options": [
+    "choices": [
       "<latex>a = -7, b = -6</latex>",
       "<latex>a = 7, b = 6</latex>",
       "<latex>a = -7, b = 6</latex>",
@@ -6096,7 +6096,7 @@
   {
     "type": "MCQ",
     "question": "The remainder when <latex>x^3 - 3x^2 + 4x - 5</latex> is divided by <latex>x - 1</latex> is:",
-    "options": [
+    "choices": [
       "<latex>-3</latex>",
       "<latex>3</latex>",
       "<latex>1</latex>",
@@ -6111,7 +6111,7 @@
   {
     "type": "MCQ",
     "question": "If <latex>x+2</latex> is a factor of <latex>x^2 + mx + 14</latex>, then <latex>m</latex> is:",
-    "options": [
+    "choices": [
       "<latex>9</latex>",
       "<latex>8</latex>",
       "<latex>7</latex>",
@@ -6126,7 +6126,7 @@
   {
     "type": "MCQ",
     "question": "Which of these is the first step in factorizing a cubic polynomial without given factors?",
-    "options": [
+    "choices": [
       "Long division",
       "Trial and error to find one factor",
       "Using the quadratic formula",
