@@ -1,0 +1,1824 @@
+[
+	{
+	"question": "Who grouped elements in triads with similar properties such that the atomic weight of the middle element was the arithmetic mean of the other two?",
+	"choices": [
+	"Newlands",
+	"Mendeleev",
+	"Döbereiner",
+	"Moseley"
+	],
+	"answer": 2,
+	"chapter": "Periodic table",
+	"category": "Recall",
+	"complexity": "low",
+	"reason": "Johann Wolfgang Döbereiner grouped elements into triads based on their physical and chemical properties and their atomic mass, such as Ca, Sr, and Ba."
+	},
+	{
+	"question": "Which of the following laws states that 'the physical and chemical properties of elements are the periodic functions of their atomic number'?",
+	"choices": [
+	"Mendeleev's Periodic Law",
+	"Modern Periodic Law",
+	"Newlands' Law of Octaves",
+	"Döbereiner's Law of Triads"
+	],
+	"answer": 1,
+	"chapter": "Periodic table",
+	"category": "Recall",
+	"complexity": "low",
+	"reason": "Henry Moseley put forward the Modern Periodic Law based on atomic numbers. The relationship between atomic number and protons is given by Z = p."
+	},
+	{
+	"question": "How many groups and periods are there in the modern periodic table?",
+	"choices": [
+	"18 groups, 7 periods",
+	"8 groups, 7 periods",
+	"18 groups, 8 periods",
+	"7 groups, 18 periods"
+	],
+	"answer": 0,
+	"chapter": "Periodic table",
+	"category": "Recall",
+	"complexity": "low",
+	"reason": "The modern periodic table has 18 vertical columns called groups and 7 horizontal rows called periods."
+	},
+	{
+	"question": "Elements of Groups 3 to 12 are known as:",
+	"choices": [
+	"Alkali metals",
+	"Alkaline earth metals",
+	"Transition elements",
+	"Halogens"
+	],
+	"answer": 2,
+	"chapter": "Periodic table",
+	"category": "Recall",
+	"complexity": "low",
+	"reason": "Groups 3, 4, 5, 6, 7, 8, 9, 10, 11, and 12 are transition elements. They have their two outermost shells incomplete."
+	},
+	{
+	"question": "Alkaline earth metals belong to which group of the periodic table?",
+	"choices": [
+	"Group 1",
+	"Group 2",
+	"Group 13",
+	"Group 17"
+	],
+	"answer": 1,
+	"chapter": "Periodic table",
+	"category": "Recall",
+	"complexity": "low",
+	"reason": "Group 2 elements are known as Alkaline earth metals. They form weaker alkalis as compared to Group 1 elements, e.g., Mg(OH)_2."
+	},
+	{
+	"question": "What determines the period of an element in the periodic table?",
+	"choices": [
+	"Number of valence electrons",
+	"Atomic mass",
+	"Number of shells",
+	"Number of neutrons"
+	],
+	"answer": 2,
+	"chapter": "Periodic table",
+	"category": "Understanding",
+	"complexity": "medium",
+	"reason": "The number of shells present in an atom determines its period. For example, elements with three shells belong to the third period."
+	},
+	{
+	"question": "What determines the group of a representative element in the periodic table?",
+	"choices": [
+	"Number of electrons in the outermost shell",
+	"Total number of shells",
+	"Number of protons only",
+	"Atomic radius"
+	],
+	"answer": 0,
+	"chapter": "Periodic table",
+	"category": "Understanding",
+	"complexity": "medium",
+	"reason": "A group is determined by the number of electrons present in the outermost shell (valence electrons). For example, halogens have 7 valence electrons."
+	},
+	{
+	"question": "The elements of the third period are called:",
+	"choices": [
+	"Transition elements",
+	"Typical elements",
+	"Rare earth metals",
+	"Noble gases"
+	],
+	"answer": 1,
+	"chapter": "Periodic table",
+	"category": "Recall",
+	"complexity": "low",
+	"reason": "The third period elements (Na, Mg, Al, Si, P, S, Cl) summarize the properties of their respective groups and are called typical elements."
+	},
+	{
+	"question": "The cause of periodicity in the properties of elements is:",
+	"choices": [
+	"Increasing atomic mass",
+	"Recurrence of similar electronic configuration",
+	"Constant atomic radius",
+	"Presence of isotopes"
+	],
+	"answer": 1,
+	"chapter": "Periodic table",
+	"category": "Understanding",
+	"complexity": "medium",
+	"reason": "Periodicity is due to the same number of electrons in the outermost orbit of elements in a group, leading to similar chemical properties."
+	},
+	{
+	"question": "How does atomic size vary across a period from left to right?",
+	"choices": [
+	"It increases",
+	"It remains the same",
+	"It decreases",
+	"It first increases then decreases"
+	],
+	"answer": 2,
+	"chapter": "Periodic table",
+	"category": "Understanding",
+	"complexity": "medium",
+	"reason": "Atomic size decreases from left to right across a period because the nuclear charge increases, bringing the outermost shell closer to the nucleus."
+	},
+	{
+	"question": "How does atomic size vary down a group from top to bottom?",
+	"choices": [
+	"It decreases",
+	"It increases",
+	"It remains constant",
+	"It shows no regular trend"
+	],
+	"answer": 1,
+	"chapter": "Periodic table",
+	"category": "Understanding",
+	"complexity": "medium",
+	"reason": "Atomic size increases down a group due to the successive addition of shells, which overweighs the effect of increased nuclear charge."
+	},
+	{
+	"question": "Which of the following elements is the most metallic in the second period?",
+	"choices": [
+	"Lithium",
+	"Beryllium",
+	"Carbon",
+	"Fluorine"
+	],
+	"answer": 0,
+	"chapter": "Periodic table",
+	"category": "Application",
+	"complexity": "medium",
+	"reason": "Metallic character decreases across a period from left to right. Thus, Lithium (Group 1) is the most metallic element in Period 2. Li \rightarrow Li^+ + e^-"
+	},
+	{
+	"question": "Which of the following is a characteristic of halogens (Group 17)?",
+	"choices": [
+	"They form positive ions with a single charge",
+	"They are good reducing agents",
+	"They are highly reactive non-metals",
+	"They are unreactive noble gases"
+	],
+	"answer": 2,
+	"chapter": "Periodic table",
+	"category": "Analysis",
+	"complexity": "medium",
+	"reason": "Halogens have 7 valence electrons, are highly reactive, coloured non-metals, and form negative ions carrying a single charge: X + e^- \rightarrow X^-."
+	},
+	{
+	"question": "Why do noble gases (Group 18) hardly react with other elements?",
+	"choices": [
+	"They have incomplete outermost shells",
+	"They have a stable electronic configuration with a complete outermost orbit",
+	"They are radioactive",
+	"They have large atomic radii"
+	],
+	"answer": 1,
+	"chapter": "Periodic table",
+	"category": "Understanding",
+	"complexity": "low",
+	"reason": "Noble gases have their outermost orbit complete (octet or duplet). Due to this stable electronic configuration, they are unreactive."
+	},
+	{
+	"question": "What is the trend of valency of elements in a period from left to right?",
+	"choices": [
+	"It remains the same",
+	"It decreases from 7 to 1",
+	"It increases from 1 to 7",
+	"It increases from 1 to 4, and then decreases to 1"
+	],
+	"answer": 3,
+	"chapter": "Periodic table",
+	"category": "Application",
+	"complexity": "medium",
+	"reason": "Valency increases from 1 to 4 up to Group 14, and then decreases to 1 for Group 17, as it denotes the combining capacity."
+	},
+	{
+	"question": "Mendeleev arranged the known elements in his periodic table based on:",
+	"choices": [
+	"Increasing atomic number",
+	"Increasing atomic mass",
+	"Number of valence electrons",
+	"Isotopic mass"
+	],
+	"answer": 1,
+	"chapter": "Periodic table",
+	"category": "Recall",
+	"complexity": "low",
+	"reason": "Mendeleev stated that 'the properties of elements are the periodic functions of their atomic masses'."
+	},
+	{
+	"question": "As you move across the third period from Sodium to Chlorine, what happens to the number of shells?",
+	"choices": [
+	"Increases from 1 to 7",
+	"Decreases from 7 to 1",
+	"Remains constant at three",
+	"Remains constant at two"
+	],
+	"answer": 2,
+	"chapter": "Periodic table",
+	"category": "Understanding",
+	"complexity": "low",
+	"reason": "Across a given period, the number of shells remains the same. The third period elements all have exactly three electron shells."
+	},
+	{
+	"question": "Why are Lanthanides and Actinides shown at the bottom of the periodic table?",
+	"choices": [
+	"They are non-metals",
+	"They belong to Group 18",
+	"To avoid distorting the shape of the periodic table",
+	"They do not have atomic numbers"
+	],
+	"answer": 2,
+	"chapter": "Periodic table",
+	"category": "Understanding",
+	"complexity": "medium",
+	"reason": "They are shown at the bottom because they are large in number and all belong to Group 3. Placing them in the main body would distort its shape."
+	},
+	{
+	"question": "Which group's elements are known to be strong oxidising agents?",
+	"choices": [
+	"Group 1 (Alkali metals)",
+	"Group 2 (Alkaline earth metals)",
+	"Group 17 (Halogens)",
+	"Group 18 (Noble gases)"
+	],
+	"answer": 2,
+	"chapter": "Periodic table",
+	"category": "Application",
+	"complexity": "medium",
+	"reason": "Halogens are good oxidising agents because they have a strong tendency to accept electrons to complete their octet. Cl_2 + 2e^- \rightarrow 2Cl^-"
+	},
+	{
+	"question": "An element has an electronic configuration of 2, 8, 7. To which group and period does it belong?",
+	"choices": [
+	"Group 7, Period 2",
+	"Group 17, Period 3",
+	"Group 3, Period 17",
+	"Group 17, Period 2"
+	],
+	"answer": 1,
+	"chapter": "Periodic table",
+	"category": "Application",
+	"complexity": "high",
+	"reason": "The configuration 2, 8, 7 indicates 3 shells (Period 3) and 7 valence electrons, placing it in Group 17 (Halogens). This is Chlorine."
+	},
+	{
+	"question": "How does the metallic character change moving down a group?",
+	"choices": [
+	"Increases",
+	"Decreases",
+	"Remains unchanged",
+	"Increases then decreases"
+	],
+	"answer": 0,
+	"chapter": "Periodic table",
+	"category": "Understanding",
+	"complexity": "medium",
+	"reason": "Metallic character increases down a group because atomic size increases, making it easier to lose outermost electrons."
+	},
+	{
+	"question": "Which of the following is true about non-metallic character across a period?",
+	"choices": [
+	"It decreases from left to right",
+	"It increases from left to right",
+	"It is highest for Group 1 elements",
+	"It does not follow any trend"
+	],
+	"answer": 1,
+	"chapter": "Periodic table",
+	"category": "Understanding",
+	"complexity": "medium",
+	"reason": "Non-metallic character increases across a period because the nuclear charge increases, making it easier for the atom to gain electrons."
+	},
+	{
+	"question": "What is the general formula for the hydride of a Group 1 element (represented as M)?",
+	"choices": [
+	"<latex>MH</latex>",
+	"<latex>MH_2</latex>",
+	"<latex>MH_3</latex>",
+	"<latex>MH_4</latex>"
+	],
+	"answer": 0,
+	"chapter": "Periodic table",
+	"category": "Application",
+	"complexity": "medium",
+	"reason": "Group 1 elements have a valency of 1. Hydrogen also has a valency of 1. Therefore, the formula of their hydrides is MH, e.g., LiH."
+	},
+	{
+	"question": "Which element has the smallest atomic size in Group 17?",
+	"choices": [
+	"Iodine",
+	"Bromine",
+	"Chlorine",
+	"Fluorine"
+	],
+	"answer": 3,
+	"chapter": "Periodic table",
+	"category": "Application",
+	"complexity": "medium",
+	"reason": "Atomic size increases down a group due to the addition of new shells. Fluorine is at the top of Group 17, hence it has the smallest size."
+	},
+	{
+	"question": "Which of the following elements has the largest atomic size?",
+	"choices": [
+	"Lithium",
+	"Sodium",
+	"Potassium",
+	"Rubidium"
+	],
+	"answer": 3,
+	"chapter": "Periodic table",
+	"category": "Application",
+	"complexity": "medium",
+	"reason": "Atomic size increases down Group 1. Among Li, Na, K, and Rb, Rubidium is positioned lowest in the group and has the most shells."
+	},
+	{
+	"question": "The positive charge in the nucleus of an atom is equal to:",
+	"choices": [
+	"Number of neutrons",
+	"Number of protons",
+	"Number of core electrons",
+	"Total number of nucleons"
+	],
+	"answer": 1,
+	"chapter": "Periodic table",
+	"category": "Recall",
+	"complexity": "low",
+	"reason": "Nuclear charge is the positive charge present in the nucleus, which is equal to the number of protons, i.e., the atomic number."
+	},
+	{
+	"question": "Which family is also known as chalcogens?",
+	"choices": [
+	"Group 15 (Nitrogen family)",
+	"Group 16 (Oxygen family)",
+	"Group 17 (Halogens)",
+	"Group 14 (Carbon family)"
+	],
+	"answer": 1,
+	"chapter": "Periodic table",
+	"category": "Recall",
+	"complexity": "low",
+	"reason": "Group 16 is known as the Oxygen family or chalcogens, which means ore-forming."
+	},
+	{
+	"question": "In Newlands' Law of Octaves, every eighth element resembles the first element in properties, similar to:",
+	"choices": [
+	"Days of the week",
+	"Musical notes",
+	"Phases of the moon",
+	"Colors of the rainbow"
+	],
+	"answer": 1,
+	"chapter": "Periodic table",
+	"category": "Recall",
+	"complexity": "low",
+	"reason": "Newlands observed that every eighth element resembles the first in physical and chemical properties, drawing an analogy to the musical octaves."
+	},
+	{
+	"question": "Alkali metals are highly reactive because:",
+	"choices": [
+	"They have one electron in their outermost shell which they can easily lose",
+	"They have seven electrons in their outermost shell",
+	"They have completely filled shells",
+	"They are positioned at the bottom of the periodic table"
+	],
+	"answer": 0,
+	"chapter": "Periodic table",
+	"category": "Understanding",
+	"complexity": "medium",
+	"reason": "Group 1 elements have 1 valence electron and a large atomic size, allowing them to easily lose that electron to form a cation. M \rightarrow M^+ + e^-"
+	},
+	{
+	"question": "What is unique about the electronic configuration of transition elements?",
+	"choices": [
+	"They have fully filled outermost shells",
+	"They have their two outermost shells incomplete",
+	"They do not have a defined valency",
+	"They lack core electrons"
+	],
+	"answer": 1,
+	"chapter": "Periodic table",
+	"category": "Recall",
+	"complexity": "low",
+	"reason": "All transition elements are metals that have their two outermost shells incomplete."
+	},
+	{
+	"question": "Assertion (A): The modern periodic table is based on atomic mass.\nReason (R): Henry Moseley proved that atomic number is a more fundamental property than atomic mass.",
+	"choices": [
+	"Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+	"Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+	"Assertion is correct but Reason is incorrect.",
+	"Assertion is incorrect but Reason is correct."
+	],
+	"answer": 3,
+	"chapter": "Periodic table",
+	"category": "Understanding",
+	"complexity": "medium",
+	"reason": "The modern periodic table is based on atomic number, not atomic mass. Moseley stated that physical and chemical properties are periodic functions of atomic number."
+	},
+	{
+	"question": "Assertion (A): Atomic size decreases as we move from left to right across a period.\nReason (R): The nuclear charge increases, bringing the outermost shell closer to the nucleus.",
+	"choices": [
+	"Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+	"Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+	"Assertion is correct but Reason is incorrect.",
+	"Assertion is incorrect but Reason is correct."
+	],
+	"answer": 0,
+	"chapter": "Periodic table",
+	"category": "Analysis",
+	"complexity": "medium",
+	"reason": "In a period, the atomic number increases from left to right, thus increasing nuclear charge, which attracts the electrons with greater force and decreases the radius."
+	},
+	{
+	"question": "Assertion (A): Group 1 elements are called alkali metals.\nReason (R): They react vigorously with water to form strong alkalis.",
+	"choices": [
+	"Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+	"Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+	"Assertion is correct but Reason is incorrect.",
+	"Assertion is incorrect but Reason is correct."
+	],
+	"answer": 0,
+	"chapter": "Periodic table",
+	"category": "Understanding",
+	"complexity": "low",
+	"reason": "Group 1 elements form strong alkalis when they react with water, e.g., 2Na + 2H_2O \rightarrow 2NaOH + H_2."
+	},
+	{
+	"question": "Assertion (A): Noble gases are highly reactive non-metals.\nReason (R): Noble gases have completely filled outermost shells.",
+	"choices": [
+	"Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+	"Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+	"Assertion is correct but Reason is incorrect.",
+	"Assertion is incorrect but Reason is correct."
+	],
+	"answer": 3,
+	"chapter": "Periodic table",
+	"category": "Understanding",
+	"complexity": "medium",
+	"reason": "Assertion is false because noble gases are unreactive due to their stable electronic configuration (octet or duplet). The Reason is correct."
+	},
+	{
+	"question": "Assertion (A): Group 17 elements are known as halogens.\nReason (R): Halogen means 'ore-forming' in Greek.",
+	"choices": [
+	"Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+	"Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+	"Assertion is correct but Reason is incorrect.",
+	"Assertion is incorrect but Reason is correct."
+	],
+	"answer": 2,
+	"chapter": "Periodic table",
+	"category": "Recall",
+	"complexity": "medium",
+	"reason": "Halogens means 'salt formers', not 'ore-forming'. Chalcogens (Group 16) means 'ore-forming'."
+	},
+	{
+	"question": "Assertion (A): Valency of elements in a group remains the same.\nReason (R): Elements in the same group have the same number of valence electrons.",
+	"choices": [
+	"Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+	"Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+	"Assertion is correct but Reason is incorrect.",
+	"Assertion is incorrect but Reason is correct."
+	],
+	"answer": 0,
+	"chapter": "Periodic table",
+	"category": "Understanding",
+	"complexity": "medium",
+	"reason": "Valency depends on the number of valence electrons. Since this remains constant down a group, the valency remains constant."
+	},
+	{
+	"question": "Assertion (A): Transition elements are placed in Groups 13 to 18 of the periodic table.\nReason (R): Transition elements are metals with their two outermost shells incomplete.",
+	"choices": [
+	"Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+	"Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+	"Assertion is correct but Reason is incorrect.",
+	"Assertion is incorrect but Reason is correct."
+	],
+	"answer": 3,
+	"chapter": "Periodic table",
+	"category": "Recall",
+	"complexity": "low",
+	"reason": "Transition elements are actually placed in Groups 3 to 12. Their two outermost shells are incomplete."
+	},
+	{
+	"question": "Assertion (A): Elements of the third period are called typical elements.\nReason (R): They summarize the properties of their respective groups.",
+	"choices": [
+	"Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+	"Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+	"Assertion is correct but Reason is incorrect.",
+	"Assertion is incorrect but Reason is correct."
+	],
+	"answer": 0,
+	"chapter": "Periodic table",
+	"category": "Recall",
+	"complexity": "medium",
+	"reason": "Elements like Na, Mg, Al, Si, P, S, and Cl in the third period accurately represent and summarize the properties of their respective groups."
+	},
+	{
+	"question": "Assertion (A): Fluorine is the smallest element in Group 17.\nReason (R): Atomic size increases down a group due to the successive addition of shells.",
+	"choices": [
+	"Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+	"Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+	"Assertion is correct but Reason is incorrect.",
+	"Assertion is incorrect but Reason is correct."
+	],
+	"answer": 0,
+	"chapter": "Periodic table",
+	"category": "Understanding",
+	"complexity": "medium",
+	"reason": "Fluorine is at the top of Group 17. Because size increases down the group as more shells are added, Fluorine remains the smallest halogen."
+	},
+	{
+	"question": "Assertion (A): The number of shells remains the same as we move from left to right in a period.\nReason (R): The valency of elements remains constant across a period.",
+	"choices": [
+	"Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+	"Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+	"Assertion is correct but Reason is incorrect.",
+	"Assertion is incorrect but Reason is correct."
+	],
+	"answer": 2,
+	"chapter": "Periodic table",
+	"category": "Analysis",
+	"complexity": "medium",
+	"reason": "The number of shells does remain constant across a period. However, the valency changes across a period (increases 1 to 4, then decreases), so the Reason is false."
+	},
+  {
+    "question": "Which of the following halogens possesses the highest electron affinity, acting as a prominent exception to the general periodic trend?",
+    "choices": [
+      "Fluorine",
+      "Chlorine",
+      "Bromine",
+      "Iodine"
+    ],
+    "answer": 1,
+    "chapter": "Periodic table",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "Although electron affinity generally decreases down a group, Chlorine has a higher electron affinity than Fluorine. This is because Fluorine has an exceptionally small atomic size, leading to strong inter-electronic repulsions in its 2p subshell, which makes the addition of an extra electron less favorable compared to Chlorine. <latex>\\mathbf{Cl + e^- \\rightarrow Cl^- + \\text{Energy}}</latex>"
+  },
+  {
+    "question": "An element 'X' belongs to Group 2, and an element 'Y' belongs to Group 15 of the modern periodic table. What will be the general formula of the compound formed by the chemical combination of X and Y?",
+    "choices": [
+      "<latex>X_2Y_3</latex>",
+      "<latex>X_3Y_2<latex>",
+      "<latex>XY_2<latex>",
+      "<latex>X_2Y<latex>"
+    ],
+    "answer": 1,
+    "chapter": "Periodic table",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Element X in Group 2 has 2 valence electrons and a valency of +2 (it loses 2 electrons to form a cation). Element Y in Group 15 has 5 valence electrons and needs 3 more to complete its octet, giving it a valency of -3. Cross-multiplying their combining capacities yields the formula <latex>\\mathbf{X_3Y_2}</latex>."
+  },
+  {
+    "question": "An element 'M' has an electronic configuration of 2, 8, 8, 2. Which of the following statements is mathematically or chemically incorrect regarding the properties of 'M'?",
+    "choices": [
+      "It is a strongly electropositive alkaline earth metal.",
+      "It reacts with cold water to evolve hydrogen gas.",
+      "Its oxide dissolves in water to form a strongly acidic solution.",
+      "It reacts with dilute hydrochloric acid to form MCl2."
+    ],
+    "answer": 2,
+    "chapter": "Periodic table",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "The configuration 2, 8, 8, 2 indicates 4 shells (Period 4) and 2 valence electrons (Group 2), identifying it as Calcium (Ca), a typical metal. Metals form basic oxides, not acidic oxides. When calcium oxide dissolves in water, it forms a base (alkali): <latex>\\mathbf{CaO + H_2O \\rightarrow Ca(OH)_2}</latex>."
+  },
+  {
+    "question": "How does the basic strength of the hydroxides of Group 1 elements (alkali metals) theoretically vary as we move down the group from Lithium to Rubidium?",
+    "choices": [
+      "It decreases: LiOH is the strongest base.",
+      "It increases: RbOH is the strongest base.",
+      "It remains constant across the entire group.",
+      "It increases up to Potassium and then sharply decreases."
+    ],
+    "answer": 1,
+    "chapter": "Periodic table",
+    "category": "Understanding",
+    "complexity": "hard",
+    "reason": "As we move down Group 1, the atomic size increases and the ionization potential decreases significantly. This makes it progressively easier for the metal atom to lose its valence electron and for the resulting metal hydroxide to dissociate and yield hydroxide ions in aqueous solution. <latex>\\mathbf{RbOH \\rightarrow Rb^+ + OH^-}</latex>"
+  },
+  {
+    "question": "Identify the correct increasing order of ionic radii for the following isoelectronic species: sodium ion, magnesium ion, fluoride ion, and oxide ion.",
+    "choices": [
+      "Magnesium ion < Sodium ion < Fluoride ion < Oxide ion",
+      "Oxide ion < Fluoride ion < Sodium ion < Magnesium ion",
+      "Magnesium ion < Sodium ion < Oxide ion < Fluoride ion",
+      "Sodium ion < Magnesium ion < Fluoride ion < Oxide ion"
+    ],
+    "answer": 0,
+    "chapter": "Periodic table",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "For isoelectronic species (all possessing 10 electrons in this case), the ionic radius inversely correlates with the nuclear charge. Magnesium (12 protons) exerts the strongest attractive pull on the electron cloud, making the magnesium ion the smallest. It is followed by the sodium ion (11 protons), fluoride ion (9 protons), and finally the oxide ion (8 protons), which experiences the weakest nuclear pull."
+  },
+  {
+    "question": "An unknown element 'E' exhibits a remarkably high ionisation potential and a highly negative (exothermic) electron affinity. Based on these two parameters, what can be conclusively deduced about the chemical nature of 'E'?",
+    "choices": [
+      "It is a strong reducing agent and inherently tends to form cations.",
+      "It is a transition metal capable of exhibiting variable valency.",
+      "It is a strong oxidising agent and readily forms anions.",
+      "It is a noble gas and remains chemically inert under standard conditions."
+    ],
+    "answer": 2,
+    "chapter": "Periodic table",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "A high ionisation potential denotes that removing an electron requires immense energy, while a high electron affinity means the element releases substantial energy when it accepts an electron. These are hallmark traits of highly reactive non-metals (such as halogens), which readily accept electrons to form stable anions, acting as potent oxidising agents. <latex>\\mathbf{E + e^- \\rightarrow E^-}</latex>"
+  },
+  {
+    "question": "Element 'Z' holds an atomic number of 16. Which of the following chemical equations correctly depicts the reaction of its primary oxide with water?",
+    "choices": [
+      "<latex>Z + H_2O -> Z(OH)_2</latex>",
+      "<latex>ZO_2 + H_2O -> H_2ZO_3</latex>",
+      "<latex>Z_2O_3 + 3H_2O -> 2Z(OH)_3</latex>",
+      "<latex>ZO + H_2O -> H_2ZO_2</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Periodic table",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "Element 'Z' with an atomic number of 16 is Sulfur, characterized by the electronic configuration 2, 8, 6. Being a non-metal, it forms acidic oxides such as sulfur dioxide (SO2). Upon reacting with water, sulfur dioxide yields sulfurous acid. <latex>\\mathbf{SO_2 + H_2O \\rightarrow H_2SO_3}</latex>"
+  },
+  {
+    "question": "An element 'X' is uniquely positioned in Group 13 and Period 3 of the modern periodic table. Which of the following balanced chemical equations accurately illustrates the combustion of 'X' in the presence of oxygen?",
+    "choices": [
+      "<latex>X + O_2 -> XO_2</latex>",
+      "<latex>2X + O_2 -> 2XO</latex>",
+      "<latex>4X + 3O_2 -> 2X_2O_3</latex>",
+      "<latex>2X + 3O_2 -> 2XO_3</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Periodic table",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Element 'X' located in Group 13 and Period 3 is Aluminium (Al), possessing 3 valence electrons and a valency of 3. Oxygen belongs to Group 16 with a valency of 2. Consequently, their chemical combination forms aluminium oxide (Al2O3). The balanced equation is <latex>\\mathbf{4Al + 3O_2 \\rightarrow 2Al_2O_3}</latex>."
+  },
+  {
+    "question": "While analyzing the modern periodic table, which specific pair of elements correctly exemplifies the 'diagonal relationship' due to their remarkably similar polarizing power and ionic radii?",
+    "choices": [
+      "Lithium and Magnesium",
+      "Sodium and Calcium",
+      "Beryllium and Silicon",
+      "Boron and Carbon"
+    ],
+    "answer": 0,
+    "chapter": "Periodic table",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "Certain elements of the second period exhibit notable similarities in properties with the elements of the third period positioned diagonally to their right. Lithium (Group 1) closely resembles Magnesium (Group 2) in properties such as the formation of partially covalent compounds and the decomposition of their respective carbonates. <latex>\\mathbf{Li_2CO_3 \\xrightarrow{\\Delta} Li_2O + CO_2}</latex>"
+  },
+  {
+    "question": "Consider Element 'A' situated in Group 1, Period 4, and Element 'B' situated in Group 17, Period 2. Which pair of periodic trends correctly dictates the theoretical change in properties if one evaluates the transition from 'A' directly to 'B'?",
+    "choices": [
+      "Atomic radius drastically increases, and Ionisation potential decreases.",
+      "Metallic character drops significantly, and Electronegativity sharply increases.",
+      "Non-metallic character decreases uniformly, and Electron affinity decreases.",
+      "Nuclear charge universally decreases, and atomic radius proportionally increases."
+    ],
+    "answer": 1,
+    "chapter": "Periodic table",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "Element 'A' is Potassium, a highly reactive alkali metal characterized by a large atomic radius and low electronegativity. Element 'B' is Fluorine, a highly reactive non-metal with a minimal atomic radius and the highest electronegativity. Theoretically moving from A to B corresponds to moving up and to the far right of the table, causing metallic character to plummet and electronegativity to peak. <latex>\\mathbf{2K + F_2 \\rightarrow 2KF}</latex>"
+  },
+  {
+    "question": "Which of the following conditions most strongly favors the formation of an electrovalent (ionic) bond between two elements?",
+    "choices": [
+      "High ionization potential of the metal and high electron affinity of the non-metal.",
+      "Low ionization potential of the metal and high electron affinity of the non-metal.",
+      "High ionization potential of the metal and low electron affinity of the non-metal.",
+      "Low ionization potential of the metal and low electron affinity of the non-metal."
+    ],
+    "answer": 1,
+    "chapter": "Chemical Bonding",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "For an ionic bond to form easily, the metal must easily lose an electron (low ionization potential) and the non-metal must readily accept it (high electron affinity), releasing a large amount of energy. <latex>\\mathbf{M \\rightarrow M^+ + e^-}</latex> and <latex>\\mathbf{X + e^- \\rightarrow X^-}</latex>."
+  },
+  {
+    "question": "Among the following compounds, which one contains electrovalent, covalent, and coordinate bonds simultaneously?",
+    "choices": [
+      "Ammonium chloride",
+      "Carbon tetrachloride",
+      "Calcium oxide",
+      "Hydronium ion"
+    ],
+    "answer": 0,
+    "chapter": "Chemical Bonding",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Ammonium chloride (NH4Cl) contains an ionic bond between the ammonium ion and the chloride ion. Within the ammonium ion, there are three covalent bonds between nitrogen and hydrogen, and one coordinate bond where nitrogen donates its lone pair to a hydrogen ion. <latex>\\mathbf{NH_4^+ + Cl^- \\rightarrow NH_4Cl}</latex>."
+  },
+  {
+    "question": "A molecule of nitrogen (N2) contains a triple covalent bond. How many electrons are shared in total between the two nitrogen atoms to achieve this bond?",
+    "choices": [
+      "3",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": 2,
+    "chapter": "Chemical Bonding",
+    "category": "Understanding",
+    "complexity": "medium",
+    "reason": "A single covalent bond involves the sharing of 2 electrons. A triple covalent bond involves the sharing of 3 pairs of electrons, which totals 6 electrons. <latex>\\mathbf{N \\equiv N}</latex>."
+  },
+  {
+    "question": "Why does carbon tetrachloride (<latex>CCl_4</latex>) not conduct electricity in its liquid state, whereas molten sodium chloride (NaCl) does?",
+    "choices": [
+      "<latex>CCl_4</latex> is a polar molecule, while NaCl is non-polar.",
+      "<latex>CCl_4</latex> undergoes ionization, while NaCl undergoes dissociation.",
+      "<latex>CCl_4</latex> consists of molecules with no free mobile ions, while molten NaCl has free mobile ions.",
+      "<latex>CCl_4</latex> forms a crystalline lattice in the liquid state that traps electrons."
+    ],
+    "answer": 2,
+    "chapter": "Chemical Bonding",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "Carbon tetrachloride is a non-polar covalent compound consisting only of neutral molecules, thus lacking charge carriers. Sodium chloride is an electrovalent compound; melting it breaks the electrostatic forces, freeing the ions to conduct electricity. <latex>\\mathbf{NaCl(l) \\rightarrow Na^+ + Cl^-}</latex>."
+  },
+  {
+    "question": "Which of the following pairs of molecules both possess exactly one lone pair of electrons on their central atom?",
+    "choices": [
+      "Water and Ammonia",
+      "Ammonia and Hydronium ion",
+      "Methane and Ammonia",
+      "Water and Carbon tetrachloride"
+    ],
+    "answer": 1,
+    "chapter": "Chemical Bonding",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "Ammonia (NH3) has one lone pair on the Nitrogen atom. The Hydronium ion (H3O+) is formed when Water (which has two lone pairs) donates one lone pair to H+, leaving it with exactly one lone pair on the Oxygen atom. <latex>\\mathbf{H_2O + H^+ \\rightarrow H_3O^+}</latex>."
+  },
+  {
+    "question": "An element X has an atomic number of 12, and element Y has an atomic number of 9. What is the formula and the nature of the bond in the compound formed between X and Y?",
+    "choices": [
+      "<latex>XY_2</latex>, Covalent",
+      "<latex>X_2Y</latex>, Electrovalent",
+      "<latex>XY_2</latex>, Electrovalent",
+      "XY, Covalent"
+    ],
+    "answer": 2,
+    "chapter": "Chemical Bonding",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "X (Atomic No. 12) is Magnesium (2, 8, 2), a metal. Y (Atomic No. 9) is Fluorine (2, 7), a non-metal. Mg will transfer its 2 valence electrons to two F atoms. The resulting compound is MgF2, and the bond is electrovalent. <latex>\\mathbf{Mg + 2F \\rightarrow Mg^{2+} + 2F^-}</latex>."
+  },
+  {
+    "question": "During the formation of a hydronium ion from a water molecule and a proton, which of the following accurately describes the electron transfer or sharing process?",
+    "choices": [
+      "The proton shares its electron with the oxygen atom.",
+      "Oxygen donates a lone pair of electrons entirely to the proton to form a coordinate bond.",
+      "Both oxygen and the proton contribute one electron each to form a covalent bond.",
+      "Oxygen transfers one electron to the proton, forming an ionic bond."
+    ],
+    "answer": 1,
+    "chapter": "Chemical Bonding",
+    "category": "Understanding",
+    "complexity": "hard",
+    "reason": "A coordinate bond is formed when one atom provides both shared electrons. The hydrogen ion (proton) has no electrons. Oxygen provides a lone pair for both to share. <latex>\\mathbf{H_2O + H^+ \\rightarrow H_3O^+}</latex>."
+  },
+  {
+    "question": "In the molecule of hydrogen chloride (HCl), the shared pair of electrons is not exactly midway between the hydrogen and chlorine atoms. What is the primary consequence of this?",
+    "choices": [
+      "The molecule becomes unstable and highly reactive.",
+      "The molecule acquires a slight fractional positive charge on H and a slight negative charge on Cl, making it polar.",
+      "The bond converts from covalent to purely ionic in the gaseous state.",
+      "Chlorine acts as a lone pair donor to hydrogen."
+    ],
+    "answer": 1,
+    "chapter": "Chemical Bonding",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "Chlorine is more electronegative than hydrogen, so it pulls the shared pair of electrons towards itself. This unequal sharing creates partial charges (dipoles), resulting in a polar covalent bond. <latex>\\mathbf{H^{\\delta+} - Cl^{\\delta-}}</latex>."
+  },
+  {
+    "question": "Why do electrovalent (ionic) compounds typically possess high melting and boiling points?",
+    "choices": [
+      "They have strong inter-molecular van der Waals forces.",
+      "They are formed by the sharing of multiple electron pairs.",
+      "There are strong electrostatic forces of attraction between oppositely charged ions in the crystal lattice.",
+      "They consist of volatile ions that require high heat to vaporize."
+    ],
+    "answer": 2,
+    "chapter": "Chemical Bonding",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Ionic compounds form a rigid 3D crystal lattice held together by strong electrostatic forces between cations and anions. A substantial amount of thermal energy is required to break these bonds. <latex>\\mathbf{Na^+ + Cl^- \\rightarrow NaCl(s)}</latex>."
+  },
+  {
+    "question": "Identify the incorrect statement regarding the comparison between covalent and electrovalent compounds.",
+    "choices": [
+      "Covalent compounds exhibit isomerism due to rigid and directional bonds, while electrovalent compounds do not.",
+      "Electrovalent compounds generally dissolve in polar solvents, whereas covalent compounds dissolve in non-polar solvents.",
+      "Covalent compounds ionize in molten state, whereas electrovalent compounds dissociate.",
+      "Electrovalent compounds have strong electrostatic forces, whereas covalent compounds have weak intermolecular forces."
+    ],
+    "answer": 2,
+    "chapter": "Chemical Bonding",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "Covalent compounds generally do not ionize in the molten state; they consist of neutral molecules and remain non-conductors. Only polar covalent compounds might ionize in aqueous solution, not simply by melting. Electrovalent compounds do dissociate when molten."
+  },
+  {
+    "question": "Which of the following compounds is non-polar despite containing polar covalent bonds?",
+    "choices": [
+      "Water",
+      "Ammonia",
+      "Carbon tetrachloride",
+      "Hydrogen chloride"
+    ],
+    "answer": 2,
+    "chapter": "Chemical Bonding",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "In <latex>CCl_4</latex>, the C-Cl bonds are polar due to electronegativity differences. However, the molecule is perfectly symmetrical (tetrahedral), so the individual bond dipoles cancel each other out, making the entire molecule non-polar. <latex>\\mathbf{CCl_4}</latex>."
+  },
+  {
+    "question": "How many total valence electrons are depicted in the complete Lewis electron dot structure of a water molecule (H2O)?",
+    "choices": [
+      "6",
+      "8",
+      "10",
+      "18"
+    ],
+    "answer": 1,
+    "chapter": "Chemical Bonding",
+    "category": "Understanding",
+    "complexity": "medium",
+    "reason": "Oxygen has 6 valence electrons, and each Hydrogen has 1. The total number of valence electrons is 6 + 1(2) = 8. They are arranged as two bonding pairs and two lone pairs on the oxygen atom."
+  },
+  {
+    "question": "When solid sodium chloride dissolves in water, it becomes a good conductor of electricity. This phenomenon is best described as:",
+    "choices": [
+      "Ionization of covalent bonds by water molecules.",
+      "Dissociation of the pre-existing ions in the ionic lattice due to the high dielectric constant of water.",
+      "Formation of coordinate bonds between sodium ions and water molecules.",
+      "Creation of new ions through chemical reaction with water."
+    ],
+    "answer": 1,
+    "chapter": "Chemical Bonding",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "Solid NaCl already consists of ions, but they are held in a fixed lattice. Water is a polar solvent with a high dielectric constant that weakens the electrostatic forces holding the ions together, allowing them to separate (dissociate) and move freely. <latex>\\mathbf{NaCl(s) \\xrightarrow{H_2O} Na^+(aq) + Cl^-(aq)}</latex>."
+  },
+  {
+    "question": "Which of the following elements, when reacting with Chlorine, would result in a compound with the lowest melting point?",
+    "choices": [
+      "Sodium",
+      "Magnesium",
+      "Calcium",
+      "Carbon"
+    ],
+    "answer": 3,
+    "chapter": "Chemical Bonding",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "Sodium, Magnesium, and Calcium are metals and form electrovalent chlorides with high melting points. Carbon is a non-metal and forms carbon tetrachloride (<latex>CCl_4</latex>), a covalent compound with weak intermolecular forces and a very low melting point."
+  },
+  {
+    "question": "Which statement precisely describes the valency of nitrogen in an ammonium ion (NH4+)?",
+    "choices": [
+      "Nitrogen exhibits a valency of 3, having formed 3 covalent bonds.",
+      "Nitrogen exhibits a valency of 4, having formed 3 covalent bonds and 1 coordinate bond.",
+      "Nitrogen exhibits a valency of 5, sharing all its 5 valence electrons.",
+      "Nitrogen exhibits a valency of 1, as the ion has a net charge of +1."
+    ],
+    "answer": 1,
+    "chapter": "Chemical Bonding",
+    "category": "Understanding",
+    "complexity": "hard",
+    "reason": "In the ammonium ion, nitrogen shares 3 of its electrons to form covalent bonds with 3 hydrogen atoms, and donates its remaining lone pair to a hydrogen ion (H+) to form a coordinate bond. Thus, it effectively bonds with 4 atoms. <latex>\\mathbf{NH_3 + H^+ \\rightarrow NH_4^+}</latex>."
+  },
+  {
+    "question": "Oxygen gas (O2) contains a double bond. What is the octet status of the two oxygen atoms after bond formation?",
+    "choices": [
+      "Both atoms have 6 electrons in their valence shell.",
+      "One atom has 8 electrons, the other has 6.",
+      "Both atoms have 8 electrons in their valence shell by sharing two pairs.",
+      "Both atoms have expanded their octet to 10 electrons."
+    ],
+    "answer": 2,
+    "chapter": "Chemical Bonding",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Each oxygen atom has 6 valence electrons. By sharing two pairs of electrons (4 electrons total), both atoms achieve a stable octet (8 electrons) in their outermost shell. <latex>\\mathbf{O = O}</latex>."
+  },
+  {
+    "question": "An element A (Group 2) and an element B (Group 16) react. What kind of bonding is predominantly expected, and what is the formula of the product?",
+    "choices": [
+      "Electrovalent, AB",
+      "Covalent, <latex>AB_2</latex>",
+      "Coordinate, <latex>A_2B</latex>",
+      "Electrovalent, <latex>A_2B</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Chemical Bonding",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Group 2 elements are metals with 2 valence electrons (tendency to lose 2). Group 16 elements are non-metals with 6 valence electrons (tendency to gain 2). This mutual transfer leads to an electrovalent bond. The ratio is 1:1, making the formula AB. <latex>\\mathbf{A^{2+} + B^{2-} \\rightarrow AB}</latex>."
+  },
+  {
+    "question": "Identify the molecule that exemplifies a polar covalent bond but does NOT typically form hydrogen bonds.",
+    "choices": [
+      "H2O",
+      "NH3",
+      "HF",
+      "HCl"
+    ],
+    "answer": 3,
+    "chapter": "Chemical Bonding",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "Hydrogen bonding requires H to be attached to highly electronegative, small atoms (F, O, or N). While HCl has a polar covalent bond, the larger size of the chlorine atom prevents it from forming significant hydrogen bonds."
+  },
+  {
+    "question": "The hydroxyl ion (OH-) is formed when water undergoes auto-ionization or reacts with a base. How many lone pairs of electrons are on the oxygen atom in a hydroxyl ion?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 2,
+    "chapter": "Chemical Bonding",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "A neutral water molecule has 2 lone pairs. When it loses a proton (H+), the shared pair of electrons from the O-H bond is left entirely on the oxygen atom. This adds a third lone pair to the oxygen, giving it a negative charge. <latex>\\mathbf{H_2O \\rightarrow H^+ + OH^-}</latex>."
+  },
+  {
+    "question": "Which of the following sets represents molecules that are entirely held together by single covalent bonds?",
+    "choices": [
+      "Cl2, NH3, CH4",
+      "N2, <latex>CCl_4</latex>, H2O",
+      "O2, HCl, NH3",
+      "CH4, O2, N2"
+    ],
+    "answer": 0,
+    "chapter": "Chemical Bonding",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Chlorine (Cl2), ammonia (NH3), and methane (CH4) all exclusively contain single covalent bonds. Nitrogen (N2) has a triple bond, and oxygen (O2) has a double bond."
+  },
+  {
+    "question": "During the electrolysis of molten magnesium chloride, what occurs at the cathode?",
+    "choices": [
+      "Chloride ions gain electrons to form chlorine gas.",
+      "Magnesium ions gain electrons to form magnesium metal.",
+      "Chloride ions lose electrons to form chlorine gas.",
+      "Magnesium ions lose electrons to form magnesium metal."
+    ],
+    "answer": 1,
+    "chapter": "Chemical Bonding",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "The cathode is the negatively charged electrode. Therefore, the positively charged magnesium cations (Mg2+) migrate to the cathode, where they gain electrons (reduction) to form neutral magnesium atoms. <latex>\\mathbf{Mg^{2+} + 2e^- \\rightarrow Mg}</latex>."
+  },
+  {
+    "question": "In a coordinate bond between a donor molecule and an acceptor ion, what is the prerequisite condition for the donor molecule?",
+    "choices": [
+      "It must be an ion with a negative charge.",
+      "It must have at least one lone pair of electrons in its valence shell.",
+      "It must be an electropositive metal atom.",
+      "It must have an incomplete octet."
+    ],
+    "answer": 1,
+    "chapter": "Chemical Bonding",
+    "category": "Understanding",
+    "complexity": "medium",
+    "reason": "A coordinate (dative) bond is formed when both electrons of the shared pair come from the same atom. The donor atom must have a non-bonding pair of electrons (a lone pair) available for donation, like Nitrogen in NH3."
+  },
+  {
+    "question": "What happens to the internuclear distance (bond length) when two nitrogen atoms transition from a hypothetical single bond to a real triple bond?",
+    "choices": [
+      "It increases.",
+      "It remains exactly the same.",
+      "It decreases.",
+      "It fluctuates continuously."
+    ],
+    "answer": 2,
+    "chapter": "Chemical Bonding",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "As the number of shared electron pairs increases from one (single bond) to three (triple bond), the attractive electrostatic force between the nuclei and the shared electron clouds becomes much stronger, pulling the two nuclei closer together and decreasing the bond length."
+  },
+  {
+    "question": "Which of the following compounds contains bonds formed by the overlap of atomic orbitals but no complete transfer of electrons, yet is highly soluble in water?",
+    "choices": [
+      "Carbon tetrachloride",
+      "Methane",
+      "Hydrogen chloride gas",
+      "Calcium oxide"
+    ],
+    "answer": 2,
+    "chapter": "Chemical Bonding",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "Hydrogen chloride (HCl) gas has a polar covalent bond (overlap of orbitals, unequal sharing, no full transfer). Because it is highly polar, it dissolves easily in water, ionizing completely to form hydrochloric acid. <latex>\\mathbf{HCl(g) + H_2O(l) \\rightarrow H_3O^+(aq) + Cl^-(aq)}</latex>."
+  },
+  {
+    "question": "An electrovalent bond is non-directional. What does this mean for the structure of electrovalent compounds?",
+    "choices": [
+      "They form discrete, individual molecules.",
+      "They exhibit structural isomerism.",
+      "Each ion is surrounded by oppositely charged ions uniformly in a 3D lattice.",
+      "They exist only in a gaseous state."
+    ],
+    "answer": 2,
+    "chapter": "Chemical Bonding",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "An ion's electrostatic field extends uniformly in all directions. Thus, it attracts oppositely charged ions from all sides, creating a continuous three-dimensional crystal lattice without specific directional bonds, precluding the formation of discrete molecules or isomerism."
+  },
+  {
+    "question": "Which of the following pairs contains one molecule with a central atom having no lone pairs and another molecule with a central atom having two lone pairs?",
+    "choices": [
+      "Methane and Ammonia",
+      "Ammonia and Water",
+      "Methane and Water",
+      "Carbon tetrachloride and Methane"
+    ],
+    "answer": 2,
+    "chapter": "Chemical Bonding",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "In methane (CH4), carbon uses all 4 of its valence electrons to bond, leaving 0 lone pairs. In water (H2O), oxygen has 6 valence electrons, uses 2 for bonding, leaving 4 electrons, which equals 2 lone pairs."
+  },
+  {
+    "question": "Which property correctly differentiates a polar covalent compound like HCl from a non-polar covalent compound like CH4?",
+    "choices": [
+      "HCl has a high melting point, CH4 has a high melting point.",
+      "HCl can ionize in water to conduct electricity, CH4 does not ionize in water.",
+      "HCl is a solid at room temperature, CH4 is a gas.",
+      "HCl forms a crystal lattice, CH4 forms discrete molecules."
+    ],
+    "answer": 1,
+    "chapter": "Chemical Bonding",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "Polar covalent compounds can interact with polar solvents like water to undergo ionization, producing ions that conduct electricity. Non-polar compounds like CH4 do not interact strongly with water and do not ionize. <latex>\\mathbf{HCl \\xrightarrow{H_2O} H^+ + Cl^-}</latex>."
+  },
+  {
+    "question": "Why does a molecule of carbon tetrachloride (<latex>CCl_4</latex>) not undergo ionization when mixed with water?",
+    "choices": [
+      "Because chlorine is less electronegative than carbon.",
+      "Because the bonds in <latex>CCl_4</latex> are ionic.",
+      "Because <latex>CCl_4</latex> is completely non-polar and hydrophobic, resisting interaction with polar water molecules.",
+      "Because carbon tetrachloride lacks valence electrons."
+    ],
+    "answer": 2,
+    "chapter": "Chemical Bonding",
+    "category": "Understanding",
+    "complexity": "hard",
+    "reason": "For a substance to ionize in water, it needs to be polar so that the dipole of water molecules can pull it apart. <latex>CCl_4</latex> is perfectly symmetrical and non-polar, so water molecules cannot exert sufficient force to break the C-Cl bonds."
+  },
+  {
+    "question": "If you are provided with two unlabeled white solid powders, one being an electrovalent compound and the other a covalent compound, which of the following tests is most definitive to distinguish them?",
+    "choices": [
+      "Check their color in a flame test.",
+      "Measure their electrical conductivity in the solid state.",
+      "Determine their melting point.",
+      "Observe their reaction with dry litmus paper."
+    ],
+    "answer": 2,
+    "chapter": "Chemical Bonding",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Electrovalent (ionic) compounds have significantly high melting points compared to solid covalent compounds. Neither conducts electricity in the solid state. Thus, measuring the melting point is a practical and definitive physical test."
+  },
+  {
+    "question": "When calcium burns in oxygen, what is the electronic configuration of the calcium ion formed?",
+    "choices": [
+      "2, 8, 8, 2",
+      "2, 8, 8",
+      "2, 8",
+      "2, 8, 8, 4"
+    ],
+    "answer": 1,
+    "chapter": "Chemical Bonding",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Calcium has an atomic number of 20 with a configuration of 2, 8, 8, 2. To achieve a stable octet, it loses its 2 outermost electrons to oxygen, resulting in a calcium ion (Ca2+) with a configuration of 2, 8, 8. <latex>\\mathbf{Ca \\rightarrow Ca^{2+} + 2e^-}</latex>."
+  },
+  {
+    "question": "Assertion (A): Covalent compounds generally exist as gases, liquids, or soft solids at room temperature.\nReason (R): They are composed of distinct molecules held together by weak intermolecular van der Waals forces.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 0,
+    "chapter": "Chemical Bonding",
+    "category": "Understanding",
+    "complexity": "medium",
+    "reason": "Because the intermolecular forces holding the molecules together are weak (compared to strong electrostatic forces in ionic lattices), low thermal energy at room temperature is sufficient to keep them loosely packed as liquids or gases."
+  },
+  {
+    "question": "Assertion (A): Sodium chloride does not conduct electricity in the solid state but conducts when dissolved in water.\nReason (R): Water is a non-polar solvent that causes the sodium and chloride ions to fuse together, facilitating electron flow.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 2,
+    "chapter": "Chemical Bonding",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "The assertion is true: solid NaCl doesn't conduct due to immobile ions, but aqueous NaCl does. However, the reason is completely incorrect. Water is a polar solvent, and it causes dissociation (separation) of ions, not their fusion. Free mobile ions, not electrons, carry the current."
+  },
+  {
+    "question": "Assertion (A): The bond formed between a hydrogen atom and a chlorine atom in HCl is purely covalent.\nReason (R): Chlorine and hydrogen share a pair of electrons, but chlorine is far more electronegative, resulting in a polar covalent bond.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 3,
+    "chapter": "Chemical Bonding",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "The assertion is incorrect because the bond in HCl is not 'purely' covalent; a purely covalent bond implies equal sharing (non-polar), such as in Cl2 or H2. Due to the electronegativity difference, the bond in HCl is polar covalent, possessing partial ionic character. The reason accurately describes this."
+  },
+  {
+    "question": "Assertion (A): In the formation of coordinate bonding in the hydronium ion, an empty orbital of the hydrogen ion accommodates the lone pair of electrons from the oxygen atom.\nReason (R): A coordinate bond strictly requires one participating atom to have a lone pair and the other atom to be severely electron-deficient.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 0,
+    "chapter": "Chemical Bonding",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "The hydrogen ion (H+) has lost its only electron, leaving an empty 1s orbital. Water's oxygen has two lone pairs. Oxygen donates a pair into H+'s empty orbital. Thus, the definition of a coordinate bond explains the assertion perfectly. <latex>\\mathbf{H_2O + H^+ \\rightarrow H_3O^+}</latex>."
+  },
+  {
+    "question": "Assertion (A): Elements of Group 1 and Group 17 are highly likely to form covalent bonds with each other.\nReason (R): They have a large electronegativity difference, facilitating the transfer of electrons.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 3,
+    "chapter": "Chemical Bonding",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Group 1 elements (alkali metals) and Group 17 elements (halogens) form electrovalent (ionic) bonds, not covalent bonds. The large electronegativity difference leads to complete electron transfer, producing ions, as correctly stated in the reason. Therefore, the assertion is false."
+  },
+  {
+    "question": "Assertion (A): Carbon tetrachloride has polar covalent bonds but is a non-polar molecule.\nReason (R): The tetrahedral symmetry of the molecule causes the individual bond dipoles to cancel each other out.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 0,
+    "chapter": "Chemical Bonding",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "Because Chlorine is more electronegative than Carbon, the C-Cl bonds are polar. However, the vector sum of these four dipole moments in the symmetrical tetrahedral structure of <latex>CCl_4</latex> is zero, making the molecule entirely non-polar."
+  },
+  {
+    "question": "Assertion (A): An atom of nitrogen needs to share three electron pairs with another nitrogen atom to achieve stability.\nReason (R): Nitrogen has an atomic number of 7 and requires three electrons to complete its octet.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 0,
+    "chapter": "Chemical Bonding",
+    "category": "Understanding",
+    "complexity": "medium",
+    "reason": "Nitrogen's electronic configuration is 2, 5. It lacks 3 electrons to achieve a stable octet (8). By sharing 3 of its electrons with another nitrogen atom (which also shares 3), a triple covalent bond is formed, satisfying the octet for both."
+  },
+  {
+    "question": "Assertion (A): Electrovalent compounds display structural isomerism in space.\nReason (R): Electrovalent bonds are non-directional and consist of an electrostatic field uniformly spread around the ion.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 3,
+    "chapter": "Chemical Bonding",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "Electrovalent compounds do NOT exhibit structural isomerism. Isomerism is a property of covalent molecules, where bonds are rigid and directional. Because electrostatic attraction operates in all directions uniformly, ionic lattices lack directional spatial arrangements required for isomerism."
+  },
+  {
+    "question": "Assertion (A): Ammonium chloride undergoes thermal dissociation upon heating to form ammonia and hydrogen chloride gases.\nReason (R): Ammonium chloride solely consists of coordinate and covalent bonds that easily break upon mild heating.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 2,
+    "chapter": "Chemical Bonding",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "The assertion is correct; NH4Cl decomposes into NH3 and HCl upon heating. However, the reason is incorrect because NH4Cl contains an electrovalent (ionic) bond between the ammonium ion and the chloride ion, in addition to covalent and coordinate bonds."
+  },
+  {
+    "question": "Assertion (A): In a water molecule, the H-O-H bond angle is not exactly 180 degrees, making it a bent, polar molecule.\nReason (R): The two lone pairs of electrons on the oxygen atom repel the bonded pairs, compressing the bond angle.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 0,
+    "chapter": "Chemical Bonding",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "VSEPR theory states that lone pair-lone pair and lone pair-bond pair repulsions are stronger than bond pair-bond pair repulsions. Oxygen's two lone pairs push the hydrogen atoms closer together, distorting the geometry into a bent shape and preventing dipole cancellation, rendering the molecule polar."
+  },
+  {
+    "question": "Phosphorus acid (H3PO3) contains three hydrogen atoms per molecule but acts as a dibasic acid. Which of the following statements correctly explains this behavior?",
+    "choices": [
+      "All three hydrogen atoms are directly bonded to the phosphorus atom, but only two undergo ionization.",
+      "Only two hydrogen atoms are attached to oxygen atoms and are replaceable, while the third is directly bonded to phosphorus.",
+      "Phosphorus acid undergoes incomplete ionization due to strong intramolecular hydrogen bonding.",
+      "The third hydrogen atom is lost only at extremely high temperatures."
+    ],
+    "answer": 1,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Understanding",
+    "complexity": "hard",
+    "reason": "In oxyacids of phosphorus, only the hydrogen atoms attached directly to oxygen atoms are replaceable. In H3PO3, two hydrogen atoms are bonded to oxygen and one directly to phosphorus, making it dibasic."
+  },
+  {
+    "question": "Lead(IV) oxide reacts with concentrated hydrochloric acid to form lead(II) chloride, water, and chlorine gas. Why is lead(IV) oxide NOT classified as a basic oxide?",
+    "choices": [
+      "It reacts with an acid to produce a gas along with salt and water.",
+      "It is amphoteric in nature and reacts with both acids and bases.",
+      "It produces lead(II) chloride which is insoluble in cold water.",
+      "It only reacts with concentrated acids and not dilute acids."
+    ],
+    "answer": 0,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "A basic oxide must react with an acid to form salt and water *only*. Since chlorine gas is also produced in the reaction <latex>\\mathbf{PbO_2 + 4HCl \\rightarrow PbCl_2 + Cl_2 + 2H_2O}</latex>, it does not fit the definition of a base."
+  },
+  {
+    "question": "Nitrogen dioxide is referred to as a \"mixed\" or \"double\" acid anhydride. Which of the following chemical equations correctly justifies this classification?",
+    "choices": [
+      "<latex>\\mathbf{2NO_2 + H_2O \\rightarrow HNO_2 + HNO_3}</latex>",
+      "<latex>\\mathbf{3NO_2 + H_2O \\rightarrow 2HNO_3 + NO}</latex>",
+      "<latex>\\mathbf{4NO_2 + 2H_2O + O_2 \\rightarrow 4HNO_3}</latex>",
+      "<latex>\\mathbf{NO_2 + H_2O \\rightarrow HNO_3 + H}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Nitrogen dioxide dissolves in water to yield a mixture of two acids: nitrous acid (HNO2) and nitric acid (HNO3). <latex>\\mathbf{2NO_2 + H_2O \\rightarrow HNO_2 + HNO_3}</latex>."
+  },
+  {
+    "question": "When sodium chloride is reacted with concentrated sulphuric acid, the nature of the products heavily depends on the temperature. Which of the following equations represents the reaction occurring above 200°C?",
+    "choices": [
+      "<latex>\\mathbf{NaCl + H_2SO_4 \\rightarrow NaHSO_4 + HCl}</latex>",
+      "<latex>\\mathbf{2NaCl + H_2SO_4 \\rightarrow Na_2SO_4 + 2HCl}</latex>",
+      "<latex>\\mathbf{NaCl + H_2SO_4 \\rightarrow Na_2SO_4 + Cl_2 + H_2}</latex>",
+      "<latex>\\mathbf{2NaCl + 2H_2SO_4 \\rightarrow 2NaHSO_4 + Cl_2 + SO_2 + H_2O}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Sulphuric acid is a dibasic acid. Below 200°C, it forms an acid salt (<latex>\\mathbf{NaHSO_4}</latex>). Above 200°C, both replaceable hydrogen ions are substituted, forming the normal salt (<latex>\\mathbf{Na_2SO_4}</latex>). <latex>\\mathbf{2NaCl + H_2SO_4 \\rightarrow Na_2SO_4 + 2HCl}</latex>."
+  },
+  {
+    "question": "When an aqueous solution of zinc sulphate reacts with an excess of sodium hydroxide, what is the final observable outcome?",
+    "choices": [
+      "A gelatinous white precipitate of zinc hydroxide remains insoluble.",
+      "A pale blue precipitate of zinc hydroxide dissolves to form a clear solution.",
+      "A gelatinous white precipitate of zinc hydroxide forms and then dissolves to form sodium zincate.",
+      "A dirty green precipitate forms which rapidly turns brown."
+    ],
+    "answer": 2,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "Zinc hydroxide is amphoteric. It initially forms a gelatinous white precipitate, which dissolves in excess strong alkali (NaOH or KOH) to form a soluble complex salt, sodium zincate. <latex>\\mathbf{Zn(OH)_2 + 2NaOH \\rightarrow Na_2ZnO_2 + 2H_2O}</latex>."
+  },
+  {
+    "question": "Which of the following correctly represents the chemical equation for the oxidation of solid phosphorus using concentrated nitric acid?",
+    "choices": [
+      "<latex>\\mathbf{P + 3HNO_3 \\rightarrow H_3PO_3 + 3NO_2}</latex>",
+      "<latex>\\mathbf{P + 5HNO_3 \\rightarrow H_3PO_4 + H_2O + 5NO_2}</latex>",
+      "<latex>\\mathbf{P_4 + 10HNO_3 \\rightarrow 4H_3PO_4 + 10NO + H_2O}</latex>",
+      "<latex>\\mathbf{P + 5HNO_3 \\rightarrow HPO_3 + 2H_2O + 5NO_2}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Non-metals like phosphorus are oxidized by concentrated nitric acid to their corresponding highest oxy-acids (phosphoric acid). <latex>\\mathbf{P + 5HNO_3 \\rightarrow H_3PO_4 + H_2O + 5NO_2}</latex>."
+  },
+  {
+    "question": "Tribasic acids can form multiple types of salts based on the proportion of the base added. When two moles of sodium hydroxide react with one mole of phosphoric acid, what is the name of the salt formed?",
+    "choices": [
+      "Monosodium dihydrogen phosphate",
+      "Disodium hydrogen phosphate",
+      "Trisodium phosphate",
+      "Sodium phosphite"
+    ],
+    "answer": 1,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Phosphoric acid (H3PO4) has three replaceable hydrogen atoms. Reacting it with 2 moles of NaOH replaces two hydrogen atoms, forming an acid salt. <latex>\\mathbf{2NaOH + H_3PO_4 \\rightarrow Na_2HPO_4 + 2H_2O}</latex> (Disodium hydrogen phosphate)."
+  },
+  {
+    "question": "Lead carbonate does not readily react with dilute hydrochloric acid or dilute sulphuric acid to yield carbon dioxide. What is the primary chemical reason for this inertness?",
+    "choices": [
+      "Lead carbonate is highly stable and does not decompose below 500°C.",
+      "The reaction produces insoluble salts (lead chloride or lead sulphate) which coat the carbonate, halting the reaction.",
+      "Lead carbonate is uniquely basic and neutralizes the acids without evolving any gas.",
+      "Dilute acids act as oxidizing agents rather than typical acids towards lead salts."
+    ],
+    "answer": 1,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "If the salt produced in the reaction is insoluble (like <latex>\\mathbf{PbCl_2}</latex> or <latex>\\mathbf{PbSO_4}</latex>), it forms a protective layer over the unreacted carbonate, thereby stopping the reaction from proceeding."
+  },
+  {
+    "question": "Very dilute nitric acid (about 1%) reacts with magnesium to evolve hydrogen gas, an exception to its typical behavior as a strong oxidizing agent. Which equation represents this reaction?",
+    "choices": [
+      "<latex>\\mathbf{Mg + 2HNO_3 \\rightarrow Mg(NO_3)_2 + H_2}</latex>",
+      "<latex>\\mathbf{3Mg + 8HNO_3 \\rightarrow 3Mg(NO_3)_2 + 2NO + 4H_2O}</latex>",
+      "<latex>\\mathbf{4Mg + 10HNO_3 \\rightarrow 4Mg(NO_3)_2 + N_2O + 5H_2O}</latex>",
+      "<latex>\\mathbf{Mg + 2HNO_3 \\rightarrow MgO + NO_2 + H_2O}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "While concentrated and moderately dilute nitric acid oxidize hydrogen to water, very dilute nitric acid (1%) is a weak enough oxidizing agent to allow magnesium and manganese to liberate hydrogen gas. <latex>\\mathbf{Mg + 2HNO_3 \\rightarrow Mg(NO_3)_2 + H_2}</latex>."
+  },
+  {
+    "question": "During the preparation of hydrogen chloride gas from sodium chloride and concentrated sulphuric acid, the temperature must be kept below 200°C. What is the chemical formula of the salt produced under these specific conditions?",
+    "choices": [
+      "<latex>\\mathbf{Na_2SO_4}</latex>",
+      "<latex>\\mathbf{NaHSO_3}</latex>",
+      "<latex>\\mathbf{NaHSO_4}</latex>",
+      "<latex>\\mathbf{NaCl_2}</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Below 200°C, the reaction involves only the partial replacement of the hydrogen ions of the dibasic sulphuric acid, forming sodium acid sulphate or sodium bisulphate. <latex>\\mathbf{NaCl + H_2SO_4 \\rightarrow NaHSO_4 + HCl}</latex>."
+  },
+  {
+    "question": "A cloth strip treated with an extract of onion is exposed to a sodium hydroxide solution. What happens to the characteristic smell of the onion, and what kind of indicator is it?",
+    "choices": [
+      "The smell is amplified; it is a visual indicator.",
+      "The smell is destroyed; it is an olfactory indicator.",
+      "The smell changes to a sweet fragrance; it is a natural indicator.",
+      "The smell remains unchanged; it is a universal indicator."
+    ],
+    "answer": 1,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Understanding",
+    "complexity": "medium",
+    "reason": "Onion extract is an olfactory indicator, whose smell changes or is destroyed in basic mediums but remains unaffected in acidic mediums."
+  },
+  {
+    "question": "How is silicic acid (H4SiO4) classified based on its basicity?",
+    "choices": [
+      "Monobasic",
+      "Dibasic",
+      "Tribasic",
+      "Tetrabasic"
+    ],
+    "answer": 3,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "Silicic acid (H4SiO4) has a basicity of four, meaning it can produce four hydronium ions per molecule upon ionization in aqueous solution, making it tetrabasic."
+  },
+  {
+    "question": "Why is carbonic acid (H2CO3), despite being an inorganic acid, considered a weak acid?",
+    "choices": [
+      "It completely ionizes in water to form a high concentration of hydronium ions.",
+      "It contains carbon and hydrogen, making it inherently stable.",
+      "It ionizes partially in solution, containing both ions and un-ionized molecules.",
+      "It reacts violently with water to form a weak base."
+    ],
+    "answer": 2,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "Weak acids do not ionize completely in solution. Carbonic acid exists in aqueous solution as a mixture of ions and un-ionized molecules, leading to a low concentration of hydronium ions."
+  },
+  {
+    "question": "Which of the following equations correctly illustrates the neutralization of an insoluble base with a dilute acid to form a soluble salt and water?",
+    "choices": [
+      "<latex>\\mathbf{NaOH + HCl \\rightarrow NaCl + H_2O}</latex>",
+      "<latex>\\mathbf{CuO + H_2SO_4 \\rightarrow CuSO_4 + H_2O}</latex>",
+      "<latex>\\mathbf{Pb(NO_3)_2 + H_2SO_4 \\rightarrow PbSO_4 + 2HNO_3}</latex>",
+      "<latex>\\mathbf{CaCO_3 + 2HCl \\rightarrow CaCl_2 + H_2O + CO_2}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Copper(II) oxide (CuO) is an insoluble base. It reacts with dilute sulphuric acid to form a soluble salt, copper(II) sulphate, and water. <latex>\\mathbf{CuO + H_2SO_4 \\rightarrow CuSO_4 + H_2O}</latex>."
+  },
+  {
+    "question": "Alkalis are basic hydroxides that dissolve in water. When strong alkalis are exposed to the air, they undergo a specific reaction. What product is formed when potassium hydroxide reacts with carbon dioxide in the air?",
+    "choices": [
+      "Potassium bicarbonate",
+      "Potassium carbonate and water",
+      "Potassium oxide and water",
+      "Potassium percarbonate"
+    ],
+    "answer": 1,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Strong alkalis like NaOH and KOH absorb carbon dioxide from the air to form carbonates and water. <latex>\\mathbf{2KOH + CO_2 \\rightarrow K_2CO_3 + H_2O}</latex>."
+  },
+  {
+    "question": "When ammonium salts are warmed with an alkali, a distinct gas is liberated. Which of the following is the correct balanced equation for heating ammonium sulphate with potassium hydroxide?",
+    "choices": [
+      "<latex>\\mathbf{(NH_4)_2SO_4 + KOH \\rightarrow K_2SO_4 + NH_3 + H_2O}</latex>",
+      "<latex>\\mathbf{(NH_4)_2SO_4 + 2KOH \\xrightarrow{\\Delta} K_2SO_4 + 2H_2O + 2NH_3}</latex>",
+      "<latex>\\mathbf{NH_4SO_4 + 2KOH \\xrightarrow{\\Delta} K_2SO_4 + H_2O + NH_3}</latex>",
+      "<latex>\\mathbf{(NH_4)_2SO_4 + 2KOH \\xrightarrow{\\Delta} 2K_2SO_4 + 2H_2O + N_2}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Heating an ammonium salt with an alkali liberates ammonia gas, along with the corresponding salt and water. <latex>\\mathbf{(NH_4)_2SO_4 + 2KOH \\xrightarrow{\\Delta} K_2SO_4 + 2H_2O + 2NH_3}</latex>."
+  },
+  {
+    "question": "Acetic acid is classified as a monobasic acid despite having four hydrogen atoms in its molecular formula (CH3COOH). Which specific reaction shows its ionization to prove it is monobasic?",
+    "choices": [
+      "<latex>\\mathbf{CH_3COOH + 4H_2O \\rightleftharpoons 4H_3O^+ + C_2O_2^{4-}}</latex>",
+      "<latex>\\mathbf{CH_3COOH + 2H_2O \\rightleftharpoons 2H_3O^+ + CH_2COO^{2-}}</latex>",
+      "<latex>\\mathbf{CH_3COOH + H_2O \\rightleftharpoons H_3O^+ + CH_3COO^-}</latex>",
+      "<latex>\\mathbf{CH_3COOH \\rightleftharpoons CH_4 + CO_2}</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Understanding",
+    "complexity": "medium",
+    "reason": "The basicity of an acid is determined by the number of ionizable hydrogen atoms. Acetic acid releases only one hydronium ion per molecule because the other three hydrogens are bonded to carbon and are not ionizable. <latex>\\mathbf{CH_3COOH + H_2O \\rightleftharpoons H_3O^+ + CH_3COO^-}</latex>."
+  },
+  {
+    "question": "Which of the following substances contains butyric acid?",
+    "choices": [
+      "Olive oil",
+      "Grapes",
+      "Rancid butter",
+      "Tomato"
+    ],
+    "answer": 2,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Butyric acid naturally occurs in rancid butter."
+  },
+  {
+    "question": "Identify the incorrect statement regarding the basicity and ionization of acids.",
+    "choices": [
+      "Dibasic acids ionize in two distinct steps.",
+      "The degree of ionization of an acid determines its concentration.",
+      "The basicity of an acid does not depend on the total number of hydrogen atoms it possesses.",
+      "Monobasic acids form only one type of normal salt."
+    ],
+    "answer": 1,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "The degree of ionization determines the strength of an acid, not its concentration. Concentration refers merely to the amount of water present in the acidic solution."
+  },
+  {
+    "question": "Iron(II) sulphate reacts with an aqueous solution of sodium hydroxide to produce a precipitate. What is the color and identity of the precipitate?",
+    "choices": [
+      "Pale blue, Copper(II) hydroxide",
+      "Dirty green, Iron(II) hydroxide",
+      "Reddish-brown, Iron(III) hydroxide",
+      "Gelatinous white, Zinc hydroxide"
+    ],
+    "answer": 1,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "When NaOH is added to a heavy metal salt like iron(II) sulphate, a dirty green precipitate of insoluble iron(II) hydroxide is formed. <latex>\\mathbf{FeSO_4 + 2NaOH \\rightarrow Na_2SO_4 + Fe(OH)_2}</latex>."
+  },
+  {
+    "question": "According to Lavoisier and Davy, which element is compulsorily present in all acids?",
+    "choices": [
+      "Oxygen",
+      "Carbon",
+      "Hydrogen",
+      "Sulphur"
+    ],
+    "answer": 2,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Lavoisier and Davy studied acids scientifically and concluded that all acids compulsorily have hydrogen as their constituent element in the form of a proton (H+)."
+  },
+  {
+    "question": "Which of the following correctly describes a dibasic acid?",
+    "choices": [
+      "It contains exactly two hydrogen atoms.",
+      "It can neutralize exactly one mole of a base.",
+      "It produces two hydronium ions per molecule upon ionization in aqueous solution.",
+      "It reacts only with dibasic metals."
+    ],
+    "answer": 2,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Understanding",
+    "complexity": "medium",
+    "reason": "The basicity of an acid is defined by the number of hydronium ions (H3O+) produced by the ionization of one molecule of the acid. A dibasic acid produces two."
+  },
+  {
+    "question": "Which method involves the preparation of an acid by displacing a more volatile acid from its normal salt using a less volatile acid?",
+    "choices": [
+      "Oxidation of non-metals",
+      "Synthesis of binary acids",
+      "Action of water on acidic anhydrides",
+      "Displacement"
+    ],
+    "answer": 3,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Normal salts of volatile acids react with a less volatile acid (like conc. H2SO4) to produce the volatile acid (like HCl or HNO3). This method is known as displacement."
+  },
+  {
+    "question": "Which of the following is an example of an acid that contains oxygen, hydrogen, and another non-metallic element (oxy-acid)?",
+    "choices": [
+      "Hydrochloric acid",
+      "Hydrobromic acid",
+      "Nitric acid",
+      "Hydriodic acid"
+    ],
+    "answer": 2,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Nitric acid (HNO3) contains oxygen along with hydrogen and nitrogen, making it an oxy-acid. The others are hydracids, which lack oxygen."
+  },
+  {
+    "question": "The reaction between calcium bisulphite and hydrochloric acid liberates a gas. Identify the balanced chemical equation for this reaction.",
+    "choices": [
+      "<latex>\\mathbf{Ca(HSO_3)_2 + 2HCl \\rightarrow CaCl_2 + 2H_2O + 2SO_2}</latex>",
+      "<latex>\\mathbf{CaHSO_3 + HCl \\rightarrow CaCl_2 + H_2O + SO_2}</latex>",
+      "<latex>\\mathbf{Ca(HSO_3)_2 + 2HCl \\rightarrow CaCl_2 + 2H_2S + 3O_2}</latex>",
+      "<latex>\\mathbf{CaHSO_4 + 2HCl \\rightarrow CaCl_2 + H_2O + SO_3}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Acids react with metallic bisulphites to liberate sulphur dioxide. Calcium bisulphite has the formula Ca(HSO3)2. <latex>\\mathbf{Ca(HSO_3)_2 + 2HCl \\rightarrow CaCl_2 + 2H_2O + 2SO_2}</latex>."
+  },
+  {
+    "question": "What is the primary chemical application of Aluminium hydroxide as mentioned in its general uses?",
+    "choices": [
+      "It is used as a foaming agent in fire extinguishers.",
+      "It is used to manufacture refractory bricks.",
+      "It acts as a basic flux in metallurgy.",
+      "It is used for softening hard water."
+    ],
+    "answer": 0,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Recall",
+    "complexity": "hard",
+    "reason": "Aluminium hydroxide is primarily used as a foaming agent in fire extinguishers."
+  },
+  {
+    "question": "What is the acidic anhydride of sulphurous acid?",
+    "choices": [
+      "Sulphur trioxide",
+      "Sulphur dioxide",
+      "Hydrogen sulphide",
+      "Sulphate ion"
+    ],
+    "answer": 1,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Understanding",
+    "complexity": "medium",
+    "reason": "An acidic anhydride dissolves in water to give the acid. Sulphur dioxide (SO2) dissolves in water to give sulphurous acid. <latex>\\mathbf{SO_2 + H_2O \\rightarrow H_2SO_3}</latex>."
+  },
+  {
+    "question": "Hydracids are acids that contain hydrogen and a non-metallic element but absolutely lack which of the following elements?",
+    "choices": [
+      "Carbon",
+      "Sulphur",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "answer": 2,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "Hydracids are defined as acids containing hydrogen and a non-metallic element but containing no oxygen (e.g., HCl, HBr)."
+  },
+  {
+    "question": "Why is it advised to pour acid into water instead of pouring water into concentrated acid during dilution?",
+    "choices": [
+      "Adding water to acid causes the acid to lose its basicity permanently.",
+      "Adding acid to water requires less volume and speeds up the dilution.",
+      "The process is highly endothermic and may freeze the container.",
+      "The process is highly exothermic and can cause splashing and shattering of the container."
+    ],
+    "answer": 3,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "Dilution is highly exothermic. If water is poured into the acid, the sudden and localized heat generation can cause the mixture to boil and splash violently, potentially causing chemical burns or breaking the container."
+  },
+  {
+    "question": "The basicity of an acid is determined by the number of hydronium ions formed. Which acid ionizes in three steps to yield three hydronium ions per molecule?",
+    "choices": [
+      "Sulphuric acid",
+      "Acetic acid",
+      "Phosphoric acid",
+      "Carbonic acid"
+    ],
+    "answer": 2,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Understanding",
+    "complexity": "medium",
+    "reason": "Phosphoric acid (H3PO4) is a tribasic acid, meaning it ionizes in three successive steps, producing three hydronium ions per molecule."
+  },
+  {
+    "question": "Assertion (A): The basicity of phosphorus acid (H3PO3) is 2, making it a dibasic acid.\nReason (R): In oxy-acids of phosphorus, only the hydrogen atoms that are directly bonded to the central phosphorus atom are replaceable.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 2,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "The assertion is true; H3PO3 is indeed dibasic. However, the reason is entirely false. In oxy-acids of phosphorus, the hydrogen atoms attached to oxygen are replaceable, while those directly bonded to phosphorus are NOT replaceable."
+  },
+  {
+    "question": "Assertion (A): Lead(IV) oxide (PbO2) is not classified as a base, despite reacting with hydrochloric acid.\nReason (R): A base must react with an acid to produce salt and water only, whereas PbO2 produces chlorine gas in addition to salt and water.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 0,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Understanding",
+    "complexity": "hard",
+    "reason": "The strict definition of a base/basic oxide is that it reacts with an acid to form salt and water *only*. Since <latex>\\mathbf{PbO_2 + 4HCl \\rightarrow PbCl_2 + Cl_2 + 2H_2O}</latex> produces chlorine gas, it does not fulfill this essential condition. Both statements are true, and R correctly explains A."
+  },
+  {
+    "question": "Assertion (A): Nitrogen dioxide (NO2) is known as a mixed or double acid anhydride.\nReason (R): When nitrogen dioxide dissolves in water, it reacts to form a mixture of two distinct acids: nitrous acid and nitric acid.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 0,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "Nitrogen dioxide reacts with water to give both nitrous acid (HNO2) and nitric acid (HNO3). <latex>\\mathbf{2NO_2 + H_2O \\rightarrow HNO_2 + HNO_3}</latex>. Thus it is a mixed anhydride for these two acids."
+  },
+  {
+    "question": "Assertion (A): Dilute hydrochloric acid is a stronger acid than highly concentrated acetic acid.\nReason (R): The strength of an acid is directly proportional to its physical concentration or the minimal amount of water present in its aqueous solution.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 2,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "The Assertion is true: dilute hydrochloric acid is a strong acid because it ionizes almost completely, whereas concentrated acetic acid is a weak acid. The Reason is false: strength depends on the concentration of hydronium ions produced (degree of ionization), not simply the ratio of acid to water (physical concentration)."
+  },
+  {
+    "question": "Assertion (A): When sodium chloride is reacted with concentrated sulphuric acid above 200°C, the normal salt sodium sulphate is formed.\nReason (R): At elevated temperatures (above 200°C), both replaceable hydrogen ions of the dibasic sulphuric acid are substituted by sodium ions.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 0,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Sulphuric acid is a dibasic acid. Below 200°C, only one hydrogen ion is replaced, forming acid salt (NaHSO4). Above 200°C, both are replaced, forming the normal salt (Na2SO4). <latex>\\mathbf{2NaCl + H_2SO_4 \\rightarrow Na_2SO_4 + 2HCl}</latex>."
+  },
+  {
+    "question": "Assertion (A): Very dilute nitric acid (approximately 1%) reacts with active metals like magnesium to evolve hydrogen gas.\nReason (R): Highly concentrated nitric acid is a weak reducing agent that donates electrons to the hydrogen ions.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 2,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "The assertion is true: Mg and Mn can react with 1% dilute nitric acid to yield hydrogen. <latex>\\mathbf{Mg + 2HNO_3 \\rightarrow Mg(NO_3)_2 + H_2}</latex>. The reason is false because nitric acid is inherently a strong oxidizing agent, not a reducing agent."
+  },
+  {
+    "question": "Assertion (A): Carbonic acid (H2CO3) is a weak mineral acid.\nReason (R): Carbonic acid contains carbon and does not completely ionize in aqueous solution, containing both ions and molecules.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 0,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Understanding",
+    "complexity": "hard",
+    "reason": "Carbonic acid is indeed a mineral acid that happens to contain carbon. It is considered a weak acid because it ionizes only partially in water, meaning the solution consists of undissociated molecules alongside hydronium and carbonate/bicarbonate ions."
+  },
+  {
+    "question": "Assertion (A): Zinc hydroxide, being amphoteric in nature, is completely insoluble in excess sodium hydroxide solution.\nReason (R): Zinc hydroxide reacts with excess sodium hydroxide to form a soluble complex salt known as sodium zincate.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 3,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Analysis",
+    "complexity": "hard",
+    "reason": "The assertion is false because zinc hydroxide dissolves in excess sodium hydroxide. The reason correctly states that it dissolves due to the formation of a soluble salt, sodium zincate. <latex>\\mathbf{Zn(OH)_2 + 2NaOH \\rightarrow Na_2ZnO_2 + 2H_2O}</latex>."
+  },
+  {
+    "question": "Assertion (A): Ammonium hydroxide is classified as a weak alkali.\nReason (R): Ammonium hydroxide is highly soluble in water but remains feebly dissociated or ionized in its aqueous solution.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 0,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Understanding",
+    "complexity": "hard",
+    "reason": "An alkali's strength depends on its degree of ionization. Even though ammonium hydroxide is formed by dissolving highly soluble ammonia in water, it only partially dissociates to yield a low concentration of hydroxyl ions, making it a weak alkali."
+  },
+  {
+    "question": "Assertion (A): When solid potassium hydroxide is exposed to the atmosphere, it absorbs carbon dioxide to form potassium carbonate and water.\nReason (R): Strong alkalis act as basic oxides and neutralize acidic gases like carbon dioxide present in the air.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 0,
+    "chapter": "Acids, Bases and Salts",
+    "category": "Application",
+    "complexity": "hard",
+    "reason": "Strong alkalis like KOH and NaOH are very basic and readily absorb the acidic gas CO2 from the air, undergoing a neutralization reaction to form metal carbonates and water. <latex>\\mathbf{2KOH + CO_2 \\rightarrow K_2CO_3 + H_2O}</latex>."
+  }
+  
+  
+]
