@@ -1,0 +1,1543 @@
+[
+  {
+    "question": "Which of the following complex ions is formed when a gelatinous white precipitate of zinc hydroxide dissolves in an excess of ammonium hydroxide?",
+    "choices": [
+      "Sodium zincate",
+      "Tetraammine zinc(II) sulphate",
+      "Tetraammine zinc hydroxide",
+      "Potassium zincate"
+    ],
+    "answer": 2,
+    "chapter": "Analytical Chemistry",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "When zinc hydroxide is treated with excess ammonium hydroxide, it dissolves to form a soluble complex called Tetraammine zinc hydroxide. The equation is <latex>\\mathbf{Zn(OH)_2 + 4NH_4OH \\rightarrow [Zn(NH_3)_4](OH)_2 + 4H_2O}</latex>."
+  },
+  {
+    "question": "A metal 'X' reacts with boiling caustic soda solution to form a colourless soluble salt and liberates hydrogen gas. However, when 'X' reacts with fused caustic soda, a different salt 'Y' is formed. Identify 'Y'.",
+    "choices": [
+      "Sodium meta aluminate",
+      "Sodium aluminate (Na3AlO3)",
+      "Sodium zincate",
+      "Sodium plumbite"
+    ],
+    "answer": 1,
+    "chapter": "Analytical Chemistry",
+    "category": "Application",
+    "complexity": "high",
+    "reason": "Aluminium reacts with boiling aqueous NaOH to form sodium meta aluminate (<latex>\\mathbf{NaAlO_2}</latex>), but with fused NaOH, it produces sodium aluminate. The equation is <latex>\\mathbf{2Al + 6NaOH \\rightarrow 2Na_3AlO_3 + 3H_2}</latex>."
+  },
+  {
+    "question": "In qualitative analysis, an unknown salt solution produces a pale blue precipitate with ammonium hydroxide. Upon adding excess ammonium hydroxide, the precipitate dissolves to yield a deep blue solution. What is the balanced equation for the formation of the deep blue solution from the precipitate?",
+    "choices": [
+      "<latex>\\mathbf{Cu(OH)_2 + 4NH_4OH \\rightarrow [Cu(NH_3)_4](OH)_2 + 4H_2O}</latex>",
+      "<latex>\\mathbf{CuSO_4 + 2NH_4OH \\rightarrow Cu(OH)_2 + (NH_4)_2SO_4}</latex>",
+      "<latex>\\mathbf{Cu(OH)_2 + 2NH_4OH \\rightarrow [Cu(NH_3)_4]SO_4 + 2H_2O}</latex>",
+      "<latex>\\mathbf{Cu(OH)_2 + 4NH_4OH \\rightarrow Cu(NH_4)_4(OH)_2 + 4H_2O}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Analytical Chemistry",
+    "category": "Application",
+    "complexity": "high",
+    "reason": "The pale blue precipitate is Copper(II) hydroxide. It dissolves in excess ammonium hydroxide to form Tetraammine copper hydroxide. <latex>\\mathbf{Cu(OH)_2 + 4NH_4OH \\rightarrow [Cu(NH_3)_4](OH)_2 + 4H_2O}</latex>."
+  },
+  {
+    "question": "Why does a calcium salt solution fail to produce a precipitate when ammonium hydroxide is added to it, even in excess?",
+    "choices": [
+      "Calcium hydroxide is highly soluble in aqueous ammonia.",
+      "The concentration of hydroxyl ions from the ionization of ammonium hydroxide is too low to precipitate calcium hydroxide.",
+      "Calcium forms a soluble complex with ammonia.",
+      "Ammonium hydroxide acts as an acid in the presence of calcium ions."
+    ],
+    "answer": 1,
+    "chapter": "Analytical Chemistry",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "Ammonium hydroxide is a weak base and partially ionizes. The concentration of OH- ions is so low that the ionic product does not exceed the solubility product of calcium hydroxide, hence no precipitation occurs."
+  },
+  {
+    "question": "An aqueous solution of salt 'A' gives a reddish-brown precipitate with sodium hydroxide which remains insoluble in excess alkali. Identify the anion that could be present if the salt 'A' is yellow in solution.",
+    "choices": [
+      "Sulphate ion",
+      "Nitrate ion",
+      "Chloride ion",
+      "Carbonate ion"
+    ],
+    "answer": 2,
+    "chapter": "Analytical Chemistry",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "The reddish-brown precipitate insoluble in excess NaOH indicates the presence of Iron(III) or Ferric ion (<latex>\\mathbf{Fe^{3+}}</latex>). Ferric chloride solution is yellow, meaning the anion is the chloride ion."
+  },
+  {
+    "question": "Which of the following balanced chemical equations correctly represents the amphoteric nature of Lead(II) oxide when it reacts with an alkali?",
+    "choices": [
+      "<latex>\\mathbf{PbO + 2NaOH \\rightarrow Na_2PbO_2 + H_2}</latex>",
+      "<latex>\\mathbf{PbO + 2NaOH \\rightarrow Na_2PbO_2 + H_2O}</latex>",
+      "<latex>\\mathbf{PbO + NaOH \\rightarrow NaPbO_2 + H_2O}</latex>",
+      "<latex>\\mathbf{Pb(OH)_2 + 2NaOH \\rightarrow Na_2PbO_2 + 2H_2O}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Analytical Chemistry",
+    "category": "Understanding",
+    "complexity": "high",
+    "reason": "Lead oxide (PbO) is an amphoteric oxide. It reacts with alkalis like NaOH to form a salt (Sodium plumbite) and water. <latex>\\mathbf{PbO + 2NaOH \\rightarrow Na_2PbO_2 + H_2O}</latex>."
+  },
+  {
+    "question": "You are given a solution of Zinc sulphate. Which of the following observations will uniquely distinguish the action of sodium hydroxide from the action of ammonium hydroxide on this solution?",
+    "choices": [
+      "Sodium hydroxide forms a white precipitate; ammonium hydroxide forms no precipitate.",
+      "Sodium hydroxide forms a precipitate soluble in excess; ammonium hydroxide forms a precipitate insoluble in excess.",
+      "There is no visual way to distinguish them as both form a white gelatinous precipitate that is soluble in excess of the respective reagent.",
+      "Ammonium hydroxide produces a dirty green precipitate, while sodium hydroxide produces a white precipitate."
+    ],
+    "answer": 2,
+    "chapter": "Analytical Chemistry",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "Both NaOH and NH4OH form a gelatinous white precipitate of <latex>\\mathbf{Zn(OH)_2}</latex> when added dropwise to zinc salts. Furthermore, in both cases, the precipitate dissolves in excess reagent forming sodium zincate and tetraammine zinc sulphate respectively, making them visually identical in this specific test."
+  },
+  {
+    "question": "What is the colour of the complex salt formed when excess ammonium hydroxide is added to a solution of copper(II) sulphate?",
+    "choices": [
+      "Pale blue",
+      "Chalky white",
+      "Colourless",
+      "Deep blue"
+    ],
+    "answer": 3,
+    "chapter": "Analytical Chemistry",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "The pale blue precipitate of copper(II) hydroxide dissolves in excess ammonium hydroxide to form a soluble complex, Tetraammine copper(II) sulphate, which yields a deep blue solution."
+  },
+  {
+    "question": "Which of the following pairs of cations can be distinguished by using excess ammonium hydroxide solution?",
+    "choices": [
+      "Lead(II) ion and Zinc(II) ion",
+      "Ferrous ion and Ferric ion",
+      "Calcium ion and Lead(II) ion",
+      "Sodium ion and Potassium ion"
+    ],
+    "answer": 0,
+    "chapter": "Analytical Chemistry",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "Lead(II) forms a chalky white precipitate of <latex>\\mathbf{Pb(OH)_2}</latex> which is INSOLUBLE in excess <latex>\\mathbf{NH_4OH}</latex>. Zinc(II) forms a gelatinous white precipitate of <latex>\\mathbf{Zn(OH)_2}</latex> which is SOLUBLE in excess <latex>\\mathbf{NH_4OH}</latex>. Hence, they can be distinguished."
+  },
+  {
+    "question": "Identify the balanced equation for the action of sodium hydroxide on ammonium sulphate.",
+    "choices": [
+      "<latex>\\mathbf{(NH_4)_2SO_4 + 2NaOH \\rightarrow Na_2SO_4 + 2H_2O + 2NH_3}</latex>",
+      "<latex>\\mathbf{NH_4SO_4 + NaOH \\rightarrow NaSO_4 + H_2O + NH_3}</latex>",
+      "<latex>\\mathbf{(NH_4)_2SO_4 + NaOH \\rightarrow Na_2SO_4 + H_2O + NH_3}</latex>",
+      "<latex>\\mathbf{(NH_4)_2SO_4 + 2NaOH \\rightarrow Na_2SO_4 + 2NH_4OH}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Analytical Chemistry",
+    "category": "Application",
+    "complexity": "high",
+    "reason": "When ammonium salts are heated with alkalis, ammonia gas is evolved. The balanced chemical equation is <latex>\\mathbf{(NH_4)_2SO_4 + 2NaOH \\rightarrow Na_2SO_4 + 2H_2O + 2NH_3}</latex>."
+  },
+  {
+    "question": "During qualitative analysis, why is it specifically instructed to add the alkali reagent (like NaOH or NH4OH) drop by drop rather than pouring it all at once?",
+    "choices": [
+      "To prevent the reaction from becoming too exothermic.",
+      "To ensure that all the metal ions are neutralized simultaneously.",
+      "To avoid missing a precipitate that forms initially but redissolves in excess alkali.",
+      "To speed up the rate of the precipitation reaction."
+    ],
+    "answer": 2,
+    "chapter": "Analytical Chemistry",
+    "category": "Understanding",
+    "complexity": "medium",
+    "reason": "If the alkali is added too quickly in a large amount, the initial precipitate (like zinc or lead hydroxide) might form and immediately dissolve in the excess alkali, making it easy to miss the observation of the precipitate itself."
+  },
+  {
+    "question": "A salt solution of a transition element is pink. Which of the following ions is most likely responsible for this colour?",
+    "choices": [
+      "Chromium ion",
+      "Permanganate ion",
+      "Dichromate ion",
+      "Cupric ion"
+    ],
+    "answer": 1,
+    "chapter": "Analytical Chemistry",
+    "category": "Recall",
+    "complexity": "high",
+    "reason": "According to the table of coloured ions, the Permanganate ion (<latex>\\mathbf{MnO_4^-}</latex>) is pink or purple, and the Manganese ion (<latex>\\mathbf{Mn^{2+}}</latex>) is pink. Chromium is green, Dichromate is orange, and Cupric is blue."
+  },
+  {
+    "question": "Which of the following compounds exhibits dual character and can react with both hydrochloric acid and potassium hydroxide?",
+    "choices": [
+      "Iron(III) hydroxide",
+      "Copper(II) oxide",
+      "Aluminium oxide",
+      "Calcium hydroxide"
+    ],
+    "answer": 2,
+    "chapter": "Analytical Chemistry",
+    "category": "Application",
+    "complexity": "high",
+    "reason": "Aluminium oxide (<latex>\\mathbf{Al_2O_3}</latex>) is amphoteric. It reacts with acids as well as strong alkalis (like KOH) to form salt and water. <latex>\\mathbf{Al_2O_3 + 2KOH \\rightarrow 2KAlO_2 + H_2O}</latex>."
+  },
+  {
+    "question": "When iron(II) sulphate reacts with sodium hydroxide, a dirty green, gelatinous precipitate is formed. What is the correct chemical equation for this reaction?",
+    "choices": [
+      "<latex>\\mathbf{FeSO_4 + 2NaOH \\rightarrow Fe(OH)_2 + Na_2SO_4}</latex>",
+      "<latex>\\mathbf{Fe_2(SO_4)_3 + 6NaOH \\rightarrow 2Fe(OH)_3 + 3Na_2SO_4}</latex>",
+      "<latex>\\mathbf{FeSO_4 + 2NaOH \\rightarrow Fe(OH)_3 + Na_2SO_4}</latex>",
+      "<latex>\\mathbf{FeSO_4 + NaOH \\rightarrow FeOH + NaSO_4}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Analytical Chemistry",
+    "category": "Understanding",
+    "complexity": "medium",
+    "reason": "Ferrous sulphate contains <latex>\\mathbf{Fe^{2+}}</latex> ions which react with NaOH to form a dirty green precipitate of Ferrous hydroxide. <latex>\\mathbf{FeSO_4 + 2NaOH \\rightarrow Fe(OH)_2\\downarrow + Na_2SO_4}</latex>."
+  },
+  {
+    "question": "Identify the colour of the chromate ion (<latex>\\mathbf{CrO_4^{2-}}</latex>).",
+    "choices": [
+      "Orange",
+      "Yellow",
+      "Green",
+      "Pink"
+    ],
+    "answer": 1,
+    "chapter": "Analytical Chemistry",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The chromate ion (<latex>\\mathbf{CrO_4^{2-}}</latex>) is characteristically yellow in colour, whereas the dichromate ion is orange."
+  },
+  {
+    "question": "An unknown metallic oxide reacts with caustic potash to form a colourless, soluble complex salt called potassium plumbite and water. Identify the metallic oxide.",
+    "choices": [
+      "Zinc oxide",
+      "Aluminium oxide",
+      "Lead(II) oxide",
+      "Copper(II) oxide"
+    ],
+    "answer": 2,
+    "chapter": "Analytical Chemistry",
+    "category": "Application",
+    "complexity": "high",
+    "reason": "Lead(II) oxide (PbO) is amphoteric and reacts with potassium hydroxide (caustic potash) to form Potassium plumbite. <latex>\\mathbf{PbO + 2KOH \\rightarrow K_2PbO_2 + H_2O}</latex>."
+  },
+  {
+    "question": "A chalky white precipitate is formed when a metal salt solution is treated with sodium hydroxide. The precipitate dissolves completely when excess sodium hydroxide is added. However, when treated with excess ammonium hydroxide, the precipitate does not dissolve. Identify the metal ion.",
+    "choices": [
+      "Zinc ion",
+      "Calcium ion",
+      "Aluminium ion",
+      "Lead(II) ion"
+    ],
+    "answer": 3,
+    "chapter": "Analytical Chemistry",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "Lead(II) forms <latex>\\mathbf{Pb(OH)_2}</latex>, which is a chalky white precipitate. It is amphoteric and dissolves in excess strong alkali (NaOH) to form Sodium plumbite, but remains insoluble in the weak alkali, excess <latex>\\mathbf{NH_4OH}</latex>."
+  },
+  {
+    "question": "Which among the following metals will NOT displace hydrogen gas from hot, concentrated sodium hydroxide?",
+    "choices": [
+      "Zinc",
+      "Aluminium",
+      "Iron",
+      "Lead"
+    ],
+    "answer": 2,
+    "chapter": "Analytical Chemistry",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "Zinc, Aluminium, and Lead are metals with amphoteric nature and react with hot concentrated alkalis to liberate hydrogen. Iron is not amphoteric and does not react with alkalis to liberate hydrogen."
+  },
+  {
+    "question": "What happens when lead reacts with boiling caustic potash?",
+    "choices": [
+      "It forms a white precipitate of lead hydroxide.",
+      "It forms potassium plumbite and liberates hydrogen gas.",
+      "It forms potassium plumbate and water.",
+      "There is no reaction as lead does not react with alkalis."
+    ],
+    "answer": 1,
+    "chapter": "Analytical Chemistry",
+    "category": "Understanding",
+    "complexity": "high",
+    "reason": "Lead reacts with hot concentrated alkalis (like KOH) to form the corresponding soluble salt (Potassium plumbite) and liberates hydrogen gas. <latex>\\mathbf{Pb + 2KOH \\rightarrow K_2PbO_2 + H_2}</latex>."
+  },
+  {
+    "question": "Which of the following elements belongs to the 'representative elements' and forms colourless salts?",
+    "choices": [
+      "Chromium",
+      "Iron",
+      "Magnesium",
+      "Nickel"
+    ],
+    "answer": 2,
+    "chapter": "Analytical Chemistry",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "Salts of representative elements (Groups 1, 2, 13 to 17) like Magnesium are generally colourless. Chromium, Iron, and Nickel are transition elements and form coloured salts."
+  },
+  {
+    "question": "What is the colour of the precipitate formed when sodium hydroxide is added to Calcium nitrate solution?",
+    "choices": [
+      "Chalky white",
+      "Gelatinous white",
+      "Sparingly soluble white",
+      "Dirty green"
+    ],
+    "answer": 2,
+    "chapter": "Analytical Chemistry",
+    "category": "Understanding",
+    "complexity": "medium",
+    "reason": "Calcium salts react with NaOH to form a sparingly soluble white precipitate of Calcium hydroxide. <latex>\\mathbf{Ca(NO_3)_2 + 2NaOH \\rightarrow Ca(OH)_2\\downarrow + 2NaNO_3}</latex>."
+  },
+  {
+    "question": "Which of the following equations accurately depicts the reaction between zinc oxide and hydrochloric acid?",
+    "choices": [
+      "<latex>\\mathbf{ZnO + 2HCl \\rightarrow ZnCl_2 + H_2O}</latex>",
+      "<latex>\\mathbf{ZnO + 2HCl \\rightarrow ZnCl_2 + H_2}</latex>",
+      "<latex>\\mathbf{ZnO + HCl \\rightarrow ZnCl + H_2O}</latex>",
+      "<latex>\\mathbf{Zn(OH)_2 + 2HCl \\rightarrow ZnCl_2 + 2H_2O}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Analytical Chemistry",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Zinc oxide acts as a base when reacting with an acid like HCl, forming salt and water. <latex>\\mathbf{ZnO + 2HCl \\rightarrow ZnCl_2 + H_2O}</latex>."
+  },
+  {
+    "question": "Which transition metal cation forms a pale green solution?",
+    "choices": [
+      "Ferric ion",
+      "Ferrous ion",
+      "Cupric ion",
+      "Chromium ion"
+    ],
+    "answer": 1,
+    "chapter": "Analytical Chemistry",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The Ferrous ion (<latex>\\mathbf{Fe^{2+}}</latex>) is light/pale green in colour."
+  },
+  {
+    "question": "Identify the complex formed when the precipitate of Copper(II) hydroxide is dissolved in a solvent containing excess ammonium sulphate and ammonium hydroxide.",
+    "choices": [
+      "Tetraammine copper hydroxide",
+      "Tetraammine copper(II) sulphate",
+      "Ammonium cuprate",
+      "Sodium cuprate"
+    ],
+    "answer": 1,
+    "chapter": "Analytical Chemistry",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "The reaction involves both the ammonium sulphate formed during precipitation and the excess ammonium hydroxide. <latex>\\mathbf{Cu(OH)_2 + (NH_4)_2SO_4 + 2NH_4OH \\rightarrow [Cu(NH_3)_4]SO_4 + 4H_2O}</latex>, forming Tetraammine copper(II) sulphate."
+  },
+  {
+    "question": "If you are given an unknown colourless solution and adding NaOH produces no precipitate but heating it evolves a gas that gives dense white fumes with HCl, the cation present is:",
+    "choices": [
+      "Ammonium ion",
+      "Calcium ion",
+      "Zinc ion",
+      "Lead(II) ion"
+    ],
+    "answer": 0,
+    "chapter": "Analytical Chemistry",
+    "category": "Application",
+    "complexity": "high",
+    "reason": "Ammonium salts do not form metallic hydroxide precipitates. Instead, when heated with NaOH, they evolve ammonia gas (<latex>\\mathbf{NH_3}</latex>), which gives dense white fumes with HCl. <latex>\\mathbf{NH_4Cl + NaOH \\xrightarrow{\\Delta} NaCl + H_2O + NH_3\\uparrow}</latex>."
+  },
+  {
+    "question": "What is the primary purpose of Qualitative analysis in chemistry?",
+    "choices": [
+      "To determine the percentage composition of a mixture.",
+      "To calculate the empirical formula of a compound.",
+      "To identify the unknown chemical components or substances in a given sample.",
+      "To measure the exact concentration of an acid or base."
+    ],
+    "answer": 2,
+    "chapter": "Analytical Chemistry",
+    "category": "Understanding",
+    "complexity": "low",
+    "reason": "Qualitative analysis involves the identification of unknown substances using chemical tests with reagents, whereas quantitative analysis determines the composition or amounts."
+  },
+  {
+    "question": "A white precipitate of lead hydroxide is uniquely distinct from other white precipitates because it is readily soluble in which of the following substances?",
+    "choices": [
+      "Ammonium hydroxide",
+      "Acetic acid",
+      "Water",
+      "Ferric chloride"
+    ],
+    "answer": 1,
+    "chapter": "Analytical Chemistry",
+    "category": "Recall",
+    "complexity": "high",
+    "reason": "As noted in the text, the white precipitate of lead hydroxide (<latex>\\mathbf{Pb(OH)_2}</latex>) is readily soluble in acetic acid."
+  },
+  {
+    "question": "In the reaction between Ferric chloride and Sodium hydroxide, what is the colour of the resulting solution once the precipitate settles?",
+    "choices": [
+      "Yellow",
+      "Colourless",
+      "Reddish brown",
+      "Pale green"
+    ],
+    "answer": 1,
+    "chapter": "Analytical Chemistry",
+    "category": "Understanding",
+    "complexity": "medium",
+    "reason": "Ferric chloride reacts with NaOH to form a reddish-brown precipitate of <latex>\\mathbf{Fe(OH)_3}</latex> and a solution of Sodium chloride, which is colourless. <latex>\\mathbf{FeCl_3 + 3NaOH \\rightarrow Fe(OH)_3\\downarrow + 3NaCl}</latex>."
+  },
+  {
+    "question": "Which of the following is an amphoteric hydroxide?",
+    "choices": [
+      "Calcium hydroxide",
+      "Iron(III) hydroxide",
+      "Aluminium hydroxide",
+      "Copper(II) hydroxide"
+    ],
+    "answer": 2,
+    "chapter": "Analytical Chemistry",
+    "category": "Understanding",
+    "complexity": "medium",
+    "reason": "Aluminium hydroxide (<latex>\\mathbf{Al(OH)_3}</latex>) is amphoteric, meaning it reacts with both acids and strong alkalis to form salt and water."
+  },
+  {
+    "question": "Which of the following equations correctly shows the reaction between aluminium hydroxide and sodium hydroxide?",
+    "choices": [
+      "<latex>\\mathbf{Al(OH)_3 + 3NaOH \\rightarrow Na_3AlO_3 + 3H_2O}</latex>",
+      "<latex>\\mathbf{Al(OH)_3 + NaOH \\rightarrow NaAlO_2 + 2H_2O}</latex>",
+      "<latex>\\mathbf{Al(OH)_3 + 2NaOH \\rightarrow Na_2AlO_2 + 3H_2O}</latex>",
+      "<latex>\\mathbf{2Al(OH)_3 + 6NaOH \\rightarrow 2Na_3AlO_3 + 3H_2}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Analytical Chemistry",
+    "category": "Application",
+    "complexity": "high",
+    "reason": "Aluminium hydroxide reacts with the strong alkali NaOH to form Sodium meta aluminate and water. <latex>\\mathbf{Al(OH)_3 + NaOH \\rightarrow NaAlO_2 + 2H_2O}</latex>."
+  },
+  {
+    "question": "<b>Assertion (A)</b>: Calcium salt solutions do not form a precipitate when ammonium hydroxide is added.<br/><b>Reason (R)</b>: Ammonium hydroxide is a weak alkali and its degree of dissociation is very low, producing insufficient hydroxyl ions to reach the solubility product of calcium hydroxide.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 0,
+    "chapter": "Analytical Chemistry",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "Because ammonium hydroxide is a weak base, the concentration of <latex>\\mathbf{OH^-}</latex> ions is too low to precipitate the sparingly soluble <latex>\\mathbf{Ca(OH)_2}</latex>."
+  },
+  {
+    "question": "<b>Assertion (A)</b>: Zinc hydroxide is soluble in an excess of both sodium hydroxide and ammonium hydroxide.<br/><b>Reason (R)</b>: Zinc hydroxide is an amphoteric hydroxide that forms sodium zincate with excess NaOH and tetraammine zinc sulphate with excess NH4OH.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 0,
+    "chapter": "Analytical Chemistry",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "Zinc hydroxide is unique among the common metal hydroxides tested in that it dissolves in both strong alkali (forming sodium zincate) and weak alkali (forming the tetraammine zinc complex). <latex>\\mathbf{Zn(OH)_2 + 2NaOH \\rightarrow Na_2ZnO_2 + 2H_2O}</latex>."
+  },
+  {
+    "question": "<b>Assertion (A)</b>: The salts of transition elements like Iron, Copper, and Chromium are generally coloured.<br/><b>Reason (R)</b>: Transition elements belong to Groups 1, 2, and 13 to 17 of the modern periodic table.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 2,
+    "chapter": "Analytical Chemistry",
+    "category": "Understanding",
+    "complexity": "medium",
+    "reason": "The assertion is true; salts of transition elements are coloured. However, the reason is false because transition elements belong to Groups 3 to 12. Groups 1, 2, and 13-17 are representative elements."
+  },
+  {
+    "question": "<b>Assertion (A)</b>: When pale blue copper(II) hydroxide is treated with excess ammonium hydroxide, it forms a deep blue solution.<br/><b>Reason (R)</b>: Copper(II) hydroxide is highly amphoteric and neutralizes the basic ammonium hydroxide.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 2,
+    "chapter": "Analytical Chemistry",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "The assertion is true as it forms a deep blue solution of Tetraammine copper(II) sulphate. However, the reason is false because Copper(II) hydroxide is not amphoteric (it does not dissolve in excess NaOH); the dissolution in <latex>\\mathbf{NH_4OH}</latex> is specifically due to complex ammine formation."
+  },
+  {
+    "question": "<b>Assertion (A)</b>: When ammonium chloride is heated with sodium hydroxide, a colourless gas with a pungent smell is evolved.<br/><b>Reason (R)</b>: Alkalis react with ammonium salts to liberate ammonia gas.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 0,
+    "chapter": "Analytical Chemistry",
+    "category": "Understanding",
+    "complexity": "high",
+    "reason": "Heating an ammonium salt with an alkali is a standard method to liberate ammonia gas. <latex>\\mathbf{NH_4Cl + NaOH \\xrightarrow{\\Delta} NaCl + H_2O + NH_3}</latex>. Both statements are correct, and R explains A."
+  },
+  {
+    "question": "<b>Assertion (A)</b>: Lead(II) oxide reacts with both hydrochloric acid and caustic potash to form salt and water.<br/><b>Reason (R)</b>: Lead(II) oxide is an amphoteric oxide.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 0,
+    "chapter": "Analytical Chemistry",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "Amphoteric oxides exhibit dual character, reacting with acids as basic oxides and with alkalis as acidic oxides. <latex>\\mathbf{PbO + 2KOH \\rightarrow K_2PbO_2 + H_2O}</latex>. Both statements are correct, and R correctly explains A."
+  },
+  {
+    "question": "<b>Assertion (A)</b>: Iron(II) sulphate reacts with sodium hydroxide to yield a reddish-brown precipitate.<br/><b>Reason (R)</b>: Iron(II) ions form Iron(II) hydroxide, which is insoluble in excess sodium hydroxide.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 3,
+    "chapter": "Analytical Chemistry",
+    "category": "Understanding",
+    "complexity": "medium",
+    "reason": "The assertion is false because Iron(II) sulphate forms a dirty green precipitate of <latex>\\mathbf{Fe(OH)_2}</latex>, not a reddish-brown one (which is formed by Iron(III)). The reason is factually correct that Iron(II) forms Iron(II) hydroxide which is insoluble."
+  },
+  {
+    "question": "<b>Assertion (A)</b>: The chalky white precipitate of lead hydroxide is readily soluble in excess ammonium hydroxide.<br/><b>Reason (R)</b>: Lead is an amphoteric metal and forms a soluble complex with all alkalis.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 3,
+    "chapter": "Analytical Chemistry",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "The assertion is false; lead hydroxide is insoluble in excess ammonium hydroxide. It only dissolves in strong alkalis like NaOH to form sodium plumbite. Therefore, it does not form a soluble complex with *all* alkalis."
+  },
+  {
+    "question": "<b>Assertion (A)</b>: Aluminium metal liberates hydrogen gas when treated with boiling caustic alkalis.<br/><b>Reason (R)</b>: Aluminium possesses an amphoteric nature, allowing it to react with strong bases to form aluminate salts.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 0,
+    "chapter": "Analytical Chemistry",
+    "category": "Understanding",
+    "complexity": "high",
+    "reason": "Amphoteric metals like Al, Zn, and Pb react with hot concentrated alkalis to liberate hydrogen and form soluble complex salts. <latex>\\mathbf{2Al + 2NaOH + 2H_2O \\rightarrow 2NaAlO_2 + 3H_2}</latex>."
+  },
+  {
+    "question": "<b>Assertion (A)</b>: While adding sodium hydroxide to a metallic salt solution for qualitative analysis, the reagent must be added drop by drop.<br/><b>Reason (R)</b>: Rapid addition might cause the formation of a precipitate that quickly dissolves in the excess reagent without being noticed.",
+    "choices": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct."
+    ],
+    "answer": 0,
+    "chapter": "Analytical Chemistry",
+    "category": "Understanding",
+    "complexity": "medium",
+    "reason": "If an alkali is added too quickly, amphoteric hydroxides (like zinc or lead hydroxide) will form and instantly redissolve into their soluble salt forms (<latex>\\mathbf{Na_2ZnO_2}</latex> or <latex>\\mathbf{Na_2PbO_2}</latex>), causing the analyst to miss the initial precipitation step."
+  },
+  {
+    "question": "What is the volume of oxygen required for the complete combustion of 20 cc of carbon monoxide, and what is the volume of carbon dioxide formed?",
+    "choices": [
+      "10 cc <latex>O_2</latex>, 20 cc <latex>CO_2</latex>",
+      "20 cc <latex>O_2</latex>, 20 cc <latex>CO_2</latex>",
+      "10 cc <latex>O_2</latex>, 10 cc <latex>CO_2</latex>",
+      "40 cc <latex>O_2</latex>, 20 cc <latex>CO_2</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "According to Gay-Lussac's Law, the volumes of gases react in simple whole-number ratios. The equation is <latex>2CO + O_{2} \\rightarrow 2CO_{2}</latex>. Ratio is 2:1:2. Thus, 20 cc of CO reacts with <latex>20 \\times (1/2) = 10\\text{ cc of } O_{2}</latex> to produce <latex>20\\text{ cc of } CO_{2}</latex>."
+  },
+  {
+    "question": "Calculate the mass of calcium carbonate required to produce 11.2 litres of carbon dioxide at S.T.P. (Ca = 40, C = 12, O = 16)",
+    "choices": [
+      "25 g",
+      "50 g",
+      "100 g",
+      "10 g"
+    ],
+    "answer": 1,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "The reaction is <latex>CaCO_{3} \\rightarrow CaO + CO_{2}</latex>. 1 mole of <latex>CaCO_{3}</latex> (100 g) produces 22.4 L of <latex>CO_{2}</latex> at S.T.P. To produce 11.2 L (0.5 moles), the mass required is <latex>100 \\times 0.5 = 50\\text{ g}</latex>."
+  },
+  {
+    "question": "What is the vapour density of a gas if 5.6 litres of it at S.T.P. weighs 11 grams?",
+    "choices": [
+      "22",
+      "44",
+      "11",
+      "5.5"
+    ],
+    "answer": 0,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Molar volume at S.T.P. is 22.4 L. Mass of 22.4 L = <latex>11 \\times (22.4 / 5.6) = 11 \\times 4 = 44\\text{ g}</latex>. Since <latex>Molecular Mass = 2 \\times Vapour Density</latex>, <latex>VD = 44 / 2 = 22</latex>."
+  },
+  {
+    "question": "A hydrocarbon contains 80% carbon and 20% hydrogen. If its vapour density is 15, find its molecular formula.",
+    "choices": [
+      "<latex>CH_{4}</latex>",
+      "<latex>C_{2}H_{4}</latex>",
+      "<latex>C_{2}H_{6}</latex>",
+      "<latex>C_{3}H_{8}</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Moles of C: <latex>80/12 = 6.66</latex>; Moles of H: <latex>20/1 = 20</latex>. Ratio C:H is <latex>1:3</latex>, so empirical formula is <latex>CH_{3}</latex> (mass = 15). Molecular mass = <latex>2 \\times VD = 30</latex>. $n = 30/15 = 2$. Formula is <latex>C_{2}H_{6}</latex>."
+  },
+  {
+    "question": "How many molecules are present in 1.12 litres of oxygen gas at S.T.P.?",
+    "choices": [
+      "<latex>6.022 \\times 10^{23}</latex>",
+      "<latex>3.011 \\times 10^{22}</latex>",
+      "<latex>6.022 \\times 10^{22}</latex>",
+      "<latex>1.204 \\times 10^{23}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "22.4 L contains <latex>6.022 \\times 10^{23}</latex> molecules. Moles in 1.12 L = <latex>1.12 / 22.4 = 0.05</latex> moles. Molecules = <latex>0.05 \\times 6.022 \\times 10^{23} = 3.011 \\times 10^{22}</latex>."
+  },
+  {
+    "question": "If 60 cc of hydrogen and 40 cc of oxygen are exploded in a eudiometer tube, what is the composition of the resulting mixture after cooling to room temperature?",
+    "choices": [
+      "10 cc Oxygen",
+      "20 cc Hydrogen",
+      "100 cc Steam",
+      "70 cc Mixture"
+    ],
+    "answer": 0,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Reaction: <latex>2H_{2} + O_{2} \\rightarrow 2H_{2}O</latex>. 60 cc <latex>H_{2}</latex> requires <latex>30\\text{ cc } O_{2}</latex>. Oxygen is in excess. Remaining <latex>O_{2} = 40 - 30 = 10\\text{ cc}</latex>. Since water is liquid at room temperature, its volume is neglected. Result: 10 cc Oxygen."
+  },
+  {
+    "question": "What is the percentage of nitrogen in urea, <latex>NH_{2}CONH_{2}</latex>? (N = 14, C = 12, O = 16, H = 1)",
+    "choices": [
+      "28%",
+      "46.67%",
+      "35%",
+      "50%"
+    ],
+    "answer": 1,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Molecular mass of urea = <latex>(14 \\times 2) + 12 + 16 + (1 \\times 4) = 28 + 12 + 16 + 4 = 60</latex>. Mass of Nitrogen = 28. Percentage = <latex>(28 / 60) \\times 100 = 46.67%</latex>."
+  },
+  {
+    "question": "A gas has an empirical formula <latex>CH_{2}</latex> and a vapour density of 42. Its molecular formula is:",
+    "choices": [
+      "<latex>C_{3}H_{6}</latex>",
+      "<latex>C_{4}H_{8}</latex>",
+      "<latex>C_{5}H_{10}</latex>",
+      "<latex>C_{6}H_{12}</latex>"
+    ],
+    "answer": 3,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Empirical formula mass (<latex>CH_{2}</latex>) = <latex>12 + 2 = 14</latex>. Molecular mass = <latex>2 \\times VD = 2 \\times 42 = 84</latex>. $n = 84 / 14 = 6$. Molecular formula = <latex>C_{6}H_{12}</latex>."
+  },
+  {
+    "question": "Calculate the number of grams of magnesium required to produce 1120 cc of hydrogen at S.T.P. by reaction with dilute HCl. (Mg = 24)",
+    "choices": [
+      "1.2 g",
+      "2.4 g",
+      "0.6 g",
+      "12 g"
+    ],
+    "answer": 0,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Reaction: <latex>Mg + 2HCl \\rightarrow MgCl_{2} + H_{2}</latex>. 24 g Mg produces 22400 cc <latex>H_{2}</latex>. For 1120 cc <latex>H_{2}</latex>, Mg needed = <latex>(24 \\times 1120) / 22400 = 1.2\\text{ g}</latex>."
+  },
+  {
+    "question": "What is the mass of 5.6 litres of ammonia gas at S.T.P.? (N = 14, H = 1)",
+    "choices": [
+      "4.25 g",
+      "8.5 g",
+      "17 g",
+      "2.125 g"
+    ],
+    "answer": 0,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Molar mass of <latex>NH_{3} = 17\\text{ g}</latex>. 22.4 L weighs 17 g. Thus, 5.6 L weighs <latex>17 \\times (5.6 / 22.4) = 17 / 4 = 4.25\\text{ g}</latex>."
+  },
+  {
+    "question": "How many atoms of oxygen are present in 4.4 grams of carbon dioxide?",
+    "choices": [
+      "<latex>6.022 \\times 10^{22}</latex>",
+      "<latex>1.204 \\times 10^{23}</latex>",
+      "<latex>6.022 \\times 10^{23}</latex>",
+      "<latex>1.204 \\times 10^{22}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Moles of <latex>CO_{2} = 4.4 / 44 = 0.1</latex>. One molecule of <latex>CO_{2}</latex> has 2 oxygen atoms. Total O atoms = <latex>0.1 \\times 2 \\times 6.022 \\times 10^{23} = 1.204 \\times 10^{23}</latex>."
+  },
+  {
+    "question": "What volume of oxygen is needed to completely burn 100 cc of acetylene (<latex>C_{2}H_{2}</latex>)?",
+    "choices": [
+      "100 cc",
+      "200 cc",
+      "250 cc",
+      "500 cc"
+    ],
+    "answer": 2,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Reaction: <latex>2C_{2}H_{2} + 5O_{2} \\rightarrow 4CO_{2} + 2H_{2}O</latex>. Ratio is 2:5. For 100 cc <latex>C_{2}H_{2}</latex>, oxygen required = <latex>100 \\times (5/2) = 250\\text{ cc}</latex>."
+  },
+  {
+    "question": "The number of moles of water in 90 g of water is:",
+    "choices": [
+      "1",
+      "2",
+      "5",
+      "10"
+    ],
+    "answer": 2,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Numerical",
+    "complexity": "medium",
+    "reason": "Molar mass of <latex>H_{2}O = 18\\text{ g}</latex>. Number of moles = <latex>90 / 18 = 5</latex>."
+  },
+  {
+    "question": "A gas has a vapour density of 32. What is its molecular mass?",
+    "choices": [
+      "16",
+      "32",
+      "64",
+      "128"
+    ],
+    "answer": 2,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "<latex>Molecular Mass = 2 \\times Vapour Density = 2 \\times 32 = 64</latex>."
+  },
+  {
+    "question": "Find the number of sulfate ions in 14.2 g of sodium sulfate (<latex>Na_{2}SO_{4}</latex>). (Na = 23, S = 32, O = 16)",
+    "choices": [
+      "<latex>6.022 \\times 10^{22}</latex>",
+      "<latex>1.204 \\times 10^{23}</latex>",
+      "<latex>6.022 \\times 10^{23}</latex>",
+      "<latex>3.011 \\times 10^{22}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Molar mass of <latex>Na_{2}SO_{4} = 142</latex>. Moles = <latex>14.2 / 142 = 0.1</latex>. One mole of <latex>Na_{2}SO_{4}</latex> contains 1 mole of <latex>SO_{4}^{2-}</latex> ions. Ions = <latex>0.1 \\times 6.022 \\times 10^{23} = 6.022 \\times 10^{22}</latex>."
+  },
+  {
+    "question": "What is the volume occupied by 7 g of nitrogen gas at S.T.P.?",
+    "choices": [
+      "22.4 L",
+      "11.2 L",
+      "5.6 L",
+      "2.8 L"
+    ],
+    "answer": 2,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Molar mass of <latex>N_{2} = 28\\text{ g}</latex>. Moles = <latex>7 / 28 = 0.25</latex>. Volume = <latex>0.25 \\times 22.4 = 5.6\\text{ L}</latex>."
+  },
+  {
+    "question": "Percentage of water of crystallization in washing soda (<latex>Na_{2}CO_{3} \\cdot 10H_{2}O</latex>) is: (Na=23, C=12, O=16, H=1)",
+    "choices": [
+      "62.9%",
+      "37.1%",
+      "50%",
+      "10%"
+    ],
+    "answer": 0,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Molar mass = <latex>106 + 180 = 286</latex>. Mass of water = 180. Percentage = <latex>(180 / 286) \\times 100 \\approx 62.9%</latex>."
+  },
+  {
+    "question": "A certain amount of potassium chlorate on heating gave 33.6 litres of oxygen at S.T.P. What is the mass of potassium chlorate used? (K = 39, Cl = 35.5, O = 16)",
+    "choices": [
+      "122.5 g",
+      "245 g",
+      "61.25 g",
+      "183.75 g"
+    ],
+    "answer": 0,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Reaction: <latex>2KClO_{3} \\rightarrow 2KCl + 3O_{2}</latex>. 2 moles of <latex>KClO_{3}</latex> (245 g) produce 3 moles of <latex>O_{2}</latex> (67.2 L). For 33.6 L (half of 67.2), mass needed = <latex>245 / 2 = 122.5\\text{ g}</latex>."
+  },
+  {
+    "question": "Which of the following contains the maximum number of molecules?",
+    "choices": [
+      "1 g of <latex>CO_{2}</latex>",
+      "1 g of <latex>N_{2}</latex>",
+      "1 g of <latex>H_{2}</latex>",
+      "1 g of <latex>CH_{4}</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Conceptual",
+    "complexity": "high",
+    "reason": "Number of molecules = <latex>(\\text{Mass} / \\text{Molar Mass}) \\times N_{A}</latex>. Since mass is constant (1g), the gas with the smallest molar mass has the most molecules. <latex>H_{2}</latex> has the smallest molar mass (2)."
+  },
+  {
+    "question": "Calculating the volume of air (containing 20% oxygen) required to burn 10 cc of methane.",
+    "choices": [
+      "20 cc",
+      "50 cc",
+      "100 cc",
+      "200 cc"
+    ],
+    "answer": 2,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Reaction: <latex>CH_{4} + 2O_{2} \\rightarrow CO_{2} + 2H_{2}O</latex>. 10 cc methane requires 20 cc oxygen. Since air is 20% oxygen, Volume of air = <latex>20 \\times (100 / 20) = 100\\text{ cc}</latex>."
+  },
+  {
+    "question": "Atomic mass of an element is 27. If its chloride has a vapour density of 66.75, what is its molecular formula?",
+    "choices": [
+      "<latex>MCl</latex>",
+      "<latex>MCl_{2}</latex>",
+      "<latex>MCl_{3}</latex>",
+      "<latex>MCl_{4}</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Molecular mass = <latex>2 \\times 66.75 = 133.5</latex>. Let formula be <latex>MCl_{x}</latex>. <latex>27 + 35.5x = 133.5</latex> implies <latex>35.5x = 106.5</latex>, so <latex>x = 3</latex>."
+  },
+  {
+    "question": "How many moles of hydrogen atoms are there in 1 mole of <latex>(NH_{4})_{2}SO_{4}</latex>?",
+    "choices": [
+      "2",
+      "4",
+      "8",
+      "1"
+    ],
+    "answer": 2,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The formula <latex>(NH_{4})_{2}SO_{4}</latex> has <latex>2 \\times 4 = 8</latex> hydrogen atoms in one molecule, hence 8 moles of H atoms in 1 mole of compound."
+  },
+  {
+    "question": "What mass of copper will be obtained by the reduction of 7.95 g of copper oxide with excess hydrogen? (Cu = 63.5, O = 16)",
+    "choices": [
+      "6.35 g",
+      "7.95 g",
+      "3.175 g",
+      "12.7 g"
+    ],
+    "answer": 0,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Reaction: <latex>CuO + H_{2} \\rightarrow Cu + H_{2}O</latex>. Molar mass of <latex>CuO = 63.5 + 16 = 79.5\\text{ g}</latex>. 79.5 g <latex>CuO</latex> gives 63.5 g <latex>Cu</latex>. Thus, 7.95 g <latex>CuO</latex> gives <latex>6.35\\text{ g } Cu</latex>."
+  },
+  {
+    "question": "10 litres of nitrogen and 10 litres of hydrogen are allowed to react. What is the volume of ammonia formed if the reaction is complete? (all at same T, P)",
+    "choices": [
+      "20 L",
+      "6.67 L",
+      "10 L",
+      "15 L"
+    ],
+    "answer": 1,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Reaction: <latex>N_{2} + 3H_{2} \\rightarrow 2NH_{3}</latex>. Ratio 1:3:2. 10 L <latex>H_{2}</latex> reacts with <latex>10/3 = 3.33\\text{ L } N_{2}</latex>. Hydrogen is limiting. Volume of <latex>NH_{3} = 10 \\times (2/3) = 6.67\\text{ L}</latex>."
+  },
+  {
+    "question": "The gram molecular mass of a gas is 32 g. The volume occupied by 16 g of this gas at S.T.P. is:",
+    "choices": [
+      "11.2 L",
+      "22.4 L",
+      "5.6 L",
+      "44.8 L"
+    ],
+    "answer": 0,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Numerical",
+    "complexity": "medium",
+    "reason": "32 g occupies 22.4 L. Therefore, 16 g (0.5 moles) occupies <latex>22.4 \\times 0.5 = 11.2\\text{ L}</latex>."
+  },
+  {
+    "question": "An element 'X' has atomic mass 31. What is the number of atoms in 0.25 moles of <latex>X_{4}</latex> molecules?",
+    "choices": [
+      "<latex>6.022 \\times 10^{23}</latex>",
+      "<latex>1.505 \\times 10^{23}</latex>",
+      "<latex>3.011 \\times 10^{23}</latex>",
+      "<latex>1.204 \\times 10^{24}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "0.25 moles of <latex>X_{4}</latex> molecules contain <latex>0.25 \\times 4 = 1</latex> mole of atoms. 1 mole contains <latex>6.022 \\times 10^{23}</latex> atoms."
+  },
+  {
+    "question": "Identify the gas which has a vapour density of 8.",
+    "choices": [
+      "Oxygen",
+      "Methane",
+      "Nitrogen",
+      "Ammonia"
+    ],
+    "answer": 1,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Recall",
+    "complexity": "medium",
+    "reason": "<latex>Molecular Mass = 2 \\times 8 = 16</latex>. Methane (<latex>CH_{4}</latex>) has a molecular mass of <latex>12 + 4 = 16</latex>."
+  },
+  {
+    "question": "If 112 cc of a gas at S.T.P. weighs 0.32 g, what is its molecular mass?",
+    "choices": [
+      "32",
+      "64",
+      "16",
+      "48"
+    ],
+    "answer": 1,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "112 cc weighs 0.32 g. 22400 cc weighs <latex>0.32 \\times (22400 / 112) = 0.32 \\times 200 = 64\\text{ g}</latex>."
+  },
+  {
+    "question": "What is the relation between Avogadro's number (<latex>N_A</latex>), number of particles (<latex>N</latex>) and moles (<latex>n</latex>)?",
+    "choices": [
+      "<latex>n = N / N_{A}</latex>",
+      "<latex>n = N \\times N_{A}</latex>",
+      "<latex>N = n / N_{A}</latex>",
+      "<latex>N_{A} = n / N</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Recall",
+    "complexity": "low",
+    "reason": "The number of moles is the total number of particles divided by Avogadro's number."
+  },
+  {
+    "question": "Calculate the mass of oxygen produced by the decomposition of 12.25 g of potassium chlorate. (K=39, Cl=35.5, O=16)",
+    "choices": [
+      "4.8 g",
+      "9.6 g",
+      "2.4 g",
+      "3.2 g"
+    ],
+    "answer": 0,
+    "chapter": "Mole Concept and Stoichiometry",
+    "category": "Numerical",
+    "complexity": "high",
+    "reason": "Reaction: <latex>2KClO_{3} \\rightarrow 2KCl + 3O_{2}</latex>. 245 g <latex>KClO_{3}</latex> gives 96 g <latex>O_{2}</latex>. 12.25 g <latex>KClO_{3}</latex> gives <latex>(96 \\times 12.25) / 245 = 4.8\\text{ g}</latex>."
+  },
+  {
+		"question": "Which of the following substances contains both molecules and ions in its aqueous solution?",
+		"choices": [
+		"Dilute hydrochloric acid",
+		"Ammonium hydroxide",
+		"Carbon tetrachloride",
+		"Sodium chloride"
+		],
+		"answer": 1,
+		"chapter": "Electrolysis",
+		"category": "Recall",
+		"complexity": "low",
+		"reason": "Ammonium hydroxide is a weak electrolyte. It undergoes partial dissociation in its aqueous solution, hence it contains both free mobile ions and unionised molecules. <latex>NH_4OH \\rightleftharpoons NH_4^+ + OH^-</latex>."
+   },
+	{
+	"question": "A substance that does not conduct electricity in its solid state but conducts electricity in its molten or aqueous state is called a/an:",
+	"choices": [
+	"Metallic conductor",
+	"Non-electrolyte",
+	"Electrolyte",
+	"Insulator"
+	],
+	"answer": 2,
+	"chapter": "Electrolysis",
+	"category": "Recall",
+	"complexity": "low",
+	"reason": "Electrolytes are ionic compounds that cannot conduct electricity in the solid state due to strong electrostatic forces of attraction. In molten or aqueous states, these forces weaken, freeing the ions to conduct electricity."
+	},
+	{
+	"question": "Which of the following is an example of a non-electrolyte?",
+	"choices": [
+	"Aqueous sodium chloride",
+	"Dilute sulphuric acid",
+	"Pure distilled water",
+	"Molten lead bromide"
+	],
+	"answer": 2,
+	"chapter": "Electrolysis",
+	"category": "Recall",
+	"complexity": "low",
+	"reason": "Pure distilled water consists almost entirely of molecules and lacks free mobile ions, making it a non-electrolyte."
+	},
+	{
+	"question": "During electrolysis, the process that occurs at the anode is:",
+	"choices": [
+	"Reduction",
+	"Oxidation",
+	"Neutralisation",
+	"Precipitation"
+	],
+	"answer": 1,
+	"chapter": "Electrolysis",
+	"category": "Understanding",
+	"complexity": "medium",
+	"reason": "At the anode, anions lose electrons to become neutral atoms or molecules. The loss of electrons is called oxidation. <latex>X^- - e^- \\rightarrow X </latex>."
+	},
+	{
+	"question": "In an electrolytic cell, the cathode is the:",
+	"choices": [
+	"Positive electrode where oxidation occurs",
+	"Negative electrode where oxidation occurs",
+	"Positive electrode where reduction occurs",
+	"Negative electrode where reduction occurs"
+	],
+	"answer": 3,
+	"chapter": "Electrolysis",
+	"category": "Recall",
+	"complexity": "low",
+	"reason": "The cathode is connected to the negative terminal of the battery. Cations migrate towards the cathode and gain electrons, which is a reduction process. <latex>M^+ + e^- \\rightarrow M </latex>."
+	},
+	{
+	"question": "Which of the following ions will be discharged preferentially at the cathode if an aqueous solution contains both ions?",
+	"choices": [
+	"Sodium ion",
+	"Calcium ion",
+	"Hydrogen ion",
+	"Potassium ion"
+	],
+	"answer": 2,
+	"chapter": "Electrolysis",
+	"category": "Application",
+	"complexity": "medium",
+	"reason": "According to the electrochemical series, hydrogen is placed below sodium, calcium, and potassium. Ions lower in the series have a lower discharge potential and are preferentially discharged. <latex>H^+ + e^- \\rightarrow H.</latex>"
+	},
+	{
+	"question": "Which of the following anions requires the least energy to get discharged at the anode?",
+	"choices": [
+	"Sulphate ion",
+	"Nitrate ion",
+	"Chloride ion",
+	"Hydroxyl ion"
+	],
+	"answer": 3,
+	"chapter": "Electrolysis",
+	"category": "Understanding",
+	"complexity": "medium",
+	"reason": "In the electrochemical series for anions, the hydroxyl ion (OH-) is placed lowest, meaning it has the lowest discharge potential and gives up its electrons most readily. <latex>4OH^- - 4e^- \\rightarrow 2H_2O + O_2</latex>."
+	},
+	{
+	"question": "The crucible used during the electrolysis of molten lead bromide is made of:",
+	"choices": [
+	"Graphite",
+	"Silica",
+	"Iron",
+	"Copper"
+	],
+	"answer": 1,
+	"chapter": "Electrolysis",
+	"category": "Recall",
+	"complexity": "low",
+	"reason": "A silica crucible is used because it can withstand high temperatures required to melt lead bromide and it is almost a non-conductor of electricity."
+	},
+	{
+	"question": "During the electrolysis of molten lead bromide, the observation at the anode is:",
+	"choices": [
+	"Silvery grey deposit",
+	"Evolution of a colourless gas",
+	"Evolution of reddish-brown vapours",
+	"A blue solution is formed"
+	],
+	"answer": 2,
+	"chapter": "Electrolysis",
+	"category": "Understanding",
+	"complexity": "medium",
+	"reason": "At the anode, bromide ions are oxidised to form bromine gas, which evolves as reddish-brown vapours. <latex>2Br^- - 2e^- \\\rightarrow Br_2 \\uparrow</latex>."
+	},
+	{
+	"question": "In the electrolysis of molten lead bromide, why is graphite preferred as the anode over platinum?",
+	"choices": [
+	"Graphite is a better conductor than platinum",
+	"Graphite is unaffected by reactive bromine vapours",
+	"Graphite is cheaper than platinum",
+	"Graphite acts as a catalyst"
+	],
+	"answer": 1,
+	"chapter": "Electrolysis",
+	"category": "Analysis",
+	"complexity": "high",
+	"reason": "Bromine vapours evolved at the anode are highly reactive and can attack platinum, but graphite remains unaffected by these reactive vapours."
+	},
+	{
+	"question": "Why is dilute sulphuric acid added to pure water for its electrolysis?",
+	"choices": [
+	"To increase the volume of water",
+	"To decrease the temperature of water",
+	"To increase the electrical conductivity of water",
+	"To prevent the evaporation of water"
+	],
+	"answer": 2,
+	"chapter": "Electrolysis",
+	"category": "Understanding",
+	"complexity": "medium",
+	"reason": "Pure water is almost a non-conductor of electricity. Addition of a few drops of dilute sulphuric acid provides free mobile ions, increasing its conductivity. <latex>H_2SO_4 \\rightleftharpoons 2H^+ + SO_4^{2-}</latex>."
+	},
+	{
+	"question": "In the electrolysis of acidified water, what is the ratio of the volume of hydrogen gas to oxygen gas collected?",
+	"choices": [
+	"1 : 2",
+	"2 : 1",
+	"1 : 1",
+	"1 : 8"
+	],
+	"answer": 1,
+	"chapter": "Electrolysis",
+	"category": "Recall",
+	"complexity": "low",
+	"reason": "The electrolysis of acidified water decomposes water molecules, producing two volumes of hydrogen gas at the cathode for every one volume of oxygen gas at the anode. <latex>2H_2O \\rightarrow 2H_2 + O_2</latex>."
+	},
+	{
+	"question": "Which of the following acids is preferred for acidifying water during electrolysis?",
+	"choices": [
+	"Dilute hydrochloric acid",
+	"Dilute nitric acid",
+	"Dilute sulphuric acid",
+	"Concentrated nitric acid"
+	],
+	"answer": 2,
+	"chapter": "Electrolysis",
+	"category": "Application",
+	"complexity": "medium",
+	"reason": "Dilute sulphuric acid is preferred because it is non-volatile. Nitric acid and hydrochloric acid are volatile and may interfere with the gases evolved."
+	},
+	{
+	"question": "What reaction takes place at the anode during the electrolysis of acidified water?",
+	"choices": [
+	"<latex>H^+ + e^- \\rightarrow H</latex>",
+	"<latex>2H^+ + 2e^- \\rightarrow H_2</latex>",
+	"<latex>4OH^- - 4e^- \\rightarrow 2H_2O + O_2</latex>",
+	"<latex>SO_4^{2-} - 2e^- \\rightarrow SO_4</latex>"
+	],
+	"answer": 2,
+	"chapter": "Electrolysis",
+	"category": "Understanding",
+	"complexity": "medium",
+	"reason": "At the anode, OH- ions are discharged in preference to SO4 2- ions because they are lower in the electrochemical series. They lose electrons to form water and oxygen gas. <latex>4OH^- - 4e^- \\rightarrow 2H_2O + O_2 \\uparrow.</latex>"
+	},
+	{
+	"question": "During the electrolysis of aqueous copper (II) sulphate using copper electrodes, the colour of the electrolyte:",
+	"choices": [
+	"Fades gradually",
+	"Becomes colourless",
+	"Turns green",
+	"Remains unchanged"
+	],
+	"answer": 3,
+	"chapter": "Electrolysis",
+	"category": "Analysis",
+	"complexity": "high",
+	"reason": "The blue colour of the solution is due to Cu2+ ions. During electrolysis with active copper electrodes, Cu2+ ions discharged at the cathode are continuously replenished by the dissolution of the copper anode. <latex>Cu - 2e^- \\rightarrow Cu^{2+}</latex>."
+	},
+	{
+	"question": "If platinum electrodes are used instead of copper electrodes for the electrolysis of aqueous copper (II) sulphate, the reaction at the anode will be:",
+	"choices": [
+	"<latex>Cu - 2e^- \\rightarrow Cu^{2+}</latex>",
+	"<latex>4OH^- - 4e^- \\rightarrow 2H_2O + O_2</latex>",
+	"<latex>SO_4^{2-} - 2e^- \\rightarrow SO_4</latex>",
+	"<latex>Cu^{2+} + 2e^- \\rightarrow Cu</latex>"
+	],
+	"answer": 1,
+	"chapter": "Electrolysis",
+	"category": "Application",
+	"complexity": "high",
+	"reason": "Platinum is an inert electrode. Therefore, it does not dissolve. Instead, the OH- ions from water are preferentially discharged at the anode to produce oxygen gas. <latex>4OH^- - 4e^- \\rightarrow 2H_2O + O_2 \\uparrow.</latex>"
+	},		
+	{
+	"question": "The process of depositing a thin, uniform layer of a superior metal over a baser metal by means of electrolysis is called:",
+	"choices": [
+	"Electro-refining",
+	"Electro-metallurgy",
+	"Electroplating",
+	"Galvanization"
+	],
+	"answer": 2,
+	"chapter": "Electrolysis",
+	"category": "Recall",
+	"complexity": "low",
+	"reason": "Electroplating is the process of coating an electrically conductive object with a thin layer of a precious or superior metal using an electrolytic cell."
+	},
+	{
+	"question": "In electroplating an article with silver, the article to be plated is made the:",
+	"choices": [
+	"Anode",
+	"Cathode",
+	"Electrolyte",
+	"Salt bridge"
+	],
+	"answer": 1,
+	"chapter": "Electrolysis",
+	"category": "Understanding",
+	"complexity": "medium",
+	"reason": "The article to be electroplated must be made the cathode (negative electrode) so that the positively charged metal ions from the electrolyte migrate towards it, gain electrons, and deposit as metal atoms."
+	},
+	{
+	"question": "Which electrolyte is chosen for electroplating an article with silver?",
+	"choices": [
+	"Aqueous silver nitrate",
+	"Aqueous silver chloride",
+	"Aqueous sodium argentocyanide",
+	"Molten silver bromide"
+	],
+	"answer": 2,
+	"chapter": "Electrolysis",
+	"category": "Application",
+	"complexity": "high",
+	"reason": "Sodium argentocyanide <latex>(Na[Ag(CN)_2])</latex> is a complex salt that dissociates slowly, providing a steady and low concentration of Ag+ ions. This ensures a smooth and uniform deposit of silver. Silver nitrate provides ions too rapidly, resulting in an uneven deposit."
+	},
+	{
+	"question": "During the electro-refining of a metal, the impure metal is made the:",
+	"choices": [
+	"Cathode",
+	"Anode",
+	"Electrolyte",
+	"Container"
+	],
+	"answer": 1,
+	"chapter": "Electrolysis",
+	"category": "Understanding",
+	"complexity": "medium",
+	"reason": "In electro-refining, the thick block of impure metal is made the anode. As current passes, the active metal atoms undergo oxidation, lose electrons, and dissolve into the solution as ions. <latex>M \\rightarrow M^{n+} + ne^-</latex>."
+	},
+	{
+	"question": "What is used as the cathode in the electro-refining of copper?",
+	"choices": [
+	"A thick block of impure copper",
+	"A graphite rod",
+	"A pure thin copper strip",
+	"A platinum foil"
+	],
+	"answer": 2,
+	"chapter": "Electrolysis",
+	"category": "Recall",
+	"complexity": "low",
+	"reason": "A thin sheet or strip of pure copper is used as the cathode. As the process proceeds, pure copper from the electrolyte gets deposited on it, increasing its thickness."
+	},
+	{
+	"question": "Which of the following represents the ionization of sodium argentocyanide?",
+	"choices": [
+	"<latex>Na[Ag(CN)_2] \\rightleftharpoons Na^+ + Ag^+ + 2CN^-</latex>",
+	"<latex>Na[Ag(CN)_2] \\rightleftharpoons Na^+ + [Ag(CN)_2]^-</latex>",
+	"<latex>Na[Ag(CN)_2] \\rightleftharpoons NaAg^{2+} + 2CN^-</latex>",
+	"<latex>Na[Ag(CN)_2] \\rightleftharpoons Ag^+ + NaCN</latex>"
+	],
+	"answer": 1,
+	"chapter": "Electrolysis",
+	"category": "Analysis",
+	"complexity": "high",
+	"reason": "Sodium argentocyanide first ionizes completely into sodium ions and argentocyanide complex ions. The complex ion then dissociates slightly to give a slow and continuous supply of silver ions: <latex>Na[Ag(CN)_2] \\rightleftharpoons Na^+ + [Ag(CN)_2]^- and then [Ag(CN)_2]^- \rightleftharpoons Ag^+ + 2CN^-</latex>."
+	},
+	{
+	"question": "Which of the following is NOT a condition for electroplating?",
+	"choices": [
+	"The article to be plated must be the cathode",
+	"A direct current (D.C.) should be used",
+	"The electrolyte must contain ions of the metal to be plated",
+	"A high alternating current (A.C.) should be used for a uniform coating"
+	],
+	"answer": 3,
+	"chapter": "Electrolysis",
+	"category": "Understanding",
+	"complexity": "medium",
+	"reason": "Direct current (D.C.) is required for electroplating. If alternating current (A.C.) is used, the polarity of electrodes changes rapidly, which means discharge and dissolution will alternate, resulting in no effective deposition."
+	},
+	{
+	"question": "During the electrolysis of aqueous copper sulphate using active electrodes, the impurities from the anode settle down. This is known as:",
+	"choices": [
+	"Cathode mud",
+	"Electrolytic precipitate",
+	"Anode mud",
+	"Galvanic sediment"
+	],
+	"answer": 2,
+	"chapter": "Electrolysis",
+	"category": "Recall",
+	"complexity": "low",
+	"reason": "The insoluble impurities present in the impure metal block (anode) fall to the bottom of the electrolytic cell during electro-refining and are collectively called anode mud or anode slime."
+	},
+	{
+	"question": "Why is solid lead bromide virtually a non-conductor of electricity?",
+	"choices": [
+	"It consists of molecules only",
+	"Its ions are held by strong electrostatic forces of attraction",
+	"It is a non-metal",
+	"It dissolves in water"
+	],
+	"answer": 1,
+	"chapter": "Electrolysis",
+	"category": "Understanding",
+	"complexity": "medium",
+	"reason": "In solid lead bromide, the Pb2+ and Br- ions are held rigidly in the crystal lattice by strong electrostatic forces. They are not free to migrate and conduct electricity until molten."
+	},
+	{
+	"question": "Which of the following represents the cathodic reaction in electroplating an article with nickel?",
+	"choices": [
+	"<latex>Ni \\rightarrow Ni^{2+} + 2e^-</latex>",
+	"<latex>Ni^{2+} + 2e^- \\rightarrow Ni</latex>",
+	"<latex>4OH^- \\rightarrow 2H_2O + O_2 + 4e^-</latex>",
+	"<latex>2H^+ + 2e^- \\rightarrow H_2</latex>"
+	],
+	"answer": 1,
+	"chapter": "Electrolysis",
+	"category": "Application",
+	"complexity": "medium",
+	"reason": "At the cathode, nickel ions from the aqueous nickel sulphate electrolyte gain electrons and get deposited as neutral nickel atoms on the article. <latex>Ni^{2+} + 2e^- \\rightarrow Ni</latex>."
+	},
+	{
+	"question": "A strong electrolyte has:",
+	"choices": [
+	"A low degree of dissociation",
+	"Almost 100% degree of dissociation",
+	"No ions in its solution",
+	"Molecules primarily conducting electricity"
+	],
+	"answer": 1,
+	"chapter": "Electrolysis",
+	"category": "Recall",
+	"complexity": "low",
+	"reason": "Strong electrolytes ionize almost completely in their aqueous solution or molten state, providing a high concentration of free mobile ions. Example: <latex>NaCl (aq) \\rightarrow Na^+ + Cl^-.</latex>"
+	},
+	{
+	"question": "The selective discharge of ions at an electrode does NOT depend on:",
+	"choices": [
+	"The position of the ion in the electrochemical series",
+	"The concentration of the ions in the electrolyte",
+	"The nature of the electrode used",
+	"The volume of the electrolytic cell"
+	],
+	"answer": 3,
+	"chapter": "Electrolysis",
+	"category": "Understanding",
+	"complexity": "medium",
+	"reason": "Selective discharge depends on three main factors: the relative position of ions in the electrochemical series, the concentration of the respective ions, and the nature of the electrodes (active or inert)."
+	},
+	{
+	"question": "What is the function of the external battery in an electrolytic cell?",
+	"choices": [
+	"To provide the salt for the electrolyte",
+	"To produce electrical energy from a chemical reaction",
+	"To act as a catalyst",
+	"To provide direct current that forces the non-spontaneous chemical reaction"
+	],
+	"answer": 3,
+	"chapter": "Electrolysis",
+	"category": "Understanding",
+	"complexity": "low",
+	"reason": "Electrolysis converts electrical energy into chemical energy. The external battery pumps electrons into the cathode and pulls them from the anode, driving the non-spontaneous decomposition of the electrolyte."
+	},
+	{
+	"question": "Which of the following compounds will not conduct electricity either in molten state or in aqueous solution?",
+	"choices": [
+	"Sugar",
+	"Sodium hydroxide",
+	"Potassium chloride",
+	"Sulphuric acid"
+	],
+	"answer": 0,
+	"chapter": "Electrolysis",
+	"category": "Application",
+	"complexity": "low",
+	"reason": "Sugar is a covalent compound that contains only molecules. It does not undergo ionization or dissociation, hence its solution lacks free mobile ions to conduct electricity."
+	},
+	{
+	"question": "<b>Assertion (A)</b>: During the electrolysis of molten lead bromide, lead is deposited at the cathode. <b>Reason (R)</b>: Lead ions are positively charged and migrate towards the negatively charged cathode.",
+	"choices": [
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+	"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+	"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
+	],
+	"answer": 0,
+	"chapter": "Electrolysis",
+	"category": "Analysis",
+	"complexity": "medium",
+	"reason": "Lead ions (Pb2+) are cations. In an electrolytic cell, cations are attracted to the cathode (negative electrode) where they gain electrons and get reduced to form lead metal. <latex>Pb^{2+} + 2e^- \\rightarrow Pb</latex>."
+	},
+	{
+	"question": "<b>Assertion (A)</b>: Solid sodium chloride does not conduct electricity, but its aqueous solution does. <b>Reason (R)</b>: Water is a good conductor of electricity.",
+	"choices": [
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+	"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+	"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
+	],
+	"answer": 2,
+	"chapter": "Electrolysis",
+	"category": "Analysis",
+	"complexity": "high",
+	"reason": "Solid NaCl has ions held by strong electrostatic forces. In water, it dissociates into free ions <latex>(Na^+ and Cl^-)</latex> which conduct electricity. Pure water itself is almost a non-conductor, making <b>Reason (R)</b> false."
+	},
+	{
+	"question": "<b>Assertion (A)</b>: During the electrolysis of aqueous copper (II) sulphate using copper electrodes, the blue colour of the solution remains unchanged. <b>Reason (R)</b>: Copper (II) ions discharged at the cathode are replenished by the oxidation of the copper anode.",
+	"choices": [
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+	"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+	"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
+	],
+	"answer": 0,
+	"chapter": "Electrolysis",
+	"category": "Analysis",
+	"complexity": "high",
+	"reason": "When active copper electrodes are used, the copper anode dissolves to form Cu2+ ions (Cu \rightarrow Cu^{2+} + 2e^-) at the exact same rate that Cu2+ ions deposit at the cathode, keeping the concentration of the blue Cu2+ ions constant."
+	},
+	{
+	"question": "<b>Assertion (A)</b>: Aqueous solution of ammonium hydroxide is a weak electrolyte. <b>Reason (R)</b>: Ammonium hydroxide contains both ions and unionised molecules in its aqueous solution.",
+	"choices": [
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+	"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+	"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
+	],
+	"answer": 0,
+	"chapter": "Electrolysis",
+	"category": "Analysis",
+	"complexity": "medium",
+	"reason": "Weak electrolytes undergo partial dissociation. Ammonium hydroxide is a weak base and only partially dissociates to yield a low concentration of <latex>NH_4^+ and OH^-</latex> ions, leaving most of it as unionised molecules."
+	},
+	{
+	"question": "<b>Assertion (A)</b>: In the electrochemical series, hydrogen is placed above copper. <b>Reason (R)</b>: Hydrogen ions require more energy to get discharged at the cathode compared to copper ions.",
+	"choices": [
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+	"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+	"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
+	],
+	"answer": 0,
+	"chapter": "Electrolysis",
+	"category": "Analysis",
+	"complexity": "high",
+	"reason": "Elements lower in the electrochemical series have a lower discharge potential. Since copper is placed below hydrogen, Cu2+ ions discharge more easily than H+ ions. Thus, H+ requires more energy."
+	},
+	{
+	"question": "<b>Assertion (A)</b>: Silver nitrate solution is preferred over sodium argentocyanide for the electroplating of an article with silver. <br/><b>Reason (R)</b>: Silver nitrate is a strong electrolyte and provides a very rapid supply of silver ions.",
+	"choices": [
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+	"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+	"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
+	],
+	"answer": 3,
+	"chapter": "Electrolysis",
+	"category": "Analysis",
+	"complexity": "high",
+	"reason": "<b>Assertion (A)</b> is false because sodium argentocyanide is preferred. <b>Reason (R)</b> is true; silver nitrate is a strong electrolyte that supplies ions too rapidly, resulting in an uneven and non-adherent silver coating."
+	},
+	{
+	"question": "<b>Assertion (A)</b>: Dilute nitric acid is not used to acidify water for electrolysis. <b>Reason (R)</b>: Nitric acid is a strong oxidizing agent and a volatile acid.",
+	"choices": [
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+	"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+	"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
+	],
+	"answer": 0,
+	"chapter": "Electrolysis",
+	"category": "Analysis",
+	"complexity": "medium",
+	"reason": "Volatile acids like dilute nitric acid or hydrochloric acid can vaporize and interfere with the process and the gases evolved. Dilute sulphuric acid is non-volatile and is strictly preferred."
+	},
+	{
+	"question": "<b>Assertion (A)</b>: During electrolysis, oxidation always occurs at the anode. <b>Reason (R)</b>: Anions migrate to the anode and lose electrons.",
+	"choices": [
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+	"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+	"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
+	],
+	"answer": 0,
+	"chapter": "Electrolysis",
+	"category": "Analysis",
+	"complexity": "medium",
+	"reason": "Oxidation is the loss of electrons. At the anode (positive electrode), negative ions (anions) lose their extra electrons to become neutral species. <latex>Cl^- \\rightarrow Cl + e^-</latex>."
+	},
+	{
+	"question": "<b>Assertion (A)</b>: Alternating current (A.C.) is used for electroplating purposes. <b>Reason (R)</b>: Alternating current prevents the polarization of the electrodes.",
+	"choices": [
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+	"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+	"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
+	],
+	"answer": 3,
+	"chapter": "Electrolysis",
+	"category": "Analysis",
+	"complexity": "medium",
+	"reason": "<b>Assertion (A)</b> is false because Direct Current (D.C.) is mandatory for electroplating to maintain consistent polarity. <b>Reason (R)</b> is technically true as A.C. reverses polarity and prevents polarization, but it ruins electroplating."
+	},
+	{
+	"question": "<b>Assertion (A)</b>: A concentrated aqueous solution of sodium chloride is electrolysed using inert electrodes. The gas evolved at the anode is chlorine. <b>Reason (R)</b>: Due to high concentration, chloride ions are preferentially discharged over hydroxyl ions at the anode.",
+	"choices": [
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+	"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+	"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
+	],
+	"answer": 0,
+	"chapter": "Electrolysis",
+	"category": "Analysis",
+	"complexity": "high",
+	"reason": "Although OH- ions are lower in the electrochemical series, a very high concentration of Cl- ions overrides the discharge potential factor, causing Cl- to be preferentially discharged to form chlorine gas. <latex>2Cl^- - 2e^- \\rightarrow Cl_2 \\uparrow </latex>."
+	}
+	
+]
