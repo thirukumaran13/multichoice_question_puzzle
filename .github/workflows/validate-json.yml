@@ -6,8 +6,8 @@ on:
       - main
       - master
     paths:
-      - 'multichoice_question_puzzle/questions/*.json'
-      - 'multichoice_question_puzzle/validate_json.py'
+      - 'questions/*.json'
+      - 'validate_json.py'
 
 jobs:
   validate-json:
@@ -27,4 +27,4 @@ jobs:
         run: pip install jsonschema
 
       - name: Validate JSON schemas
-        run: python multichoice_question_puzzle/validate_json.py
+        run: python validate_json.py
