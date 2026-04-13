@@ -570,7 +570,7 @@
     "answer": 1,
     "chapter": "Periodic table",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Although electron affinity generally decreases down a group, Chlorine has a higher electron affinity than Fluorine. This is because Fluorine has an exceptionally small atomic size, leading to strong inter-electronic repulsions in its 2p subshell, which makes the addition of an extra electron less favorable compared to Chlorine. <latex>\\mathbf{Cl + e^- \\rightarrow Cl^- + \\text{Energy}}</latex>"
   },
   {
@@ -584,7 +584,7 @@
     "answer": 1,
     "chapter": "Periodic table",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Element X in Group 2 has 2 valence electrons and a valency of +2 (it loses 2 electrons to form a cation). Element Y in Group 15 has 5 valence electrons and needs 3 more to complete its octet, giving it a valency of -3. Cross-multiplying their combining capacities yields the formula <latex>\\mathbf{X_3Y_2}</latex>."
   },
   {
@@ -598,7 +598,7 @@
     "answer": 2,
     "chapter": "Periodic table",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The configuration 2, 8, 8, 2 indicates 4 shells (Period 4) and 2 valence electrons (Group 2), identifying it as Calcium (Ca), a typical metal. Metals form basic oxides, not acidic oxides. When calcium oxide dissolves in water, it forms a base (alkali): <latex>\\mathbf{CaO + H_2O \\rightarrow Ca(OH)_2}</latex>."
   },
   {
@@ -612,7 +612,7 @@
     "answer": 1,
     "chapter": "Periodic table",
     "category": "Understanding",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "As we move down Group 1, the atomic size increases and the ionization potential decreases significantly. This makes it progressively easier for the metal atom to lose its valence electron and for the resulting metal hydroxide to dissociate and yield hydroxide ions in aqueous solution. <latex>\\mathbf{RbOH \\rightarrow Rb^+ + OH^-}</latex>"
   },
   {
@@ -626,7 +626,7 @@
     "answer": 0,
     "chapter": "Periodic table",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "For isoelectronic species (all possessing 10 electrons in this case), the ionic radius inversely correlates with the nuclear charge. Magnesium (12 protons) exerts the strongest attractive pull on the electron cloud, making the magnesium ion the smallest. It is followed by the sodium ion (11 protons), fluoride ion (9 protons), and finally the oxide ion (8 protons), which experiences the weakest nuclear pull."
   },
   {
@@ -640,7 +640,7 @@
     "answer": 2,
     "chapter": "Periodic table",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "A high ionisation potential denotes that removing an electron requires immense energy, while a high electron affinity means the element releases substantial energy when it accepts an electron. These are hallmark traits of highly reactive non-metals (such as halogens), which readily accept electrons to form stable anions, acting as potent oxidising agents. <latex>\\mathbf{E + e^- \\rightarrow E^-}</latex>"
   },
   {
@@ -654,7 +654,7 @@
     "answer": 1,
     "chapter": "Periodic table",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Element 'Z' with an atomic number of 16 is Sulfur, characterized by the electronic configuration 2, 8, 6. Being a non-metal, it forms acidic oxides such as sulfur dioxide (SO2). Upon reacting with water, sulfur dioxide yields sulfurous acid. <latex>\\mathbf{SO_2 + H_2O \\rightarrow H_2SO_3}</latex>"
   },
   {
@@ -668,7 +668,7 @@
     "answer": 2,
     "chapter": "Periodic table",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Element 'X' located in Group 13 and Period 3 is Aluminium (Al), possessing 3 valence electrons and a valency of 3. Oxygen belongs to Group 16 with a valency of 2. Consequently, their chemical combination forms aluminium oxide (Al2O3). The balanced equation is <latex>\\mathbf{4Al + 3O_2 \\rightarrow 2Al_2O_3}</latex>."
   },
   {
@@ -682,7 +682,7 @@
     "answer": 0,
     "chapter": "Periodic table",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Certain elements of the second period exhibit notable similarities in properties with the elements of the third period positioned diagonally to their right. Lithium (Group 1) closely resembles Magnesium (Group 2) in properties such as the formation of partially covalent compounds and the decomposition of their respective carbonates. <latex>\\mathbf{Li_2CO_3 \\xrightarrow{\\Delta} Li_2O + CO_2}</latex>"
   },
   {
@@ -696,7 +696,7 @@
     "answer": 1,
     "chapter": "Periodic table",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Element 'A' is Potassium, a highly reactive alkali metal characterized by a large atomic radius and low electronegativity. Element 'B' is Fluorine, a highly reactive non-metal with a minimal atomic radius and the highest electronegativity. Theoretically moving from A to B corresponds to moving up and to the far right of the table, causing metallic character to plummet and electronegativity to peak. <latex>\\mathbf{2K + F_2 \\rightarrow 2KF}</latex>"
   },
   {
@@ -710,7 +710,7 @@
     "answer": 1,
     "chapter": "Chemical Bonding",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "For an ionic bond to form easily, the metal must easily lose an electron (low ionization potential) and the non-metal must readily accept it (high electron affinity), releasing a large amount of energy. <latex>\\mathbf{M \\rightarrow M^+ + e^-}</latex> and <latex>\\mathbf{X + e^- \\rightarrow X^-}</latex>."
   },
   {
@@ -724,7 +724,7 @@
     "answer": 0,
     "chapter": "Chemical Bonding",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Ammonium chloride (NH4Cl) contains an ionic bond between the ammonium ion and the chloride ion. Within the ammonium ion, there are three covalent bonds between nitrogen and hydrogen, and one coordinate bond where nitrogen donates its lone pair to a hydrogen ion. <latex>\\mathbf{NH_4^+ + Cl^- \\rightarrow NH_4Cl}</latex>."
   },
   {
@@ -752,7 +752,7 @@
     "answer": 2,
     "chapter": "Chemical Bonding",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Carbon tetrachloride is a non-polar covalent compound consisting only of neutral molecules, thus lacking charge carriers. Sodium chloride is an electrovalent compound; melting it breaks the electrostatic forces, freeing the ions to conduct electricity. <latex>\\mathbf{NaCl(l) \\rightarrow Na^+ + Cl^-}</latex>."
   },
   {
@@ -766,7 +766,7 @@
     "answer": 1,
     "chapter": "Chemical Bonding",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Ammonia (<latex>NH_3</latex>) has one lone pair on the Nitrogen atom. The Hydronium ion (<latex>H_3O^+</latex>) is formed when Water (which has two lone pairs) donates one lone pair to H+, leaving it with exactly one lone pair on the Oxygen atom. <latex>\\mathbf{H_2O + H^+ \\rightarrow H_3O^+}</latex>."
   },
   {
@@ -780,7 +780,7 @@
     "answer": 2,
     "chapter": "Chemical Bonding",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "X (Atomic No. 12) is Magnesium (2, 8, 2), a metal. Y (Atomic No. 9) is Fluorine (2, 7), a non-metal. Mg will transfer its 2 valence electrons to two F atoms. The resulting compound is MgF2, and the bond is electrovalent. <latex>\\mathbf{Mg + 2F \\rightarrow Mg^{2+} + 2F^-}</latex>."
   },
   {
@@ -794,7 +794,7 @@
     "answer": 1,
     "chapter": "Chemical Bonding",
     "category": "Understanding",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "A coordinate bond is formed when one atom provides both shared electrons. The hydrogen ion (proton) has no electrons. Oxygen provides a lone pair for both to share. <latex>\\mathbf{H_2O + H^+ \\rightarrow H_3O^+}</latex>."
   },
   {
@@ -808,7 +808,7 @@
     "answer": 1,
     "chapter": "Chemical Bonding",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Chlorine is more electronegative than hydrogen, so it pulls the shared pair of electrons towards itself. This unequal sharing creates partial charges (dipoles), resulting in a polar covalent bond. <latex>\\mathbf{H^{\\delta+} - Cl^{\\delta-}}</latex>."
   },
   {
@@ -836,7 +836,7 @@
     "answer": 2,
     "chapter": "Chemical Bonding",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Covalent compounds generally do not ionize in the molten state; they consist of neutral molecules and remain non-conductors. Only polar covalent compounds might ionize in aqueous solution, not simply by melting. Electrovalent compounds do dissociate when molten."
   },
   {
@@ -850,7 +850,7 @@
     "answer": 2,
     "chapter": "Chemical Bonding",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "In <latex>CCl_4</latex>, the C-Cl bonds are polar due to electronegativity differences. However, the molecule is perfectly symmetrical (tetrahedral), so the individual bond dipoles cancel each other out, making the entire molecule non-polar. <latex>\\mathbf{CCl_4}</latex>."
   },
   {
@@ -878,7 +878,7 @@
     "answer": 1,
     "chapter": "Chemical Bonding",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Solid NaCl already consists of ions, but they are held in a fixed lattice. Water is a polar solvent with a high dielectric constant that weakens the electrostatic forces holding the ions together, allowing them to separate (dissociate) and move freely. <latex>\\mathbf{NaCl(s) \\xrightarrow{H_2O} Na^+(aq) + Cl^-(aq)}</latex>."
   },
   {
@@ -892,7 +892,7 @@
     "answer": 3,
     "chapter": "Chemical Bonding",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Sodium, Magnesium, and Calcium are metals and form electrovalent chlorides with high melting points. Carbon is a non-metal and forms carbon tetrachloride (<latex>CCl_4</latex>), a covalent compound with weak intermolecular forces and a very low melting point."
   },
   {
@@ -906,7 +906,7 @@
     "answer": 1,
     "chapter": "Chemical Bonding",
     "category": "Understanding",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "In the ammonium ion, nitrogen shares 3 of its electrons to form covalent bonds with 3 hydrogen atoms, and donates its remaining lone pair to a hydrogen ion (H+) to form a coordinate bond. Thus, it effectively bonds with 4 atoms. <latex>\\mathbf{NH_3 + H^+ \\rightarrow NH_4^+}</latex>."
   },
   {
@@ -934,7 +934,7 @@
     "answer": 0,
     "chapter": "Chemical Bonding",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Group 2 elements are metals with 2 valence electrons (tendency to lose 2). Group 16 elements are non-metals with 6 valence electrons (tendency to gain 2). This mutual transfer leads to an electrovalent bond. The ratio is 1:1, making the formula AB. <latex>\\mathbf{A^{2+} + B^{2-} \\rightarrow AB}</latex>."
   },
   {
@@ -948,7 +948,7 @@
     "answer": 3,
     "chapter": "Chemical Bonding",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Hydrogen bonding requires H to be attached to highly electronegative, small atoms (F, O, or N). While HCl has a polar covalent bond, the larger size of the chlorine atom prevents it from forming significant hydrogen bonds."
   },
   {
@@ -962,7 +962,7 @@
     "answer": 2,
     "chapter": "Chemical Bonding",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "A neutral water molecule has 2 lone pairs. When it loses a proton (H+), the shared pair of electrons from the O-H bond is left entirely on the oxygen atom. This adds a third lone pair to the oxygen, giving it a negative charge. <latex>\\mathbf{H_2O \\rightarrow H^+ + OH^-}</latex>."
   },
   {
@@ -990,7 +990,7 @@
     "answer": 1,
     "chapter": "Chemical Bonding",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The cathode is the negatively charged electrode. Therefore, the positively charged magnesium cations (Mg2+) migrate to the cathode, where they gain electrons (reduction) to form neutral magnesium atoms. <latex>\\mathbf{Mg^{2+} + 2e^- \\rightarrow Mg}</latex>."
   },
   {
@@ -1018,7 +1018,7 @@
     "answer": 2,
     "chapter": "Chemical Bonding",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "As the number of shared electron pairs increases from one (single bond) to three (triple bond), the attractive electrostatic force between the nuclei and the shared electron clouds becomes much stronger, pulling the two nuclei closer together and decreasing the bond length."
   },
   {
@@ -1032,7 +1032,7 @@
     "answer": 2,
     "chapter": "Chemical Bonding",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Hydrogen chloride (HCl) gas has a polar covalent bond (overlap of orbitals, unequal sharing, no full transfer). Because it is highly polar, it dissolves easily in water, ionizing completely to form hydrochloric acid. <latex>\\mathbf{HCl(g) + H_2O(l) \\rightarrow H_3O^+(aq) + Cl^-(aq)}</latex>."
   },
   {
@@ -1046,7 +1046,7 @@
     "answer": 2,
     "chapter": "Chemical Bonding",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "An ion's electrostatic field extends uniformly in all directions. Thus, it attracts oppositely charged ions from all sides, creating a continuous three-dimensional crystal lattice without specific directional bonds, precluding the formation of discrete molecules or isomerism."
   },
   {
@@ -1060,7 +1060,7 @@
     "answer": 2,
     "chapter": "Chemical Bonding",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "In methane <latex>CH_4</latex>, carbon uses all 4 of its valence electrons to bond, leaving 0 lone pairs. In water <latex>H_2O</latex>, oxygen has 6 valence electrons, uses 2 for bonding, leaving 4 electrons, which equals 2 lone pairs."
   },
   {
@@ -1074,7 +1074,7 @@
     "answer": 1,
     "chapter": "Chemical Bonding",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Polar covalent compounds can interact with polar solvents like water to undergo ionization, producing ions that conduct electricity. Non-polar compounds like <latex>CH_4</latex> do not interact strongly with water and do not ionize. <latex>\\mathbf{HCl \\xrightarrow{H_2O} H^+ + Cl^-}</latex>."
   },
   {
@@ -1088,7 +1088,7 @@
     "answer": 2,
     "chapter": "Chemical Bonding",
     "category": "Understanding",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "For a substance to ionize in water, it needs to be polar so that the dipole of water molecules can pull it apart. <latex>CCl_4</latex> is perfectly symmetrical and non-polar, so water molecules cannot exert sufficient force to break the C-Cl bonds."
   },
   {
@@ -1116,7 +1116,7 @@
     "answer": 1,
     "chapter": "Chemical Bonding",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Calcium has an atomic number of 20 with a configuration of 2, 8, 8, 2. To achieve a stable octet, it loses its 2 outermost electrons to oxygen, resulting in a calcium ion (Ca2+) with a configuration of 2, 8, 8. <latex>\\mathbf{Ca \\rightarrow Ca^{2+} + 2e^-}</latex>."
   },
   {
@@ -1144,7 +1144,7 @@
     "answer": 2,
     "chapter": "Chemical Bonding",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The assertion is true: solid NaCl doesn't conduct due to immobile ions, but aqueous NaCl does. However, the reason is completely incorrect. Water is a polar solvent, and it causes dissociation (separation) of ions, not their fusion. Free mobile ions, not electrons, carry the current."
   },
   {
@@ -1158,7 +1158,7 @@
     "answer": 3,
     "chapter": "Chemical Bonding",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The assertion is incorrect because the bond in HCl is not 'purely' covalent; a purely covalent bond implies equal sharing (non-polar), such as in Cl2 or H2. Due to the electronegativity difference, the bond in HCl is polar covalent, possessing partial ionic character. The reason accurately describes this."
   },
   {
@@ -1172,7 +1172,7 @@
     "answer": 0,
     "chapter": "Chemical Bonding",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The hydrogen ion (H+) has lost its only electron, leaving an empty 1s orbital. Water's oxygen has two lone pairs. Oxygen donates a pair into H+'s empty orbital. Thus, the definition of a coordinate bond explains the assertion perfectly. <latex>\\mathbf{H_2O + H^+ \\rightarrow H_3O^+}</latex>."
   },
   {
@@ -1186,7 +1186,7 @@
     "answer": 3,
     "chapter": "Chemical Bonding",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Group 1 elements (alkali metals) and Group 17 elements (halogens) form electrovalent (ionic) bonds, not covalent bonds. The large electronegativity difference leads to complete electron transfer, producing ions, as correctly stated in the reason. Therefore, the assertion is false."
   },
   {
@@ -1200,7 +1200,7 @@
     "answer": 0,
     "chapter": "Chemical Bonding",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Because Chlorine is more electronegative than Carbon, the C-Cl bonds are polar. However, the vector sum of these four dipole moments in the symmetrical tetrahedral structure of <latex>CCl_4</latex> is zero, making the molecule entirely non-polar."
   },
   {
@@ -1228,7 +1228,7 @@
     "answer": 3,
     "chapter": "Chemical Bonding",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Electrovalent compounds do NOT exhibit structural isomerism. Isomerism is a property of covalent molecules, where bonds are rigid and directional. Because electrostatic attraction operates in all directions uniformly, ionic lattices lack directional spatial arrangements required for isomerism."
   },
   {
@@ -1242,7 +1242,7 @@
     "answer": 2,
     "chapter": "Chemical Bonding",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The assertion is correct; <latex>NH_4Cl</latex> decomposes into <latex>NH_3</latex> and <latex>HCl</latex> upon heating. However, the reason is incorrect because <latex>NH_4Cl</latex> contains an electrovalent (ionic) bond between the ammonium ion and the chloride ion, in addition to covalent and coordinate bonds."
   },
   {
@@ -1256,7 +1256,7 @@
     "answer": 0,
     "chapter": "Chemical Bonding",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "VSEPR theory states that lone pair-lone pair and lone pair-bond pair repulsions are stronger than bond pair-bond pair repulsions. Oxygen's two lone pairs push the hydrogen atoms closer together, distorting the geometry into a bent shape and preventing dipole cancellation, rendering the molecule polar."
   },
   {
@@ -1270,7 +1270,7 @@
     "answer": 1,
     "chapter": "Acids, Bases and Salts",
     "category": "Understanding",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "In oxyacids of phosphorus, only the hydrogen atoms attached directly to oxygen atoms are replaceable. In <latex>H_3PO_3</latex>, two hydrogen atoms are bonded to oxygen and one directly to phosphorus, making it dibasic."
   },
   {
@@ -1284,7 +1284,7 @@
     "answer": 0,
     "chapter": "Acids, Bases and Salts",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "A basic oxide must react with an acid to form salt and water *only*. Since chlorine gas is also produced in the reaction <latex>\\mathbf{PbO_2 + 4HCl \\rightarrow PbCl_2 + Cl_2 + 2H_2O}</latex>, it does not fit the definition of a base."
   },
   {
@@ -1298,7 +1298,7 @@
     "answer": 0,
     "chapter": "Acids, Bases and Salts",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Nitrogen dioxide dissolves in water to yield a mixture of two acids: nitrous acid (HNO2) and nitric acid (HNO3). <latex>\\mathbf{2NO_2 + H_2O \\rightarrow HNO_2 + HNO_3}</latex>."
   },
   {
@@ -1312,7 +1312,7 @@
     "answer": 1,
     "chapter": "Acids, Bases and Salts",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Sulphuric acid is a dibasic acid. Below 200°C, it forms an acid salt (<latex>\\mathbf{NaHSO_4}</latex>). Above 200°C, both replaceable hydrogen ions are substituted, forming the normal salt (<latex>\\mathbf{Na_2SO_4}</latex>). <latex>\\mathbf{2NaCl + H_2SO_4 \\rightarrow Na_2SO_4 + 2HCl}</latex>."
   },
   {
@@ -1326,7 +1326,7 @@
     "answer": 2,
     "chapter": "Acids, Bases and Salts",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Zinc hydroxide is amphoteric. It initially forms a gelatinous white precipitate, which dissolves in excess strong alkali (NaOH or KOH) to form a soluble complex salt, sodium zincate. <latex>\\mathbf{Zn(OH)_2 + 2NaOH \\rightarrow Na_2ZnO_2 + 2H_2O}</latex>."
   },
   {
@@ -1340,7 +1340,7 @@
     "answer": 1,
     "chapter": "Acids, Bases and Salts",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Non-metals like phosphorus are oxidized by concentrated nitric acid to their corresponding highest oxy-acids (phosphoric acid). <latex>\\mathbf{P + 5HNO_3 \\rightarrow H_3PO_4 + H_2O + 5NO_2}</latex>."
   },
   {
@@ -1354,7 +1354,7 @@
     "answer": 1,
     "chapter": "Acids, Bases and Salts",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Phosphoric acid (H3PO4) has three replaceable hydrogen atoms. Reacting it with 2 moles of NaOH replaces two hydrogen atoms, forming an acid salt. <latex>\\mathbf{2NaOH + H_3PO_4 \\rightarrow Na_2HPO_4 + 2H_2O}</latex> (Disodium hydrogen phosphate)."
   },
   {
@@ -1368,7 +1368,7 @@
     "answer": 1,
     "chapter": "Acids, Bases and Salts",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "If the salt produced in the reaction is insoluble (like <latex>\\mathbf{PbCl_2}</latex> or <latex>\\mathbf{PbSO_4}</latex>), it forms a protective layer over the unreacted carbonate, thereby stopping the reaction from proceeding."
   },
   {
@@ -1396,7 +1396,7 @@
     "answer": 2,
     "chapter": "Acids, Bases and Salts",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Below 200°C, the reaction involves only the partial replacement of the hydrogen ions of the dibasic sulphuric acid, forming sodium acid sulphate or sodium bisulphate. <latex>\\mathbf{NaCl + H_2SO_4 \\rightarrow NaHSO_4 + HCl}</latex>."
   },
   {
@@ -1424,7 +1424,7 @@
     "answer": 3,
     "chapter": "Acids, Bases and Salts",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Silicic acid (<latex>H_4SiO_4</latex>) has a basicity of four, meaning it can produce four hydronium ions per molecule upon ionization in aqueous solution, making it tetrabasic."
   },
   {
@@ -1438,7 +1438,7 @@
     "answer": 2,
     "chapter": "Acids, Bases and Salts",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Weak acids do not ionize completely in solution. Carbonic acid exists in aqueous solution as a mixture of ions and un-ionized molecules, leading to a low concentration of hydronium ions."
   },
   {
@@ -1452,7 +1452,7 @@
     "answer": 1,
     "chapter": "Acids, Bases and Salts",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Copper(II) oxide (CuO) is an insoluble base. It reacts with dilute sulphuric acid to form a soluble salt, copper(II) sulphate, and water. <latex>\\mathbf{CuO + H_2SO_4 \\rightarrow CuSO_4 + H_2O}</latex>."
   },
   {
@@ -1466,7 +1466,7 @@
     "answer": 1,
     "chapter": "Acids, Bases and Salts",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Strong alkalis like NaOH and KOH absorb carbon dioxide from the air to form carbonates and water. <latex>\\mathbf{2KOH + CO_2 \\rightarrow K_2CO_3 + H_2O}</latex>."
   },
   {
@@ -1480,7 +1480,7 @@
     "answer": 1,
     "chapter": "Acids, Bases and Salts",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Heating an ammonium salt with an alkali liberates ammonia gas, along with the corresponding salt and water. <latex>\\mathbf{(NH_4)_2SO_4 + 2KOH \\xrightarrow{\\Delta} K_2SO_4 + 2H_2O + 2NH_3}</latex>."
   },
   {
@@ -1522,7 +1522,7 @@
     "answer": 1,
     "chapter": "Acids, Bases and Salts",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The degree of ionization determines the strength of an acid, not its concentration. Concentration refers merely to the amount of water present in the acidic solution."
   },
   {
@@ -1536,7 +1536,7 @@
     "answer": 1,
     "chapter": "Acids, Bases and Salts",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "When NaOH is added to a heavy metal salt like iron(II) sulphate, a dirty green precipitate of insoluble iron(II) hydroxide is formed. <latex>\\mathbf{FeSO_4 + 2NaOH \\rightarrow Na_2SO_4 + Fe(OH)_2}</latex>."
   },
   {
@@ -1606,7 +1606,7 @@
     "answer": 0,
     "chapter": "Acids, Bases and Salts",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Acids react with metallic bisulphites to liberate sulphur dioxide. Calcium bisulphite has the formula Ca(HSO3)2. <latex>\\mathbf{Ca(HSO_3)_2 + 2HCl \\rightarrow CaCl_2 + 2H_2O + 2SO_2}</latex>."
   },
   {
@@ -1620,7 +1620,7 @@
     "answer": 0,
     "chapter": "Acids, Bases and Salts",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Aluminium hydroxide is primarily used as a foaming agent in fire extinguishers."
   },
   {
@@ -1662,7 +1662,7 @@
     "answer": 3,
     "chapter": "Acids, Bases and Salts",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Dilution is highly exothermic. If water is poured into the acid, the sudden and localized heat generation can cause the mixture to boil and splash violently, potentially causing chemical burns or breaking the container."
   },
   {
@@ -1690,7 +1690,7 @@
     "answer": 2,
     "chapter": "Acids, Bases and Salts",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The assertion is true; <latex>H_3PO_3</latex> is indeed dibasic. However, the reason is entirely false. In oxy-acids of phosphorus, the hydrogen atoms attached to oxygen are replaceable, while those directly bonded to phosphorus are NOT replaceable."
   },
   {
@@ -1704,7 +1704,7 @@
     "answer": 0,
     "chapter": "Acids, Bases and Salts",
     "category": "Understanding",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The strict definition of a base/basic oxide is that it reacts with an acid to form salt and water *only*. Since <latex>\\mathbf{PbO_2 + 4HCl \\rightarrow PbCl_2 + Cl_2 + 2H_2O}</latex> produces chlorine gas, it does not fulfill this essential condition. Both statements are true, and R correctly explains A."
   },
   {
@@ -1718,7 +1718,7 @@
     "answer": 0,
     "chapter": "Acids, Bases and Salts",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Nitrogen dioxide reacts with water to give both nitrous acid (HNO2) and nitric acid (HNO3). <latex>\\mathbf{2NO_2 + H_2O \\rightarrow HNO_2 + HNO_3}</latex>. Thus it is a mixed anhydride for these two acids."
   },
   {
@@ -1732,7 +1732,7 @@
     "answer": 2,
     "chapter": "Acids, Bases and Salts",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The Assertion is true: dilute hydrochloric acid is a strong acid because it ionizes almost completely, whereas concentrated acetic acid is a weak acid. The Reason is false: strength depends on the concentration of hydronium ions produced (degree of ionization), not simply the ratio of acid to water (physical concentration)."
   },
   {
@@ -1746,7 +1746,7 @@
     "answer": 0,
     "chapter": "Acids, Bases and Salts",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Sulphuric acid is a dibasic acid. Below 200°C, only one hydrogen ion is replaced, forming acid salt (NaHSO4). Above 200°C, both are replaced, forming the normal salt (Na2SO4). <latex>\\mathbf{2NaCl + H_2SO_4 \\rightarrow Na_2SO_4 + 2HCl}</latex>."
   },
   {
@@ -1760,7 +1760,7 @@
     "answer": 2,
     "chapter": "Acids, Bases and Salts",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The assertion is true: Mg and Mn can react with 1% dilute nitric acid to yield hydrogen. <latex>\\mathbf{Mg + 2HNO_3 \\rightarrow Mg(NO_3)_2 + H_2}</latex>. The reason is false because nitric acid is inherently a strong oxidizing agent, not a reducing agent."
   },
   {
@@ -1774,7 +1774,7 @@
     "answer": 0,
     "chapter": "Acids, Bases and Salts",
     "category": "Understanding",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Carbonic acid is indeed a mineral acid that happens to contain carbon. It is considered a weak acid because it ionizes only partially in water, meaning the solution consists of undissociated molecules alongside hydronium and carbonate/bicarbonate ions."
   },
   {
@@ -1788,7 +1788,7 @@
     "answer": 3,
     "chapter": "Acids, Bases and Salts",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The assertion is false because zinc hydroxide dissolves in excess sodium hydroxide. The reason correctly states that it dissolves due to the formation of a soluble salt, sodium zincate. <latex>\\mathbf{Zn(OH)_2 + 2NaOH \\rightarrow Na_2ZnO_2 + 2H_2O}</latex>."
   },
   {
@@ -1802,7 +1802,7 @@
     "answer": 0,
     "chapter": "Acids, Bases and Salts",
     "category": "Understanding",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "An alkali's strength depends on its degree of ionization. Even though ammonium hydroxide is formed by dissolving highly soluble ammonia in water, it only partially dissociates to yield a low concentration of hydroxyl ions, making it a weak alkali."
   },
   {
@@ -1816,7 +1816,7 @@
     "answer": 0,
     "chapter": "Acids, Bases and Salts",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Strong alkalis like KOH and NaOH are very basic and readily absorb the acidic gas CO2 from the air, undergoing a neutralization reaction to form metal carbonates and water. <latex>\\mathbf{2KOH + CO_2 \\rightarrow K_2CO_3 + H_2O}</latex>."
   }
   
