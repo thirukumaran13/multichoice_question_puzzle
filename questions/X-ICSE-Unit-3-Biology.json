@@ -346,7 +346,7 @@
     "answer": 2,
     "chapter": "Endocrine System",
     "category": "HOTS",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The pancreas is correctly called a heterocrine (or mixed) gland because it has both exocrine functions (releasing digestive enzymes like amylase, lipase into the duodenum via a duct) and endocrine functions (Islets of Langerhans releasing insulin and glucagon directly into the bloodstream). R correctly explains why A is true."
   },
   {
@@ -360,7 +360,7 @@
     "answer": 2,
     "chapter": "Endocrine System",
     "category": "HOTS",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Both statements are true and R directly explains A. Iodine is deficient in the rocky soil and glacial meltwater of hilly regions, so food grown there and local drinking water both lack iodine. This leads to insufficient thyroxine synthesis and enlargement of the thyroid gland (simple goitre)."
   },
   {
@@ -374,7 +374,7 @@
     "answer": 2,
     "chapter": "Endocrine System",
     "category": "HOTS",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Normal blood sugar rules out diabetes mellitus (insulin deficiency). The symptoms of excess dilute urine, thirst, and dehydration with normal blood glucose point to diabetes insipidus, caused by deficiency of ADH (Vasopressin). Without ADH, the kidneys cannot reabsorb water efficiently."
   },
   {
@@ -402,7 +402,7 @@
     "answer": 2,
     "chapter": "Endocrine System",
     "category": "HOTS",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Gigantism occurs when excess Growth hormone is produced before the growth plates close (in childhood), causing abnormal overall height. Acromegaly occurs in adults after the growth plates have already fused, so bones cannot lengthen but instead thicken, causing enlargement of hands, feet, and facial features."
   },
   {
@@ -696,7 +696,7 @@
     "answer": 3,
     "chapter": "The Circulatory System",
     "category": "Tricky",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The lymph flows in these vessels due to contraction of the surrounding muscles, not from the pumping action of the heart."
   },
   {
@@ -794,7 +794,7 @@
     "answer": 3,
     "chapter": "The Circulatory System",
     "category": "HOTS",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "A is false because serum is plasma from which the protein fibrinogen has been removed. R is true as it accurately describes how serum is squeezed out during clotting."
   },
   {
@@ -850,7 +850,7 @@
     "answer": 2,
     "chapter": "The Circulatory System",
     "category": "HOTS",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "A is true (they can dilate/constrict), but R is false because capillary walls consist of only a *single layer* of squamous epithelial cells (endothelium) and have *no* muscular layer."
   },
   {
@@ -920,7 +920,7 @@
     "answer": 1,
     "chapter": "The Circulatory System",
     "category": "Analysis",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Smaller size means higher surface-to-volume ratio, leading to faster loss of body heat; the increased heart rate distributes body heat faster to compensate."
   },
   {
@@ -934,7 +934,7 @@
     "answer": 1,
     "chapter": "The Circulatory System",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "If an Rh-negative mother is sensitized by a first Rh-positive child, the antibodies produced can cause a reaction in a subsequent Rh-positive pregnancy, sometimes leading to the death of the foetus."
   },
   {
@@ -1018,7 +1018,7 @@
     "answer": 1,
     "chapter": "The Excretory System",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Urea is produced in the liver from the breakdown of excess amino acids. Therefore, the blood leaving the liver through the hepatic vein carries the highest concentration of urea to the heart before it eventually reaches the kidneys."
   },
   {
@@ -1032,7 +1032,7 @@
     "answer": 0,
     "chapter": "The Excretory System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The renal artery branches into arterioles, with the afferent arteriole entering the Bowman's capsule to form the glomerulus. It exits as the narrower efferent arteriole, which then forms the vasa recta (secondary capillary network) before joining the renal vein."
   },
   {
@@ -1046,7 +1046,7 @@
     "answer": 2,
     "chapter": "The Excretory System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The difference in diameter between the incoming (wide) afferent arteriole and outgoing (narrow) efferent arteriole creates a high hydrostatic pressure that forces the liquid part of the blood into the Bowman's capsule."
   },
   {
@@ -1060,7 +1060,7 @@
     "answer": 2,
     "chapter": "The Excretory System",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Glucose is filtered into the Bowman's capsule during ultrafiltration but is entirely reabsorbed into the blood in the Proximal Convoluted Tubule (PCT) under normal conditions."
   },
   {
@@ -1074,7 +1074,7 @@
     "answer": 1,
     "chapter": "The Excretory System",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The cortex contains millions of Bowman’s capsules and Proximal/Distal convoluted tubules, which appear as tiny dots when the kidney is cut longitudinally."
   },
   {
@@ -1088,7 +1088,7 @@
     "answer": 1,
     "chapter": "The Excretory System",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Large molecules like albumin (proteins) do not pass through the glomerulus normally. Their presence in urine (Albuminuria) indicates damage or increased permeability of the filtration membrane."
   },
   {
@@ -1102,7 +1102,7 @@
     "answer": 1,
     "chapter": "The Excretory System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "In summer, water is lost through sweat. To maintain homeostasis, ADH (antidiuretic hormone) is secreted to make the kidney tubules reabsorb more water, resulting in concentrated urine."
   },
   {
@@ -1116,7 +1116,7 @@
     "answer": 1,
     "chapter": "The Excretory System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Excretion is the removal of chemical wastes (like urea) formed during metabolism inside cells. Egestion is the passing out of undigested food that never entered the body cells."
   },
   {
@@ -1130,7 +1130,7 @@
     "answer": 2,
     "chapter": "The Excretory System",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Calculating the reabsorption: (160 - 1.2) / 160 = 99.25%. This illustrates the massive efficiency of selective reabsorption in the nephron."
   },
   {
@@ -1144,7 +1144,7 @@
     "answer": 3,
     "chapter": "The Excretory System",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "While reabsorption happens in various parts, the cells of the Distal Convoluted Tubule (DCT) actively secrete certain ions (K+) and drugs like penicillin into the forming urine."
   },
   {
@@ -1186,7 +1186,7 @@
     "answer": 2,
     "chapter": "The Excretory System",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "A protein-rich diet makes urine more acidic, whereas a vegetable-based diet tends to make it alkaline."
   },
   {
@@ -1214,7 +1214,7 @@
     "answer": 1,
     "chapter": "The Excretory System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Kidney functions, specifically the active transport of substances back into the blood during selective reabsorption, require significant metabolic energy (ATP), leading to high oxygen consumption."
   },
   {
@@ -1228,7 +1228,7 @@
     "answer": 1,
     "chapter": "The Excretory System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Insipid means tasteless. Diabetes insipidus occurs when insufficient ADH is produced, leading to massive production of very dilute, tasteless urine."
   },
   {
@@ -1298,7 +1298,7 @@
     "answer": 2,
     "chapter": "The Excretory System",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "According to the water balance table, loss in breath (via lungs) is about 400 mL, representing roughly 16% of total daily water loss."
   },
   {
@@ -1326,7 +1326,7 @@
     "answer": 1,
     "chapter": "The Excretory System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Excretion by sweat glands is incidental; they only pass out sweat when cooling is required for the body."
   },
   {
@@ -1368,7 +1368,7 @@
     "answer": 1,
     "chapter": "The Excretory System",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "In cholera, massive water loss through bowels causes kidneys to reabsorb every possible drop of water from the tubules, and with it, urea. This leads to uremia and death."
   },
   {
@@ -1410,7 +1410,7 @@
     "answer": 1,
     "chapter": "The Excretory System",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The medulla is arranged in conical pyramids; the apex of each pyramid is called the papilla, which projects into the renal pelvis."
   },
   {
@@ -1424,7 +1424,7 @@
     "answer": 2,
     "chapter": "The Excretory System",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Albumin may appear in urine due to high blood pressure, which increases the pressure in the glomerulus beyond the normal filtration capacity."
   },
   {
@@ -1438,7 +1438,7 @@
     "answer": 0,
     "chapter": "The Excretory System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Since the kidney filters out urea from the renal artery to produce urine, the blood returning via the renal vein is significantly cleaner of urea."
   },
   {
@@ -1466,7 +1466,7 @@
     "answer": 0,
     "chapter": "The Excretory System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "It is called non-selective because it filters everything based on size/pressure rather than usefulness; selective reabsorption happens later in the tubules."
   },
   {
@@ -1508,7 +1508,7 @@
     "answer": 2,
     "chapter": "The Excretory System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Assertion is true, but Reason is false. ADH secretion is INCREASED during dehydration to promote water reabsorption."
   },
   {
@@ -1550,7 +1550,7 @@
     "answer": 3,
     "chapter": "The Excretory System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Assertion is false because urea is formed in the LIVER and excreted by the kidneys. Reason is a true statement."
   },
   {
@@ -1564,7 +1564,7 @@
     "answer": 0,
     "chapter": "The Excretory System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "While the bladder contraction is reflex-based, the external sphincter allows for voluntary control via the nervous system."
   },
   {
@@ -1578,7 +1578,7 @@
     "answer": 1,
     "chapter": "The Nervous System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "In the resting state, the nerve fiber is polarized with a positive charge on the outside, primarily due to a higher concentration of sodium ions (Na+) outside the axon membrane."
   },
   {
@@ -1592,7 +1592,7 @@
     "answer": 1,
     "chapter": "The Nervous System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "After depolarization occurs, the sodium pump uses energy from ATP to actively transport sodium ions back to the outside of the membrane, achieving repolarization."
   },
   {
@@ -1606,7 +1606,7 @@
     "answer": 2,
     "chapter": "The Nervous System",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The corpus callosum is a sheet of fibers that connects the two cerebral hemispheres; its primary function is to transfer information from one hemisphere to the other."
   },
   {
@@ -1620,7 +1620,7 @@
     "answer": 2,
     "chapter": "The Nervous System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The impulse for a voluntary act originates in the cerebrum (conscious part), but the coordination and timing of muscles involved are the responsibility of the cerebellum."
   },
   {
@@ -1634,7 +1634,7 @@
     "answer": 2,
     "chapter": "The Nervous System",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The sympathetic system prepares the body for action by constricting most blood vessels to increase pressure, while dilating coronary vessels to supply the heart."
   },
   {
@@ -1676,7 +1676,7 @@
     "answer": 2,
     "chapter": "The Nervous System",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The arachnoid is the middle layer of the meninges; its name refers to its thin, delicate, and web-like appearance."
   },
   {
@@ -1690,7 +1690,7 @@
     "answer": 2,
     "chapter": "The Nervous System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "To prevent continuous stimulation, acetylcholine is broken down by an enzyme shortly after transmission, resetting the synapse for the next signal."
   },
   {
@@ -1704,7 +1704,7 @@
     "answer": 3,
     "chapter": "The Nervous System",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "There are 31 pairs of spinal nerves: 8 cervical (neck), 12 thoracic (thorax), 5 lumbar, 5 sacral, and 1 coccygeal."
   },
   {
@@ -1732,7 +1732,7 @@
     "answer": 1,
     "chapter": "The Nervous System",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "In a spinal reflex, the sensory neuron enters through the dorsal root, and its cell body is located in the ovoid dorsal ganglion (dorsal root ganglion)."
   },
   {
@@ -1760,7 +1760,7 @@
     "answer": 2,
     "chapter": "The Nervous System",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The pons is located below the cerebellum and serves to carry impulses between cerebellar hemispheres while coordinating muscular movements on both sides of the body."
   },
   {
@@ -1788,7 +1788,7 @@
     "answer": 3,
     "chapter": "The Nervous System",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The parasympathetic system is concerned with re-establishing normal conditions and relaxation; it increases peristalsis and stimulates salivary secretion, which is the opposite of the sympathetic system's actions."
   },
   {
@@ -1802,7 +1802,7 @@
     "answer": 0,
     "chapter": "The Nervous System",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The optic nerve (for eyes) and olfactory nerve (for nose) are purely sensory cranial nerves, carrying impulses only from the receptors to the brain."
   },
   {
@@ -1830,7 +1830,7 @@
     "answer": 1,
     "chapter": "The Nervous System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "While reflexes are involuntary, not all involuntary actions are reflexes. Reflexes are usually quick responses to specific external stimuli, whereas rhythmic internal actions like heartbeats are broader involuntary processes."
   },
   {
@@ -1858,7 +1858,7 @@
     "answer": 2,
     "chapter": "The Nervous System",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The watery CSF is located in the space between the middle arachnoid layer and the innermost pia mater, acting as a cushion for the brain and spinal cord."
   },
   {
@@ -1886,7 +1886,7 @@
     "answer": 1,
     "chapter": "The Nervous System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Emotions strongly influence the ANS, and long-continued emotional stress can lead to health issues like high blood pressure or stomach ulcers."
   },
   {
@@ -2012,7 +2012,7 @@
     "answer": 3,
     "chapter": "The Nervous System",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Assertion A is false because the conduction of a nerve impulse is not like electricity; no electrons or ions move along the wire/fiber. Reason R is true, explaining that it is a wave of chemical/electrical change (depolarization)."
   },
   {
@@ -2054,7 +2054,7 @@
     "answer": 3,
     "chapter": "The Nervous System",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Assertion A is false because it is the fluid/membranes that cushion the spinal cord, not the cord cushioning the backbone. Reason R is true."
   },
   {
@@ -2068,7 +2068,7 @@
     "answer": 2,
     "chapter": "The Nervous System",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Assertion A is true, but Reason R is false in context. Alcohol affects the cerebellum, which is responsible for coordinating and timing muscle movements, not the cerebrum where they originate."
   },
   {
@@ -2096,7 +2096,7 @@
     "answer": 3,
     "chapter": "The Nervous System",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Assertion A is false; reflexes are a specific type of involuntary action triggered by stimulus. Reason R is true."
   },
   {
@@ -2124,7 +2124,7 @@
     "answer": 0,
     "chapter": "The Nervous System",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The speed of a reflex is possible because the nervous pathway (arc) is extremely short and does not require initial processing by the brain."
   },
   {
@@ -2138,7 +2138,7 @@
     "answer": 2,
     "chapter": "The Reproductive System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Sperms are produced in the testes at a temperature 2 to 3°C lower than that of the body. If they do not descend, the higher internal body temperature results in sterility."
   },
   {
@@ -2152,7 +2152,7 @@
     "answer": 2,
     "chapter": "The Reproductive System",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The epididymis is a coiled tube where sperms are stored for some days to mature and become motile (capable of moving)."
   },
   {
@@ -2180,7 +2180,7 @@
     "answer": 2,
     "chapter": "The Reproductive System",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The acrosome at the head of the sperm secretes hyaluronidase, which dissolves the wall of the ovum, facilitating the entry of the sperm head."
   },
   {
@@ -2194,7 +2194,7 @@
     "answer": 2,
     "chapter": "The Reproductive System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Pituitary hormones FSH and LH promote the maturation and release of the ovum during the ovulatory phase of the cycle."
   },
   {
@@ -2208,7 +2208,7 @@
     "answer": 1,
     "chapter": "The Reproductive System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "If the ovum is fertilized, the corpus luteum continues to release progesterone, which keeps the uterus in a state suitable for implantation."
   },
   {
@@ -2222,7 +2222,7 @@
     "answer": 1,
     "chapter": "The Reproductive System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "If there was direct continuity, the relatively high pressure of the mother's blood would seriously damage the soft and delicate tissues of the foetus."
   },
   {
@@ -2250,7 +2250,7 @@
     "answer": 2,
     "chapter": "The Reproductive System",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The luteal phase (days 15-28) involves the emptied follicle turning into corpus luteum and releasing progesterone to prepare for potential pregnancy."
   },
   {
@@ -2390,7 +2390,7 @@
     "answer": 3,
     "chapter": "The Reproductive System",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "A single ejaculation (2-3 ml) contains between 200 million and 400 million sperms."
   },
   {
@@ -2404,7 +2404,7 @@
     "answer": 2,
     "chapter": "The Reproductive System",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The placenta allows nutrients and gases to pass but acts as a barrier to most germs (bacteria); however, some viruses (like HIV) can cross it."
   },
   {
@@ -2432,7 +2432,7 @@
     "answer": 3,
     "chapter": "The Reproductive System",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Failure to descend primarily stops sperm maturation (sterility). While hormone production may be affected, the most distinct biological impact highlighted is the inability to produce mature sperms due to heat."
   },
   {
@@ -2558,7 +2558,7 @@
     "answer": 2,
     "chapter": "The Reproductive System",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The presence of progesterone (or its metabolic derivatives) in urine is used to detect pregnancy because it is maintained at high levels during gestation."
   },
   {
@@ -2586,7 +2586,7 @@
     "answer": 1,
     "chapter": "The Reproductive System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Siamese (conjoined) twins are identical twins (from a single egg) who failed to separate completely during development."
   },
   {
@@ -2642,7 +2642,7 @@
     "answer": 2,
     "chapter": "The Reproductive System",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The human uterus is described as a hollow pear-shaped organ with dimensions of approximately 7 cm by 5 cm."
   },
   {
@@ -2698,7 +2698,7 @@
     "answer": 1,
     "chapter": "The Reproductive System",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The placenta is permeable to alcohol and nicotine, allowing these substances to pass from the mother to the foetus."
   },
   {
@@ -2782,7 +2782,7 @@
     "answer": 2,
     "chapter": "The Reproductive System",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "About 75 per cent of all cases of twins belong to the fraternal (diovular/dizygotic) type."
   },
   {
@@ -2796,7 +2796,7 @@
     "answer": 2,
     "chapter": "The Reproductive System",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The blastocyst is the hollow sphere stage that eventually implants into the uterine wall."
   },
   {
@@ -2810,7 +2810,7 @@
     "answer": 2,
     "chapter": "The Reproductive System",
     "category": "Recall",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "In girls, the first sign of puberty (around age 10) is usually the enlargement of the breasts."
   },
   {
@@ -2852,7 +2852,7 @@
     "answer": 2,
     "chapter": "The Reproductive System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Assertion A is true, but Reason R is false. Identical twins come from a single egg fertilized by a single sperm that later splits."
   },
   {
@@ -2866,7 +2866,7 @@
     "answer": 2,
     "chapter": "The Reproductive System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Assertion A is true, but Reason R is false. Maternal and foetal blood systems are separated by membranes and never mingle directly."
   },
   {
@@ -2894,7 +2894,7 @@
     "answer": 2,
     "chapter": "The Reproductive System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Assertion A is true because it contains enzymes to enter the egg, but Reason R is false because mitochondria are in the middle piece, not the acrosome."
   },
   {
@@ -2908,7 +2908,7 @@
     "answer": 2,
     "chapter": "The Reproductive System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Assertion A is true, but Reason R is false. Amniotic fluid is for protection and cushioning; nutrition and oxygen come from the mother through the placenta."
   },
   {
@@ -2922,7 +2922,7 @@
     "answer": 2,
     "chapter": "The Reproductive System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Assertion A is true, but Reason R is false. In the umbilical cord, the artery carries deoxygenated blood (with wastes) away from the foetus, and the vein brings oxygenated blood to it."
   },
   {
@@ -2964,7 +2964,7 @@
     "answer": 0,
     "chapter": "The Reproductive System",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The corpus luteum remains active during pregnancy to secrete progesterone, which maintains the uterine lining and prevents menstruation."
   },
   {
@@ -2992,7 +2992,7 @@
     "answer": 1,
     "chapter": "Sense Organs",
     "category": "Application",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Hyperopia (long-sightedness) results from a shortened eyeball or a lens that is too flat, causing the image of near objects to form behind the retina."
   },
   {
@@ -3006,7 +3006,7 @@
     "answer": 1,
     "chapter": "Sense Organs",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Dark adaptation involves the regeneration of visual purple (rhodopsin) in the rods and the dilation of the pupil to allow more light to enter."
   },
   {
@@ -3090,7 +3090,7 @@
     "answer": 1,
     "chapter": "Sense Organs",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "For near vision, the circular ciliary muscles contract, releasing tension on the suspensory ligaments, allowing the elastic lens to become thicker and more convex."
   },
   {
@@ -3132,7 +3132,7 @@
     "answer": 1,
     "chapter": "Sense Organs",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The continued spinning of the fluid (endolymph) after motion stops disrupts the equilibrium signals, leading to dizziness and back-and-forth eye movements."
   },
   {
@@ -3244,7 +3244,7 @@
     "answer": 1,
     "chapter": "Sense Organs",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The chain of ear ossicles amplifies the vibrations from the ear drum to the oval window due to their lever-like arrangement."
   },
   {
@@ -3300,7 +3300,7 @@
     "answer": 1,
     "chapter": "Sense Organs",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "When ciliary muscles relax, the suspensory ligaments tighten, pulling the elastic lens into a thinner, flattened shape suited for distant vision."
   },
   {
@@ -3370,7 +3370,7 @@
     "answer": 1,
     "chapter": "Sense Organs",
     "category": "Conceptual",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "In bright light, circular muscles of the iris contract while radial muscles relax, causing the pupil to constrict and reduce light entry."
   },
   {
@@ -3398,7 +3398,7 @@
     "answer": 0,
     "chapter": "Sense Organs",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "In bright light, visual purple (rhodopsin) is broken down. Moving into a dark room requires time for this pigment to regenerate so the rods can function again."
   },
   {
@@ -3412,7 +3412,7 @@
     "answer": 1,
     "chapter": "Sense Organs",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Both statements are true. However, the fact that the brain interprets images as upright does not 'explain' why the physical optics of the eye produce an inverted image; that is a result of the lens curvature."
   },
   {
@@ -3426,7 +3426,7 @@
     "answer": 3,
     "chapter": "Sense Organs",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Assertion A is false because Myopia (short-sightedness) is corrected using a concave (diverging) lens. Reason R is a true statement about the function of a concave lens in myopia correction."
   },
   {
@@ -3440,7 +3440,7 @@
     "answer": 2,
     "chapter": "Sense Organs",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Assertion A is true. Reason R is false because the ear ossicles are part of the middle ear; the 'labyrinth' refers specifically to the inner ear structures."
   },
   {
@@ -3454,7 +3454,7 @@
     "answer": 1,
     "chapter": "Sense Organs",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "While both are true mathematical principles mentioned in the textbook context, the general definition of similarity doesn't specifically explain the geometric theorem of triangle division."
   },
   {
@@ -3468,7 +3468,7 @@
     "answer": 3,
     "chapter": "Sense Organs",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Assertion A is false; the optic nerve leaves the eye at the blind spot. Reason R is a true description of the yellow spot (Macula Lutea)."
   },
   {
@@ -3482,7 +3482,7 @@
     "answer": 0,
     "chapter": "Sense Organs",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "The assertion is true, and the reason correctly explains the physiological cause of water droplets forming at the hydathodes."
   },
   {
@@ -3496,7 +3496,7 @@
     "answer": 3,
     "chapter": "Sense Organs",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Assertion A is false; cataracts are corrected by surgically removing the opaque lens and replacing it with a plastic lens or glasses, not a cornea. Reason R is true."
   },
   {
@@ -3510,7 +3510,7 @@
     "answer": 3,
     "chapter": "Sense Organs",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Assertion A is false because semicircular canals are concerned with dynamic balance. Reason R is a true description of the vestibule's role in static balance."
   },
   {
@@ -3524,7 +3524,7 @@
     "answer": 2,
     "chapter": "Sense Organs",
     "category": "Assertion-Reasoning",
-    "complexity": "hard",
+    "complexity": "high",
     "reason": "Assertion A is true. Reason R is false because during near vision, ciliary muscle contraction 'releases' tension on the ligaments, allowing the lens to bulge."
   }
   

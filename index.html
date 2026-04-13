@@ -282,7 +282,7 @@
     }
     .complexity-low    { background: #dcfce7 !important; color: #15803d !important; }
     .complexity-medium { background: #fef9c3 !important; color: #854d0e !important; }
-    .complexity-hard   { background: #fee2e2 !important; color: #b91c1c !important; }
+    .complexity-high   { background: #fee2e2 !important; color: #b91c1c !important; }
 
     /* ===== CHOICES ===== */
     .choices-grid {
@@ -1068,7 +1068,7 @@
                 <button class="timed-mode-btn"         data-mode="total"        onclick="App.setTimedMode('total')">&#9203; Total Quiz</button>
               </div>
               <div id="timed-complexity-info" style="font-size:0.82rem;color:#6b7280;background:#f3f4f6;border-radius:8px;padding:8px 12px;text-align:center;">
-                🟢 Easy: 10s &nbsp;·&nbsp; 🟡 Medium: 20s &nbsp;·&nbsp; 🔴 Hard: 30s
+                🟢 Easy: 10s &nbsp;·&nbsp; 🟡 Medium: 20s &nbsp;·&nbsp; 🔴 High: 30s
               </div>
               <label class="settings-label" id="timed-duration-label" style="display:none">Total Quiz Time (minutes)
                 <input id="cfg-timed-duration" class="settings-input" type="number" min="1" max="60" placeholder="5" />
@@ -1233,7 +1233,7 @@
       const allSubj = [...new Set(state.allQuestions.map(q => q._cat || '').filter(Boolean))];
       const allChap = [...new Set(state.allQuestions.map(q => q.chapter  || ''))];
       const allCat  = [...new Set(state.allQuestions.map(q => q.category || ''))];
-      const allComp = ['low','medium','hard'].filter(c => state.allQuestions.some(q => (q.complexity||'').toLowerCase()===c));
+      const allComp = ['low','medium','high'].filter(c => state.allQuestions.some(q => (q.complexity||'').toLowerCase()===c));
       if (state.allQuestions.some(q => !(q.complexity||'').trim())) allComp.push('');
       const ck = (arr, total) => arr.length === total.length ? [] : arr;
       quizConfig.subjects     = ck(getChecked('filter-subject'),    allSubj);
@@ -1279,7 +1279,7 @@
       // Complexity — only from selected subjects + chapters + categories
       let compPool = catPool;
       if (quizConfig.categories.length) compPool = compPool.filter(q => quizConfig.categories.includes(q.category || ''));
-      const complexities = ['low','medium','hard'].filter(c => compPool.some(q => (q.complexity||'').toLowerCase() === c));
+      const complexities = ['low','medium','high'].filter(c => compPool.some(q => (q.complexity||'').toLowerCase() === c));
       if (compPool.some(q => !(q.complexity||'').trim())) complexities.push('');
       renderFilterGroup('filter-complexity-group', 'filter-complexity', complexities, quizConfig.complexities, 'complexity', compPool);
 
@@ -1321,7 +1321,7 @@
         // Rebuild complexity using new category state
         const rechkCat = getChecked('filter-category');
         let compPool = rechkCat.length ? catPool.filter(q => rechkCat.includes(q.category || '')) : catPool;
-        const availComps = ['low','medium','hard'].filter(c => compPool.some(q => (q.complexity||'').toLowerCase() === c));
+        const availComps = ['low','medium','high'].filter(c => compPool.some(q => (q.complexity||'').toLowerCase() === c));
         if (compPool.some(q => !(q.complexity||'').trim())) availComps.push('');
         const newSelComp = getChecked('filter-complexity').filter(c => availComps.includes(c));
         renderFilterGroup('filter-complexity-group', 'filter-complexity', availComps, newSelComp, 'complexity', compPool);
@@ -1345,7 +1345,7 @@
         // Rebuild complexity using new category state
         const rechkCat = getChecked('filter-category');
         let compPool = rechkCat.length ? catPool.filter(q => rechkCat.includes(q.category || '')) : catPool;
-        const availComps = ['low','medium','hard'].filter(c => compPool.some(q => (q.complexity||'').toLowerCase() === c));
+        const availComps = ['low','medium','high'].filter(c => compPool.some(q => (q.complexity||'').toLowerCase() === c));
         if (compPool.some(q => !(q.complexity||'').trim())) availComps.push('');
         const newSelComp = getChecked('filter-complexity').filter(c => availComps.includes(c));
         renderFilterGroup('filter-complexity-group', 'filter-complexity', availComps, newSelComp, 'complexity', compPool);
@@ -1361,7 +1361,7 @@
         if (selSubj.length) compPool = compPool.filter(q => selSubj.includes(q._cat || ''));
         if (selChap.length) compPool = compPool.filter(q => selChap.includes(q.chapter || ''));
         compPool = compPool.filter(q => selCat.includes(q.category || ''));
-        const availComps = ['low','medium','hard'].filter(c => compPool.some(q => (q.complexity||'').toLowerCase() === c));
+        const availComps = ['low','medium','high'].filter(c => compPool.some(q => (q.complexity||'').toLowerCase() === c));
         if (compPool.some(q => !(q.complexity||'').trim())) availComps.push('');
         const newSelComp = getChecked('filter-complexity').filter(c => availComps.includes(c));
         renderFilterGroup('filter-complexity-group', 'filter-complexity', availComps, newSelComp, 'complexity', compPool);
@@ -1529,7 +1529,7 @@
       // Per-question override: optional "duration" field (seconds) in the JSON
       if (q && typeof q.duration === 'number' && q.duration > 0) return q.duration;
       const c = (q && q.complexity || '').toLowerCase();
-      if (c === 'hard')   return 30;
+      if (c === 'high')   return 30;
       if (c === 'medium') return 20;
       return 10; // low or unspecified
     }
@@ -2289,7 +2289,7 @@
           '<div class="ak-top">' +
             '<span class="ak-num">Q' + a.num + '</span>' +
             '<span class="ak-lbl">' + a.label + '</span>' +
-            '<span class="ak-txt">' + escHtml(a.text) + '</span>' +
+            '<span class="ak-txt">' + renderContent(a.text) + '</span>' +
           '</div>' +
           (a.reason ? '<div class="ak-reason">' + renderContent(a.reason) + '</div>' : '') +
         '</div>'
