@@ -67,7 +67,7 @@
 	"chapter": "Periodic table",
 	"category": "Recall",
 	"complexity": "low",
-	"reason": "Group 2 elements are known as Alkaline earth metals. They form weaker alkalis as compared to Group 1 elements, e.g., Mg(OH)_2."
+	"reason": "Group 2 elements are known as Alkaline earth metals. They form weaker alkalis as compared to Group 1 elements, e.g., <latex>Mg(OH)_2.</latex>"
 	},
 	{
 	"question": "What determines the period of an element in the periodic table?",
@@ -165,7 +165,7 @@
 	"chapter": "Periodic table",
 	"category": "Application",
 	"complexity": "medium",
-	"reason": "Metallic character decreases across a period from left to right. Thus, Lithium (Group 1) is the most metallic element in Period 2. Li \rightarrow Li^+ + e^-"
+	"reason": "Metallic character decreases across a period from left to right. Thus, Lithium (Group 1) is the most metallic element in Period 2. <latex>Li \\rightarrow Li^+ + e^-</latex>"
 	},
 	{
 	"question": "Which of the following is a characteristic of halogens (Group 17)?",
@@ -179,7 +179,7 @@
 	"chapter": "Periodic table",
 	"category": "Analysis",
 	"complexity": "medium",
-	"reason": "Halogens have 7 valence electrons, are highly reactive, coloured non-metals, and form negative ions carrying a single charge: X + e^- \rightarrow X^-."
+	"reason": "Halogens have 7 valence electrons, are highly reactive, coloured non-metals, and form negative ions carrying a single charge: <latex>X + e^- \\rightarrow X^-</latex>."
 	},
 	{
 	"question": "Why do noble gases (Group 18) hardly react with other elements?",
@@ -263,7 +263,7 @@
 	"chapter": "Periodic table",
 	"category": "Application",
 	"complexity": "medium",
-	"reason": "Halogens are good oxidising agents because they have a strong tendency to accept electrons to complete their octet. Cl_2 + 2e^- \rightarrow 2Cl^-"
+	"reason": "Halogens are good oxidising agents because they have a strong tendency to accept electrons to complete their octet. <latex>Cl_2 + 2e^- \\rightarrow 2Cl^-</latex>"
 	},
 	{
 	"question": "An element has an electronic configuration of 2, 8, 7. To which group and period does it belong?",
@@ -403,7 +403,7 @@
 	"chapter": "Periodic table",
 	"category": "Understanding",
 	"complexity": "medium",
-	"reason": "Group 1 elements have 1 valence electron and a large atomic size, allowing them to easily lose that electron to form a cation. M \rightarrow M^+ + e^-"
+	"reason": "Group 1 elements have 1 valence electron and a large atomic size, allowing them to easily lose that electron to form a cation. <latex>M \\rightarrow M^+ + e^-</latex>"
 	},
 	{
 	"question": "What is unique about the electronic configuration of transition elements?",
@@ -420,7 +420,7 @@
 	"reason": "All transition elements are metals that have their two outermost shells incomplete."
 	},
 	{
-	"question": "Assertion (A): The modern periodic table is based on atomic mass.\nReason (R): Henry Moseley proved that atomic number is a more fundamental property than atomic mass.",
+	"question": "<b>Assertion (A)</b>: The modern periodic table is based on atomic mass.<br/><b>Reason (R)</b>: Henry Moseley proved that atomic number is a more fundamental property than atomic mass.",
 	"choices": [
 	"Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
 	"Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -434,7 +434,7 @@
 	"reason": "The modern periodic table is based on atomic number, not atomic mass. Moseley stated that physical and chemical properties are periodic functions of atomic number."
 	},
 	{
-	"question": "Assertion (A): Atomic size decreases as we move from left to right across a period.\nReason (R): The nuclear charge increases, bringing the outermost shell closer to the nucleus.",
+	"question": "<b>Assertion (A)</b>: Atomic size decreases as we move from left to right across a period.<br/><b>Reason (R)</b>: The nuclear charge increases, bringing the outermost shell closer to the nucleus.",
 	"choices": [
 	"Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
 	"Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -448,7 +448,7 @@
 	"reason": "In a period, the atomic number increases from left to right, thus increasing nuclear charge, which attracts the electrons with greater force and decreases the radius."
 	},
 	{
-	"question": "Assertion (A): Group 1 elements are called alkali metals.\nReason (R): They react vigorously with water to form strong alkalis.",
+	"question": "<b>Assertion (A)</b>: Group 1 elements are called alkali metals.<br/><b>Reason (R)</b>: They react vigorously with water to form strong alkalis.",
 	"choices": [
 	"Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
 	"Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -459,10 +459,10 @@
 	"chapter": "Periodic table",
 	"category": "Understanding",
 	"complexity": "low",
-	"reason": "Group 1 elements form strong alkalis when they react with water, e.g., 2Na + 2H_2O \rightarrow 2NaOH + H_2."
+	"reason": "Group 1 elements form strong alkalis when they react with water, e.g., <latex>2Na + 2H_2O \\rightarrow 2NaOH + H_2</latex>."
 	},
 	{
-	"question": "Assertion (A): Noble gases are highly reactive non-metals.\nReason (R): Noble gases have completely filled outermost shells.",
+	"question": "<b>Assertion (A)</b>: Noble gases are highly reactive non-metals.<br/><b>Reason (R)</b>: Noble gases have completely filled outermost shells.",
 	"choices": [
 	"Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
 	"Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -476,7 +476,7 @@
 	"reason": "Assertion is false because noble gases are unreactive due to their stable electronic configuration (octet or duplet). The Reason is correct."
 	},
 	{
-	"question": "Assertion (A): Group 17 elements are known as halogens.\nReason (R): Halogen means 'ore-forming' in Greek.",
+	"question": "<b>Assertion (A)</b>: Group 17 elements are known as halogens.<br/><b>Reason (R)</b>: Halogen means 'ore-forming' in Greek.",
 	"choices": [
 	"Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
 	"Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -490,7 +490,7 @@
 	"reason": "Halogens means 'salt formers', not 'ore-forming'. Chalcogens (Group 16) means 'ore-forming'."
 	},
 	{
-	"question": "Assertion (A): Valency of elements in a group remains the same.\nReason (R): Elements in the same group have the same number of valence electrons.",
+	"question": "<b>Assertion (A)</b>: Valency of elements in a group remains the same.<br/><b>Reason (R)</b>: Elements in the same group have the same number of valence electrons.",
 	"choices": [
 	"Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
 	"Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -504,7 +504,7 @@
 	"reason": "Valency depends on the number of valence electrons. Since this remains constant down a group, the valency remains constant."
 	},
 	{
-	"question": "Assertion (A): Transition elements are placed in Groups 13 to 18 of the periodic table.\nReason (R): Transition elements are metals with their two outermost shells incomplete.",
+	"question": "<b>Assertion (A)</b>: Transition elements are placed in Groups 13 to 18 of the periodic table.<br/><b>Reason (R)</b>: Transition elements are metals with their two outermost shells incomplete.",
 	"choices": [
 	"Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
 	"Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -518,7 +518,7 @@
 	"reason": "Transition elements are actually placed in Groups 3 to 12. Their two outermost shells are incomplete."
 	},
 	{
-	"question": "Assertion (A): Elements of the third period are called typical elements.\nReason (R): They summarize the properties of their respective groups.",
+	"question": "<b>Assertion (A)</b>: Elements of the third period are called typical elements.<br/><b>Reason (R)</b>: They summarize the properties of their respective groups.",
 	"choices": [
 	"Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
 	"Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -532,7 +532,7 @@
 	"reason": "Elements like Na, Mg, Al, Si, P, S, and Cl in the third period accurately represent and summarize the properties of their respective groups."
 	},
 	{
-	"question": "Assertion (A): Fluorine is the smallest element in Group 17.\nReason (R): Atomic size increases down a group due to the successive addition of shells.",
+	"question": "<b>Assertion (A)</b>: Fluorine is the smallest element in Group 17.<br/><b>Reason (R)</b>: Atomic size increases down a group due to the successive addition of shells.",
 	"choices": [
 	"Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
 	"Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -546,7 +546,7 @@
 	"reason": "Fluorine is at the top of Group 17. Because size increases down the group as more shells are added, Fluorine remains the smallest halogen."
 	},
 	{
-	"question": "Assertion (A): The number of shells remains the same as we move from left to right in a period.\nReason (R): The valency of elements remains constant across a period.",
+	"question": "<b>Assertion (A)</b>: The number of shells remains the same as we move from left to right in a period.<br/><b>Reason (R)</b>: The valency of elements remains constant across a period.",
 	"choices": [
 	"Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
 	"Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -577,9 +577,9 @@
     "question": "An element 'X' belongs to Group 2, and an element 'Y' belongs to Group 15 of the modern periodic table. What will be the general formula of the compound formed by the chemical combination of X and Y?",
     "choices": [
       "<latex>X_2Y_3</latex>",
-      "<latex>X_3Y_2<latex>",
-      "<latex>XY_2<latex>",
-      "<latex>X_2Y<latex>"
+      "<latex>X_3Y_2</latex>",
+      "<latex>XY_2</latex>",
+      "<latex>X_2Y</latex>"
     ],
     "answer": 1,
     "chapter": "Periodic table",
@@ -728,7 +728,7 @@
     "reason": "Ammonium chloride (NH4Cl) contains an ionic bond between the ammonium ion and the chloride ion. Within the ammonium ion, there are three covalent bonds between nitrogen and hydrogen, and one coordinate bond where nitrogen donates its lone pair to a hydrogen ion. <latex>\\mathbf{NH_4^+ + Cl^- \\rightarrow NH_4Cl}</latex>."
   },
   {
-    "question": "A molecule of nitrogen (N2) contains a triple covalent bond. How many electrons are shared in total between the two nitrogen atoms to achieve this bond?",
+    "question": "A molecule of nitrogen <latex>(N_2)</latex> contains a triple covalent bond. How many electrons are shared in total between the two nitrogen atoms to achieve this bond?",
     "choices": [
       "3",
       "4",
@@ -742,11 +742,11 @@
     "reason": "A single covalent bond involves the sharing of 2 electrons. A triple covalent bond involves the sharing of 3 pairs of electrons, which totals 6 electrons. <latex>\\mathbf{N \\equiv N}</latex>."
   },
   {
-    "question": "Why does carbon tetrachloride (<latex>CCl_4</latex>) not conduct electricity in its liquid state, whereas molten sodium chloride (NaCl) does?",
+    "question": "Why does carbon tetrachloride (<latex>CCl_4</latex>) not conduct electricity in its liquid state, whereas molten sodium chloride (<latex>NaCl</latex>) does?",
     "choices": [
-      "<latex>CCl_4</latex> is a polar molecule, while NaCl is non-polar.",
-      "<latex>CCl_4</latex> undergoes ionization, while NaCl undergoes dissociation.",
-      "<latex>CCl_4</latex> consists of molecules with no free mobile ions, while molten NaCl has free mobile ions.",
+      "<latex>CCl_4</latex> is a polar molecule, while <latex>NaCl</latex> is non-polar.",
+      "<latex>CCl_4</latex> undergoes ionization, while <latex>NaCl</latex> undergoes dissociation.",
+      "<latex>CCl_4</latex> consists of molecules with no free mobile ions, while molten <latex>NaCl</latex> has free mobile ions.",
       "<latex>CCl_4</latex> forms a crystalline lattice in the liquid state that traps electrons."
     ],
     "answer": 2,
@@ -767,7 +767,7 @@
     "chapter": "Chemical Bonding",
     "category": "Analysis",
     "complexity": "hard",
-    "reason": "Ammonia (NH3) has one lone pair on the Nitrogen atom. The Hydronium ion (H3O+) is formed when Water (which has two lone pairs) donates one lone pair to H+, leaving it with exactly one lone pair on the Oxygen atom. <latex>\\mathbf{H_2O + H^+ \\rightarrow H_3O^+}</latex>."
+    "reason": "Ammonia (<latex>NH_3</latex>) has one lone pair on the Nitrogen atom. The Hydronium ion (<latex>H_3O^+</latex>) is formed when Water (which has two lone pairs) donates one lone pair to H+, leaving it with exactly one lone pair on the Oxygen atom. <latex>\\mathbf{H_2O + H^+ \\rightarrow H_3O^+}</latex>."
   },
   {
     "question": "An element X has an atomic number of 12, and element Y has an atomic number of 9. What is the formula and the nature of the bond in the compound formed between X and Y?",
@@ -910,7 +910,7 @@
     "reason": "In the ammonium ion, nitrogen shares 3 of its electrons to form covalent bonds with 3 hydrogen atoms, and donates its remaining lone pair to a hydrogen ion (H+) to form a coordinate bond. Thus, it effectively bonds with 4 atoms. <latex>\\mathbf{NH_3 + H^+ \\rightarrow NH_4^+}</latex>."
   },
   {
-    "question": "Oxygen gas (O2) contains a double bond. What is the octet status of the two oxygen atoms after bond formation?",
+    "question": "Oxygen gas (<latex>O_2</latex>) contains a double bond. What is the octet status of the two oxygen atoms after bond formation?",
     "choices": [
       "Both atoms have 6 electrons in their valence shell.",
       "One atom has 8 electrons, the other has 6.",
@@ -940,10 +940,10 @@
   {
     "question": "Identify the molecule that exemplifies a polar covalent bond but does NOT typically form hydrogen bonds.",
     "choices": [
-      "H2O",
-      "NH3",
-      "HF",
-      "HCl"
+      "<latex>H_2O</latex>",
+      "<latex>NH_3</latex>",
+      "<latex>HF</latex>",
+      "<latex>HCl</latex>"
     ],
     "answer": 3,
     "chapter": "Chemical Bonding",
@@ -968,16 +968,16 @@
   {
     "question": "Which of the following sets represents molecules that are entirely held together by single covalent bonds?",
     "choices": [
-      "Cl2, NH3, CH4",
-      "N2, <latex>CCl_4</latex>, H2O",
-      "O2, HCl, NH3",
-      "CH4, O2, N2"
+      "<latex>Cl_2</latex>, <latex>NH_3</latex>, <latex>CH_4</latex>",
+      "<latex>N_2</latex>, <latex>CCl_4</latex>, <latex>H_2O</latex>",
+      "<latex>O_2</latex>, <latex>HCl</latex>, <latex>NH_3</latex>",
+      "<latex>CH_4</latex>, <latex>O_2</latex>, <latex>N_2</latex>"
     ],
     "answer": 0,
     "chapter": "Chemical Bonding",
     "category": "Application",
     "complexity": "medium",
-    "reason": "Chlorine (Cl2), ammonia (NH3), and methane (CH4) all exclusively contain single covalent bonds. Nitrogen (N2) has a triple bond, and oxygen (O2) has a double bond."
+    "reason": "Chlorine (<latex>Cl_2</latex>), ammonia (<latex>NH_3</latex>), and methane (<latex>CH_4</latex>) all exclusively contain single covalent bonds. Nitrogen (<latex>N_2</latex>) has a triple bond, and oxygen (<latex>O_2</latex>) has a double bond."
   },
   {
     "question": "During the electrolysis of molten magnesium chloride, what occurs at the cathode?",
@@ -1005,7 +1005,7 @@
     "chapter": "Chemical Bonding",
     "category": "Understanding",
     "complexity": "medium",
-    "reason": "A coordinate (dative) bond is formed when both electrons of the shared pair come from the same atom. The donor atom must have a non-bonding pair of electrons (a lone pair) available for donation, like Nitrogen in NH3."
+    "reason": "A coordinate (dative) bond is formed when both electrons of the shared pair come from the same atom. The donor atom must have a non-bonding pair of electrons (a lone pair) available for donation, like Nitrogen in <latex>NH_3</latex>."
   },
   {
     "question": "What happens to the internuclear distance (bond length) when two nitrogen atoms transition from a hypothetical single bond to a real triple bond?",
@@ -1061,21 +1061,21 @@
     "chapter": "Chemical Bonding",
     "category": "Application",
     "complexity": "hard",
-    "reason": "In methane (CH4), carbon uses all 4 of its valence electrons to bond, leaving 0 lone pairs. In water (H2O), oxygen has 6 valence electrons, uses 2 for bonding, leaving 4 electrons, which equals 2 lone pairs."
+    "reason": "In methane <latex>CH_4</latex>, carbon uses all 4 of its valence electrons to bond, leaving 0 lone pairs. In water <latex>H_2O</latex>, oxygen has 6 valence electrons, uses 2 for bonding, leaving 4 electrons, which equals 2 lone pairs."
   },
   {
-    "question": "Which property correctly differentiates a polar covalent compound like HCl from a non-polar covalent compound like CH4?",
+    "question": "Which property correctly differentiates a polar covalent compound like <latex>HCl</latex> from a non-polar covalent compound like <latex>CH_4</latex>?",
     "choices": [
-      "HCl has a high melting point, CH4 has a high melting point.",
-      "HCl can ionize in water to conduct electricity, CH4 does not ionize in water.",
-      "HCl is a solid at room temperature, CH4 is a gas.",
-      "HCl forms a crystal lattice, CH4 forms discrete molecules."
+      "<latex>HCl</latex> has a high melting point, <latex>CH_4</latex> has a high melting point.",
+      "<latex>HCl</latex> can ionize in water to conduct electricity, <latex>CH_4</latex> does not ionize in water.",
+      "<latex>HCl</latex> is a solid at room temperature, <latex>CH_4</latex> is a gas.",
+      "<latex>HCl</latex> forms a crystal lattice, <latex>CH_4</latex> forms discrete molecules."
     ],
     "answer": 1,
     "chapter": "Chemical Bonding",
     "category": "Analysis",
     "complexity": "hard",
-    "reason": "Polar covalent compounds can interact with polar solvents like water to undergo ionization, producing ions that conduct electricity. Non-polar compounds like CH4 do not interact strongly with water and do not ionize. <latex>\\mathbf{HCl \\xrightarrow{H_2O} H^+ + Cl^-}</latex>."
+    "reason": "Polar covalent compounds can interact with polar solvents like water to undergo ionization, producing ions that conduct electricity. Non-polar compounds like <latex>CH_4</latex> do not interact strongly with water and do not ionize. <latex>\\mathbf{HCl \\xrightarrow{H_2O} H^+ + Cl^-}</latex>."
   },
   {
     "question": "Why does a molecule of carbon tetrachloride (<latex>CCl_4</latex>) not undergo ionization when mixed with water?",
@@ -1120,7 +1120,7 @@
     "reason": "Calcium has an atomic number of 20 with a configuration of 2, 8, 8, 2. To achieve a stable octet, it loses its 2 outermost electrons to oxygen, resulting in a calcium ion (Ca2+) with a configuration of 2, 8, 8. <latex>\\mathbf{Ca \\rightarrow Ca^{2+} + 2e^-}</latex>."
   },
   {
-    "question": "Assertion (A): Covalent compounds generally exist as gases, liquids, or soft solids at room temperature.\nReason (R): They are composed of distinct molecules held together by weak intermolecular van der Waals forces.",
+    "question": "<b>Assertion (A)</b>: Covalent compounds generally exist as gases, liquids, or soft solids at room temperature.<br/><b>Reason (R)</b>: They are composed of distinct molecules held together by weak intermolecular van der Waals forces.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -1134,7 +1134,7 @@
     "reason": "Because the intermolecular forces holding the molecules together are weak (compared to strong electrostatic forces in ionic lattices), low thermal energy at room temperature is sufficient to keep them loosely packed as liquids or gases."
   },
   {
-    "question": "Assertion (A): Sodium chloride does not conduct electricity in the solid state but conducts when dissolved in water.\nReason (R): Water is a non-polar solvent that causes the sodium and chloride ions to fuse together, facilitating electron flow.",
+    "question": "<b>Assertion (A)</b>: Sodium chloride does not conduct electricity in the solid state but conducts when dissolved in water.<br/><b>Reason (R)</b>: Water is a non-polar solvent that causes the sodium and chloride ions to fuse together, facilitating electron flow.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -1148,7 +1148,7 @@
     "reason": "The assertion is true: solid NaCl doesn't conduct due to immobile ions, but aqueous NaCl does. However, the reason is completely incorrect. Water is a polar solvent, and it causes dissociation (separation) of ions, not their fusion. Free mobile ions, not electrons, carry the current."
   },
   {
-    "question": "Assertion (A): The bond formed between a hydrogen atom and a chlorine atom in HCl is purely covalent.\nReason (R): Chlorine and hydrogen share a pair of electrons, but chlorine is far more electronegative, resulting in a polar covalent bond.",
+    "question": "<b>Assertion (A)</b>: The bond formed between a hydrogen atom and a chlorine atom in HCl is purely covalent.<br/><b>Reason (R)</b>: Chlorine and hydrogen share a pair of electrons, but chlorine is far more electronegative, resulting in a polar covalent bond.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -1162,7 +1162,7 @@
     "reason": "The assertion is incorrect because the bond in HCl is not 'purely' covalent; a purely covalent bond implies equal sharing (non-polar), such as in Cl2 or H2. Due to the electronegativity difference, the bond in HCl is polar covalent, possessing partial ionic character. The reason accurately describes this."
   },
   {
-    "question": "Assertion (A): In the formation of coordinate bonding in the hydronium ion, an empty orbital of the hydrogen ion accommodates the lone pair of electrons from the oxygen atom.\nReason (R): A coordinate bond strictly requires one participating atom to have a lone pair and the other atom to be severely electron-deficient.",
+    "question": "<b>Assertion (A)</b>: In the formation of coordinate bonding in the hydronium ion, an empty orbital of the hydrogen ion accommodates the lone pair of electrons from the oxygen atom.<br/><b>Reason (R)</b>: A coordinate bond strictly requires one participating atom to have a lone pair and the other atom to be severely electron-deficient.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -1176,7 +1176,7 @@
     "reason": "The hydrogen ion (H+) has lost its only electron, leaving an empty 1s orbital. Water's oxygen has two lone pairs. Oxygen donates a pair into H+'s empty orbital. Thus, the definition of a coordinate bond explains the assertion perfectly. <latex>\\mathbf{H_2O + H^+ \\rightarrow H_3O^+}</latex>."
   },
   {
-    "question": "Assertion (A): Elements of Group 1 and Group 17 are highly likely to form covalent bonds with each other.\nReason (R): They have a large electronegativity difference, facilitating the transfer of electrons.",
+    "question": "<b>Assertion (A)</b>: Elements of Group 1 and Group 17 are highly likely to form covalent bonds with each other.<br/><b>Reason (R)</b>: They have a large electronegativity difference, facilitating the transfer of electrons.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -1190,7 +1190,7 @@
     "reason": "Group 1 elements (alkali metals) and Group 17 elements (halogens) form electrovalent (ionic) bonds, not covalent bonds. The large electronegativity difference leads to complete electron transfer, producing ions, as correctly stated in the reason. Therefore, the assertion is false."
   },
   {
-    "question": "Assertion (A): Carbon tetrachloride has polar covalent bonds but is a non-polar molecule.\nReason (R): The tetrahedral symmetry of the molecule causes the individual bond dipoles to cancel each other out.",
+    "question": "<b>Assertion (A)</b>: Carbon tetrachloride has polar covalent bonds but is a non-polar molecule.<br/><b>Reason (R)</b>: The tetrahedral symmetry of the molecule causes the individual bond dipoles to cancel each other out.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -1204,7 +1204,7 @@
     "reason": "Because Chlorine is more electronegative than Carbon, the C-Cl bonds are polar. However, the vector sum of these four dipole moments in the symmetrical tetrahedral structure of <latex>CCl_4</latex> is zero, making the molecule entirely non-polar."
   },
   {
-    "question": "Assertion (A): An atom of nitrogen needs to share three electron pairs with another nitrogen atom to achieve stability.\nReason (R): Nitrogen has an atomic number of 7 and requires three electrons to complete its octet.",
+    "question": "<b>Assertion (A)</b>: An atom of nitrogen needs to share three electron pairs with another nitrogen atom to achieve stability.<br/><b>Reason (R)</b>: Nitrogen has an atomic number of 7 and requires three electrons to complete its octet.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -1218,7 +1218,7 @@
     "reason": "Nitrogen's electronic configuration is 2, 5. It lacks 3 electrons to achieve a stable octet (8). By sharing 3 of its electrons with another nitrogen atom (which also shares 3), a triple covalent bond is formed, satisfying the octet for both."
   },
   {
-    "question": "Assertion (A): Electrovalent compounds display structural isomerism in space.\nReason (R): Electrovalent bonds are non-directional and consist of an electrostatic field uniformly spread around the ion.",
+    "question": "<b>Assertion (A)</b>: Electrovalent compounds display structural isomerism in space.<br/><b>Reason (R)</b>: Electrovalent bonds are non-directional and consist of an electrostatic field uniformly spread around the ion.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -1232,7 +1232,7 @@
     "reason": "Electrovalent compounds do NOT exhibit structural isomerism. Isomerism is a property of covalent molecules, where bonds are rigid and directional. Because electrostatic attraction operates in all directions uniformly, ionic lattices lack directional spatial arrangements required for isomerism."
   },
   {
-    "question": "Assertion (A): Ammonium chloride undergoes thermal dissociation upon heating to form ammonia and hydrogen chloride gases.\nReason (R): Ammonium chloride solely consists of coordinate and covalent bonds that easily break upon mild heating.",
+    "question": "<b>Assertion (A)</b>: Ammonium chloride undergoes thermal dissociation upon heating to form ammonia and hydrogen chloride gases.<br/><b>Reason (R)</b>: Ammonium chloride solely consists of coordinate and covalent bonds that easily break upon mild heating.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -1243,10 +1243,10 @@
     "chapter": "Chemical Bonding",
     "category": "Analysis",
     "complexity": "hard",
-    "reason": "The assertion is correct; NH4Cl decomposes into NH3 and HCl upon heating. However, the reason is incorrect because NH4Cl contains an electrovalent (ionic) bond between the ammonium ion and the chloride ion, in addition to covalent and coordinate bonds."
+    "reason": "The assertion is correct; <latex>NH_4Cl</latex> decomposes into <latex>NH_3</latex> and <latex>HCl</latex> upon heating. However, the reason is incorrect because <latex>NH_4Cl</latex> contains an electrovalent (ionic) bond between the ammonium ion and the chloride ion, in addition to covalent and coordinate bonds."
   },
   {
-    "question": "Assertion (A): In a water molecule, the H-O-H bond angle is not exactly 180 degrees, making it a bent, polar molecule.\nReason (R): The two lone pairs of electrons on the oxygen atom repel the bonded pairs, compressing the bond angle.",
+    "question": "<b>Assertion (A)</b>: In a water molecule, the H-O-H bond angle is not exactly 180 degrees, making it a bent, polar molecule.<br/><b>Reason (R)</b>: The two lone pairs of electrons on the oxygen atom repel the bonded pairs, compressing the bond angle.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -1260,7 +1260,7 @@
     "reason": "VSEPR theory states that lone pair-lone pair and lone pair-bond pair repulsions are stronger than bond pair-bond pair repulsions. Oxygen's two lone pairs push the hydrogen atoms closer together, distorting the geometry into a bent shape and preventing dipole cancellation, rendering the molecule polar."
   },
   {
-    "question": "Phosphorus acid (H3PO3) contains three hydrogen atoms per molecule but acts as a dibasic acid. Which of the following statements correctly explains this behavior?",
+    "question": "Phosphorus acid <latex>(H_3PO_3)</latex> contains three hydrogen atoms per molecule but acts as a dibasic acid. Which of the following statements correctly explains this behavior?",
     "choices": [
       "All three hydrogen atoms are directly bonded to the phosphorus atom, but only two undergo ionization.",
       "Only two hydrogen atoms are attached to oxygen atoms and are replaceable, while the third is directly bonded to phosphorus.",
@@ -1271,7 +1271,7 @@
     "chapter": "Acids, Bases and Salts",
     "category": "Understanding",
     "complexity": "hard",
-    "reason": "In oxyacids of phosphorus, only the hydrogen atoms attached directly to oxygen atoms are replaceable. In H3PO3, two hydrogen atoms are bonded to oxygen and one directly to phosphorus, making it dibasic."
+    "reason": "In oxyacids of phosphorus, only the hydrogen atoms attached directly to oxygen atoms are replaceable. In <latex>H_3PO_3</latex>, two hydrogen atoms are bonded to oxygen and one directly to phosphorus, making it dibasic."
   },
   {
     "question": "Lead(IV) oxide reacts with concentrated hydrochloric acid to form lead(II) chloride, water, and chlorine gas. Why is lead(IV) oxide NOT classified as a basic oxide?",
@@ -1414,7 +1414,7 @@
     "reason": "Onion extract is an olfactory indicator, whose smell changes or is destroyed in basic mediums but remains unaffected in acidic mediums."
   },
   {
-    "question": "How is silicic acid (H4SiO4) classified based on its basicity?",
+    "question": "How is silicic acid (<latex>H_4SiO_4</latex>) classified based on its basicity?",
     "choices": [
       "Monobasic",
       "Dibasic",
@@ -1425,10 +1425,10 @@
     "chapter": "Acids, Bases and Salts",
     "category": "Recall",
     "complexity": "hard",
-    "reason": "Silicic acid (H4SiO4) has a basicity of four, meaning it can produce four hydronium ions per molecule upon ionization in aqueous solution, making it tetrabasic."
+    "reason": "Silicic acid (<latex>H_4SiO_4</latex>) has a basicity of four, meaning it can produce four hydronium ions per molecule upon ionization in aqueous solution, making it tetrabasic."
   },
   {
-    "question": "Why is carbonic acid (H2CO3), despite being an inorganic acid, considered a weak acid?",
+    "question": "Why is carbonic acid (<latex>H_2CO_3</latex>), despite being an inorganic acid, considered a weak acid?",
     "choices": [
       "It completely ionizes in water to form a high concentration of hydronium ions.",
       "It contains carbon and hydrogen, making it inherently stable.",
@@ -1484,7 +1484,7 @@
     "reason": "Heating an ammonium salt with an alkali liberates ammonia gas, along with the corresponding salt and water. <latex>\\mathbf{(NH_4)_2SO_4 + 2KOH \\xrightarrow{\\Delta} K_2SO_4 + 2H_2O + 2NH_3}</latex>."
   },
   {
-    "question": "Acetic acid is classified as a monobasic acid despite having four hydrogen atoms in its molecular formula (CH3COOH). Which specific reaction shows its ionization to prove it is monobasic?",
+    "question": "Acetic acid is classified as a monobasic acid despite having four hydrogen atoms in its molecular formula (<latex>CH_3COOH</latex>). Which specific reaction shows its ionization to prove it is monobasic?",
     "choices": [
       "<latex>\\mathbf{CH_3COOH + 4H_2O \\rightleftharpoons 4H_3O^+ + C_2O_2^{4-}}</latex>",
       "<latex>\\mathbf{CH_3COOH + 2H_2O \\rightleftharpoons 2H_3O^+ + CH_2COO^{2-}}</latex>",
@@ -1680,7 +1680,7 @@
     "reason": "Phosphoric acid (H3PO4) is a tribasic acid, meaning it ionizes in three successive steps, producing three hydronium ions per molecule."
   },
   {
-    "question": "Assertion (A): The basicity of phosphorus acid (H3PO3) is 2, making it a dibasic acid.\nReason (R): In oxy-acids of phosphorus, only the hydrogen atoms that are directly bonded to the central phosphorus atom are replaceable.",
+    "question": "<b>Assertion (A)</b>: The basicity of phosphorus acid (<latex>H_3PO_3</latex>) is 2, making it a dibasic acid.<br/><b>Reason (R)</b>: In oxy-acids of phosphorus, only the hydrogen atoms that are directly bonded to the central phosphorus atom are replaceable.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -1691,10 +1691,10 @@
     "chapter": "Acids, Bases and Salts",
     "category": "Analysis",
     "complexity": "hard",
-    "reason": "The assertion is true; H3PO3 is indeed dibasic. However, the reason is entirely false. In oxy-acids of phosphorus, the hydrogen atoms attached to oxygen are replaceable, while those directly bonded to phosphorus are NOT replaceable."
+    "reason": "The assertion is true; <latex>H_3PO_3</latex> is indeed dibasic. However, the reason is entirely false. In oxy-acids of phosphorus, the hydrogen atoms attached to oxygen are replaceable, while those directly bonded to phosphorus are NOT replaceable."
   },
   {
-    "question": "Assertion (A): Lead(IV) oxide (PbO2) is not classified as a base, despite reacting with hydrochloric acid.\nReason (R): A base must react with an acid to produce salt and water only, whereas PbO2 produces chlorine gas in addition to salt and water.",
+    "question": "<b>Assertion (A)</b>: Lead(IV) oxide (<latex>PbO_2</latex>) is not classified as a base, despite reacting with hydrochloric acid.<br/><b>Reason (R)</b>: A base must react with an acid to produce salt and water only, whereas <latex>PbO_2</latex> produces chlorine gas in addition to salt and water.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -1708,7 +1708,7 @@
     "reason": "The strict definition of a base/basic oxide is that it reacts with an acid to form salt and water *only*. Since <latex>\\mathbf{PbO_2 + 4HCl \\rightarrow PbCl_2 + Cl_2 + 2H_2O}</latex> produces chlorine gas, it does not fulfill this essential condition. Both statements are true, and R correctly explains A."
   },
   {
-    "question": "Assertion (A): Nitrogen dioxide (NO2) is known as a mixed or double acid anhydride.\nReason (R): When nitrogen dioxide dissolves in water, it reacts to form a mixture of two distinct acids: nitrous acid and nitric acid.",
+    "question": "<b>Assertion (A)</b>: Nitrogen dioxide (<latex>NO_2</latex>) is known as a mixed or double acid anhydride.<br/><b>Reason (R)</b>: When nitrogen dioxide dissolves in water, it reacts to form a mixture of two distinct acids: nitrous acid and nitric acid.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -1722,7 +1722,7 @@
     "reason": "Nitrogen dioxide reacts with water to give both nitrous acid (HNO2) and nitric acid (HNO3). <latex>\\mathbf{2NO_2 + H_2O \\rightarrow HNO_2 + HNO_3}</latex>. Thus it is a mixed anhydride for these two acids."
   },
   {
-    "question": "Assertion (A): Dilute hydrochloric acid is a stronger acid than highly concentrated acetic acid.\nReason (R): The strength of an acid is directly proportional to its physical concentration or the minimal amount of water present in its aqueous solution.",
+    "question": "<b>Assertion (A)</b>: Dilute hydrochloric acid is a stronger acid than highly concentrated acetic acid.<br/><b>Reason (R)</b>: The strength of an acid is directly proportional to its physical concentration or the minimal amount of water present in its aqueous solution.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -1736,7 +1736,7 @@
     "reason": "The Assertion is true: dilute hydrochloric acid is a strong acid because it ionizes almost completely, whereas concentrated acetic acid is a weak acid. The Reason is false: strength depends on the concentration of hydronium ions produced (degree of ionization), not simply the ratio of acid to water (physical concentration)."
   },
   {
-    "question": "Assertion (A): When sodium chloride is reacted with concentrated sulphuric acid above 200°C, the normal salt sodium sulphate is formed.\nReason (R): At elevated temperatures (above 200°C), both replaceable hydrogen ions of the dibasic sulphuric acid are substituted by sodium ions.",
+    "question": "<b>Assertion (A)</b>: When sodium chloride is reacted with concentrated sulphuric acid above 200°C, the normal salt sodium sulphate is formed.<br/><b>Reason (R)</b>: At elevated temperatures (above 200°C), both replaceable hydrogen ions of the dibasic sulphuric acid are substituted by sodium ions.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -1750,7 +1750,7 @@
     "reason": "Sulphuric acid is a dibasic acid. Below 200°C, only one hydrogen ion is replaced, forming acid salt (NaHSO4). Above 200°C, both are replaced, forming the normal salt (Na2SO4). <latex>\\mathbf{2NaCl + H_2SO_4 \\rightarrow Na_2SO_4 + 2HCl}</latex>."
   },
   {
-    "question": "Assertion (A): Very dilute nitric acid (approximately 1%) reacts with active metals like magnesium to evolve hydrogen gas.\nReason (R): Highly concentrated nitric acid is a weak reducing agent that donates electrons to the hydrogen ions.",
+    "question": "<b>Assertion (A)</b>: Very dilute nitric acid (approximately 1%) reacts with active metals like magnesium to evolve hydrogen gas.<br/><b>Reason (R)</b>: Highly concentrated nitric acid is a weak reducing agent that donates electrons to the hydrogen ions.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -1764,7 +1764,7 @@
     "reason": "The assertion is true: Mg and Mn can react with 1% dilute nitric acid to yield hydrogen. <latex>\\mathbf{Mg + 2HNO_3 \\rightarrow Mg(NO_3)_2 + H_2}</latex>. The reason is false because nitric acid is inherently a strong oxidizing agent, not a reducing agent."
   },
   {
-    "question": "Assertion (A): Carbonic acid (H2CO3) is a weak mineral acid.\nReason (R): Carbonic acid contains carbon and does not completely ionize in aqueous solution, containing both ions and molecules.",
+    "question": "<b>Assertion (A)</b>: Carbonic acid (H2CO3) is a weak mineral acid.<br/><b>Reason (R)</b>: Carbonic acid contains carbon and does not completely ionize in aqueous solution, containing both ions and molecules.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -1778,7 +1778,7 @@
     "reason": "Carbonic acid is indeed a mineral acid that happens to contain carbon. It is considered a weak acid because it ionizes only partially in water, meaning the solution consists of undissociated molecules alongside hydronium and carbonate/bicarbonate ions."
   },
   {
-    "question": "Assertion (A): Zinc hydroxide, being amphoteric in nature, is completely insoluble in excess sodium hydroxide solution.\nReason (R): Zinc hydroxide reacts with excess sodium hydroxide to form a soluble complex salt known as sodium zincate.",
+    "question": "<b>Assertion (A)</b>: Zinc hydroxide, being amphoteric in nature, is completely insoluble in excess sodium hydroxide solution.<br/><b>Reason (R)</b>: Zinc hydroxide reacts with excess sodium hydroxide to form a soluble complex salt known as sodium zincate.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -1792,7 +1792,7 @@
     "reason": "The assertion is false because zinc hydroxide dissolves in excess sodium hydroxide. The reason correctly states that it dissolves due to the formation of a soluble salt, sodium zincate. <latex>\\mathbf{Zn(OH)_2 + 2NaOH \\rightarrow Na_2ZnO_2 + 2H_2O}</latex>."
   },
   {
-    "question": "Assertion (A): Ammonium hydroxide is classified as a weak alkali.\nReason (R): Ammonium hydroxide is highly soluble in water but remains feebly dissociated or ionized in its aqueous solution.",
+    "question": "<b>Assertion (A)</b>: Ammonium hydroxide is classified as a weak alkali.<br/><b>Reason (R)</b>: Ammonium hydroxide is highly soluble in water but remains feebly dissociated or ionized in its aqueous solution.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -1806,7 +1806,7 @@
     "reason": "An alkali's strength depends on its degree of ionization. Even though ammonium hydroxide is formed by dissolving highly soluble ammonia in water, it only partially dissociates to yield a low concentration of hydroxyl ions, making it a weak alkali."
   },
   {
-    "question": "Assertion (A): When solid potassium hydroxide is exposed to the atmosphere, it absorbs carbon dioxide to form potassium carbonate and water.\nReason (R): Strong alkalis act as basic oxides and neutralize acidic gases like carbon dioxide present in the air.",
+    "question": "<b>Assertion (A)</b>: When solid potassium hydroxide is exposed to the atmosphere, it absorbs carbon dioxide to form potassium carbonate and water.<br/><b>Reason (R)</b>: Strong alkalis act as basic oxides and neutralize acidic gases like carbon dioxide present in the air.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",

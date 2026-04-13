@@ -420,7 +420,7 @@
     "reason": "Aluminium hydroxide reacts with the strong alkali NaOH to form Sodium meta aluminate and water. <latex>\\mathbf{Al(OH)_3 + NaOH \\rightarrow NaAlO_2 + 2H_2O}</latex>."
   },
   {
-    "question": "Assertion (A): Calcium salt solutions do not form a precipitate when ammonium hydroxide is added.\nReason (R): Ammonium hydroxide is a weak alkali and its degree of dissociation is very low, producing insufficient hydroxyl ions to reach the solubility product of calcium hydroxide.",
+    "question": "<b>Assertion (A)</b>: Calcium salt solutions do not form a precipitate when ammonium hydroxide is added.<br/><b>Reason (R)</b>: Ammonium hydroxide is a weak alkali and its degree of dissociation is very low, producing insufficient hydroxyl ions to reach the solubility product of calcium hydroxide.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -434,7 +434,7 @@
     "reason": "Because ammonium hydroxide is a weak base, the concentration of <latex>\\mathbf{OH^-}</latex> ions is too low to precipitate the sparingly soluble <latex>\\mathbf{Ca(OH)_2}</latex>."
   },
   {
-    "question": "Assertion (A): Zinc hydroxide is soluble in an excess of both sodium hydroxide and ammonium hydroxide.\nReason (R): Zinc hydroxide is an amphoteric hydroxide that forms sodium zincate with excess NaOH and tetraammine zinc sulphate with excess NH4OH.",
+    "question": "<b>Assertion (A)</b>: Zinc hydroxide is soluble in an excess of both sodium hydroxide and ammonium hydroxide.<br/><b>Reason (R)</b>: Zinc hydroxide is an amphoteric hydroxide that forms sodium zincate with excess NaOH and tetraammine zinc sulphate with excess NH4OH.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -448,7 +448,7 @@
     "reason": "Zinc hydroxide is unique among the common metal hydroxides tested in that it dissolves in both strong alkali (forming sodium zincate) and weak alkali (forming the tetraammine zinc complex). <latex>\\mathbf{Zn(OH)_2 + 2NaOH \\rightarrow Na_2ZnO_2 + 2H_2O}</latex>."
   },
   {
-    "question": "Assertion (A): The salts of transition elements like Iron, Copper, and Chromium are generally coloured.\nReason (R): Transition elements belong to Groups 1, 2, and 13 to 17 of the modern periodic table.",
+    "question": "<b>Assertion (A)</b>: The salts of transition elements like Iron, Copper, and Chromium are generally coloured.<br/><b>Reason (R)</b>: Transition elements belong to Groups 1, 2, and 13 to 17 of the modern periodic table.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -462,7 +462,7 @@
     "reason": "The assertion is true; salts of transition elements are coloured. However, the reason is false because transition elements belong to Groups 3 to 12. Groups 1, 2, and 13-17 are representative elements."
   },
   {
-    "question": "Assertion (A): When pale blue copper(II) hydroxide is treated with excess ammonium hydroxide, it forms a deep blue solution.\nReason (R): Copper(II) hydroxide is highly amphoteric and neutralizes the basic ammonium hydroxide.",
+    "question": "<b>Assertion (A)</b>: When pale blue copper(II) hydroxide is treated with excess ammonium hydroxide, it forms a deep blue solution.<br/><b>Reason (R)</b>: Copper(II) hydroxide is highly amphoteric and neutralizes the basic ammonium hydroxide.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -476,7 +476,7 @@
     "reason": "The assertion is true as it forms a deep blue solution of Tetraammine copper(II) sulphate. However, the reason is false because Copper(II) hydroxide is not amphoteric (it does not dissolve in excess NaOH); the dissolution in <latex>\\mathbf{NH_4OH}</latex> is specifically due to complex ammine formation."
   },
   {
-    "question": "Assertion (A): When ammonium chloride is heated with sodium hydroxide, a colourless gas with a pungent smell is evolved.\nReason (R): Alkalis react with ammonium salts to liberate ammonia gas.",
+    "question": "<b>Assertion (A)</b>: When ammonium chloride is heated with sodium hydroxide, a colourless gas with a pungent smell is evolved.<br/><b>Reason (R)</b>: Alkalis react with ammonium salts to liberate ammonia gas.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -490,7 +490,7 @@
     "reason": "Heating an ammonium salt with an alkali is a standard method to liberate ammonia gas. <latex>\\mathbf{NH_4Cl + NaOH \\xrightarrow{\\Delta} NaCl + H_2O + NH_3}</latex>. Both statements are correct, and R explains A."
   },
   {
-    "question": "Assertion (A): Lead(II) oxide reacts with both hydrochloric acid and caustic potash to form salt and water.\nReason (R): Lead(II) oxide is an amphoteric oxide.",
+    "question": "<b>Assertion (A)</b>: Lead(II) oxide reacts with both hydrochloric acid and caustic potash to form salt and water.<br/><b>Reason (R)</b>: Lead(II) oxide is an amphoteric oxide.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -504,7 +504,7 @@
     "reason": "Amphoteric oxides exhibit dual character, reacting with acids as basic oxides and with alkalis as acidic oxides. <latex>\\mathbf{PbO + 2KOH \\rightarrow K_2PbO_2 + H_2O}</latex>. Both statements are correct, and R correctly explains A."
   },
   {
-    "question": "Assertion (A): Iron(II) sulphate reacts with sodium hydroxide to yield a reddish-brown precipitate.\nReason (R): Iron(II) ions form Iron(II) hydroxide, which is insoluble in excess sodium hydroxide.",
+    "question": "<b>Assertion (A)</b>: Iron(II) sulphate reacts with sodium hydroxide to yield a reddish-brown precipitate.<br/><b>Reason (R)</b>: Iron(II) ions form Iron(II) hydroxide, which is insoluble in excess sodium hydroxide.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -518,7 +518,7 @@
     "reason": "The assertion is false because Iron(II) sulphate forms a dirty green precipitate of <latex>\\mathbf{Fe(OH)_2}</latex>, not a reddish-brown one (which is formed by Iron(III)). The reason is factually correct that Iron(II) forms Iron(II) hydroxide which is insoluble."
   },
   {
-    "question": "Assertion (A): The chalky white precipitate of lead hydroxide is readily soluble in excess ammonium hydroxide.\nReason (R): Lead is an amphoteric metal and forms a soluble complex with all alkalis.",
+    "question": "<b>Assertion (A)</b>: The chalky white precipitate of lead hydroxide is readily soluble in excess ammonium hydroxide.<br/><b>Reason (R)</b>: Lead is an amphoteric metal and forms a soluble complex with all alkalis.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -532,7 +532,7 @@
     "reason": "The assertion is false; lead hydroxide is insoluble in excess ammonium hydroxide. It only dissolves in strong alkalis like NaOH to form sodium plumbite. Therefore, it does not form a soluble complex with *all* alkalis."
   },
   {
-    "question": "Assertion (A): Aluminium metal liberates hydrogen gas when treated with boiling caustic alkalis.\nReason (R): Aluminium possesses an amphoteric nature, allowing it to react with strong bases to form aluminate salts.",
+    "question": "<b>Assertion (A)</b>: Aluminium metal liberates hydrogen gas when treated with boiling caustic alkalis.<br/><b>Reason (R)</b>: Aluminium possesses an amphoteric nature, allowing it to react with strong bases to form aluminate salts.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -546,7 +546,7 @@
     "reason": "Amphoteric metals like Al, Zn, and Pb react with hot concentrated alkalis to liberate hydrogen and form soluble complex salts. <latex>\\mathbf{2Al + 2NaOH + 2H_2O \\rightarrow 2NaAlO_2 + 3H_2}</latex>."
   },
   {
-    "question": "Assertion (A): While adding sodium hydroxide to a metallic salt solution for qualitative analysis, the reagent must be added drop by drop.\nReason (R): Rapid addition might cause the formation of a precipitate that quickly dissolves in the excess reagent without being noticed.",
+    "question": "<b>Assertion (A)</b>: While adding sodium hydroxide to a metallic salt solution for qualitative analysis, the reagent must be added drop by drop.<br/><b>Reason (R)</b>: Rapid addition might cause the formation of a precipitate that quickly dissolves in the excess reagent without being noticed.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -562,10 +562,10 @@
   {
     "question": "What is the volume of oxygen required for the complete combustion of 20 cc of carbon monoxide, and what is the volume of carbon dioxide formed?",
     "choices": [
-      "10 cc O2, 20 cc CO2",
-      "20 cc O2, 20 cc CO2",
-      "10 cc O2, 10 cc CO2",
-      "40 cc O2, 20 cc CO2"
+      "10 cc <latex>O_2</latex>, 20 cc <latex>CO_2</latex>",
+      "20 cc <latex>O_2</latex>, 20 cc <latex>CO_2</latex>",
+      "10 cc <latex>O_2</latex>, 10 cc <latex>CO_2</latex>",
+      "40 cc <latex>O_2</latex>, 20 cc <latex>CO_2</latex>"
     ],
     "answer": 0,
     "chapter": "Mole Concept and Stoichiometry",
@@ -952,7 +952,7 @@
     "reason": "112 cc weighs 0.32 g. 22400 cc weighs <latex>0.32 \\times (22400 / 112) = 0.32 \\times 200 = 64\\text{ g}</latex>."
   },
   {
-    "question": "What is the relation between Avogadro's number ($N_A$), number of particles ($N$) and moles ($n$)?",
+    "question": "What is the relation between Avogadro's number (<latex>N_A</latex>), number of particles (<latex>N</latex>) and moles (<latex>n</latex>)?",
     "choices": [
       "<latex>n = N / N_{A}</latex>",
       "<latex>n = N \\times N_{A}</latex>",
@@ -1400,12 +1400,12 @@
 	"reason": "Sugar is a covalent compound that contains only molecules. It does not undergo ionization or dissociation, hence its solution lacks free mobile ions to conduct electricity."
 	},
 	{
-	"question": "Assertion (A): During the electrolysis of molten lead bromide, lead is deposited at the cathode. Reason (R): Lead ions are positively charged and migrate towards the negatively charged cathode.",
+	"question": "<b>Assertion (A)</b>: During the electrolysis of molten lead bromide, lead is deposited at the cathode. <b>Reason (R)</b>: Lead ions are positively charged and migrate towards the negatively charged cathode.",
 	"choices": [
-	"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-	"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-	"Assertion (A) is true but Reason (R) is false",
-	"Assertion (A) is false but Reason (R) is true"
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+	"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+	"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
 	],
 	"answer": 0,
 	"chapter": "Electrolysis",
@@ -1414,26 +1414,26 @@
 	"reason": "Lead ions (Pb2+) are cations. In an electrolytic cell, cations are attracted to the cathode (negative electrode) where they gain electrons and get reduced to form lead metal. <latex>Pb^{2+} + 2e^- \\rightarrow Pb</latex>."
 	},
 	{
-	"question": "Assertion (A): Solid sodium chloride does not conduct electricity, but its aqueous solution does. Reason (R): Water is a good conductor of electricity.",
+	"question": "<b>Assertion (A)</b>: Solid sodium chloride does not conduct electricity, but its aqueous solution does. <b>Reason (R)</b>: Water is a good conductor of electricity.",
 	"choices": [
-	"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-	"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-	"Assertion (A) is true but Reason (R) is false",
-	"Assertion (A) is false but Reason (R) is true"
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+	"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+	"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
 	],
 	"answer": 2,
 	"chapter": "Electrolysis",
 	"category": "Analysis",
 	"complexity": "high",
-	"reason": "Solid NaCl has ions held by strong electrostatic forces. In water, it dissociates into free ions <latex>(Na^+ and Cl^-)</latex> which conduct electricity. Pure water itself is almost a non-conductor, making Reason (R) false."
+	"reason": "Solid NaCl has ions held by strong electrostatic forces. In water, it dissociates into free ions <latex>(Na^+ and Cl^-)</latex> which conduct electricity. Pure water itself is almost a non-conductor, making <b>Reason (R)</b> false."
 	},
 	{
-	"question": "Assertion (A): During the electrolysis of aqueous copper (II) sulphate using copper electrodes, the blue colour of the solution remains unchanged. Reason (R): Copper (II) ions discharged at the cathode are replenished by the oxidation of the copper anode.",
+	"question": "<b>Assertion (A)</b>: During the electrolysis of aqueous copper (II) sulphate using copper electrodes, the blue colour of the solution remains unchanged. <b>Reason (R)</b>: Copper (II) ions discharged at the cathode are replenished by the oxidation of the copper anode.",
 	"choices": [
-	"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-	"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-	"Assertion (A) is true but Reason (R) is false",
-	"Assertion (A) is false but Reason (R) is true"
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+	"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+	"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
 	],
 	"answer": 0,
 	"chapter": "Electrolysis",
@@ -1442,12 +1442,12 @@
 	"reason": "When active copper electrodes are used, the copper anode dissolves to form Cu2+ ions (Cu \rightarrow Cu^{2+} + 2e^-) at the exact same rate that Cu2+ ions deposit at the cathode, keeping the concentration of the blue Cu2+ ions constant."
 	},
 	{
-	"question": "Assertion (A): Aqueous solution of ammonium hydroxide is a weak electrolyte. Reason (R): Ammonium hydroxide contains both ions and unionised molecules in its aqueous solution.",
+	"question": "<b>Assertion (A)</b>: Aqueous solution of ammonium hydroxide is a weak electrolyte. <b>Reason (R)</b>: Ammonium hydroxide contains both ions and unionised molecules in its aqueous solution.",
 	"choices": [
-	"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-	"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-	"Assertion (A) is true but Reason (R) is false",
-	"Assertion (A) is false but Reason (R) is true"
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+	"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+	"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
 	],
 	"answer": 0,
 	"chapter": "Electrolysis",
@@ -1456,12 +1456,12 @@
 	"reason": "Weak electrolytes undergo partial dissociation. Ammonium hydroxide is a weak base and only partially dissociates to yield a low concentration of <latex>NH_4^+ and OH^-</latex> ions, leaving most of it as unionised molecules."
 	},
 	{
-	"question": "Assertion (A): In the electrochemical series, hydrogen is placed above copper. Reason (R): Hydrogen ions require more energy to get discharged at the cathode compared to copper ions.",
+	"question": "<b>Assertion (A)</b>: In the electrochemical series, hydrogen is placed above copper. <b>Reason (R)</b>: Hydrogen ions require more energy to get discharged at the cathode compared to copper ions.",
 	"choices": [
-	"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-	"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-	"Assertion (A) is true but Reason (R) is false",
-	"Assertion (A) is false but Reason (R) is true"
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+	"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+	"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
 	],
 	"answer": 0,
 	"chapter": "Electrolysis",
@@ -1470,26 +1470,26 @@
 	"reason": "Elements lower in the electrochemical series have a lower discharge potential. Since copper is placed below hydrogen, Cu2+ ions discharge more easily than H+ ions. Thus, H+ requires more energy."
 	},
 	{
-	"question": "Assertion (A): Silver nitrate solution is preferred over sodium argentocyanide for the electroplating of an article with silver. Reason (R): Silver nitrate is a strong electrolyte and provides a very rapid supply of silver ions.",
+	"question": "<b>Assertion (A)</b>: Silver nitrate solution is preferred over sodium argentocyanide for the electroplating of an article with silver. <br/><b>Reason (R)</b>: Silver nitrate is a strong electrolyte and provides a very rapid supply of silver ions.",
 	"choices": [
-	"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-	"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-	"Assertion (A) is true but Reason (R) is false",
-	"Assertion (A) is false but Reason (R) is true"
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+	"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+	"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
 	],
 	"answer": 3,
 	"chapter": "Electrolysis",
 	"category": "Analysis",
 	"complexity": "high",
-	"reason": "Assertion (A) is false because sodium argentocyanide is preferred. Reason (R) is true; silver nitrate is a strong electrolyte that supplies ions too rapidly, resulting in an uneven and non-adherent silver coating."
+	"reason": "<b>Assertion (A)</b> is false because sodium argentocyanide is preferred. <b>Reason (R)</b> is true; silver nitrate is a strong electrolyte that supplies ions too rapidly, resulting in an uneven and non-adherent silver coating."
 	},
 	{
-	"question": "Assertion (A): Dilute nitric acid is not used to acidify water for electrolysis. Reason (R): Nitric acid is a strong oxidizing agent and a volatile acid.",
+	"question": "<b>Assertion (A)</b>: Dilute nitric acid is not used to acidify water for electrolysis. <b>Reason (R)</b>: Nitric acid is a strong oxidizing agent and a volatile acid.",
 	"choices": [
-	"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-	"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-	"Assertion (A) is true but Reason (R) is false",
-	"Assertion (A) is false but Reason (R) is true"
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+	"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+	"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
 	],
 	"answer": 0,
 	"chapter": "Electrolysis",
@@ -1498,12 +1498,12 @@
 	"reason": "Volatile acids like dilute nitric acid or hydrochloric acid can vaporize and interfere with the process and the gases evolved. Dilute sulphuric acid is non-volatile and is strictly preferred."
 	},
 	{
-	"question": "Assertion (A): During electrolysis, oxidation always occurs at the anode. Reason (R): Anions migrate to the anode and lose electrons.",
+	"question": "<b>Assertion (A)</b>: During electrolysis, oxidation always occurs at the anode. <b>Reason (R)</b>: Anions migrate to the anode and lose electrons.",
 	"choices": [
-	"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-	"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-	"Assertion (A) is true but Reason (R) is false",
-	"Assertion (A) is false but Reason (R) is true"
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+	"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+	"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
 	],
 	"answer": 0,
 	"chapter": "Electrolysis",
@@ -1512,26 +1512,26 @@
 	"reason": "Oxidation is the loss of electrons. At the anode (positive electrode), negative ions (anions) lose their extra electrons to become neutral species. <latex>Cl^- \\rightarrow Cl + e^-</latex>."
 	},
 	{
-	"question": "Assertion (A): Alternating current (A.C.) is used for electroplating purposes. Reason (R): Alternating current prevents the polarization of the electrodes.",
+	"question": "<b>Assertion (A)</b>: Alternating current (A.C.) is used for electroplating purposes. <b>Reason (R)</b>: Alternating current prevents the polarization of the electrodes.",
 	"choices": [
-	"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-	"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-	"Assertion (A) is true but Reason (R) is false",
-	"Assertion (A) is false but Reason (R) is true"
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+	"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+	"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
 	],
 	"answer": 3,
 	"chapter": "Electrolysis",
 	"category": "Analysis",
 	"complexity": "medium",
-	"reason": "Assertion (A) is false because Direct Current (D.C.) is mandatory for electroplating to maintain consistent polarity. Reason (R) is technically true as A.C. reverses polarity and prevents polarization, but it ruins electroplating."
+	"reason": "<b>Assertion (A)</b> is false because Direct Current (D.C.) is mandatory for electroplating to maintain consistent polarity. <b>Reason (R)</b> is technically true as A.C. reverses polarity and prevents polarization, but it ruins electroplating."
 	},
 	{
-	"question": "Assertion (A): A concentrated aqueous solution of sodium chloride is electrolysed using inert electrodes. The gas evolved at the anode is chlorine. Reason (R): Due to high concentration, chloride ions are preferentially discharged over hydroxyl ions at the anode.",
+	"question": "<b>Assertion (A)</b>: A concentrated aqueous solution of sodium chloride is electrolysed using inert electrodes. The gas evolved at the anode is chlorine. <b>Reason (R)</b>: Due to high concentration, chloride ions are preferentially discharged over hydroxyl ions at the anode.",
 	"choices": [
-	"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-	"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-	"Assertion (A) is true but Reason (R) is false",
-	"Assertion (A) is false but Reason (R) is true"
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+	"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+	"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+	"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
 	],
 	"answer": 0,
 	"chapter": "Electrolysis",
