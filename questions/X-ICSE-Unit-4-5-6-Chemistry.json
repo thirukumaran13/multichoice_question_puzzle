@@ -1538,6 +1538,4942 @@
 	"category": "Analysis",
 	"complexity": "high",
 	"reason": "Although OH- ions are lower in the electrochemical series, a very high concentration of Cl- ions overrides the discharge potential factor, causing Cl- to be preferentially discharged to form chlorine gas. <latex>2Cl^- - 2e^- \\rightarrow Cl_2 \\uparrow </latex>."
-	}
-	
+	},
+  {
+    "question": "Which of the following is the most abundant metal in the earth's crust?",
+    "choices": ["Iron", "Aluminium", "Calcium", "Silicon"],
+    "answer": 1,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Aluminium constitutes about 8% of the earth's crust, making it the most abundant metal."
+  },
+  {
+    "question": "Which of the following ores is used as the chief source of aluminium?",
+    "choices": ["Cryolite", "Corundum", "Bauxite", "Feldspar"],
+    "answer": 2,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Bauxite (Al₂O₃·2H₂O) is the chief ore from which aluminium is commercially extracted."
+  },
+  {
+    "question": "The chemical formula of zinc blende is:",
+    "choices": ["ZnO", "ZnCO₃", "ZnS", "ZnSO₄"],
+    "answer": 2,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Zinc blende is zinc sulphide, with the chemical formula ZnS."
+  },
+  {
+    "question": "Which of the following ores of iron has the formula Fe₃O₄?",
+    "choices": ["Red haematite", "Brown haematite", "Iron pyrites", "Magnetite"],
+    "answer": 3,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Magnetite (triferric tetraoxide) has the formula Fe₃O₄."
+  },
+  {
+    "question": "The process of removing gangue from crushed ore is called:",
+    "choices": ["Smelting", "Calcination", "Ore dressing", "Roasting"],
+    "answer": 2,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Ore dressing (also called concentration or beneficiation) is the process of removing gangue from crushed ore."
+  },
+  {
+    "question": "Which method of ore concentration is based on the difference in densities of ore and gangue?",
+    "choices": ["Froth flotation", "Magnetic separation", "Hydraulic washing", "Chemical leaching"],
+    "answer": 2,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Hydraulic washing (gravity separation) works on the principle that the denser ore settles while lighter gangue is washed away by water."
+  },
+  {
+    "question": "Sulphide ores like zinc blende are concentrated using which method?",
+    "choices": ["Magnetic separation", "Hydraulic washing", "Calcination", "Froth flotation"],
+    "answer": 3,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Froth flotation is used for sulphide ores like ZnS and PbS because the ore is preferentially wetted by pine oil and rises with froth."
+  },
+  {
+    "question": "Roasting is the process of heating concentrated ore at high temperature in:",
+    "choices": ["Absence of air", "Presence of excess air", "Presence of hydrogen gas", "Presence of carbon monoxide"],
+    "answer": 1,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Roasting involves heating the ore in the presence of excess air, typically converting sulphide ores to their oxides."
+  },
+  {
+    "question": "During calcination, which type of ore is typically processed?",
+    "choices": ["Sulphide ores", "Halide ores", "Carbonate and hydrated ores", "Native ores"],
+    "answer": 2,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Calcination is applied to carbonate and hydrated ores, heating them in the absence of air to decompose them into their oxides."
+  },
+  {
+    "question": "Which gas is evolved when zinc sulphide is roasted?",
+    "choices": ["CO₂", "SO₂", "SO₃", "H₂S"],
+    "answer": 1,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "2ZnS + 3O₂ → 2ZnO + 2SO₂. Sulphur dioxide is evolved when zinc sulphide is roasted."
+  },
+  {
+    "question": "Which of the following metallic oxides cannot be reduced by carbon, hydrogen or carbon monoxide?",
+    "choices": ["CuO", "PbO", "FeO", "Al₂O₃"],
+    "answer": 3,
+    "chapter": "Metallurgy",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Al₂O₃ cannot be reduced by common reducing agents like C, CO or H₂ because aluminium is high in the activity series and has great affinity for oxygen."
+  },
+  {
+    "question": "What is the correct equation for the reduction of lead oxide by carbon monoxide?",
+    "choices": [
+      "PbO + CO → Pb + CO₂",
+      "PbO + C → Pb + CO",
+      "2PbO + C → 2Pb + CO₂",
+      "PbO + H₂ → Pb + H₂O"
+    ],
+    "answer": 0,
+    "chapter": "Metallurgy",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "PbO + CO → Pb + CO₂ is the correct balanced equation for reduction of lead oxide by carbon monoxide."
+  },
+  {
+    "question": "Highly reactive metals like sodium, potassium and calcium are extracted by:",
+    "choices": [
+      "Reduction with carbon",
+      "Reduction with hydrogen",
+      "Electrolytic reduction of their fused salts",
+      "Thermal decomposition"
+    ],
+    "answer": 2,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "medium",
+    "reason": "Active metals high in the reactivity series cannot be reduced by common reducing agents and are obtained by electrolytic reduction of their fused salts."
+  },
+  {
+    "question": "In electro-refining, the impure metal is made the:",
+    "choices": ["Cathode", "Electrolyte", "Anode", "Container"],
+    "answer": 2,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "In electro-refining, the impure metal is made the anode, which dissolves gradually; pure metal deposits at the cathode."
+  },
+  {
+    "question": "In Bayer's process, bauxite is treated with:",
+    "choices": ["Dilute HCl", "Concentrated NaOH", "Dilute H₂SO₄", "Lime water"],
+    "answer": 1,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "In Bayer's process, bauxite is heated under pressure with concentrated caustic soda (NaOH) solution, dissolving Al₂O₃ as sodium meta-aluminate."
+  },
+  {
+    "question": "What is the product formed when bauxite reacts with NaOH?",
+    "choices": ["Al(OH)₃", "NaAlO₂", "Al₂O₃", "AlCl₃"],
+    "answer": 1,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "medium",
+    "reason": "Al₂O₃·2H₂O + 2NaOH → 2NaAlO₂ + 3H₂O. Sodium meta-aluminate (NaAlO₂) is formed."
+  },
+  {
+    "question": "The insoluble impurities left behind when bauxite is treated with NaOH are collectively called:",
+    "choices": ["Gangue", "Slag", "Red mud", "Flux"],
+    "answer": 2,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Ferric oxide, sand and other insoluble impurities remain as red mud when bauxite is dissolved in NaOH."
+  },
+  {
+    "question": "In Hall-Héroult's process, the electrolyte used is a mixture of alumina, cryolite and fluorspar in the ratio:",
+    "choices": ["1:3:1", "3:1:1", "1:1:3", "2:3:1"],
+    "answer": 0,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "medium",
+    "reason": "The electrolyte is a mixture of 20% alumina, 60% cryolite and 20% fluorspar, which is approximately a 1:3:1 ratio."
+  },
+  {
+    "question": "The chemical formula of cryolite is:",
+    "choices": ["Na₂AlF₄", "Na₃AlF₆", "NaAlO₂", "CaF₂"],
+    "answer": 1,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Cryolite is sodium aluminium fluoride with the formula Na₃AlF₆."
+  },
+  {
+    "question": "In Hall-Héroult's process, the cathode reaction is:",
+    "choices": [
+      "4Al³⁺ + 12e⁻ → 4Al",
+      "6O²⁻ − 12e⁻ → 3O₂",
+      "Al − 3e⁻ → Al³⁺",
+      "2O²⁻ − 4e⁻ → O₂"
+    ],
+    "answer": 0,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "medium",
+    "reason": "At the cathode, aluminium ions are reduced: 4Al³⁺ + 12e⁻ → 4Al."
+  },
+  {
+    "question": "Why must the graphite anode in Hall-Héroult's process be replaced periodically?",
+    "choices": [
+      "It dissolves in the electrolyte",
+      "It is oxidised by oxygen evolved at the anode to form CO and CO₂",
+      "It melts at 950°C",
+      "It reacts with aluminium metal"
+    ],
+    "answer": 1,
+    "chapter": "Metallurgy",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Oxygen evolved at the anode reacts with the graphite anode: 2C + O₂ → 2CO and 2CO + O₂ → 2CO₂, gradually consuming the anode."
+  },
+  {
+    "question": "What is the primary function of cryolite in Hall-Héroult's process?",
+    "choices": [
+      "Acts as reducing agent",
+      "Lowers the fusion temperature of alumina from ~2050°C to ~950°C and increases conductivity",
+      "Prevents oxidation of aluminium",
+      "Removes iron impurities"
+    ],
+    "answer": 1,
+    "chapter": "Metallurgy",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Cryolite lowers the fusion temperature of alumina from approximately 2050°C to 950°C and acts as a solvent that enhances the conductivity of the electrolyte."
+  },
+  {
+    "question": "The temperature at which the electrolyte is maintained in Hall-Héroult's process is:",
+    "choices": ["500°C", "2050°C", "950°C", "1400°C"],
+    "answer": 2,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "The molten electrolyte in Hall-Héroult's process is maintained at 950°C due to the use of cryolite as a flux."
+  },
+  {
+    "question": "What is the purpose of sprinkling powdered coke over the electrolyte in Hall-Héroult's process?",
+    "choices": [
+      "It acts as a reducing agent for alumina",
+      "It reduces heat loss by radiation and prevents burning of the anode",
+      "It increases the melting point of the electrolyte",
+      "It acts as an additional source of carbon"
+    ],
+    "answer": 1,
+    "chapter": "Metallurgy",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Powdered coke is sprinkled over the surface of the electrolyte to reduce heat loss by radiation and to prevent the burning of the anode."
+  },
+  {
+    "question": "The aluminothermy process uses aluminium to reduce:",
+    "choices": ["ZnO", "Fe₂O₃", "CuO", "MgO"],
+    "answer": 1,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "In aluminothermy, aluminium powder reduces iron oxide: Fe₂O₃ + 2Al → 2Fe + Al₂O₃ + Heat."
+  },
+  {
+    "question": "Which of the following alloys is used in making aircraft bodies?",
+    "choices": ["Stainless steel", "Bronze", "Duralumin", "Brass"],
+    "answer": 2,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Duralumin (95% Al, 4% Cu, 0.5% Mg, 0.5% Mn) is light but as strong as steel, making it ideal for aircraft bodies."
+  },
+  {
+    "question": "The composition of stainless steel is approximately:",
+    "choices": [
+      "73% Fe, 18% Cr, 8% Ni, 1% C",
+      "85% Fe, 14% Mn, 1% C",
+      "95% Al, 4% Cu, 1% Mn",
+      "80% Cu, 18% Sn, 2% Zn"
+    ],
+    "answer": 0,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "medium",
+    "reason": "Stainless steel contains approximately 73% Fe, 18% Cr, 8% Ni and 1% C."
+  },
+  {
+    "question": "Brass is an alloy of:",
+    "choices": ["Copper and tin", "Copper and zinc", "Copper and nickel", "Lead and tin"],
+    "answer": 1,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Brass is an alloy of copper (60–70%) and zinc (30–40%)."
+  },
+  {
+    "question": "Bronze is an alloy of:",
+    "choices": [
+      "Copper and zinc",
+      "Copper, zinc and nickel",
+      "Copper, tin and zinc",
+      "Lead and tin"
+    ],
+    "answer": 2,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Bronze is composed of 80% Cu, 18% Sn and 2% Zn."
+  },
+  {
+    "question": "Solder (fuse metal) is an alloy of:",
+    "choices": ["Pb and Zn", "Pb and Sn", "Pb and Cu", "Sn and Zn"],
+    "answer": 1,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Solder is an alloy of 50% lead and 50% tin. It has a low melting point, making it useful for joining electrical connections."
+  },
+  {
+    "question": "Which of the following metals occurs in nature in the free (native) state?",
+    "choices": ["Sodium", "Aluminium", "Gold", "Iron"],
+    "answer": 2,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Gold is a less reactive metal and does not react under normal conditions, so it occurs in its native (free) state."
+  },
+  {
+    "question": "The ore calamine is a carbonate of which metal?",
+    "choices": ["Iron", "Copper", "Lead", "Zinc"],
+    "answer": 3,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Calamine is zinc carbonate (ZnCO₃), an ore of zinc."
+  },
+  {
+    "question": "What is the chemical name of red haematite?",
+    "choices": [
+      "Hydrated ferric oxide",
+      "Ferrous carbonate",
+      "Anhydrous ferric oxide",
+      "Iron disulphide"
+    ],
+    "answer": 2,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Red haematite is anhydrous ferric oxide with the formula Fe₂O₃."
+  },
+  {
+    "question": "Mercury is extracted from cinnabar (HgS) by first converting it to HgO and then:",
+    "choices": [
+      "Reducing it with carbon",
+      "Reducing it with hydrogen",
+      "Heating it further above 300°C to decompose",
+      "Electrolytic reduction"
+    ],
+    "answer": 2,
+    "chapter": "Metallurgy",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "HgO decomposes on further heating above 300°C: 2HgO → 2Hg + O₂, since mercury is low in the activity series."
+  },
+  {
+    "question": "The process by which zinc oxide is reduced using carbon at 1400°C is:",
+    "choices": [
+      "ZnO + CO → Zn + CO₂",
+      "ZnO + C → Zn + CO",
+      "ZnO + H₂ → Zn + H₂O",
+      "2ZnO + C → 2Zn + CO₂"
+    ],
+    "answer": 1,
+    "chapter": "Metallurgy",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "ZnO + C → Zn + CO at 1400°C. Carbon (coke) is a stronger reducing agent than CO or H₂ for zinc oxide."
+  },
+  {
+    "question": "Which of the following is NOT a method of ore concentration?",
+    "choices": [
+      "Magnetic separation",
+      "Froth flotation",
+      "Electro-refining",
+      "Hydraulic washing"
+    ],
+    "answer": 2,
+    "chapter": "Metallurgy",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Electro-refining is a method of purification (refining) of metals, not a method of ore concentration."
+  },
+  {
+    "question": "The voltage used in Hall-Héroult's process is kept low (5–6 V) to:",
+    "choices": [
+      "Prevent overheating of the cell",
+      "Avoid decomposition of cryolite",
+      "Increase the yield of aluminium",
+      "Prevent oxidation of the cathode"
+    ],
+    "answer": 1,
+    "chapter": "Metallurgy",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "A low voltage of 5–6 V is used to avoid decomposition of molten cryolite, which would interfere with the electrolytic process."
+  },
+  {
+    "question": "In the froth flotation method, which oil is used to wet the ore?",
+    "choices": ["Coconut oil", "Mineral oil", "Pine oil", "Castor oil"],
+    "answer": 2,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Pine oil is used in froth flotation because sulphide ore particles are preferentially wetted by pine oil and rise with froth."
+  },
+  {
+    "question": "Which refining method is used for volatile metals like mercury and zinc?",
+    "choices": ["Liquation", "Electro-refining", "Distillation", "Zone refining"],
+    "answer": 2,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Distillation is used for volatile metals (low boiling point) like mercury and zinc; they distil over in pure form leaving non-volatile impurities behind."
+  },
+  {
+    "question": "In Bayer's process, aluminium hydroxide is ignited at 1000°C to produce:",
+    "choices": ["NaAlO₂", "Al", "Al₂O₃", "AlOOH"],
+    "answer": 2,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "2Al(OH)₃ → Al₂O₃ + 3H₂O at 1000°C. Aluminium hydroxide decomposes to give alumina (Al₂O₃)."
+  },
+  {
+    "question": "Which of the following statements about alloys is INCORRECT?",
+    "choices": [
+      "Alloys are homogeneous mixtures",
+      "Alloys always have higher melting points than their component metals",
+      "Brass is harder than pure copper",
+      "Solder has a lower melting point than both lead and tin"
+    ],
+    "answer": 1,
+    "chapter": "Metallurgy",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "Alloys can have lower melting points than their components (e.g., solder melts at 180°C, lower than either lead or tin individually). The statement that alloys always have higher melting points is incorrect."
+  },
+  {
+    "question": "The principal ore of lead is:",
+    "choices": ["Cinnabar", "Galena", "Argentite", "Siderite"],
+    "answer": 1,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Galena (PbS) is the principal ore of lead."
+  },
+  {
+    "question": "What happens to sodium meta-aluminate when diluted with water and cooled to 50°C?",
+    "choices": [
+      "It decomposes to form Na₂O and Al₂O₃",
+      "It precipitates as NaOH",
+      "It hydrolyses to form Al(OH)₃ precipitate",
+      "It forms NaAlO₂ crystals"
+    ],
+    "answer": 2,
+    "chapter": "Metallurgy",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "NaAlO₂ + 2H₂O → NaOH + Al(OH)₃↓. Sodium meta-aluminate hydrolyses to give aluminium hydroxide as a precipitate."
+  },
+  {
+    "question": "The electrolyte used in the electrolytic extraction of sodium is:",
+    "choices": [
+      "Aqueous sodium chloride",
+      "Fused sodium chloride",
+      "Fused sodium hydroxide",
+      "Sodium sulphate solution"
+    ],
+    "answer": 1,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "medium",
+    "reason": "Fused (molten) sodium chloride is used as the electrolyte because reactive metals cannot be extracted from aqueous solutions (they react with water)."
+  },
+  {
+    "question": "The thermite reaction used in aluminothermy produces heat because:",
+    "choices": [
+      "It is a decomposition reaction",
+      "Aluminium is oxidised by iron oxide in a highly exothermic displacement reaction",
+      "Iron is oxidised by aluminium",
+      "The reaction absorbs heat from the surroundings"
+    ],
+    "answer": 1,
+    "chapter": "Metallurgy",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Fe₂O₃ + 2Al → 2Fe + Al₂O₃ + Heat. This is a highly exothermic displacement reaction where aluminium (more reactive) displaces iron from its oxide."
+  },
+  {
+    "question": "German silver is an alloy of:",
+    "choices": [
+      "Cu, Sn and Zn",
+      "Cu, Zn and Ni",
+      "Ag, Cu and Zn",
+      "Ni, Fe and Cr"
+    ],
+    "answer": 1,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "medium",
+    "reason": "German silver is composed of 50% Cu, 30% Zn and 20% Ni. It contains no silver despite its name."
+  },
+  {
+    "question": "Which ore of aluminium is used as solvent (flux) in Hall-Héroult's process to lower the melting point of alumina?",
+    "choices": ["Bauxite", "Corundum", "Cryolite", "Feldspar"],
+    "answer": 2,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Cryolite (Na₃AlF₆), another ore of aluminium, is used as a flux in Hall-Héroult's process to lower the melting point and increase conductivity."
+  },
+  {
+    "question": "The auto-reduction process is used for extraction of:",
+    "choices": ["Aluminium", "Copper", "Iron", "Zinc"],
+    "answer": 1,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "medium",
+    "reason": "Copper, found as Cu₂S, can be extracted by auto-reduction: 2Cu₂S + 3O₂ → 2Cu₂O + 2SO₂; then 2Cu₂O + Cu₂S → 6Cu + SO₂."
+  },
+  {
+    "question": "The cathode in Hall-Héroult's process is made of:",
+    "choices": [
+      "Iron rods",
+      "Carbon lining of the electrolytic cell",
+      "Graphite rods",
+      "Platinum electrodes"
+    ],
+    "answer": 1,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "medium",
+    "reason": "In Hall-Héroult's process, the inner carbon lining of the rectangular iron tank serves as the cathode."
+  },
+  {
+    "question": "When the supply of alumina in Hall-Héroult's process decreases, the voltage:",
+    "choices": [
+      "Drops to zero",
+      "Remains constant",
+      "Jumps suddenly from 40 to 60 volts",
+      "Gradually falls to 5 volts"
+    ],
+    "answer": 2,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "medium",
+    "reason": "When alumina is depleted, the voltage suddenly jumps from 40 to 60 volts, which signals the operator to add fresh alumina to the cell."
+  },
+  {
+    "question": "The purity of aluminium obtained directly from Hall-Héroult's process is approximately:",
+    "choices": ["90%", "95%", "99.8%", "99.99%"],
+    "answer": 2,
+    "chapter": "Metallurgy",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Aluminium obtained from Hall-Héroult's process is approximately 99.8% pure."
+  },
+  {
+    "question": "<b>Assertion (A)</b>: Gold and platinum occur in the native (free) state in nature. <b>Reason (R)</b>: Gold and platinum are placed at the bottom of the activity series, indicating they are least reactive metals.",
+    "choices": [
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+      "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+      "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
+    ],
+    "answer": 0,
+    "chapter": "Metallurgy",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "Metals with very low reactivity do not combine with common reagents like oxygen, water or carbon dioxide, so they occur in free (native) state. Their position at the bottom of the activity series correctly explains this occurrence."
+  },
+  {
+    "question": "<b>Assertion (A)</b>: The graphite anode in Hall-Héroult's process has to be replaced periodically. <b>Reason (R)</b>: Oxygen liberated at the anode reacts with the graphite electrode to form carbon monoxide and carbon dioxide, gradually consuming it.",
+    "choices": [
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+      "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+      "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
+    ],
+    "answer": 0,
+    "chapter": "Metallurgy",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "2C + O₂ → 2CO and 2CO + O₂ → 2CO₂. The oxygen evolved at the anode oxidises the graphite electrode, causing it to be consumed and necessitating periodic replacement."
+  },
+  {
+    "question": "<b>Assertion (A)</b>: Calcination is carried out on zinc blende (ZnS) before reduction. <b>Reason (R)</b>: Carbonate and hydrated ores are heated in the absence of air to convert them into their oxides during calcination.",
+    "choices": [
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+      "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+      "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
+    ],
+    "answer": 3,
+    "chapter": "Metallurgy",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "Zinc blende (ZnS) is a sulphide ore. Sulphide ores are concentrated by roasting (not calcination). Calcination applies to carbonate and hydrated ores. Thus, the Assertion is false, but the Reason correctly describes calcination."
+  },
+  {
+    "question": "<b>Assertion (A)</b>: Aluminium cannot be extracted from Al₂O₃ by reduction with carbon or carbon monoxide. <b>Reason (R)</b>: Aluminium is a highly reactive metal and its oxide has a very high stability (great affinity for oxygen), making it difficult to reduce with common reducing agents.",
+    "choices": [
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+      "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+      "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
+    ],
+    "answer": 0,
+    "chapter": "Metallurgy",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "Al₂O₃ is extremely stable due to aluminium's high reactivity and position at the top of the activity series. Common reducing agents like C, CO and H₂ cannot overcome this stability. Hence electrolytic reduction is used."
+  },
+  {
+    "question": "<b>Assertion (A)</b>: Froth flotation method is used to concentrate sulphide ores. <b>Reason (R)</b>: Sulphide ore particles are preferentially wetted by pine oil rather than water, allowing them to rise with the froth.",
+    "choices": [
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+      "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+      "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
+    ],
+    "answer": 0,
+    "chapter": "Metallurgy",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "Froth flotation relies on the principle that sulphide ore particles are preferentially wetted by pine oil (not water). When compressed air is blown, the oil-coated ore particles rise as froth while gangue, wetted by water, sinks."
+  },
+  {
+    "question": "<b>Assertion (A)</b>: Electrolytic reduction is carried out using fused (molten) salts and not aqueous solutions for highly active metals. <b>Reason (R)</b>: Active metals like sodium react vigorously with water, so aqueous solutions cannot be used for their electrolytic extraction.",
+    "choices": [
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+      "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+      "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
+    ],
+    "answer": 0,
+    "chapter": "Metallurgy",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "Active metals like Na, K and Ca react violently with water. If aqueous solutions are electrolysed, hydrogen is discharged at the cathode instead of the metal. Fused salts are used to prevent this."
+  },
+  {
+    "question": "<b>Assertion (A)</b>: Solder, an alloy of lead and tin, melts at a lower temperature than either lead or tin individually. <b>Reason (R)</b>: Alloying always increases the melting point of the component metals.",
+    "choices": [
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+      "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+      "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
+    ],
+    "answer": 2,
+    "chapter": "Metallurgy",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "Solder (Pb + Sn) melts at about 180°C, which is lower than the melting points of both lead and tin. The Assertion is true, but the Reason is false — alloying can lower the melting point (not always raise it), as seen in fusible alloys like solder."
+  },
+  {
+    "question": "<b>Assertion (A)</b>: In electro-refining, the anode dissolves gradually while pure metal deposits at the cathode. <b>Reason (R)</b>: The electrolyte used in electro-refining is a salt solution of the metal being purified.",
+    "choices": [
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+      "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+      "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
+    ],
+    "answer": 1,
+    "chapter": "Metallurgy",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "Both statements are true. The anode (impure metal) dissolves: M − ne⁻ → Mⁿ⁺, and pure metal deposits at the cathode: Mⁿ⁺ + ne⁻ → M. The electrolyte is indeed a salt solution of the metal. However, the Reason (electrolyte identity) does not directly explain why the anode dissolves — the dissolution is due to oxidation at the anode driven by the electric current."
+  },
+  {
+    "question": "<b>Assertion (A)</b>: Sodium amalgam is less reactive than pure sodium. <b>Reason (R)</b>: Alloying sodium with mercury modifies its chemical activity by diluting its reactivity.",
+    "choices": [
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+      "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+      "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
+    ],
+    "answer": 0,
+    "chapter": "Metallurgy",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "Sodium amalgam (Na dissolved in Hg) is significantly less reactive than pure sodium. One purpose of making alloys is to modify the chemical activity of the component metals."
+  },
+  {
+    "question": "What is the correct sequence of steps in extraction of a metal from its ore?",
+    "choices": [
+      "Crushing → Reduction → Concentration → Roasting → Refining",
+      "Crushing → Concentration → Roasting → Reduction → Refining",
+      "Crushing → Roasting → Concentration → Reduction → Refining",
+      "Concentration → Crushing → Roasting → Reduction → Refining"
+    ],
+    "answer": 1,
+    "chapter": "Metallurgy",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "The correct sequence is: Crushing and Grinding → Concentration (dressing) → Roasting/Calcination → Reduction (smelting) → Refining."
+  },
+{
+"question": "What is the molecular formula of hydrogen chloride?",
+"choices": ["HCl", "H2Cl", "HCl2", "H2Cl2"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Knowledge",
+"complexity": "easy",
+"reason": "Hydrogen chloride consists of one hydrogen atom and one chlorine atom."
+},
+{
+"question": "The bond present in hydrogen chloride is:",
+"choices": ["Polar covalent", "Ionic", "Coordinate covalent", "Metallic"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Conceptual",
+"complexity": "easy",
+"reason": "Hydrogen and chlorine share electrons unequally due to electronegativity difference."
+},
+{
+"question": "Who named muriatic acid as hydrochloric acid in 1810?",
+"choices": ["Humphry Davy", "Lavoisier", "Boyle", "Priestley"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Knowledge",
+"complexity": "easy",
+"reason": "Humphry Davy renamed muriatic acid as hydrochloric acid."
+},
+{
+"question": "Hydrogen chloride gas is heavier than:",
+"choices": ["Air", "Carbon dioxide", "Chlorine", "Sulphur dioxide"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Application",
+"complexity": "easy",
+"reason": "The molar mass of HCl is greater than the average molar mass of air."
+},
+{
+"question": "Hydrochloric acid is prepared by dissolving hydrogen chloride gas in:",
+"choices": ["Water", "Alcohol", "Benzene", "Kerosene"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Knowledge",
+"complexity": "easy",
+"reason": "Hydrogen chloride is highly soluble in water, forming hydrochloric acid."
+},
+{
+"question": "Hydrogen chloride gas is collected by:",
+"choices": ["Upward displacement of air", "Downward displacement of water", "Upward displacement of water", "Downward displacement of hydrogen"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Application",
+"complexity": "medium",
+"reason": "HCl is denser than air and highly soluble in water."
+},
+{
+"question": "Which acid is used in the laboratory preparation of hydrogen chloride gas?",
+"choices": ["Concentrated sulphuric acid", "Dilute sulphuric acid", "Concentrated nitric acid", "Dilute hydrochloric acid"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Knowledge",
+"complexity": "easy",
+"reason": "Concentrated sulphuric acid is non-volatile and displaces volatile HCl."
+},
+{
+"question": "The raw material used for preparing hydrogen chloride gas is:",
+"choices": ["Sodium chloride", "Potassium chloride", "Calcium chloride", "Ammonium chloride"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Knowledge",
+"complexity": "easy",
+"reason": "Common salt reacts with concentrated sulphuric acid to produce HCl gas."
+},
+{
+"question": "The equation NaCl + H2SO4 → NaHSO4 + HCl is carried out at:",
+"choices": ["Below 200°C", "300°C", "500°C", "800°C"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Conceptual",
+"complexity": "medium",
+"reason": "At temperatures below 200°C sodium bisulphate is formed."
+},
+{
+"question": "At temperatures above 200°C, the product formed along with HCl is:",
+"choices": ["Sodium sulphate", "Sodium bisulphate", "Sodium sulphite", "Sodium thiosulphate"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Conceptual",
+"complexity": "medium",
+"reason": "Sodium bisulphate reacts further with sodium chloride to form sodium sulphate."
+},
+{
+"question": "Hydrogen chloride gas cannot be collected over water because it is:",
+"choices": ["Highly soluble in water", "Lighter than water", "Reactive towards oxygen", "Colourless"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Application",
+"complexity": "easy",
+"reason": "HCl dissolves rapidly in water."
+},
+{
+"question": "The drying agent used for hydrogen chloride gas is:",
+"choices": ["Concentrated sulphuric acid", "Quicklime", "Anhydrous calcium chloride", "Phosphorus pentoxide"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Application",
+"complexity": "medium",
+"reason": "Concentrated sulphuric acid removes moisture without reacting with HCl."
+},
+{
+"question": "Quicklime cannot be used to dry hydrogen chloride because it:",
+"choices": ["Reacts with HCl", "Absorbs HCl physically", "Produces hydrogen", "Melts easily"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Analysis",
+"complexity": "medium",
+"reason": "CaO reacts with HCl to form calcium chloride."
+},
+{
+"question": "Hydrogen chloride gas turns moist blue litmus paper:",
+"choices": ["Red", "Green", "Colourless", "Blue"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Application",
+"complexity": "easy",
+"reason": "HCl forms hydrochloric acid in the presence of moisture."
+},
+{
+"question": "Dry hydrogen chloride gas has no effect on dry blue litmus paper because:",
+"choices": ["It does not ionize without water", "It is a weak acid", "It is neutral", "It bleaches litmus"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Analysis",
+"complexity": "medium",
+"reason": "Acidic properties are due to hydrogen ions formed only in aqueous solution."
+},
+{
+"question": "The fountain experiment demonstrates the:",
+"choices": ["High solubility of HCl in water", "Combustibility of HCl", "Density of HCl", "Basic nature of HCl"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Application",
+"complexity": "easy",
+"reason": "Rapid dissolution of HCl creates partial vacuum causing the fountain effect."
+},
+{
+"question": "The colour of hydrogen chloride gas is:",
+"choices": ["Colourless", "Greenish yellow", "Brown", "Pale blue"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Knowledge",
+"complexity": "easy",
+"reason": "Pure hydrogen chloride is a colourless gas."
+},
+{
+"question": "Hydrogen chloride gas has a:",
+"choices": ["Pungent smell", "Sweet smell", "Odourless nature", "Fruity smell"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Knowledge",
+"complexity": "easy",
+"reason": "HCl gas has a characteristic pungent odour."
+},
+{
+"question": "Hydrogen chloride gas fumes in moist air because:",
+"choices": ["It combines with moisture to form tiny acid droplets", "It burns in air", "It decomposes in sunlight", "It reacts with oxygen"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Analysis",
+"complexity": "medium",
+"reason": "Fine droplets of hydrochloric acid appear as fumes."
+},
+{
+"question": "Hydrochloric acid reacts with zinc to produce:",
+"choices": ["Hydrogen gas", "Chlorine gas", "Oxygen gas", "Nitrogen gas"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Application",
+"complexity": "easy",
+"reason": "Metal + acid → salt + hydrogen."
+},
+{
+"question": "Which salt is formed when hydrochloric acid reacts with magnesium oxide?",
+"choices": ["Magnesium chloride", "Magnesium sulphate", "Magnesium nitrate", "Magnesium carbonate"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Application",
+"complexity": "easy",
+"reason": "Acid + metal oxide → salt + water."
+},
+{
+"question": "Hydrochloric acid reacts with sodium carbonate to produce:",
+"choices": ["Carbon dioxide", "Hydrogen", "Chlorine", "Oxygen"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Application",
+"complexity": "easy",
+"reason": "Acid + carbonate → salt + water + carbon dioxide."
+},
+{
+"question": "The gas evolved when hydrochloric acid reacts with metal sulphides is:",
+"choices": ["Hydrogen sulphide", "Sulphur dioxide", "Hydrogen", "Chlorine"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Application",
+"complexity": "medium",
+"reason": "Acids liberate H2S from metal sulphides."
+},
+{
+"question": "Hydrochloric acid reacts with sodium sulphite to produce:",
+"choices": ["Sulphur dioxide", "Hydrogen sulphide", "Oxygen", "Nitrogen dioxide"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Application",
+"complexity": "medium",
+"reason": "Acids liberate SO2 from sulphites."
+},
+{
+"question": "Which reagent gives a white curdy precipitate with hydrochloric acid?",
+"choices": ["Silver nitrate solution", "Barium chloride solution", "Copper sulphate solution", "Sodium hydroxide solution"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Application",
+"complexity": "easy",
+"reason": "Ag+ ions react with chloride ions to form AgCl."
+},
+{
+"question": "The white precipitate formed when HCl reacts with silver nitrate is:",
+"choices": ["Silver chloride", "Silver oxide", "Silver sulphate", "Silver nitrate"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Knowledge",
+"complexity": "easy",
+"reason": "AgNO3 + HCl → AgCl + HNO3."
+},
+{
+"question": "Hydrochloric acid gives a white precipitate with lead nitrate due to formation of:",
+"choices": ["Lead chloride", "Lead sulphate", "Lead oxide", "Lead carbonate"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Knowledge",
+"complexity": "medium",
+"reason": "Pb(NO3)2 reacts with chloride ions to form PbCl2."
+},
+{
+"question": "Hydrogen chloride gas is manufactured industrially by direct combination of:",
+"choices": ["Hydrogen and chlorine", "Hydrogen and oxygen", "Chlorine and nitrogen", "Hydrogen and sulphur"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Knowledge",
+"complexity": "easy",
+"reason": "Hydrogen burns in chlorine to form HCl."
+},
+{
+"question": "The reaction between hydrogen and chlorine is explosive in:",
+"choices": ["Direct sunlight", "Darkness", "Presence of moisture only", "Low pressure"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Conceptual",
+"complexity": "medium",
+"reason": "Sunlight initiates a chain reaction between hydrogen and chlorine."
+},
+{
+"question": "Activated charcoal speeds up the combination of hydrogen and chlorine because it:",
+"choices": ["Acts as a catalyst", "Provides water", "Absorbs chlorine permanently", "Lowers pressure"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Analysis",
+"complexity": "medium",
+"reason": "Activated charcoal catalyzes the reaction."
+},
+{
+"question": "Which property of hydrochloric acid makes it useful in cleaning metal surfaces?",
+"choices": ["It dissolves metal oxides", "It is a strong oxidizing agent", "It is non-corrosive", "It is basic"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Application",
+"complexity": "medium",
+"reason": "Hydrochloric acid removes oxide layers during pickling."
+},
+{
+"question": "The process of cleaning iron sheets using hydrochloric acid before galvanizing is called:",
+"choices": ["Pickling", "Electroplating", "Smelting", "Calcination"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Knowledge",
+"complexity": "medium",
+"reason": "Pickling removes rust and oxide layers."
+},
+{
+"question": "Hydrochloric acid present in the stomach helps in:",
+"choices": ["Digestion of proteins", "Digestion of fats only", "Absorption of calcium only", "Formation of bile"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Knowledge",
+"complexity": "easy",
+"reason": "HCl provides an acidic medium for digestive enzymes."
+},
+{
+"question": "The concentration of hydrochloric acid in gastric juice is approximately:",
+"choices": ["0.2% to 0.4%", "1% to 2%", "5% to 10%", "15% to 20%"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Knowledge",
+"complexity": "medium",
+"reason": "Gastric juice contains dilute hydrochloric acid."
+},
+{
+"question": "Hydrogen chloride gas is an example of:",
+"choices": ["A covalent compound showing acidic properties in water", "An ionic compound", "A neutral oxide", "An alkali"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Conceptual",
+"complexity": "medium",
+"reason": "HCl is covalent but ionizes in water."
+},
+{
+"question": "Back suction during preparation of hydrochloric acid is prevented by:",
+"choices": ["Using an inverted funnel arrangement", "Heating continuously", "Adding sodium hydroxide", "Increasing pressure"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Application",
+"complexity": "high",
+"reason": "The inverted funnel provides a large surface area and prevents water from entering the flask."
+},
+{
+"question": "Which of the following acids cannot be used to prepare HCl from sodium chloride?",
+"choices": ["Hydrochloric acid", "Concentrated sulphuric acid", "Oleum", "Sulphuric acid"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Analysis",
+"complexity": "medium",
+"reason": "A volatile acid cannot displace another volatile acid."
+},
+{
+"question": "Which statement about concentrated sulphuric acid is correct in the preparation of HCl?",
+"choices": ["It is a non-volatile acid", "It is a volatile acid", "It acts as a reducing agent", "It reacts with HCl gas"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Conceptual",
+"complexity": "easy",
+"reason": "A non-volatile acid displaces a volatile acid from its salts."
+},
+{
+"question": "Hydrogen chloride gas is acidic only when:",
+"choices": ["Dissolved in water", "In liquid state", "In pure gaseous state", "Mixed with oxygen"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Analysis",
+"complexity": "medium",
+"reason": "Ionization occurs only in aqueous solution."
+},
+{
+"question": "The chloride ion is identified by adding silver nitrate solution after acidifying with:",
+"choices": ["Dilute nitric acid", "Dilute hydrochloric acid", "Dilute sulphuric acid", "Acetic acid"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Application",
+"complexity": "high",
+"reason": "Nitric acid does not introduce chloride ions."
+},
+{
+"question": "Which gas is evolved when HCl reacts with sodium bicarbonate?",
+"choices": ["Carbon dioxide", "Hydrogen", "Sulphur dioxide", "Chlorine"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Application",
+"complexity": "easy",
+"reason": "Acids react with bicarbonates to release CO2."
+},
+{
+"question": "Which property of HCl gas is demonstrated by diffusion experiments?",
+"choices": ["It diffuses rapidly in air", "It is insoluble in water", "It is combustible", "It supports combustion"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Application",
+"complexity": "medium",
+"reason": "Like all gases, HCl diffuses, though more slowly than lighter gases."
+},
+{
+"question": "Hydrogen chloride belongs to which class of compounds?",
+"choices": ["Hydrogen halides", "Hydrogen sulphides", "Hydrides", "Oxides"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Knowledge",
+"complexity": "easy",
+"reason": "HCl is a hydrogen compound of a halogen."
+},
+{
+"question": "Which one of the following metals does NOT liberate hydrogen with dilute HCl?",
+"choices": ["Copper", "Magnesium", "Zinc", "Iron"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Analysis",
+"complexity": "medium",
+"reason": "Copper lies below hydrogen in the activity series."
+},
+{
+"question": "Hydrogen chloride gas forms dense white fumes with:",
+"choices": ["Ammonia gas", "Hydrogen gas", "Oxygen gas", "Carbon dioxide"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Application",
+"complexity": "easy",
+"reason": "Ammonium chloride is formed as white fumes."
+},
+{
+"question": "The white fumes produced when HCl reacts with ammonia consist of:",
+"choices": ["Ammonium chloride", "Ammonium hydroxide", "Ammonium nitrate", "Ammonium sulphate"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Knowledge",
+"complexity": "easy",
+"reason": "NH3 + HCl → NH4Cl."
+},
+{
+"question": "Hydrochloric acid is classified as:",
+"choices": ["A strong acid", "A weak acid", "A weak base", "A neutral compound"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Conceptual",
+"complexity": "easy",
+"reason": "HCl ionizes almost completely in water."
+},
+{
+"question": "Which ion is responsible for acidic properties of hydrochloric acid?",
+"choices": ["H3O+", "Cl-", "OH-", "Na+"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Conceptual",
+"complexity": "medium",
+"reason": "Hydronium ions are responsible for acidic behaviour."
+},
+{
+"question": "Which indicator remains colourless in hydrochloric acid solution?",
+"choices": ["Phenolphthalein", "Methyl orange", "Blue litmus", "Universal indicator"],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Application",
+"complexity": "easy",
+"reason": "Phenolphthalein is colourless in acidic medium."
+},
+
+{
+"question": "Assertion (A): Dry hydrogen chloride gas does not change the colour of dry blue litmus paper. Reason (R): Hydrogen chloride ionizes only in the presence of water.",
+"choices": [
+"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+"Assertion (A) is true but Reason (R) is false",
+"Assertion (A) is false but Reason (R) is true"
+],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Analysis",
+"complexity": "medium",
+"reason": "Acidic behaviour appears only when HCl forms hydronium ions in water."
+},
+{
+"question": "Assertion (A): Hydrogen chloride gas is collected by upward displacement of air. Reason (R): Hydrogen chloride is denser than air and highly soluble in water.",
+"choices": [
+"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+"Assertion (A) is true but Reason (R) is false",
+"Assertion (A) is false but Reason (R) is true"
+],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Analysis",
+"complexity": "medium",
+"reason": "Its high density and high solubility prevent collection over water."
+},
+{
+"question": "Assertion (A): Concentrated sulphuric acid is used in the preparation of hydrogen chloride gas. Reason (R): Sulphuric acid is a non-volatile acid and displaces volatile hydrochloric acid from sodium chloride.",
+"choices": [
+"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+"Assertion (A) is true but Reason (R) is false",
+"Assertion (A) is false but Reason (R) is true"
+],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Analysis",
+"complexity": "medium",
+"reason": "A non-volatile acid displaces a volatile acid from its salt."
+},
+{
+"question": "Assertion (A): Hydrogen chloride gas forms dense white fumes with ammonia gas. Reason (R): Ammonium chloride is produced during the reaction.",
+"choices": [
+"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+"Assertion (A) is true but Reason (R) is false",
+"Assertion (A) is false but Reason (R) is true"
+],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Analysis",
+"complexity": "easy",
+"reason": "NH3 reacts with HCl to form white fumes of NH4Cl."
+},
+{
+"question": "Assertion (A): Hydrogen chloride gas cannot be dried using quicklime. Reason (R): Quicklime reacts chemically with hydrogen chloride gas.",
+"choices": [
+"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+"Assertion (A) is true but Reason (R) is false",
+"Assertion (A) is false but Reason (R) is true"
+],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Analysis",
+"complexity": "medium",
+"reason": "Calcium oxide neutralizes HCl forming calcium chloride."
+},
+{
+"question": "Assertion (A): The fountain experiment with hydrogen chloride produces a fountain of water. Reason (R): Hydrogen chloride is highly soluble in water, creating a partial vacuum inside the flask.",
+"choices": [
+"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+"Assertion (A) is true but Reason (R) is false",
+"Assertion (A) is false but Reason (R) is true"
+],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Analysis",
+"complexity": "medium",
+"reason": "Rapid dissolution lowers pressure and draws water into the flask."
+},
+{
+"question": "Assertion (A): Hydrochloric acid reacts with sodium carbonate to evolve carbon dioxide. Reason (R): Carbonates react with acids to form salt, water and carbon dioxide.",
+"choices": [
+"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+"Assertion (A) is true but Reason (R) is false",
+"Assertion (A) is false but Reason (R) is true"
+],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Analysis",
+"complexity": "easy",
+"reason": "This is a characteristic reaction of acids with carbonates."
+},
+{
+"question": "Assertion (A): Hydrochloric acid gives a white curdy precipitate with silver nitrate solution. Reason (R): Silver chloride is insoluble in water.",
+"choices": [
+"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+"Assertion (A) is true but Reason (R) is false",
+"Assertion (A) is false but Reason (R) is true"
+],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Analysis",
+"complexity": "medium",
+"reason": "Chloride ions react with silver ions to form insoluble AgCl."
+},
+{
+"question": "Assertion (A): The reaction between hydrogen and chlorine is explosive in sunlight. Reason (R): Sunlight initiates a chain reaction by dissociating chlorine molecules into reactive radicals.",
+"choices": [
+"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+"Assertion (A) is true but Reason (R) is false",
+"Assertion (A) is false but Reason (R) is true"
+],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Analysis",
+"complexity": "high",
+"reason": "Ultraviolet light generates chlorine radicals, causing an explosive reaction."
+},
+{
+"question": "Assertion (A): An inverted funnel is used while dissolving hydrogen chloride gas in water. Reason (R): It prevents back suction of water into the generating flask.",
+"choices": [
+"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+"Assertion (A) is true but Reason (R) is false",
+"Assertion (A) is false but Reason (R) is true"
+],
+"answer": 0,
+"chapter": "Study of Compounds - Hydrogen Chloride",
+"category": "Analysis",
+"complexity": "medium",
+"reason": "The inverted funnel increases surface area and avoids backflow."
+},
+{
+   "question": "What is the relative molecular mass of ammonia (NH3)?",
+   "choices": [
+     "14",
+     "17",
+     "18",
+     "10"
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "low",
+   "reason": "Nitrogen has an atomic mass of 14 and Hydrogen has 1, so 14 + (3 * 1) = 17."
+ },
+ {
+   "question": "The pungent smell near a decaying heap of organic matter or a public toilet is primarily due to the bacterial decomposition of:",
+   "choices": [
+     "Ammonium chloride",
+     "Calcium hydroxide",
+     "Urea",
+     "Nylon"
+   ],
+   "answer": 2,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "medium",
+   "reason": "Bacterial decomposition of urea present in urine produces ammonia gas, which has a pungent smell."
+ },
+ {
+   "question": "Which of the following is the correct balanced equation for the laboratory preparation of ammonia from ammonium chloride?",
+   "choices": [
+     "<latex>\\mathbf{NH_4Cl + NaOH \\rightarrow NaCl + H_2O + NH_3}</latex>",
+     "<latex>\\mathbf{2NH_4Cl + Ca(OH)_2 \\rightarrow CaCl_2 + 2H_2O + 2NH_3}</latex>",
+     "<latex>\\mathbf{(NH_4)_2SO_4 + Ca(OH)_2 \\rightarrow CaSO_4 + 2H_2O + 2NH_3}</latex>",
+     "<latex>\\mathbf{NH_4Cl \\xrightarrow{\\Delta} NH_3 + HCl}</latex>"
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Application",
+   "complexity": "medium",
+   "reason": "In the lab, ammonium chloride is heated with calcium hydroxide (slaked lime) to produce ammonia gas."
+ },
+ {
+   "question": "Why is the flask tilted in a slanting position with the mouth downwards during the laboratory preparation of ammonia?",
+   "choices": [
+     "To allow the ammonia gas to escape easily.",
+     "To prevent the ammonium chloride from subliming.",
+     "To prevent water vapor formed from trickling back into the hot flask and breaking it.",
+     "To ensure better mixing of the reactants."
+   ],
+   "answer": 2,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Analysis",
+   "complexity": "medium",
+   "reason": "Water vapor produced during the reaction could condense and flow back toward the heated part of the flask, causing the glass to crack due to the temperature difference."
+ },
+ {
+   "question": "Which drying agent is used to obtain dry ammonia gas in the laboratory?",
+   "choices": [
+     "Concentrated sulphuric acid",
+     "Phosphorus pentoxide",
+     "Anhydrous calcium chloride",
+     "Quicklime (CaO)"
+   ],
+   "answer": 3,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "low",
+   "reason": "Quicklime is basic and does not react with ammonia, unlike the other acidic or additive drying agents."
+ },
+ {
+   "question": "What is the result when ammonia reacts with anhydrous calcium chloride?",
+   "choices": [
+     "Ammonium chloride is formed.",
+     "Calcium nitride is formed.",
+     "An addition compound <latex>\\mathbf{CaCl_2 \\cdot 4NH_3}</latex> is formed.",
+     "No reaction occurs."
+   ],
+   "answer": 2,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "medium",
+   "reason": "Ammonia reacts with calcium chloride to form an addition product, making CaCl2 unsuitable as a drying agent."
+ },
+ {
+   "question": "Ammonia gas is collected by the downward displacement of air because it is:",
+   "choices": [
+     "Heavier than air",
+     "Lighter than air",
+     "Insoluble in water",
+     "A poisonous gas"
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Analysis",
+   "complexity": "medium",
+   "reason": "Ammonia has a vapour density of 8.5 while air is 14.4, making it lighter than air."
+ },
+ {
+   "question": "Why is ammonium nitrate not used in the laboratory preparation of ammonia?",
+   "choices": [
+     "It is too expensive.",
+     "It does not contain nitrogen.",
+     "It is explosive in nature and decomposes to give nitrous oxide.",
+     "It is a liquid at room temperature."
+   ],
+   "answer": 2,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Analysis",
+   "complexity": "medium",
+   "reason": "Ammonium nitrate is explosive and undergoes thermal decomposition to produce nitrous oxide and water rather than ammonia when heated."
+ },
+ {
+   "question": "Which metal nitride reacts with warm water to produce ammonia?",
+   "choices": [
+     "Sodium nitride",
+     "Magnesium nitride",
+     "Iron nitride",
+     "Copper nitride"
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "low",
+   "reason": "Nitrides of Magnesium (Mg3N2) and Aluminium (AlN) react with warm water to produce ammonia."
+ },
+ {
+   "question": "Identify the balanced equation for the reaction of magnesium nitride with warm water.",
+   "choices": [
+     "<latex>\\mathbf{Mg_3N_2 + 2H_2O \\rightarrow 3MgO + 2NH_3}</latex>",
+     "<latex>\\mathbf{Mg_3N_2 + 6H_2O \\rightarrow 3Mg(OH)_2 + 2NH_3}</latex>",
+     "<latex>\\mathbf{MgN + 3H_2O \\rightarrow Mg(OH)_3 + NH_3}</latex>",
+     "<latex>\\mathbf{Mg_3N_2 + H_2O \\rightarrow Mg_3O_2 + N_2 + H_2}</latex>"
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Application",
+   "complexity": "medium",
+   "reason": "Magnesium nitride reacts with water to form magnesium hydroxide and ammonia gas."
+ },
+ {
+   "question": "Assertion (A): Ammonia gas cannot be collected over water. \nReason (R): Ammonia is highly soluble in water.",
+   "choices": [
+     "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+     "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+     "Assertion (A) is true but Reason (R) is false",
+     "Assertion (A) is false but Reason (R) is true"
+   ],
+   "answer": 0,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Analysis",
+   "complexity": "medium",
+   "reason": "Ammonia's extreme solubility in water (1 vol water dissolves ~702 vols ammonia) causes it to dissolve immediately instead of displacing water."
+ },
+ {
+   "question": "In the preparation of aqueous ammonia, the use of a funnel prevents 'back suction'. What other advantage does the funnel provide?",
+   "choices": [
+     "It acts as a cooling agent.",
+     "It provides a larger surface area for dissolution.",
+     "It purifies the ammonia gas.",
+     "It increases the pressure of the gas."
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "low",
+   "reason": "The funnel arrangement prevents back suction and provides a large surface area for the gas to dissolve efficiently."
+ },
+ {
+   "question": "In Haber's Process, what is the volume ratio of Nitrogen to Hydrogen used?",
+   "choices": [
+     "3 : 1",
+     "1 : 1",
+     "1 : 3",
+     "2 : 3"
+   ],
+   "answer": 2,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "low",
+   "reason": "According to the equation N2 + 3H2 -> 2NH3, the ratio is 1 part Nitrogen to 3 parts Hydrogen by volume."
+ },
+ {
+   "question": "Which of the following conditions is favorable for the manufacture of ammonia by Haber's Process?",
+   "choices": [
+     "Low pressure and high temperature",
+     "High pressure and high temperature",
+     "High pressure and optimum temperature (450-500 °C)",
+     "Low pressure and low temperature"
+   ],
+   "answer": 2,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "medium",
+   "reason": "The reaction is exothermic and proceeds with a decrease in volume, necessitating high pressure and a moderate 'optimum' temperature."
+ },
+ {
+   "question": "What is the function of Molybdenum in Haber's Process?",
+   "choices": [
+     "Catalyst",
+     "Promoter",
+     "Oxidizing agent",
+     "Drying agent"
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "low",
+   "reason": "Molybdenum or Al2O3 acts as a promoter to increase the efficiency of the iron catalyst."
+ },
+ {
+   "question": "Ammonia is separated from unreacted nitrogen and hydrogen in Haber's process because ammonia:",
+   "choices": [
+     "Is lighter than the other two gases.",
+     "Liquefies more easily than nitrogen and hydrogen.",
+     "Is insoluble in water.",
+     "Has a higher boiling point than nitrogen."
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Analysis",
+   "complexity": "medium",
+   "reason": "Ammonia can be liquefied under pressure at lower temperatures much more easily than N2 or H2."
+ },
+ {
+   "question": "What happens during the 'Fountain Experiment' when water is introduced into the flask containing ammonia?",
+   "choices": [
+     "The pressure inside the flask increases.",
+     "Ammonia gas expands.",
+     "A partial vacuum is created due to high solubility of ammonia.",
+     "The red litmus solution stays red."
+   ],
+   "answer": 2,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Analysis",
+   "complexity": "medium",
+   "reason": "Ammonia dissolves instantly in the water drops, drastically reducing the gas pressure inside the flask."
+ },
+ {
+   "question": "The color of the fountain in the 'Fountain Experiment' for ammonia is blue. This proves that ammonia is:",
+   "choices": [
+     "Acidic",
+     "Neutral",
+     "Basic",
+     "Highly reactive"
+   ],
+   "answer": 2,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Analysis",
+   "complexity": "low",
+   "reason": "Ammonia turns red litmus solution blue, which indicates its alkaline (basic) nature."
+ },
+ {
+   "question": "Assertion (A): Dry ammonia gas has no effect on dry red litmus paper. \nReason (R): The basic nature of ammonia is due to the presence of hydroxyl ions which only form in the presence of moisture.",
+   "choices": [
+     "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+     "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+     "Assertion (A) is true but Reason (R) is false",
+     "Assertion (A) is false but Reason (R) is true"
+   ],
+   "answer": 0,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Analysis",
+   "complexity": "high",
+   "reason": "Ammonia gas is a covalent molecule and only acts as a base when it reacts with water to form NH4+ and OH- ions."
+ },
+ {
+   "question": "Ammonia burns in an atmosphere of pure oxygen with a:",
+   "choices": [
+     "Pale blue flame",
+     "Yellowish green flame",
+     "Dazzling white flame",
+     "Brick red flame"
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "medium",
+   "reason": "The combustion of ammonia in oxygen produces a characteristic yellowish-green flame."
+ },
+ {
+   "question": "In the catalytic oxidation of ammonia, what are the products formed?",
+   "choices": [
+     "Nitrogen and water",
+     "Nitric oxide and water",
+     "Nitrous oxide and water",
+     "Nitrogen peroxide and water"
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "medium",
+   "reason": "Over a platinum catalyst at 800°C, ammonia is oxidized to Nitric oxide (NO)."
+ },
+ {
+   "question": "Which of the following is produced when excess ammonia reacts with chlorine?",
+   "choices": [
+     "Nitrogen and hydrochloric acid",
+     "Nitrogen trichloride and HCl",
+     "Nitrogen and ammonium chloride",
+     "Nitric oxide and water"
+   ],
+   "answer": 2,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "high",
+   "reason": "With excess ammonia, the HCl formed reacts with the remaining ammonia to produce white fumes of ammonium chloride (NH4Cl)."
+ },
+ {
+   "question": "When chlorine is in excess in a reaction with ammonia, the explosive product formed is:",
+   "choices": [
+     "Ammonium chloride",
+     "Nitrogen gas",
+     "Nitrogen trichloride",
+     "Ammonium nitrate"
+   ],
+   "answer": 2,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "medium",
+   "reason": "Reaction: NH3 + 3Cl2 -> 3HCl + NCl3. NCl3 (nitrogen trichloride) is a yellow, highly explosive liquid."
+ },
+ {
+   "question": "Assertion (A): Ammonia acts as a reducing agent when passed over heated Copper (II) oxide.\nReason (R): Ammonia is oxidized to nitrogen while Copper (II) oxide is reduced to metallic copper.",
+   "choices": [
+     "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+     "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+     "Assertion (A) is true but Reason (R) is false",
+     "Assertion (A) is false but Reason (R) is true"
+   ],
+   "answer": 0,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Analysis",
+   "complexity": "medium",
+   "reason": "The reaction 2NH3 + 3CuO -> 3Cu + 3H2O + N2 shows copper oxide losing oxygen (reduction) and ammonia losing hydrogen (oxidation)."
+ },
+ {
+   "question": "What is observed when a glass rod dipped in concentrated HCl is brought near the mouth of a jar containing ammonia gas?",
+   "choices": [
+     "No reaction",
+     "The rod turns blue",
+     "Dense white fumes are formed",
+     "A pop sound is heard"
+   ],
+   "answer": 2,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Application",
+   "complexity": "medium",
+   "reason": "HCl gas and NH3 gas react instantly to form solid ammonium chloride (NH4Cl) which appears as dense white fumes."
+ },
+ {
+   "question": "Aqueous ammonia (NH4OH) reacts with Ferric chloride solution (FeCl3) to give a precipitate of:",
+   "choices": [
+     "Dirty green color",
+     "Pale blue color",
+     "Reddish brown color",
+     "White gelatinous color"
+   ],
+   "answer": 2,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "medium",
+   "reason": "Ferric (Fe3+) salts react with NH4OH to form Fe(OH)3, which is a reddish-brown precipitate."
+ },
+ {
+   "question": "Assertion (A): On adding excess ammonium hydroxide to a copper sulphate solution, a deep blue solution is formed.\nReason (R): Copper hydroxide dissolves in excess NH4OH to form a soluble complex called tetraammine copper (II) sulphate.",
+   "choices": [
+     "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+     "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+     "Assertion (A) is true but Reason (R) is false",
+     "Assertion (A) is false but Reason (R) is true"
+   ],
+   "answer": 0,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Analysis",
+   "complexity": "high",
+   "reason": "The formation of [Cu(NH3)4]SO4 results in the characteristic deep/azure blue solution."
+ },
+ {
+   "question": "Which of the following precipitates is soluble in excess of ammonium hydroxide?",
+   "choices": [
+     "Lead hydroxide",
+     "Ferrous hydroxide",
+     "Zinc hydroxide",
+     "Ferric hydroxide"
+   ],
+   "answer": 2,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "medium",
+   "reason": "Zinc hydroxide dissolves in excess NH4OH to form a colorless complex: tetraammine zinc sulphate."
+ },
+ {
+   "question": "Nessler's reagent is used to detect ammonia. It turns ____________ in the presence of ammonia.",
+   "choices": [
+     "Pink",
+     "Pale blue",
+     "Brown",
+     "Green"
+   ],
+   "answer": 2,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "low",
+   "reason": "Nessler's reagent (potassium mercuric iodide) gives a brown color or precipitate with ammonia/ammonium ions."
+ },
+ {
+   "question": "Why is liquid ammonia used as a refrigerant?",
+   "choices": [
+     "Because it is very cheap.",
+     "Because it has a high latent heat of vaporization.",
+     "Because it is an acidic gas.",
+     "Because it is heavier than air."
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "medium",
+   "reason": "It requires a lot of heat (5700 cal/mole) to vaporize, which it absorbs from its surroundings, creating a cooling effect."
+ },
+ {
+   "question": "Urea is a valuable nitrogenous fertilizer. It is prepared by reacting ammonia with:",
+   "choices": [
+     "Sulphuric acid",
+     "Nitric acid",
+     "Carbon dioxide",
+     "Phosphoric acid"
+   ],
+   "answer": 2,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "low",
+   "reason": "The reaction 2NH3 + CO2 -> NH2CONH2 + H2O produces urea."
+ },
+ {
+   "question": "Assertion (A): CFCs are being replaced by ammonia as refrigerants.\nReason (R): CFCs deplete the ozone layer, whereas ammonia is environmentally compatible.",
+   "choices": [
+     "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+     "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+     "Assertion (A) is true but Reason (R) is false",
+     "Assertion (A) is false but Reason (R) is true"
+   ],
+   "answer": 0,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Analysis",
+   "complexity": "medium",
+   "reason": "Ammonia does not contribute to global warming or ozone depletion, making it a 'green' alternative to CFCs."
+ },
+ {
+   "question": "What is 'Liquor ammonia fortis'?",
+   "choices": [
+     "Liquid ammonia under high pressure.",
+     "A dilute solution of ammonia in water.",
+     "A saturated solution of ammonia in water.",
+     "Ammonia gas mixed with nitrogen."
+   ],
+   "answer": 2,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "low",
+   "reason": "Liquor ammonia fortis (880 ammonia) is a saturated aqueous solution of ammonia."
+ },
+ {
+   "question": "Which property of ammonia is shown by its reaction with hot Copper(II) oxide?",
+   "choices": [
+     "Basic property",
+     "Reducing property",
+     "Acidic property",
+     "Oxidizing property"
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Analysis",
+   "complexity": "medium",
+   "reason": "Ammonia reduces the metallic oxide to metal (CuO to Cu), proving it is a reducing agent."
+ },
+ {
+   "question": "Assertion (A): Ammonium chloride undergoes thermal dissociation.\nReason (R): On heating, it breaks into ammonia and hydrogen chloride, which can recombine on cooling.",
+   "choices": [
+     "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+     "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+     "Assertion (A) is true but Reason (R) is false",
+     "Assertion (A) is false but Reason (R) is true"
+   ],
+   "answer": 0,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Analysis",
+   "complexity": "medium",
+   "reason": "Thermal dissociation is a reversible decomposition where products can reform the original compound."
+ },
+ {
+   "question": "The type of bonding present in an ammonia molecule is:",
+   "choices": [
+     "Ionic bonding",
+     "Covalent bonding",
+     "Coordinate bonding",
+     "Metallic bonding"
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "low",
+   "reason": "Nitrogen shares three pairs of electrons with three hydrogen atoms to form covalent bonds."
+ },
+ {
+   "question": "Which of these gases is highly soluble in water and turns phenolphthalein pink?",
+   "choices": [
+     "HCl",
+     "SO2",
+     "NH3",
+     "CO2"
+   ],
+   "answer": 2,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Analysis",
+   "complexity": "low",
+   "reason": "Ammonia is the only basic gas among the choices; bases turn phenolphthalein pink."
+ },
+ {
+   "question": "Pure nitrogen for Haber's Process is obtained from:",
+   "choices": [
+     "Ammonia",
+     "Liquid air",
+     "Nitric acid",
+     "Coke"
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "medium",
+   "reason": "Fractional distillation of liquid air represents the industrial source of Nitrogen."
+ },
+ {
+   "question": "Assertion (A): In Haber’s process, the reacting gases must be purified from CO and H2S.\nReason (R): These impurities act as catalytic poisons and decrease the efficiency of the iron catalyst.",
+   "choices": [
+     "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+     "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+     "Assertion (A) is true but Reason (R) is false",
+     "Assertion (A) is false but Reason (R) is true"
+   ],
+   "answer": 0,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Analysis",
+   "complexity": "medium",
+   "reason": "Impurities like CO and Sulphur compounds poison the catalyst, stopping the reaction from proceeding efficiently."
+ },
+ {
+   "question": "The Vapour Density of ammonia is 8.5. What is the Vapour Density of air?",
+   "choices": [
+     "17",
+     "14.4",
+     "8.5",
+     "29"
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "low",
+   "reason": "Air has a standard average vapour density of 14.4."
+ },
+ {
+   "question": "Ammonia gas is passed through a drying tower containing Quicklime (CaO). What is the chemical nature of Quicklime?",
+   "choices": [
+     "Acidic",
+     "Basic",
+     "Neutral",
+     "Amphoteric"
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "low",
+   "reason": "Quicklime is calcium oxide, a basic oxide."
+ },
+ {
+   "question": "What is the product when ammonia is reacted with an excess of Oxygen in the presence of Platinum at 800°C?",
+   "choices": [
+     "<latex>\\mathbf{N_2 + H_2O}</latex>",
+     "<latex>\\mathbf{NO + H_2O}</latex>",
+     "<latex>\\mathbf{NO_2 + H_2O}</latex>",
+     "<latex>\\mathbf{HNO_3}</latex>"
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Application",
+   "complexity": "medium",
+   "reason": "This is catalytic oxidation: 4NH3 + 5O2 -> 4NO + 6H2O."
+ },
+ {
+   "question": "Assertion (A): Ammonia behaves as a Lewis base.\nReason (R): The nitrogen atom in ammonia has a lone pair of electrons available for donation.",
+   "choices": [
+     "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+     "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+     "Assertion (A) is true but Reason (R) is false",
+     "Assertion (A) is false but Reason (R) is true"
+   ],
+   "answer": 0,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Analysis",
+   "complexity": "high",
+   "reason": "A Lewis base is an electron-pair donor. Ammonia has one lone pair on the Nitrogen atom."
+ },
+ {
+   "question": "Which salt is used in the preparation of a 'smelling salt' to revive a fainted person?",
+   "choices": [
+     "Ammonium chloride",
+     "Ammonium sulphate",
+     "Ammonium carbonate",
+     "Ammonium nitrate"
+   ],
+   "answer": 2,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "low",
+   "reason": "Ammonium carbonate is used in smelling salts because it slowly releases ammonia gas."
+ },
+ {
+   "question": "Which of these is NOT a use of Ammonia?",
+   "choices": [
+     "Manufacture of fertilizers",
+     "As a cleaning agent for tiles",
+     "Manufacture of explosives",
+     "As an anesthetic in surgery"
+   ],
+   "answer": 3,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Analysis",
+   "complexity": "medium",
+   "reason": "Ammonia is pungent and choking; it is used as a stimulant or in industry, not as an anesthetic."
+ },
+ {
+   "question": "What happens when Ammonium hydroxide is added to a solution of Lead nitrate?",
+   "choices": [
+     "A reddish brown precipitate is formed.",
+     "A white precipitate is formed which is insoluble in excess NH4OH.",
+     "A white precipitate is formed which is soluble in excess NH4OH.",
+     "No precipitate is formed."
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Application",
+   "complexity": "high",
+   "reason": "Lead salts react with NH4OH to form Pb(OH)2, a white precipitate insoluble in excess ammonium hydroxide."
+ },
+ {
+   "question": "Assertion (A): Ammonia cannot be dried using Conc. H2SO4.\nReason (R): Ammonia is a basic gas and reacts with acidic H2SO4 to form ammonium sulphate.",
+   "choices": [
+     "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+     "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+     "Assertion (A) is true but Reason (R) is false",
+     "Assertion (A) is false but Reason (R) is true"
+   ],
+   "answer": 0,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Analysis",
+   "complexity": "medium",
+   "reason": "Ammonia being basic naturally reacts with strong acids, so acids cannot be used as drying agents for it."
+ },
+ {
+   "question": "The aqueous solution of ammonia contains:",
+   "choices": [
+     "Only molecules",
+     "Only ions",
+     "Neither molecules nor ions",
+     "Both molecules and ions"
+   ],
+   "answer": 3,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Analysis",
+   "complexity": "medium",
+   "reason": "As a weak base, NH4OH exists in dynamic equilibrium with NH3/H2O and NH4+/OH- ions."
+ },
+ {
+   "question": "Which of the following describes the Solvay process?",
+   "choices": [
+     "Manufacture of Ammonia",
+     "Manufacture of Sodium carbonate",
+     "Manufacture of Nitric acid",
+     "Manufacture of Fertilizers"
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "medium",
+   "reason": "The Solvay process uses ammonia to help convert salt and CO2 into Sodium carbonate."
+ },
+ {
+   "question": "Which observation is correct for the reaction 8NH3 (excess) + 3Cl2 -> N2 + 6NH4Cl?",
+   "choices": [
+     "Yellow gas is evolved.",
+     "Greenish-yellow color of chlorine disappears and white fumes appear.",
+     "A blue solution is formed.",
+     "The test tube becomes very cold."
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Analysis",
+   "complexity": "medium",
+   "reason": "The reaction produces solid ammonium chloride, which looks like dense white fumes, and uses up the colored chlorine gas."
+ },
+ {
+   "question": "Assertion (A): Liquid ammonia can cause death if inhaled in large quantities.\nReason (R): Ammonia is a powerful heart stimulant and affects the respiratory system.",
+   "choices": [
+     "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+     "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+     "Assertion (A) is true but Reason (R) is false",
+     "Assertion (A) is false but Reason (R) is true"
+   ],
+   "answer": 0,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "medium",
+   "reason": "Though non-poisonous in small traces, large quantities are suffocating and physiologically dangerous."
+ },
+ {
+   "question": "What is the formula for 'azure blue' tetraamine copper (II) sulphate complex?",
+   "choices": [
+     "<latex>\\mathbf{[Cu(NH_3)_4]Cl_2}</latex>",
+     "<latex>\\mathbf{[Cu(NH_3)_4]SO_4}</latex>",
+     "<latex>\\mathbf{[Cu(NH_4)_4]SO_4}</latex>",
+     "<latex>\\mathbf{Cu(OH)_2 \\cdot NH_3}</latex>"
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "medium",
+   "reason": "The complex formed in excess ammonia is Tetraammine copper (II) sulphate."
+ },
+ {
+   "question": "Choose the correctly balanced equation for the catalytic oxidation of ammonia.",
+   "choices": [
+     "<latex>\\mathbf{4NH_3 + 3O_2 \\rightarrow 2N_2 + 6H_2O}</latex>",
+     "<latex>\\mathbf{4NH_3 + 5O_2 \\xrightarrow{Pt} 4NO + 6H_2O}</latex>",
+     "<latex>\\mathbf{2NH_3 + O_2 \\rightarrow N_2O + 3H_2O}</latex>",
+     "<latex>\\mathbf{NH_3 + 2O_2 \\rightarrow HNO_3 + H_2O}</latex>"
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Application",
+   "complexity": "medium",
+   "reason": "In the presence of Pt catalyst, ammonia is oxidized to Nitric oxide (NO)."
+ },
+ {
+   "question": "The percentage of gases converted to ammonia in a single run of the Haber process is about:",
+   "choices": [
+     "100%",
+     "15%",
+     "98%",
+     "50%"
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "low",
+   "reason": "The rate of conversion is only about 15% per pass; the unreacted gases are recycled."
+ },
+ {
+   "question": "Why is it advised to cool a bottle of liquor ammonia before opening it?",
+   "choices": [
+     "To solidify the ammonia.",
+     "To lower the pressure inside the bottle.",
+     "To prevent the ammonia from turning into an acid.",
+     "To increase its solubility."
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Analysis",
+   "complexity": "medium",
+   "reason": "Ammonia is a gas at room temp; under high pressure in the bottle, cooling prevents it from spurting out dangerously."
+ },
+ {
+   "question": "Ammonia turns moist turmeric paper ____________.",
+   "choices": [
+     "Blue",
+     "Yellow",
+     "Brown",
+     "Colorless"
+   ],
+   "answer": 2,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "low",
+   "reason": "Turmeric paper turns brown in the presence of basic substances like ammonia."
+ },
+ {
+   "question": "Which property allows ammonia to be used as a cleansing agent for laundry?",
+   "choices": [
+     "It is an oxidizing agent.",
+     "It emulsifies or dissolves fats and grease.",
+     "It bleaches the clothes.",
+     "It is a strong dehydrating agent."
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Application",
+   "complexity": "medium",
+   "reason": "Ammonia's ability to emulsify fats makes it effective in removing perspiration and grease stains."
+ },
+ {
+   "question": "Assertion (A): Ammonia gas is lighter than air.\nReason (R): Its vapour density is 8.5 compared to the vapour density of air, which is 14.4.",
+   "choices": [
+     "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+     "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+     "Assertion (A) is true but Reason (R) is false",
+     "Assertion (A) is false but Reason (R) is true"
+   ],
+   "answer": 0,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Analysis",
+   "complexity": "low",
+   "reason": "The comparison of vapour densities determines the relative weight of gases."
+ },
+ {
+   "question": "What is the product of the reaction between ammonia and sulphuric acid?",
+   "choices": [
+     "Ammonium sulphite",
+     "Ammonium sulphate",
+     "Ammonium sulphide",
+     "Ammonium bisulphate"
+   ],
+   "answer": 1,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "low",
+   "reason": "Reaction: 2NH3 + H2SO4 -> (NH4)2SO4."
+ },
+ {
+   "question": "The boiling point of liquid ammonia is:",
+   "choices": [
+     "100 °C",
+     "0 °C",
+     "-33.5 °C",
+     "-77.7 °C"
+   ],
+   "answer": 2,
+   "chapter": "Study of Compounds: Ammonia",
+   "category": "Knowledge",
+   "complexity": "medium",
+   "reason": "Liquid ammonia boils at -33.5°C at standard pressure."
+ },
+{
+  "question": "What is the molecular formula of nitric acid?",
+  "choices": ["HNO2", "HNO3", "H2NO3", "NHO3"],
+  "answer": 1,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "Nitric acid has the molecular formula HNO3."
+},
+{
+  "question": "What is the relative molecular mass of nitric acid?",
+  "choices": ["62", "63", "64", "65"],
+  "answer": 1,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "The relative molecular mass of HNO3 is 63."
+},
+{
+  "question": "Nitric acid was formerly known as:",
+  "choices": ["Oil of vitriol", "Aqua regia", "Aqua fortis", "Spirit of salt"],
+  "answer": 2,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "Nitric acid was historically known as aqua fortis."
+},
+{
+  "question": "Nitrogen exhibits what valency in nitric acid?",
+  "choices": ["3", "4", "5", "6"],
+  "answer": 2,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "Nitrogen shows a valency of 5 in nitric acid."
+},
+{
+  "question": "Nitric acid is found in traces in rain water mainly after:",
+  "choices": ["Evaporation", "Lightning", "Condensation", "Photosynthesis"],
+  "answer": 1,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "Lightning helps atmospheric nitrogen react with oxygen leading to nitric acid formation."
+},
+{
+  "question": "Which of the following is Chile saltpetre?",
+  "choices": ["KNO3", "NaNO3", "Ca(NO3)2", "NH4NO3"],
+  "answer": 1,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Chile saltpetre is sodium nitrate (NaNO3)."
+},
+{
+  "question": "The reaction N2 + O2 → 2NO occurs during:",
+  "choices": ["Electrolysis", "Lightning discharge", "Combustion of sulphur", "Photosynthesis"],
+  "answer": 1,
+  "chapter": "Nitric Acid",
+  "category": "Application",
+  "complexity": "medium",
+  "reason": "Lightning provides sufficient energy for nitrogen and oxygen to combine."
+},
+{
+  "question": "Nitric oxide is oxidised to:",
+  "choices": ["N2O", "NO2", "N2O5", "NH3"],
+  "answer": 1,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "Nitric oxide combines with oxygen to form nitrogen dioxide."
+},
+{
+  "question": "The conversion of atmospheric nitrogen into useful nitrogen compounds is called:",
+  "choices": ["Nitrification", "Fixation of atmospheric nitrogen", "Denitrification", "Neutralisation"],
+  "answer": 1,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "This process is known as fixation of atmospheric nitrogen."
+},
+{
+  "question": "Nitric acid is prepared in the laboratory by heating concentrated sulphuric acid with:",
+  "choices": ["Sodium chloride", "Potassium nitrate or sodium nitrate", "Ammonium chloride", "Calcium carbonate"],
+  "answer": 1,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Laboratory preparation involves nitrates and concentrated sulphuric acid."
+},
+{
+  "question": "Why is concentrated sulphuric acid used in the laboratory preparation of nitric acid?",
+  "choices": [
+    "It is volatile",
+    "It is non-volatile and displaces nitric acid",
+    "It acts as a catalyst",
+    "It cools the reaction mixture"
+  ],
+  "answer": 1,
+  "chapter": "Nitric Acid",
+  "category": "Analysis",
+  "complexity": "high",
+  "reason": "Concentrated sulphuric acid is non-volatile and liberates volatile nitric acid."
+},
+{
+  "question": "<latex>\\mathbf{KNO_3 + H_2SO_4 \\rightarrow ?}</latex>",
+  "choices": [
+    "<latex>\\mathbf{KHSO_4 + HNO_3}</latex>",
+    "<latex>\\mathbf{K_2SO_4 + HNO_2}</latex>",
+    "<latex>\\mathbf{KOH + HNO_3}</latex>",
+    "<latex>\\mathbf{KNO_2 + H_2SO_4}</latex>"
+  ],
+  "answer": 0,
+  "chapter": "Nitric Acid",
+  "category": "Application",
+  "complexity": "medium",
+  "reason": "Potassium nitrate reacts with sulphuric acid to produce nitric acid and potassium bisulphate."
+},
+{
+  "question": "The laboratory preparation of nitric acid is carried out at:",
+  "choices": ["50-80°C", "100-120°C", "180-200°C", "300-350°C"],
+  "answer": 2,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "The mixture is heated gently between 180°C and 200°C."
+},
+{
+  "question": "Why are all-glass apparatus used in the preparation of nitric acid?",
+  "choices": [
+    "Glass is cheap",
+    "Nitric acid vapours attack rubber and cork",
+    "Glass acts as a catalyst",
+    "Glass absorbs nitric acid"
+  ],
+  "answer": 1,
+  "chapter": "Nitric Acid",
+  "category": "Analysis",
+  "complexity": "medium",
+  "reason": "Nitric acid vapours attack rubber and cork."
+},
+{
+  "question": "The yellow colour of laboratory nitric acid is due to dissolved:",
+  "choices": ["NO", "N2O", "NO2", "NH3"],
+  "answer": 2,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Nitrogen dioxide dissolves in nitric acid giving it a yellow colour."
+},
+{
+  "question": "<latex>\\mathbf{4HNO_3 \\rightarrow 2H_2O + 4NO_2 + O_2}</latex> is an example of:",
+  "choices": ["Neutralisation", "Thermal decomposition", "Hydrolysis", "Reduction"],
+  "answer": 1,
+  "chapter": "Nitric Acid",
+  "category": "Application",
+  "complexity": "medium",
+  "reason": "Nitric acid decomposes on heating."
+},
+{
+  "question": "Who developed the Ostwald process for manufacturing nitric acid?",
+  "choices": ["Haber", "Ostwald", "Berzelius", "Avogadro"],
+  "answer": 1,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "Wilhelm Ostwald developed the process."
+},
+{
+  "question": "The catalyst used in the Ostwald process is:",
+  "choices": ["Iron", "Nickel", "Platinum gauze", "Copper"],
+  "answer": 2,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Platinum gauze catalyses ammonia oxidation."
+},
+{
+  "question": "The ratio of ammonia to air used in the Ostwald process is:",
+  "choices": ["1:1", "1:5", "1:10", "10:1"],
+  "answer": 2,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Ammonia and air are used in the ratio 1:10 by volume."
+},
+{
+  "question": "<latex>\\mathbf{4NH_3 + 5O_2 \\rightarrow 4NO + 6H_2O}</latex> represents:",
+  "choices": [
+    "Oxidation of nitrogen dioxide",
+    "Catalytic oxidation of ammonia",
+    "Absorption of NO2",
+    "Formation of aqua regia"
+  ],
+  "answer": 1,
+  "chapter": "Nitric Acid",
+  "category": "Application",
+  "complexity": "medium",
+  "reason": "This is the first step of the Ostwald process."
+},
+{
+  "question": "Quartz is used in the absorption tower because it is:",
+  "choices": ["Magnetic", "Acid resistant", "A reducing agent", "A catalyst"],
+  "answer": 1,
+  "chapter": "Nitric Acid",
+  "category": "Analysis",
+  "complexity": "medium",
+  "reason": "Quartz resists acid attack and aids absorption."
+},
+{
+  "question": "Commercial nitric acid generally contains about:",
+  "choices": ["20%", "40%", "68%", "98%"],
+  "answer": 2,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Commercial nitric acid is about 68% concentrated."
+},
+{
+  "question": "Concentrated nitric acid is approximately:",
+  "choices": ["68%", "75%", "98%", "100%"],
+  "answer": 2,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Laboratory concentrated nitric acid is around 98%."
+},
+{
+  "question": "Nitric acid fumes in air because it is:",
+  "choices": ["Volatile", "Hygroscopic", "Basic", "Neutral"],
+  "answer": 1,
+  "chapter": "Nitric Acid",
+  "category": "Analysis",
+  "complexity": "medium",
+  "reason": "It absorbs moisture from air and fumes."
+},
+{
+  "question": "Nitric acid stains the skin yellow due to formation of:",
+  "choices": ["Picric acid", "Xanthoproteic acid", "Nitrous acid", "Nitrite"],
+  "answer": 1,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Nitric acid reacts with skin proteins to form xanthoproteic acid."
+},
+{
+  "question": "Nitric acid turns blue litmus:",
+  "choices": ["Blue", "Green", "Red", "Colourless"],
+  "answer": 2,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "Nitric acid is a strong acid."
+},
+{
+  "question": "Nitric acid is classified as a:",
+  "choices": ["Dibasic acid", "Tribasic acid", "Monobasic acid", "Neutral salt"],
+  "answer": 2,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "It furnishes only one replaceable hydrogen ion."
+},
+{
+  "question": "Which metal does NOT react with nitric acid?",
+  "choices": ["Copper", "Silver", "Gold", "Zinc"],
+  "answer": 2,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Gold and platinum are not attacked by nitric acid alone."
+},
+{
+  "question": "Cold dilute nitric acid reacting with copper produces:",
+  "choices": ["NO", "NO2", "N2O", "NH3"],
+  "answer": 0,
+  "chapter": "Nitric Acid",
+  "category": "Application",
+  "complexity": "high",
+  "reason": "Dilute nitric acid generally produces nitric oxide."
+},
+{
+  "question": "Concentrated nitric acid reacting with copper produces:",
+  "choices": ["NO", "NO2", "N2", "NH3"],
+  "answer": 1,
+  "chapter": "Nitric Acid",
+  "category": "Application",
+  "complexity": "high",
+  "reason": "Concentrated nitric acid liberates nitrogen dioxide."
+},
+{
+  "question": "Iron becomes passive in concentrated nitric acid due to formation of:",
+  "choices": ["Sulphide layer", "Oxide layer", "Hydroxide layer", "Carbonate layer"],
+  "answer": 1,
+  "chapter": "Nitric Acid",
+  "category": "Analysis",
+  "complexity": "high",
+  "reason": "An insoluble oxide layer prevents further attack."
+},
+{
+  "question": "Very dilute nitric acid reacts with magnesium to liberate:",
+  "choices": ["NO2", "NO", "H2", "N2"],
+  "answer": 2,
+  "chapter": "Nitric Acid",
+  "category": "Application",
+  "complexity": "high",
+  "reason": "The oxidising action is greatly reduced in very dilute acid."
+},
+{
+  "question": "Aqua regia is prepared by mixing concentrated HNO3 and HCl in the ratio:",
+  "choices": ["1:1", "3:1", "1:3", "2:3"],
+  "answer": 2,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "One volume of nitric acid is mixed with three volumes of hydrochloric acid."
+},
+{
+  "question": "Aqua regia can dissolve:",
+  "choices": ["Copper only", "Silver only", "Gold and platinum", "Iron only"],
+  "answer": 2,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Aqua regia attacks noble metals."
+},
+
+{
+  "question": "Assertion (A): Nitric acid is stored in coloured bottles. Reason (R): Sunlight decomposes nitric acid producing nitrogen dioxide.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Nitric Acid",
+  "category": "Analysis",
+  "complexity": "high",
+  "reason": "Coloured bottles reduce decomposition caused by light."
+},
+{
+  "question": "Assertion (A): Concentrated sulphuric acid is used in preparing nitric acid. Reason (R): Concentrated sulphuric acid is non-volatile.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Nitric Acid",
+  "category": "Analysis",
+  "complexity": "high",
+  "reason": "Non-volatile sulphuric acid displaces volatile nitric acid."
+},
+{
+  "question": "Assertion (A): Nitric acid is a strong acid. Reason (R): It ionises almost completely in water.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Nitric Acid",
+  "category": "Analysis",
+  "complexity": "medium",
+  "reason": "Complete ionisation makes nitric acid a strong acid."
+},
+{
+  "question": "Assertion (A): Copper reacts with nitric acid but not with dilute hydrochloric acid. Reason (R): Nitric acid is an oxidising acid.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Nitric Acid",
+  "category": "Analysis",
+  "complexity": "high",
+  "reason": "Nitric acid oxidises copper whereas HCl does not."
+},
+{
+  "question": "Assertion (A): Iron becomes passive in concentrated nitric acid. Reason (R): A protective oxide layer forms on its surface.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Nitric Acid",
+  "category": "Analysis",
+  "complexity": "high",
+  "reason": "Passivity results from an oxide coating."
+},
+{
+  "question": "Assertion (A): Nitric acid usually does not liberate hydrogen from metals. Reason (R): The hydrogen formed is oxidised to water.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Nitric Acid",
+  "category": "Analysis",
+  "complexity": "high",
+  "reason": "Nascent oxygen oxidises hydrogen to water."
+},
+{
+  "question": "Assertion (A): Nitric acid turns yellow on standing. Reason (R): Nitrogen dioxide dissolves in nitric acid.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Nitric Acid",
+  "category": "Analysis",
+  "complexity": "medium",
+  "reason": "NO2 produced by decomposition dissolves in the acid."
+},
+{
+  "question": "Assertion (A): Platinum gauze is used in the Ostwald process. Reason (R): Platinum acts as a catalyst for ammonia oxidation.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Nitric Acid",
+  "category": "Analysis",
+  "complexity": "medium",
+  "reason": "Platinum catalyses oxidation of ammonia to nitric oxide."
+},
+{
+  "question": "Assertion (A): Quartz is packed in the absorption tower. Reason (R): Quartz is acid resistant and aids uniform absorption.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Nitric Acid",
+  "category": "Analysis",
+  "complexity": "medium",
+  "reason": "Quartz helps efficient absorption and resists corrosion."
+},
+{
+  "question": "Assertion (A): Aqua regia can dissolve gold. Reason (R): Aqua regia generates nascent chlorine.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Nitric Acid",
+  "category": "Analysis",
+  "complexity": "high",
+  "reason": "Nascent chlorine attacks gold forming soluble chlorides."
+},
+
+{
+  "question": "Which indicator remains colourless in nitric acid?",
+  "choices": ["Blue litmus", "Methyl orange", "Phenolphthalein", "Red litmus"],
+  "answer": 2,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "Phenolphthalein remains colourless in acidic medium."
+},
+{
+  "question": "The oxidation chamber in the Ostwald process converts:",
+  "choices": ["NH3 to NO", "NO to NO2", "NO2 to HNO3", "N2 to NH3"],
+  "answer": 1,
+  "chapter": "Nitric Acid",
+  "category": "Application",
+  "complexity": "medium",
+  "reason": "Nitric oxide is oxidised to nitrogen dioxide."
+},
+{
+  "question": "The major oxidising species from nitric acid decomposition is:",
+  "choices": ["Hydrogen", "Nascent oxygen", "Nitrogen", "Water vapour"],
+  "answer": 1,
+  "chapter": "Nitric Acid",
+  "category": "Analysis",
+  "complexity": "medium",
+  "reason": "Nascent oxygen is responsible for its oxidising action."
+},
+{
+  "question": "Which gas is evolved when concentrated nitric acid reacts with copper?",
+  "choices": ["NO", "NO2", "SO2", "CO2"],
+  "answer": 1,
+  "chapter": "Nitric Acid",
+  "category": "Application",
+  "complexity": "medium",
+  "reason": "Brown fumes of NO2 are evolved."
+},
+{
+  "question": "Which gas gives the brown fumes observed during nitric acid preparation?",
+  "choices": ["NO", "N2", "NO2", "O2"],
+  "answer": 2,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Nitrogen dioxide is reddish brown."
+},
+{
+  "question": "The boiling point of concentrated nitric acid is approximately:",
+  "choices": ["68°C", "86°C", "100°C", "121°C"],
+  "answer": 1,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Pure nitric acid boils near 86°C."
+},
+{
+  "question": "The melting point of pure nitric acid is:",
+  "choices": ["-42°C", "-10°C", "0°C", "42°C"],
+  "answer": 0,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Pure nitric acid freezes at -42°C."
+},
+{
+  "question": "Which property makes nitric acid an effective oxidising agent?",
+  "choices": [
+    "Presence of chloride ions",
+    "Formation of nascent oxygen on decomposition",
+    "Presence of sulphate ions",
+    "Low boiling point"
+  ],
+  "answer": 1,
+  "chapter": "Nitric Acid",
+  "category": "Analysis",
+  "complexity": "high",
+  "reason": "Nascent oxygen oxidises metals and non-metals."
+},
+{
+  "question": "Which non-metal is oxidised by nitric acid to sulphuric acid?",
+  "choices": ["Carbon", "Sulphur", "Phosphorus", "Hydrogen"],
+  "answer": 1,
+  "chapter": "Nitric Acid",
+  "category": "Application",
+  "complexity": "medium",
+  "reason": "Sulphur is oxidised to sulphuric acid."
+},
+{
+  "question": "Which non-metal is oxidised by nitric acid to carbon dioxide?",
+  "choices": ["Carbon", "Sulphur", "Nitrogen", "Chlorine"],
+  "answer": 0,
+  "chapter": "Nitric Acid",
+  "category": "Application",
+  "complexity": "medium",
+  "reason": "Carbon is oxidised to CO2."
+},
+{
+  "question": "The nitric acid obtained at the bottom of the absorption tower is concentrated to about:",
+  "choices": ["20%", "50%", "68%", "98%"],
+  "answer": 2,
+  "chapter": "Nitric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Commercial nitric acid concentration is around 68%."
+},
+{
+  "question": "Why is excess air used in the Ostwald process?",
+  "choices": [
+    "To cool the catalyst",
+    "Because oxygen is required in multiple stages",
+    "To increase ammonia concentration",
+    "To produce hydrogen"
+  ],
+  "answer": 1,
+  "chapter": "Nitric Acid",
+  "category": "Analysis",
+  "complexity": "high",
+  "reason": "Oxygen is required in catalytic oxidation, oxidation chamber and absorption tower."
+},
+{
+  "question": "What is the molecular formula of sulphuric acid?",
+  "choices": ["H2SO3", "H2SO4", "HSO4", "H2S2O7"],
+  "answer": 1,
+  "chapter": "Sulphuric Acid",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "Sulphuric acid has the molecular formula H2SO4."
+},
+{
+  "question": "What is the relative molecular mass of sulphuric acid?",
+  "choices": ["96", "97", "98", "99"],
+  "answer": 2,
+  "chapter": "Sulphuric Acid",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "The molecular mass of H2SO4 is 98."
+},
+{
+  "question": "Sulphuric acid is commonly known as:",
+  "choices": ["Aqua fortis", "Oil of vitriol", "Spirit of salt", "Aqua regia"],
+  "answer": 1,
+  "chapter": "Sulphuric Acid",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "Sulphuric acid was historically called Oil of Vitriol."
+},
+{
+  "question": "Sulphur exhibits which oxidation state in sulphuric acid?",
+  "choices": ["+2", "+4", "+5", "+6"],
+  "answer": 3,
+  "chapter": "Sulphuric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Sulphur has an oxidation state of +6 in H2SO4."
+},
+{
+  "question": "Sulphuric acid is classified as a:",
+  "choices": ["Monobasic acid", "Dibasic acid", "Tribasic acid", "Neutral compound"],
+  "answer": 1,
+  "chapter": "Sulphuric Acid",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "Sulphuric acid contains two replaceable hydrogen atoms."
+},
+{
+  "question": "Which raw material is used for the manufacture of sulphuric acid in the Contact Process?",
+  "choices": ["Nitrogen", "Sulphur or iron pyrites", "Carbon", "Hydrogen"],
+  "answer": 1,
+  "chapter": "Sulphuric Acid",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "Sulphur or iron pyrites are common sources of sulphur dioxide."
+},
+{
+  "question": "The gas produced by burning sulphur in air is:",
+  "choices": ["SO3", "H2S", "SO2", "CS2"],
+  "answer": 2,
+  "chapter": "Sulphuric Acid",
+  "category": "Application",
+  "complexity": "low",
+  "reason": "Sulphur burns in air to form sulphur dioxide."
+},
+{
+  "question": "<latex>\\mathbf{S + O_2 \\rightarrow ?}</latex>",
+  "choices": [
+    "<latex>\\mathbf{SO_2}</latex>",
+    "<latex>\\mathbf{SO_3}</latex>",
+    "<latex>\\mathbf{H_2SO_4}</latex>",
+    "<latex>\\mathbf{H_2S}</latex>"
+  ],
+  "answer": 0,
+  "chapter": "Sulphuric Acid",
+  "category": "Application",
+  "complexity": "low",
+  "reason": "Sulphur combines with oxygen to form sulphur dioxide."
+},
+{
+  "question": "The catalyst used in the Contact Process is:",
+  "choices": ["Iron", "Nickel", "Vanadium pentoxide", "Platinum chloride"],
+  "answer": 2,
+  "chapter": "Sulphuric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "V2O5 is used as the catalyst in the Contact Process."
+},
+{
+  "question": "The catalytic oxidation of SO2 to SO3 is carried out at approximately:",
+  "choices": ["100°C", "250°C", "450°C", "900°C"],
+  "answer": 2,
+  "chapter": "Sulphuric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "The optimum temperature is around 450°C."
+},
+{
+  "question": "<latex>\\mathbf{2SO_2 + O_2 \\rightleftharpoons 2SO_3}</latex> is an example of:",
+  "choices": ["Neutralisation", "Reversible reaction", "Precipitation", "Displacement"],
+  "answer": 1,
+  "chapter": "Sulphuric Acid",
+  "category": "Application",
+  "complexity": "medium",
+  "reason": "The reaction is reversible and reaches equilibrium."
+},
+{
+  "question": "Why is sulphur trioxide not directly dissolved in water?",
+  "choices": [
+    "It is insoluble",
+    "It forms explosive acid mist",
+    "It reacts too slowly",
+    "It decomposes water"
+  ],
+  "answer": 1,
+  "chapter": "Sulphuric Acid",
+  "category": "Analysis",
+  "complexity": "high",
+  "reason": "Direct absorption forms dense acid fog and is inefficient."
+},
+{
+  "question": "Oleum is chemically represented as:",
+  "choices": ["H2SO3", "H2SO4", "H2S2O7", "SO3"],
+  "answer": 2,
+  "chapter": "Sulphuric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Oleum is pyrosulphuric acid, H2S2O7."
+},
+{
+  "question": "<latex>\\mathbf{SO_3 + H_2SO_4 \\rightarrow ?}</latex>",
+  "choices": [
+    "<latex>\\mathbf{H_2S_2O_7}</latex>",
+    "<latex>\\mathbf{H_2SO_3}</latex>",
+    "<latex>\\mathbf{H_2S}</latex>",
+    "<latex>\\mathbf{SO_2}</latex>"
+  ],
+  "answer": 0,
+  "chapter": "Sulphuric Acid",
+  "category": "Application",
+  "complexity": "medium",
+  "reason": "SO3 dissolves in concentrated sulphuric acid to form oleum."
+},
+{
+  "question": "Concentrated sulphuric acid contains approximately:",
+  "choices": ["68%", "78%", "98%", "100%"],
+  "answer": 2,
+  "chapter": "Sulphuric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Commercial concentrated sulphuric acid is about 98% pure."
+},
+{
+  "question": "Sulphuric acid is highly:",
+  "choices": ["Basic", "Oxidising", "Hygroscopic", "Reducing"],
+  "answer": 2,
+  "chapter": "Sulphuric Acid",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "It readily absorbs moisture from the atmosphere."
+},
+{
+  "question": "The drying agent used in many laboratory experiments is:",
+  "choices": ["NaOH", "Conc. H2SO4", "HCl", "NH4OH"],
+  "answer": 1,
+  "chapter": "Sulphuric Acid",
+  "category": "Application",
+  "complexity": "medium",
+  "reason": "Concentrated sulphuric acid acts as an excellent dehydrating agent."
+},
+{
+  "question": "Which gas cannot be dried using concentrated sulphuric acid?",
+  "choices": ["Hydrogen", "Oxygen", "Ammonia", "Nitrogen"],
+  "answer": 2,
+  "chapter": "Sulphuric Acid",
+  "category": "Analysis",
+  "complexity": "high",
+  "reason": "Ammonia reacts with sulphuric acid forming ammonium sulphate."
+},
+{
+  "question": "The charring of sugar by concentrated sulphuric acid is due to its:",
+  "choices": ["Acidic nature", "Oxidising action", "Dehydrating action", "Basic nature"],
+  "answer": 2,
+  "chapter": "Sulphuric Acid",
+  "category": "Application",
+  "complexity": "medium",
+  "reason": "Sulphuric acid removes water from sugar leaving carbon."
+},
+{
+  "question": "<latex>\\mathbf{C_{12}H_{22}O_{11} \\rightarrow 12C + 11H_2O}</latex> demonstrates:",
+  "choices": ["Neutralisation", "Hydration", "Dehydration", "Reduction"],
+  "answer": 2,
+  "chapter": "Sulphuric Acid",
+  "category": "Application",
+  "complexity": "medium",
+  "reason": "Sulphuric acid removes water from sugar."
+},
+{
+  "question": "Hot concentrated sulphuric acid acts as a:",
+  "choices": ["Reducing agent", "Oxidising agent", "Catalyst only", "Base"],
+  "answer": 1,
+  "chapter": "Sulphuric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Hot concentrated sulphuric acid oxidises many substances."
+},
+{
+  "question": "Copper reacts with hot concentrated sulphuric acid to produce:",
+  "choices": ["H2", "SO2", "H2S", "O2"],
+  "answer": 1,
+  "chapter": "Sulphuric Acid",
+  "category": "Application",
+  "complexity": "high",
+  "reason": "Sulphuric acid oxidises copper producing SO2."
+},
+{
+  "question": "<latex>\\mathbf{Cu + 2H_2SO_4 \\rightarrow CuSO_4 + SO_2 + 2H_2O}</latex> shows sulphuric acid acting as:",
+  "choices": ["Reducing agent", "Oxidising agent", "Base", "Catalyst"],
+  "answer": 1,
+  "chapter": "Sulphuric Acid",
+  "category": "Analysis",
+  "complexity": "high",
+  "reason": "Sulphuric acid oxidises copper and itself gets reduced to SO2."
+},
+{
+  "question": "Which metal is not attacked by dilute sulphuric acid?",
+  "choices": ["Magnesium", "Zinc", "Copper", "Iron"],
+  "answer": 2,
+  "chapter": "Sulphuric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Copper lies below hydrogen in the activity series."
+},
+{
+  "question": "Dilute sulphuric acid reacts with zinc to liberate:",
+  "choices": ["SO2", "O2", "H2", "N2"],
+  "answer": 2,
+  "chapter": "Sulphuric Acid",
+  "category": "Application",
+  "complexity": "low",
+  "reason": "Active metals displace hydrogen from dilute acids."
+},
+
+{
+  "question": "Assertion (A): Sulphur trioxide is not directly dissolved in water during the Contact Process. Reason (R): Direct absorption produces dense acid mist.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Sulphuric Acid",
+  "category": "Analysis",
+  "complexity": "high",
+  "reason": "Dense acid fog prevents efficient absorption."
+},
+{
+  "question": "Assertion (A): Vanadium pentoxide is used in the Contact Process. Reason (R): It acts as a catalyst for oxidation of SO2.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Sulphuric Acid",
+  "category": "Analysis",
+  "complexity": "medium",
+  "reason": "V2O5 speeds up conversion of SO2 into SO3."
+},
+{
+  "question": "Assertion (A): Concentrated sulphuric acid chars sugar. Reason (R): It removes water molecules from sugar.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Sulphuric Acid",
+  "category": "Analysis",
+  "complexity": "medium",
+  "reason": "The dehydration leaves behind black carbon."
+},
+{
+  "question": "Assertion (A): Concentrated sulphuric acid is used as a drying agent. Reason (R): It is highly hygroscopic.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Sulphuric Acid",
+  "category": "Analysis",
+  "complexity": "medium",
+  "reason": "Its hygroscopic nature enables it to absorb moisture."
+},
+{
+  "question": "Assertion (A): Ammonia cannot be dried with concentrated sulphuric acid. Reason (R): Ammonia reacts with sulphuric acid.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Sulphuric Acid",
+  "category": "Analysis",
+  "complexity": "high",
+  "reason": "Drying agents must not react with the gas."
+},
+{
+  "question": "Assertion (A): Copper reacts with hot concentrated sulphuric acid. Reason (R): Hot concentrated sulphuric acid acts as an oxidising agent.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Sulphuric Acid",
+  "category": "Analysis",
+  "complexity": "high",
+  "reason": "Copper is oxidised while sulphuric acid is reduced."
+},
+{
+  "question": "Assertion (A): Sulphuric acid is a dibasic acid. Reason (R): It contains two replaceable hydrogen atoms.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Sulphuric Acid",
+  "category": "Analysis",
+  "complexity": "medium",
+  "reason": "Dibasic acids furnish two H+ ions."
+},
+{
+  "question": "Assertion (A): Oleum is used for transporting sulphuric acid. Reason (R): Oleum is less corrosive and safer to transport.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Sulphuric Acid",
+  "category": "Analysis",
+  "complexity": "high",
+  "reason": "Oleum is transported and later diluted to obtain sulphuric acid."
+},
+{
+  "question": "Assertion (A): Low temperature favors SO3 formation. Reason (R): The oxidation of SO2 is exothermic.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Sulphuric Acid",
+  "category": "Analysis",
+  "complexity": "high",
+  "reason": "Le Chatelier's principle favors product formation at lower temperatures."
+},
+{
+  "question": "Assertion (A): Dilute sulphuric acid liberates hydrogen from zinc. Reason (R): Zinc is above hydrogen in the activity series.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Sulphuric Acid",
+  "category": "Analysis",
+  "complexity": "medium",
+  "reason": "Reactive metals displace hydrogen from dilute acids."
+},
+
+{
+  "question": "Which gas is evolved when iron pyrites are roasted?",
+  "choices": ["SO2", "SO3", "CO2", "H2S"],
+  "answer": 0,
+  "chapter": "Sulphuric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Roasting FeS2 produces sulphur dioxide."
+},
+{
+  "question": "<latex>\\mathbf{4FeS_2 + 11O_2 \\rightarrow 2Fe_2O_3 + ?}</latex>",
+  "choices": [
+    "<latex>\\mathbf{8SO_2}</latex>",
+    "<latex>\\mathbf{4SO_3}</latex>",
+    "<latex>\\mathbf{2SO_2}</latex>",
+    "<latex>\\mathbf{8H_2SO_4}</latex>"
+  ],
+  "answer": 0,
+  "chapter": "Sulphuric Acid",
+  "category": "Application",
+  "complexity": "medium",
+  "reason": "Roasting pyrites yields sulphur dioxide."
+},
+{
+  "question": "Which property of sulphuric acid makes it useful in lead-acid batteries?",
+  "choices": ["Volatility", "Strong acidity", "Reducing property", "Neutrality"],
+  "answer": 1,
+  "chapter": "Sulphuric Acid",
+  "category": "Application",
+  "complexity": "medium",
+  "reason": "Dilute sulphuric acid serves as the electrolyte."
+},
+{
+  "question": "Which acid is known as the king of chemicals?",
+  "choices": ["Nitric acid", "Hydrochloric acid", "Sulphuric acid", "Acetic acid"],
+  "answer": 2,
+  "chapter": "Sulphuric Acid",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "Sulphuric acid is widely used in industry."
+},
+{
+  "question": "The catalyst chamber in the Contact Process is also called:",
+  "choices": ["Glover tower", "Catalytic converter", "Absorption tower", "Drying tower"],
+  "answer": 1,
+  "chapter": "Sulphuric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Catalytic oxidation occurs in the catalytic converter."
+},
+{
+  "question": "The density of concentrated sulphuric acid is approximately:",
+  "choices": ["1.0 g/cm³", "1.4 g/cm³", "1.84 g/cm³", "2.5 g/cm³"],
+  "answer": 2,
+  "chapter": "Sulphuric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Concentrated sulphuric acid has a density of about 1.84 g/cm³."
+},
+{
+  "question": "When diluting sulphuric acid, one should:",
+  "choices": [
+    "Add water to acid",
+    "Add acid to water slowly",
+    "Mix equal volumes rapidly",
+    "Heat both before mixing"
+  ],
+  "answer": 1,
+  "chapter": "Sulphuric Acid",
+  "category": "Application",
+  "complexity": "high",
+  "reason": "Adding acid to water prevents dangerous splashing."
+},
+{
+  "question": "Why is dilution of sulphuric acid highly exothermic?",
+  "choices": [
+    "Formation of hydrogen",
+    "Strong hydration of ions",
+    "Decomposition of acid",
+    "Release of oxygen"
+  ],
+  "answer": 1,
+  "chapter": "Sulphuric Acid",
+  "category": "Analysis",
+  "complexity": "high",
+  "reason": "Hydration of H+ and SO4²⁻ ions releases large amounts of heat."
+},
+{
+  "question": "Which industry consumes the largest quantity of sulphuric acid?",
+  "choices": ["Fertilizer", "Textile", "Glass", "Paper"],
+  "answer": 0,
+  "chapter": "Sulphuric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Sulphuric acid is extensively used in fertilizer manufacture."
+},
+{
+  "question": "Which of the following is NOT a use of sulphuric acid?",
+  "choices": [
+    "Manufacture of fertilizers",
+    "Petroleum refining",
+    "Production of soap from ammonia",
+    "Lead-acid batteries"
+  ],
+  "answer": 2,
+  "chapter": "Sulphuric Acid",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Soap is not manufactured from ammonia using sulphuric acid."
+},
+{
+  "question": "What is the oxidation state of sulphur in SO2?",
+  "choices": ["+2", "+4", "+6", "+8"],
+  "answer": 1,
+  "chapter": "Sulphuric Acid",
+  "category": "Application",
+  "complexity": "medium",
+  "reason": "Sulphur has oxidation state +4 in sulphur dioxide."
+},
+{
+  "question": "What is the oxidation state of sulphur in SO3?",
+  "choices": ["+2", "+4", "+5", "+6"],
+  "answer": 3,
+  "chapter": "Sulphuric Acid",
+  "category": "Application",
+  "complexity": "medium",
+  "reason": "Sulphur has oxidation state +6 in sulphur trioxide."
+},
+{
+  "question": "The conversion of SO2 to SO3 represents:",
+  "choices": ["Reduction", "Oxidation", "Neutralisation", "Hydrolysis"],
+  "answer": 1,
+  "chapter": "Sulphuric Acid",
+  "category": "Application",
+  "complexity": "medium",
+  "reason": "Sulphur oxidation state increases from +4 to +6."
+},
+{
+  "question": "Which gas is released when hot concentrated sulphuric acid reacts with carbon?",
+  "choices": ["CO", "CO2", "SO2", "Both CO2 and SO2"],
+  "answer": 3,
+  "chapter": "Sulphuric Acid",
+  "category": "Application",
+  "complexity": "high",
+  "reason": "Carbon is oxidised to CO2 while sulphuric acid is reduced to SO2."
+},
+{
+  "question": "<latex>\\mathbf{C + 2H_2SO_4 \\rightarrow CO_2 + 2SO_2 + 2H_2O}</latex> demonstrates sulphuric acid acting as:",
+  "choices": [
+    "Reducing agent",
+    "Oxidising agent",
+    "Base",
+    "Drying agent"
+  ],
+  "answer": 1,
+  "chapter": "Sulphuric Acid",
+  "category": "Analysis",
+  "complexity": "high",
+  "reason": "Sulphuric acid oxidises carbon and gets reduced."
+},
+
+{
+  "question": "Which homologous series is represented by the general formula <latex>\\mathbf{C_nH_{2n+2}}</latex>?",
+  "choices": [
+    "Alkenes",
+    "Alkynes",
+    "Alkanes",
+    "Alcohols"
+  ],
+  "answer": 2,
+  "chapter": "Organic Compounds",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "Alkanes are saturated hydrocarbons having the general formula <latex>\\mathbf{C_nH_{2n+2}}</latex>."
+},
+{
+  "question": "What is the molecular formula of propane?",
+  "choices": [
+    "<latex>\\mathbf{C_3H_6}</latex>",
+    "<latex>\\mathbf{C_3H_8}</latex>",
+    "<latex>\\mathbf{C_2H_6}</latex>",
+    "<latex>\\mathbf{C_4H_{10}}</latex>"
+  ],
+  "answer": 1,
+  "chapter": "Organic Compounds",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "Propane is the third member of the alkane series with formula <latex>\\mathbf{C_3H_8}</latex>."
+},
+{
+  "question": "Identify X in the reaction <latex>\\mathbf{C_2H_4 + H_2 \\xrightarrow{Ni} X}</latex>.",
+  "choices": [
+    "<latex>\\mathbf{CH_4}</latex>",
+    "<latex>\\mathbf{C_2H_2}</latex>",
+    "<latex>\\mathbf{C_2H_6}</latex>",
+    "<latex>\\mathbf{C_3H_8}</latex>"
+  ],
+  "answer": 2,
+  "chapter": "Organic Compounds",
+  "category": "Application",
+  "complexity": "medium",
+  "reason": "Hydrogenation converts ethene into ethane. <latex>\\mathbf{C_2H_4 + H_2 \\xrightarrow{Ni} C_2H_6}</latex>."
+},
+{
+  "question": "Which hydrocarbon decolourises bromine water immediately?",
+  "choices": [
+    "Methane",
+    "Ethane",
+    "Propane",
+    "Ethene"
+  ],
+  "answer": 3,
+  "chapter": "Organic Compounds",
+  "category": "Application",
+  "complexity": "medium",
+  "reason": "Ethene is unsaturated and undergoes addition with bromine."
+},
+{
+  "question": "The functional group present in ethanol is:",
+  "choices": [
+    "-COOH",
+    "-CHO",
+    "-OH",
+    "-CO-"
+  ],
+  "answer": 2,
+  "chapter": "Organic Compounds",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "Alcohols contain the hydroxyl (-OH) functional group."
+},
+{
+  "question": "Which equation correctly represents complete combustion of methane?",
+  "choices": [
+    "<latex>\\mathbf{CH_4 + O_2 \\rightarrow CO + 2H_2O}</latex>",
+    "<latex>\\mathbf{CH_4 + 2O_2 \\rightarrow CO_2 + 2H_2O}</latex>",
+    "<latex>\\mathbf{CH_4 + O_2 \\rightarrow C + H_2O}</latex>",
+    "<latex>\\mathbf{2CH_4 + O_2 \\rightarrow 2CO_2 + 4H_2}</latex>"
+  ],
+  "answer": 1,
+  "chapter": "Organic Compounds",
+  "category": "Application",
+  "complexity": "medium",
+  "reason": "Complete combustion produces carbon dioxide and water."
+},
+{
+  "question": "Which catalyst is used for hydrogenation of vegetable oils?",
+  "choices": [
+    "Iron",
+    "Copper",
+    "Nickel",
+    "Aluminium"
+  ],
+  "answer": 2,
+  "chapter": "Organic Compounds",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Finely divided nickel acts as a catalyst for hydrogenation."
+},
+{
+  "question": "What is the IUPAC name of <latex>\\mathbf{CH_3OH}</latex>?",
+  "choices": [
+    "Methanal",
+    "Methanoic acid",
+    "Methanol",
+    "Methene"
+  ],
+  "answer": 2,
+  "chapter": "Organic Compounds",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "CH3OH is methanol."
+},
+{
+  "question": "What is the IUPAC name of <latex>\\mathbf{CH_3COOH}</latex>?",
+  "choices": [
+    "Methanoic acid",
+    "Ethanoic acid",
+    "Propanoic acid",
+    "Ethanol"
+  ],
+  "answer": 1,
+  "chapter": "Organic Compounds",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "CH3COOH is ethanoic acid."
+},
+{
+  "question": "Identify the product X: <latex>\\mathbf{C_2H_5OH + 2[O] \\rightarrow X + H_2O}</latex>",
+  "choices": [
+    "<latex>\\mathbf{CH_3COOH}</latex>",
+    "<latex>\\mathbf{CH_4}</latex>",
+    "<latex>\\mathbf{C_2H_6}</latex>",
+    "<latex>\\mathbf{CH_3CHO}</latex>"
+  ],
+  "answer": 0,
+  "chapter": "Organic Compounds",
+  "category": "Application",
+  "complexity": "high",
+  "reason": "Oxidation of ethanol gives ethanoic acid."
+},
+{
+  "question": "Which reagent is used to oxidize ethanol to ethanoic acid?",
+  "choices": [
+    "Dilute HCl",
+    "Acidified potassium dichromate",
+    "Sodium hydroxide",
+    "Bromine water"
+  ],
+  "answer": 1,
+  "chapter": "Organic Compounds",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Acidified potassium dichromate is a strong oxidizing agent."
+},
+{
+  "question": "Which equation represents esterification?",
+  "choices": [
+    "<latex>\\mathbf{CH_3COOH + C_2H_5OH \\rightleftharpoons CH_3COOC_2H_5 + H_2O}</latex>",
+    "<latex>\\mathbf{CH_3COOH + NaOH \\rightarrow CH_3COONa + H_2O}</latex>",
+    "<latex>\\mathbf{CH_4 + 2O_2 \\rightarrow CO_2 + 2H_2O}</latex>",
+    "<latex>\\mathbf{C_2H_4 + Br_2 \\rightarrow C_2H_4Br_2}</latex>"
+  ],
+  "answer": 0,
+  "chapter": "Organic Compounds",
+  "category": "Application",
+  "complexity": "high",
+  "reason": "Esterification produces an ester and water."
+},
+{
+  "question": "Which compound is formed during esterification of ethanol and ethanoic acid?",
+  "choices": [
+    "Ethanal",
+    "Ethyl ethanoate",
+    "Methanol",
+    "Ethene"
+  ],
+  "answer": 1,
+  "chapter": "Organic Compounds",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "The ester formed is ethyl ethanoate."
+},
+{
+  "question": "Which catalyst is used during esterification?",
+  "choices": [
+    "Dilute HCl",
+    "Concentrated H2SO4",
+    "NaOH",
+    "NH4OH"
+  ],
+  "answer": 1,
+  "chapter": "Organic Compounds",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Concentrated sulphuric acid acts as catalyst and dehydrating agent."
+},
+{
+  "question": "Identify X in <latex>\\mathbf{CH_3COOC_2H_5 + NaOH \\rightarrow X + C_2H_5OH}</latex>.",
+  "choices": [
+    "<latex>\\mathbf{CH_3COOH}</latex>",
+    "<latex>\\mathbf{CH_3COONa}</latex>",
+    "<latex>\\mathbf{CH_3CHO}</latex>",
+    "<latex>\\mathbf{Na_2CO_3}</latex>"
+  ],
+  "answer": 1,
+  "chapter": "Organic Compounds",
+  "category": "Application",
+  "complexity": "high",
+  "reason": "Alkaline hydrolysis of ester forms sodium ethanoate and ethanol."
+},
+
+{
+  "question": "Assertion (A): Ethene decolourises bromine water. Reason (R): Ethene contains a carbon-carbon double bond.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Organic Compounds",
+  "category": "Analysis",
+  "complexity": "medium",
+  "reason": "Unsaturated compounds undergo addition reactions with bromine."
+},
+{
+  "question": "Assertion (A): Ethanol is a neutral compound. Reason (R): Ethanol does not ionize appreciably in water.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Organic Compounds",
+  "category": "Analysis",
+  "complexity": "medium",
+  "reason": "Ethanol remains largely unionized in water."
+},
+{
+  "question": "Assertion (A): Ethanoic acid turns blue litmus red. Reason (R): Ethanoic acid ionizes in water to produce H+ ions.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Organic Compounds",
+  "category": "Analysis",
+  "complexity": "medium",
+  "reason": "The acidic nature is due to ionization."
+},
+{
+  "question": "Assertion (A): Esterification is reversible. Reason (R): Water formed can hydrolyze the ester.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Organic Compounds",
+  "category": "Analysis",
+  "complexity": "high",
+  "reason": "The reaction is reversible in nature."
+},
+{
+  "question": "Assertion (A): Methane undergoes substitution reactions. Reason (R): Methane is a saturated hydrocarbon.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Organic Compounds",
+  "category": "Analysis",
+  "complexity": "high",
+  "reason": "Saturated hydrocarbons typically undergo substitution rather than addition reactions."
+},
+{
+  "question": "Which equation correctly represents the preparation of ethene from ethanol?",
+  "choices": [
+    "<latex>\\mathbf{C_2H_5OH \\xrightarrow{conc.H_2SO_4,170^\\circ C} C_2H_4 + H_2O}</latex>",
+    "<latex>\\mathbf{C_2H_5OH + O_2 \\rightarrow CO_2 + H_2O}</latex>",
+    "<latex>\\mathbf{C_2H_5OH + H_2 \\rightarrow C_2H_6 + H_2O}</latex>",
+    "<latex>\\mathbf{C_2H_5OH + Br_2 \\rightarrow C_2H_4Br_2 + H_2O}</latex>"
+  ],
+  "answer": 0,
+  "chapter": "Organic Compounds",
+  "category": "Application",
+  "complexity": "high",
+  "reason": "Dehydration of ethanol produces ethene."
+},
+{
+  "question": "Concentrated sulphuric acid acts as a ______ during the preparation of ethene from ethanol.",
+  "choices": [
+    "Reducing agent",
+    "Oxidising agent",
+    "Dehydrating agent",
+    "Neutralising agent"
+  ],
+  "answer": 2,
+  "chapter": "Organic Compounds",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Concentrated sulphuric acid removes water from ethanol."
+},
+{
+  "question": "Identify X in the reaction <latex>\\mathbf{C_2H_4 + Br_2 \\rightarrow X}</latex>.",
+  "choices": [
+    "<latex>\\mathbf{C_2H_4Br_2}</latex>",
+    "<latex>\\mathbf{C_2H_5Br}</latex>",
+    "<latex>\\mathbf{C_2H_6}</latex>",
+    "<latex>\\mathbf{CH_3CHBr}</latex>"
+  ],
+  "answer": 0,
+  "chapter": "Organic Compounds",
+  "category": "Application",
+  "complexity": "medium",
+  "reason": "Bromine adds across the double bond forming dibromoethane."
+},
+{
+  "question": "Which equation represents chlorination of methane in sunlight?",
+  "choices": [
+    "<latex>\\mathbf{CH_4 + Cl_2 \\xrightarrow{sunlight} CH_3Cl + HCl}</latex>",
+    "<latex>\\mathbf{CH_4 + Cl_2 \\rightarrow CH_4Cl_2}</latex>",
+    "<latex>\\mathbf{CH_4 + HCl \\rightarrow CH_3Cl}</latex>",
+    "<latex>\\mathbf{CH_4 + Cl_2 \\rightarrow CCl_4}</latex>"
+  ],
+  "answer": 0,
+  "chapter": "Organic Compounds",
+  "category": "Application",
+  "complexity": "high",
+  "reason": "Methane undergoes substitution in presence of sunlight."
+},
+{
+  "question": "The reaction of methane with chlorine in sunlight is an example of:",
+  "choices": [
+    "Addition",
+    "Substitution",
+    "Neutralisation",
+    "Polymerization"
+  ],
+  "answer": 1,
+  "chapter": "Organic Compounds",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Hydrogen atoms are replaced by chlorine atoms."
+},
+{
+  "question": "Identify the product X: <latex>\\mathbf{C_2H_2 + 2H_2 \\xrightarrow{Ni} X}</latex>",
+  "choices": [
+    "<latex>\\mathbf{C_2H_4}</latex>",
+    "<latex>\\mathbf{C_2H_6}</latex>",
+    "<latex>\\mathbf{CH_4}</latex>",
+    "<latex>\\mathbf{C_3H_8}</latex>"
+  ],
+  "answer": 1,
+  "chapter": "Organic Compounds",
+  "category": "Application",
+  "complexity": "high",
+  "reason": "Complete hydrogenation of ethyne produces ethane."
+},
+{
+  "question": "Which hydrocarbon belongs to the alkyne series?",
+  "choices": [
+    "Methane",
+    "Ethene",
+    "Ethyne",
+    "Propane"
+  ],
+  "answer": 2,
+  "chapter": "Organic Compounds",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "Ethyne contains a carbon-carbon triple bond."
+},
+{
+  "question": "The general formula of alkynes is:",
+  "choices": [
+    "<latex>\\mathbf{C_nH_{2n+2}}</latex>",
+    "<latex>\\mathbf{C_nH_{2n}}</latex>",
+    "<latex>\\mathbf{C_nH_{2n-2}}</latex>",
+    "<latex>\\mathbf{C_nH_{2n+1}OH}</latex>"
+  ],
+  "answer": 2,
+  "chapter": "Organic Compounds",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Alkynes have the general formula CnH2n−2."
+},
+{
+  "question": "Which equation correctly represents complete combustion of ethene?",
+  "choices": [
+    "<latex>\\mathbf{C_2H_4 + 3O_2 \\rightarrow 2CO_2 + 2H_2O}</latex>",
+    "<latex>\\mathbf{C_2H_4 + O_2 \\rightarrow CO + H_2O}</latex>",
+    "<latex>\\mathbf{C_2H_4 + O_2 \\rightarrow C + H_2O}</latex>",
+    "<latex>\\mathbf{C_2H_4 \\rightarrow C + H_2}</latex>"
+  ],
+  "answer": 0,
+  "chapter": "Organic Compounds",
+  "category": "Application",
+  "complexity": "medium",
+  "reason": "Complete combustion forms carbon dioxide and water."
+},
+{
+  "question": "Which functional group is present in methanal?",
+  "choices": [
+    "-COOH",
+    "-CHO",
+    "-OH",
+    "-CO-"
+  ],
+  "answer": 1,
+  "chapter": "Organic Compounds",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Methanal belongs to the aldehyde family."
+},
+{
+  "question": "What is the IUPAC name of <latex>\\mathbf{HCHO}</latex>?",
+  "choices": [
+    "Methanal",
+    "Methanol",
+    "Methanoic acid",
+    "Ethanal"
+  ],
+  "answer": 0,
+  "chapter": "Organic Compounds",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "HCHO is methanal."
+},
+{
+  "question": "Which functional group is present in propanone?",
+  "choices": [
+    "-CHO",
+    "-COOH",
+    ">C=O",
+    "-OH"
+  ],
+  "answer": 2,
+  "chapter": "Organic Compounds",
+  "category": "Knowledge",
+  "complexity": "medium",
+  "reason": "Propanone contains the ketone functional group."
+},
+{
+  "question": "The IUPAC name of acetylene is:",
+  "choices": [
+    "Ethene",
+    "Ethyne",
+    "Ethanol",
+    "Ethanal"
+  ],
+  "answer": 1,
+  "chapter": "Organic Compounds",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "Acetylene is the common name of ethyne."
+},
+{
+  "question": "The IUPAC name of acetic acid is:",
+  "choices": [
+    "Methanoic acid",
+    "Propanoic acid",
+    "Ethanoic acid",
+    "Methanal"
+  ],
+  "answer": 2,
+  "chapter": "Organic Compounds",
+  "category": "Knowledge",
+  "complexity": "low",
+  "reason": "Acetic acid is the common name of ethanoic acid."
+},
+{
+  "question": "Which equation represents the reaction of ethanoic acid with sodium bicarbonate?",
+  "choices": [
+    "<latex>\\mathbf{CH_3COOH + NaHCO_3 \\rightarrow CH_3COONa + H_2O + CO_2}</latex>",
+    "<latex>\\mathbf{CH_3COOH + NaOH \\rightarrow CH_4 + H_2O}</latex>",
+    "<latex>\\mathbf{CH_3COOH + NaCl \\rightarrow CH_3COONa}</latex>",
+    "<latex>\\mathbf{CH_3COOH + HCl \\rightarrow CO_2}</latex>"
+  ],
+  "answer": 0,
+  "chapter": "Organic Compounds",
+  "category": "Application",
+  "complexity": "high",
+  "reason": "Carboxylic acids react with bicarbonates liberating carbon dioxide."
+},
+
+{
+  "question": "Assertion (A): Ethyne decolourises bromine water faster than ethane. Reason (R): Ethyne is an unsaturated hydrocarbon.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Organic Compounds",
+  "category": "Analysis",
+  "complexity": "medium",
+  "reason": "Unsaturated hydrocarbons undergo addition reactions readily."
+},
+{
+  "question": "Assertion (A): Methane burns with a clean blue flame. Reason (R): Methane has a low carbon-to-hydrogen ratio.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Organic Compounds",
+  "category": "Analysis",
+  "complexity": "medium",
+  "reason": "Methane undergoes more complete combustion than unsaturated hydrocarbons."
+},
+{
+  "question": "Assertion (A): Ethene undergoes addition reactions. Reason (R): Ethene contains a carbon-carbon double bond.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Organic Compounds",
+  "category": "Analysis",
+  "complexity": "medium",
+  "reason": "The double bond breaks allowing addition of atoms."
+},
+{
+  "question": "Assertion (A): Ethanoic acid reacts with active metals. Reason (R): Ethanoic acid is acidic in nature.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Organic Compounds",
+  "category": "Analysis",
+  "complexity": "medium",
+  "reason": "Acids react with active metals liberating hydrogen."
+},
+{
+  "question": "Assertion (A): Concentrated sulphuric acid is used in preparation of ethene from ethanol. Reason (R): It acts as a dehydrating agent.",
+  "choices": [
+    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+    "Assertion (A) is true but Reason (R) is false",
+    "Assertion (A) is false but Reason (R) is true"
+  ],
+  "answer": 0,
+  "chapter": "Organic Compounds",
+  "category": "Analysis",
+  "complexity": "high",
+  "reason": "Removal of water from ethanol yields ethene."
+},
+ {
+    "question": "Which homologous series is represented by the general formula <latex>\\mathbf{C_nH_{2n+2}}</latex>?",
+    "choices": [
+      "Alkenes",
+      "Alkynes",
+      "Alkanes",
+      "Alcohols"
+    ],
+    "answer": 2,
+    "chapter": "Alkanes",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Alkanes are saturated hydrocarbons having the general formula <latex>\\mathbf{C_nH_{2n+2}}</latex>."
+  },
+  {
+    "question": "Which of the following is the first member of the alkane series?",
+    "choices": [
+      "Ethane",
+      "Methane",
+      "Propane",
+      "Butane"
+    ],
+    "answer": 1,
+    "chapter": "Alkanes",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Methane (<latex>\\mathbf{CH_4}</latex>) is the first member of the alkane family."
+  },
+  {
+    "question": "What is the molecular formula of butane?",
+    "choices": [
+      "<latex>\\mathbf{C_4H_8}</latex>",
+      "<latex>\\mathbf{C_4H_{10}}</latex>",
+      "<latex>\\mathbf{C_4H_6}</latex>",
+      "<latex>\\mathbf{C_5H_{12}}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Alkanes",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Applying the formula <latex>\\mathbf{C_nH_{2n+2}}</latex> for n = 4 gives <latex>\\mathbf{C_4H_{10}}</latex>."
+  },
+  {
+    "question": "Which equation correctly represents the complete combustion of methane?",
+    "choices": [
+      "<latex>\\mathbf{CH_4 + 2O_2 \\rightarrow CO_2 + 2H_2O}</latex>",
+      "<latex>\\mathbf{CH_4 + O_2 \\rightarrow CO + H_2O}</latex>",
+      "<latex>\\mathbf{CH_4 + O_2 \\rightarrow C + H_2O}</latex>",
+      "<latex>\\mathbf{CH_4 \\rightarrow C + 2H_2}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Alkanes",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Complete combustion of methane produces carbon dioxide and water."
+  },
+  {
+    "question": "Which gas is produced when methane burns completely in excess oxygen?",
+    "choices": [
+      "Hydrogen",
+      "Carbon monoxide",
+      "Carbon dioxide",
+      "Methanol"
+    ],
+    "answer": 2,
+    "chapter": "Alkanes",
+    "category": "Application",
+    "complexity": "low",
+    "reason": "Complete combustion yields carbon dioxide and water."
+  },
+  {
+    "question": "Which type of bond exists between carbon atoms in alkanes?",
+    "choices": [
+      "Double bond",
+      "Triple bond",
+      "Single covalent bond",
+      "Ionic bond"
+    ],
+    "answer": 2,
+    "chapter": "Alkanes",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Alkanes contain only single covalent bonds and are therefore saturated."
+  },
+  {
+    "question": "Which alkane contains three carbon atoms?",
+    "choices": [
+      "Methane",
+      "Ethane",
+      "Propane",
+      "Butane"
+    ],
+    "answer": 2,
+    "chapter": "Alkanes",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Propane has the molecular formula <latex>\\mathbf{C_3H_8}</latex>."
+  },
+  {
+    "question": "Identify X in the reaction <latex>\\mathbf{CH_4 + Cl_2 \\xrightarrow{sunlight} X + HCl}</latex>.",
+    "choices": [
+      "<latex>\\mathbf{CH_3Cl}</latex>",
+      "<latex>\\mathbf{CH_2Cl_2}</latex>",
+      "<latex>\\mathbf{CCl_4}</latex>",
+      "<latex>\\mathbf{CHCl_3}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Alkanes",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "The first substitution product is chloromethane."
+  },
+  {
+    "question": "The reaction of methane with chlorine in sunlight is called:",
+    "choices": [
+      "Addition",
+      "Substitution",
+      "Polymerization",
+      "Hydrogenation"
+    ],
+    "answer": 1,
+    "chapter": "Alkanes",
+    "category": "Knowledge",
+    "complexity": "medium",
+    "reason": "Hydrogen atoms are replaced by chlorine atoms."
+  },
+  {
+    "question": "Which condition is necessary for chlorination of methane?",
+    "choices": [
+      "Steam",
+      "Sunlight or UV light",
+      "Nickel catalyst",
+      "High pressure only"
+    ],
+    "answer": 1,
+    "chapter": "Alkanes",
+    "category": "Knowledge",
+    "complexity": "medium",
+    "reason": "UV light initiates the free-radical substitution reaction."
+  },
+  {
+    "question": "Which equation correctly represents the formation of dichloromethane?",
+    "choices": [
+      "<latex>\\mathbf{CH_3Cl + Cl_2 \\xrightarrow{sunlight} CH_2Cl_2 + HCl}</latex>",
+      "<latex>\\mathbf{CH_4 + Cl_2 \\rightarrow CH_2Cl_2}</latex>",
+      "<latex>\\mathbf{CH_4 + 2Cl_2 \\rightarrow CH_2Cl_2}</latex>",
+      "<latex>\\mathbf{CH_3Cl + HCl \\rightarrow CH_2Cl_2}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Alkanes",
+    "category": "Application",
+    "complexity": "high",
+    "reason": "Successive substitution of hydrogen atoms produces dichloromethane."
+  },
+  {
+    "question": "What is the molecular formula of pentane?",
+    "choices": [
+      "<latex>\\mathbf{C_5H_{10}}</latex>",
+      "<latex>\\mathbf{C_5H_{12}}</latex>",
+      "<latex>\\mathbf{C_5H_8}</latex>",
+      "<latex>\\mathbf{C_6H_{14}}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Alkanes",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Pentane follows the alkane formula and has molecular formula <latex>\\mathbf{C_5H_{12}}</latex>."
+  },
+  {
+    "question": "Which alkane is the major constituent of natural gas?",
+    "choices": [
+      "Ethane",
+      "Propane",
+      "Methane",
+      "Butane"
+    ],
+    "answer": 2,
+    "chapter": "Alkanes",
+    "category": "Knowledge",
+    "complexity": "medium",
+    "reason": "Natural gas contains methane as its major component."
+  },
+  {
+    "question": "The structural formula of ethane is:",
+    "choices": [
+      "<latex>\\mathbf{CH_3-CH_3}</latex>",
+      "<latex>\\mathbf{CH_2=CH_2}</latex>",
+      "<latex>\\mathbf{HC\\equiv CH}</latex>",
+      "<latex>\\mathbf{CH_3OH}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Alkanes",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Ethane contains two carbon atoms joined by a single bond."
+  },
+  {
+    "question": "Which equation represents incomplete combustion of methane?",
+    "choices": [
+      "<latex>\\mathbf{CH_4 + 2O_2 \\rightarrow CO_2 + 2H_2O}</latex>",
+      "<latex>\\mathbf{2CH_4 + 3O_2 \\rightarrow 2CO + 4H_2O}</latex>",
+      "<latex>\\mathbf{CH_4 + H_2 \\rightarrow CH_3OH}</latex>",
+      "<latex>\\mathbf{CH_4 \\rightarrow C + 2H_2}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Alkanes",
+    "category": "Application",
+    "complexity": "high",
+    "reason": "Limited oxygen results in formation of carbon monoxide."
+  },
+
+  {
+    "question": "Assertion (A): Alkanes are called saturated hydrocarbons. Reason (R): They contain only single covalent bonds between carbon atoms.",
+    "choices": [
+      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+      "Assertion (A) is true but Reason (R) is false",
+      "Assertion (A) is false but Reason (R) is true"
+    ],
+    "answer": 0,
+    "chapter": "Alkanes",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "Presence of only single bonds makes alkanes saturated."
+  },
+  {
+    "question": "Assertion (A): Methane does not decolourise bromine water. Reason (R): Methane is a saturated hydrocarbon.",
+    "choices": [
+      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+      "Assertion (A) is true but Reason (R) is false",
+      "Assertion (A) is false but Reason (R) is true"
+    ],
+    "answer": 0,
+    "chapter": "Alkanes",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "Only unsaturated compounds readily decolourise bromine water."
+  },
+  {
+    "question": "Assertion (A): Methane undergoes substitution rather than addition reactions. Reason (R): Methane contains only single covalent bonds.",
+    "choices": [
+      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+      "Assertion (A) is true but Reason (R) is false",
+      "Assertion (A) is false but Reason (R) is true"
+    ],
+    "answer": 0,
+    "chapter": "Alkanes",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "Addition reactions are characteristic of unsaturated hydrocarbons."
+  },
+  {
+    "question": "Assertion (A): Complete combustion of methane produces a blue flame. Reason (R): Sufficient oxygen ensures complete oxidation to carbon dioxide and water.",
+    "choices": [
+      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+      "Assertion (A) is true but Reason (R) is false",
+      "Assertion (A) is false but Reason (R) is true"
+    ],
+    "answer": 0,
+    "chapter": "Alkanes",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "Complete combustion produces a non-luminous blue flame."
+  },
+  {
+    "question": "Assertion (A): Chlorination of methane is a photochemical reaction. Reason (R): The reaction requires sunlight or UV radiation to initiate free radicals.",
+    "choices": [
+      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+      "Assertion (A) is true but Reason (R) is false",
+      "Assertion (A) is false but Reason (R) is true"
+    ],
+    "answer": 0,
+    "chapter": "Alkanes",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "UV light causes homolytic cleavage of chlorine molecules producing free radicals."
+  },
+
+  {
+    "question": "Which homologous series is represented by the general formula <latex>\\mathbf{C_nH_{2n}}</latex>?",
+    "choices": [
+      "Alkanes",
+      "Alkenes",
+      "Alkynes",
+      "Alcohols"
+    ],
+    "answer": 1,
+    "chapter": "Alkenes",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Alkenes are unsaturated hydrocarbons containing one carbon-carbon double bond and have the general formula <latex>\\mathbf{C_nH_{2n}}</latex>."
+  },
+  {
+    "question": "Which is the first member of the alkene series?",
+    "choices": [
+      "Methene",
+      "Ethene",
+      "Propene",
+      "Butene"
+    ],
+    "answer": 1,
+    "chapter": "Alkenes",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Ethene (<latex>\\mathbf{C_2H_4}</latex>) is the first stable alkene."
+  },
+  {
+    "question": "What is the molecular formula of propene?",
+    "choices": [
+      "<latex>\\mathbf{C_3H_8}</latex>",
+      "<latex>\\mathbf{C_3H_6}</latex>",
+      "<latex>\\mathbf{C_3H_4}</latex>",
+      "<latex>\\mathbf{C_4H_8}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Alkenes",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Propene follows the formula <latex>\\mathbf{C_nH_{2n}}</latex>, giving <latex>\\mathbf{C_3H_6}</latex>."
+  },
+  {
+    "question": "The structural formula of ethene is:",
+    "choices": [
+      "<latex>\\mathbf{CH_3-CH_3}</latex>",
+      "<latex>\\mathbf{CH_2=CH_2}</latex>",
+      "<latex>\\mathbf{HC\\equiv CH}</latex>",
+      "<latex>\\mathbf{CH_3OH}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Alkenes",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Ethene contains a carbon-carbon double bond."
+  },
+  {
+    "question": "Which test distinguishes an alkene from an alkane?",
+    "choices": [
+      "Litmus test",
+      "Bromine water test",
+      "Phenolphthalein test",
+      "Universal indicator test"
+    ],
+    "answer": 1,
+    "chapter": "Alkenes",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Alkenes decolourise bromine water due to addition across the double bond."
+  },
+  {
+    "question": "Which equation correctly represents the preparation of ethene from ethanol?",
+    "choices": [
+      "<latex>\\mathbf{C_2H_5OH \\xrightarrow{conc.H_2SO_4,170^\\circ C} C_2H_4 + H_2O}</latex>",
+      "<latex>\\mathbf{C_2H_5OH + O_2 \\rightarrow CO_2 + H_2O}</latex>",
+      "<latex>\\mathbf{C_2H_5OH + H_2 \\rightarrow C_2H_6 + H_2O}</latex>",
+      "<latex>\\mathbf{C_2H_5OH \\rightarrow CH_4 + CO}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Alkenes",
+    "category": "Application",
+    "complexity": "high",
+    "reason": "Ethene is prepared by dehydration of ethanol using concentrated sulphuric acid."
+  },
+  {
+    "question": "Concentrated sulphuric acid acts as a ______ in the preparation of ethene.",
+    "choices": [
+      "Reducing agent",
+      "Dehydrating agent",
+      "Oxidising agent",
+      "Neutralising agent"
+    ],
+    "answer": 1,
+    "chapter": "Alkenes",
+    "category": "Knowledge",
+    "complexity": "medium",
+    "reason": "It removes water from ethanol."
+  },
+  {
+    "question": "Identify X in the reaction <latex>\\mathbf{C_2H_4 + H_2 \\xrightarrow{Ni} X}</latex>.",
+    "choices": [
+      "<latex>\\mathbf{CH_4}</latex>",
+      "<latex>\\mathbf{C_2H_6}</latex>",
+      "<latex>\\mathbf{C_2H_2}</latex>",
+      "<latex>\\mathbf{C_3H_8}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Alkenes",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Hydrogenation converts ethene into ethane."
+  },
+  {
+    "question": "The above reaction is called:",
+    "choices": [
+      "Substitution",
+      "Hydrogenation",
+      "Polymerization",
+      "Neutralisation"
+    ],
+    "answer": 1,
+    "chapter": "Alkenes",
+    "category": "Knowledge",
+    "complexity": "medium",
+    "reason": "Hydrogen is added across the double bond."
+  },
+  {
+    "question": "Which catalyst is used in hydrogenation of alkenes?",
+    "choices": [
+      "Copper",
+      "Nickel",
+      "Iron oxide",
+      "Manganese dioxide"
+    ],
+    "answer": 1,
+    "chapter": "Alkenes",
+    "category": "Knowledge",
+    "complexity": "medium",
+    "reason": "Finely divided nickel is commonly used."
+  },
+  {
+    "question": "Identify X in the reaction <latex>\\mathbf{C_2H_4 + Br_2 \\rightarrow X}</latex>.",
+    "choices": [
+      "<latex>\\mathbf{C_2H_4Br_2}</latex>",
+      "<latex>\\mathbf{C_2H_5Br}</latex>",
+      "<latex>\\mathbf{C_2H_6}</latex>",
+      "<latex>\\mathbf{CH_3Br}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Alkenes",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Bromine adds across the double bond producing dibromoethane."
+  },
+  {
+    "question": "Which equation explains the decolourisation of bromine water by ethene?",
+    "choices": [
+      "<latex>\\mathbf{C_2H_4 + Br_2 \\rightarrow C_2H_4Br_2}</latex>",
+      "<latex>\\mathbf{C_2H_4 + H_2 \\rightarrow C_2H_6}</latex>",
+      "<latex>\\mathbf{C_2H_4 + O_2 \\rightarrow CO_2}</latex>",
+      "<latex>\\mathbf{C_2H_4 + HCl \\rightarrow CH_4}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Alkenes",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "The addition reaction consumes bromine causing decolourisation."
+  },
+  {
+    "question": "Identify X in the reaction <latex>\\mathbf{C_2H_4 + HCl \\rightarrow X}</latex>.",
+    "choices": [
+      "<latex>\\mathbf{C_2H_5Cl}</latex>",
+      "<latex>\\mathbf{CH_3Cl}</latex>",
+      "<latex>\\mathbf{C_2H_4Cl_2}</latex>",
+      "<latex>\\mathbf{CH_2Cl_2}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Alkenes",
+    "category": "Application",
+    "complexity": "high",
+    "reason": "Hydrogen chloride adds across the double bond to form chloroethane."
+  },
+  {
+    "question": "Which equation represents complete combustion of ethene?",
+    "choices": [
+      "<latex>\\mathbf{C_2H_4 + 3O_2 \\rightarrow 2CO_2 + 2H_2O}</latex>",
+      "<latex>\\mathbf{C_2H_4 + O_2 \\rightarrow CO + H_2O}</latex>",
+      "<latex>\\mathbf{C_2H_4 \\rightarrow C + H_2}</latex>",
+      "<latex>\\mathbf{C_2H_4 + Br_2 \\rightarrow C_2H_4Br_2}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Alkenes",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Complete combustion produces carbon dioxide and water."
+  },
+  {
+    "question": "Which alkene is obtained from dehydration of propanol?",
+    "choices": [
+      "Ethene",
+      "Propene",
+      "Butene",
+      "Methene"
+    ],
+    "answer": 1,
+    "chapter": "Alkenes",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Removal of water from propanol gives propene."
+  },
+
+  {
+    "question": "Assertion (A): Ethene decolourises bromine water. Reason (R): Ethene contains a carbon-carbon double bond.",
+    "choices": [
+      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+      "Assertion (A) is true but Reason (R) is false",
+      "Assertion (A) is false but Reason (R) is true"
+    ],
+    "answer": 0,
+    "chapter": "Alkenes",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "The double bond undergoes addition with bromine."
+  },
+  {
+    "question": "Assertion (A): Alkenes are unsaturated hydrocarbons. Reason (R): They contain at least one carbon-carbon double bond.",
+    "choices": [
+      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+      "Assertion (A) is true but Reason (R) is false",
+      "Assertion (A) is false but Reason (R) is true"
+    ],
+    "answer": 0,
+    "chapter": "Alkenes",
+    "category": "Analysis",
+    "complexity": "low",
+    "reason": "The presence of a double bond makes the compound unsaturated."
+  },
+  {
+    "question": "Assertion (A): Ethene undergoes addition reactions. Reason (R): The carbon-carbon double bond can break and accommodate new atoms.",
+    "choices": [
+      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+      "Assertion (A) is true but Reason (R) is false",
+      "Assertion (A) is false but Reason (R) is true"
+    ],
+    "answer": 0,
+    "chapter": "Alkenes",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "Addition reactions occur due to the reactive π-bond."
+  },
+  {
+    "question": "Assertion (A): Hydrogenation converts unsaturated hydrocarbons into saturated hydrocarbons. Reason (R): Hydrogen adds across multiple bonds.",
+    "choices": [
+      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+      "Assertion (A) is true but Reason (R) is false",
+      "Assertion (A) is false but Reason (R) is true"
+    ],
+    "answer": 0,
+    "chapter": "Alkenes",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "Hydrogenation removes unsaturation by converting double bonds into single bonds."
+  },
+  {
+    "question": "Assertion (A): Ethene burns with a luminous smoky flame. Reason (R): Ethene has a higher carbon-to-hydrogen ratio than methane.",
+    "choices": [
+      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+      "Assertion (A) is true but Reason (R) is false",
+      "Assertion (A) is false but Reason (R) is true"
+    ],
+    "answer": 0,
+    "chapter": "Alkenes",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "Incomplete combustion of carbon-rich hydrocarbons produces a smoky flame."
+  },
+  {
+    "question": "Which homologous series is represented by the general formula <latex>\\mathbf{C_nH_{2n-2}}</latex>?",
+    "choices": [
+      "Alkanes",
+      "Alkenes",
+      "Alkynes",
+      "Alcohols"
+    ],
+    "answer": 2,
+    "chapter": "Alkynes",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Alkynes are unsaturated hydrocarbons containing a carbon-carbon triple bond and have the general formula <latex>\\mathbf{C_nH_{2n-2}}</latex>."
+  },
+  {
+    "question": "Which is the first stable member of the alkyne series?",
+    "choices": [
+      "Methyne",
+      "Ethyne",
+      "Propyne",
+      "Butyne"
+    ],
+    "answer": 1,
+    "chapter": "Alkynes",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Ethyne (<latex>\\mathbf{C_2H_2}</latex>) is the first member of the alkyne series."
+  },
+  {
+    "question": "What is the molecular formula of propyne?",
+    "choices": [
+      "<latex>\\mathbf{C_3H_8}</latex>",
+      "<latex>\\mathbf{C_3H_6}</latex>",
+      "<latex>\\mathbf{C_3H_4}</latex>",
+      "<latex>\\mathbf{C_4H_6}</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Alkynes",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Using the formula <latex>\\mathbf{C_nH_{2n-2}}</latex>, propyne has formula <latex>\\mathbf{C_3H_4}</latex>."
+  },
+  {
+    "question": "The structural formula of ethyne is:",
+    "choices": [
+      "<latex>\\mathbf{CH_2=CH_2}</latex>",
+      "<latex>\\mathbf{CH_3-CH_3}</latex>",
+      "<latex>\\mathbf{HC\\equiv CH}</latex>",
+      "<latex>\\mathbf{CH_3OH}</latex>"
+    ],
+    "answer": 2,
+    "chapter": "Alkynes",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Ethyne contains a carbon-carbon triple bond."
+  },
+  {
+    "question": "The common name of ethyne is:",
+    "choices": [
+      "Ethene",
+      "Acetylene",
+      "Acetic acid",
+      "Acetaldehyde"
+    ],
+    "answer": 1,
+    "chapter": "Alkynes",
+    "category": "Knowledge",
+    "complexity": "low",
+    "reason": "Ethyne is commonly known as acetylene."
+  },
+  {
+    "question": "Identify X in the reaction <latex>\\mathbf{HC\\equiv CH + H_2 \\xrightarrow{Ni} X}</latex>.",
+    "choices": [
+      "<latex>\\mathbf{C_2H_6}</latex>",
+      "<latex>\\mathbf{CH_2=CH_2}</latex>",
+      "<latex>\\mathbf{CH_4}</latex>",
+      "<latex>\\mathbf{C_3H_8}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Alkynes",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Addition of one mole of hydrogen converts ethyne to ethene."
+  },
+  {
+    "question": "Identify X in the reaction <latex>\\mathbf{HC\\equiv CH + 2H_2 \\xrightarrow{Ni} X}</latex>.",
+    "choices": [
+      "<latex>\\mathbf{CH_2=CH_2}</latex>",
+      "<latex>\\mathbf{C_2H_6}</latex>",
+      "<latex>\\mathbf{CH_4}</latex>",
+      "<latex>\\mathbf{C_2H_5OH}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Alkynes",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Complete hydrogenation of ethyne produces ethane."
+  },
+  {
+    "question": "Which equation represents complete hydrogenation of ethyne?",
+    "choices": [
+      "<latex>\\mathbf{HC\\equiv CH + H_2 \\rightarrow CH_2=CH_2}</latex>",
+      "<latex>\\mathbf{HC\\equiv CH + 2H_2 \\xrightarrow{Ni} CH_3-CH_3}</latex>",
+      "<latex>\\mathbf{HC\\equiv CH + Br_2 \\rightarrow CHBr=CHBr}</latex>",
+      "<latex>\\mathbf{HC\\equiv CH + O_2 \\rightarrow CO_2 + H_2O}</latex>"
+    ],
+    "answer": 1,
+    "chapter": "Alkynes",
+    "category": "Application",
+    "complexity": "high",
+    "reason": "Two molecules of hydrogen are required to saturate the triple bond."
+  },
+  {
+    "question": "Which catalyst is commonly used for hydrogenation of alkynes?",
+    "choices": [
+      "Copper",
+      "Nickel",
+      "Zinc",
+      "Aluminium"
+    ],
+    "answer": 1,
+    "chapter": "Alkynes",
+    "category": "Knowledge",
+    "complexity": "medium",
+    "reason": "Finely divided nickel is used as the catalyst."
+  },
+  {
+    "question": "Identify X in the reaction <latex>\\mathbf{HC\\equiv CH + Br_2 \\rightarrow X}</latex>.",
+    "choices": [
+      "<latex>\\mathbf{CHBr=CHBr}</latex>",
+      "<latex>\\mathbf{CH_2Br-CH_2Br}</latex>",
+      "<latex>\\mathbf{CH_3Br}</latex>",
+      "<latex>\\mathbf{CBr_4}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Alkynes",
+    "category": "Application",
+    "complexity": "high",
+    "reason": "One molecule of bromine adds across the triple bond forming dibromoethene."
+  },
+  {
+    "question": "Which property of alkynes is demonstrated by the bromine water test?",
+    "choices": [
+      "Acidic nature",
+      "Basic nature",
+      "Unsaturation",
+      "Neutral character"
+    ],
+    "answer": 2,
+    "chapter": "Alkynes",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Alkynes decolourise bromine water because of the triple bond."
+  },
+  {
+    "question": "Which equation correctly represents complete combustion of ethyne?",
+    "choices": [
+      "<latex>\\mathbf{2C_2H_2 + 5O_2 \\rightarrow 4CO_2 + 2H_2O}</latex>",
+      "<latex>\\mathbf{C_2H_2 + O_2 \\rightarrow CO + H_2O}</latex>",
+      "<latex>\\mathbf{C_2H_2 \\rightarrow 2C + H_2}</latex>",
+      "<latex>\\mathbf{C_2H_2 + H_2 \\rightarrow C_2H_4}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Alkynes",
+    "category": "Application",
+    "complexity": "medium",
+    "reason": "Complete combustion yields carbon dioxide and water."
+  },
+  {
+    "question": "Ethyne burns in air with a:",
+    "choices": [
+      "Blue non-luminous flame",
+      "Green flame",
+      "Luminous smoky flame",
+      "Colourless flame"
+    ],
+    "answer": 2,
+    "chapter": "Alkynes",
+    "category": "Knowledge",
+    "complexity": "medium",
+    "reason": "The high carbon content results in a smoky luminous flame."
+  },
+  {
+    "question": "Identify X in the reaction <latex>\\mathbf{HC\\equiv CH + HCl \\rightarrow X}</latex>.",
+    "choices": [
+      "<latex>\\mathbf{CH_2=CHCl}</latex>",
+      "<latex>\\mathbf{CH_3CH_2Cl}</latex>",
+      "<latex>\\mathbf{CHCl_3}</latex>",
+      "<latex>\\mathbf{CCl_4}</latex>"
+    ],
+    "answer": 0,
+    "chapter": "Alkynes",
+    "category": "Application",
+    "complexity": "high",
+    "reason": "Hydrogen chloride adds across the triple bond producing vinyl chloride."
+  },
+  {
+    "question": "Which hydrocarbon contains the maximum degree of unsaturation?",
+    "choices": [
+      "Ethane",
+      "Ethene",
+      "Ethyne",
+      "Methane"
+    ],
+    "answer": 2,
+    "chapter": "Alkynes",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "A triple bond represents a higher degree of unsaturation than a double bond."
+  },
+
+  {
+    "question": "Assertion (A): Alkynes are more unsaturated than alkenes. Reason (R): Alkynes contain a carbon-carbon triple bond.",
+    "choices": [
+      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+      "Assertion (A) is true but Reason (R) is false",
+      "Assertion (A) is false but Reason (R) is true"
+    ],
+    "answer": 0,
+    "chapter": "Alkynes",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "The triple bond contains two π-bonds and one σ-bond, making alkynes more unsaturated."
+  },
+  {
+    "question": "Assertion (A): Ethyne decolourises bromine water. Reason (R): Ethyne undergoes addition reactions due to the presence of a triple bond.",
+    "choices": [
+      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+      "Assertion (A) is true but Reason (R) is false",
+      "Assertion (A) is false but Reason (R) is true"
+    ],
+    "answer": 0,
+    "chapter": "Alkynes",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "Addition of bromine across the triple bond removes the colour of bromine water."
+  },
+  {
+    "question": "Assertion (A): Ethyne burns with a smoky flame. Reason (R): Ethyne has a high carbon-to-hydrogen ratio.",
+    "choices": [
+      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+      "Assertion (A) is true but Reason (R) is false",
+      "Assertion (A) is false but Reason (R) is true"
+    ],
+    "answer": 0,
+    "chapter": "Alkynes",
+    "category": "Analysis",
+    "complexity": "medium",
+    "reason": "The higher carbon content leads to incomplete combustion and soot formation."
+  },
+  {
+    "question": "Assertion (A): Hydrogenation converts alkynes into alkanes. Reason (R): Hydrogen adds across the triple bond until saturation is achieved.",
+    "choices": [
+      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+      "Assertion (A) is true but Reason (R) is false",
+      "Assertion (A) is false but Reason (R) is true"
+    ],
+    "answer": 0,
+    "chapter": "Alkynes",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "Complete hydrogenation removes all unsaturation."
+  },
+  {
+    "question": "Assertion (A): Ethyne can undergo two successive addition reactions. Reason (R): Ethyne contains two π-bonds in its triple bond.",
+    "choices": [
+      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+      "Assertion (A) is true but Reason (R) is false",
+      "Assertion (A) is false but Reason (R) is true"
+    ],
+    "answer": 0,
+    "chapter": "Alkynes",
+    "category": "Analysis",
+    "complexity": "high",
+    "reason": "The two π-bonds can be broken successively, allowing multiple addition reactions."
+  },
+    {
+      "question": "What is the functional group present in alcohols?",
+      "choices": [
+        "-COOH",
+        "-OH",
+        "-CHO",
+        ">C=O"
+      ],
+      "answer": 1,
+      "chapter": "Alcohols",
+      "category": "Knowledge",
+      "complexity": "low",
+      "reason": "Alcohols contain the hydroxyl (-OH) functional group."
+    },
+    {
+      "question": "What is the molecular formula of ethanol?",
+      "choices": [
+        "<latex>\\mathbf{C_2H_5OH}</latex>",
+        "<latex>\\mathbf{CH_3OH}</latex>",
+        "<latex>\\mathbf{C_2H_4}</latex>",
+        "<latex>\\mathbf{CH_3COOH}</latex>"
+      ],
+      "answer": 0,
+      "chapter": "Alcohols",
+      "category": "Knowledge",
+      "complexity": "low",
+      "reason": "Ethanol has the molecular formula <latex>\\mathbf{C_2H_5OH}</latex>."
+    },
+    {
+      "question": "What is the IUPAC name of <latex>\\mathbf{CH_3OH}</latex>?",
+      "choices": [
+        "Methanol",
+        "Methanal",
+        "Methanoic acid",
+        "Methene"
+      ],
+      "answer": 0,
+      "chapter": "Alcohols",
+      "category": "Knowledge",
+      "complexity": "low",
+      "reason": "CH3OH is methanol."
+    },
+    {
+      "question": "Which equation represents complete combustion of ethanol?",
+      "choices": [
+        "<latex>\\mathbf{C_2H_5OH + 3O_2 \\rightarrow 2CO_2 + 3H_2O}</latex>",
+        "<latex>\\mathbf{C_2H_5OH + O_2 \\rightarrow CO + H_2O}</latex>",
+        "<latex>\\mathbf{C_2H_5OH \\rightarrow C_2H_4 + H_2O}</latex>",
+        "<latex>\\mathbf{C_2H_5OH + H_2 \\rightarrow C_2H_6 + H_2O}</latex>"
+      ],
+      "answer": 0,
+      "chapter": "Alcohols",
+      "category": "Application",
+      "complexity": "medium",
+      "reason": "Complete combustion of ethanol produces carbon dioxide and water."
+    },
+    {
+      "question": "Identify X in the reaction <latex>\\mathbf{C_2H_5OH + 2[O] \\rightarrow X + H_2O}</latex>.",
+      "choices": [
+        "<latex>\\mathbf{CH_3COOH}</latex>",
+        "<latex>\\mathbf{CH_3CHO}</latex>",
+        "<latex>\\mathbf{CH_4}</latex>",
+        "<latex>\\mathbf{C_2H_6}</latex>"
+      ],
+      "answer": 0,
+      "chapter": "Alcohols",
+      "category": "Application",
+      "complexity": "high",
+      "reason": "Oxidation of ethanol gives ethanoic acid."
+    },
+    {
+      "question": "Which reagent is used to oxidize ethanol into ethanoic acid?",
+      "choices": [
+        "Bromine water",
+        "Acidified potassium dichromate",
+        "Sodium hydroxide",
+        "Ammonium hydroxide"
+      ],
+      "answer": 1,
+      "chapter": "Alcohols",
+      "category": "Knowledge",
+      "complexity": "medium",
+      "reason": "Acidified potassium dichromate is a strong oxidizing agent."
+    },
+    {
+      "question": "Which equation represents dehydration of ethanol?",
+      "choices": [
+        "<latex>\\mathbf{C_2H_5OH \\xrightarrow{conc.H_2SO_4} C_2H_4 + H_2O}</latex>",
+        "<latex>\\mathbf{C_2H_5OH + O_2 \\rightarrow CO_2 + H_2O}</latex>",
+        "<latex>\\mathbf{C_2H_5OH + Br_2 \\rightarrow C_2H_4Br_2}</latex>",
+        "<latex>\\mathbf{C_2H_5OH + H_2 \\rightarrow C_2H_6}</latex>"
+      ],
+      "answer": 0,
+      "chapter": "Alcohols",
+      "category": "Application",
+      "complexity": "high",
+      "reason": "Concentrated sulphuric acid removes water from ethanol to produce ethene."
+    },
+    {
+      "question": "What is the functional group present in carboxylic acids?",
+      "choices": [
+        "-OH",
+        "-CHO",
+        "-COOH",
+        ">C=O"
+      ],
+      "answer": 2,
+      "chapter": "Carboxylic Acids",
+      "category": "Knowledge",
+      "complexity": "low",
+      "reason": "Carboxylic acids contain the carboxyl group (-COOH)."
+    },
+    {
+      "question": "What is the IUPAC name of <latex>\\mathbf{CH_3COOH}</latex>?",
+      "choices": [
+        "Methanoic acid",
+        "Ethanoic acid",
+        "Propanoic acid",
+        "Methanol"
+      ],
+      "answer": 1,
+      "chapter": "Carboxylic Acids",
+      "category": "Knowledge",
+      "complexity": "low",
+      "reason": "CH3COOH is ethanoic acid."
+    },
+    {
+      "question": "Which gas is evolved when ethanoic acid reacts with sodium bicarbonate?",
+      "choices": [
+        "Hydrogen",
+        "Oxygen",
+        "Carbon dioxide",
+        "Chlorine"
+      ],
+      "answer": 2,
+      "chapter": "Carboxylic Acids",
+      "category": "Application",
+      "complexity": "medium",
+      "reason": "Carboxylic acids react with bicarbonates producing carbon dioxide."
+    },
+    {
+      "question": "Which equation correctly represents the reaction between ethanoic acid and sodium bicarbonate?",
+      "choices": [
+        "<latex>\\mathbf{CH_3COOH + NaHCO_3 \\rightarrow CH_3COONa + H_2O + CO_2}</latex>",
+        "<latex>\\mathbf{CH_3COOH + NaOH \\rightarrow CH_4}</latex>",
+        "<latex>\\mathbf{CH_3COOH + HCl \\rightarrow CO_2}</latex>",
+        "<latex>\\mathbf{CH_3COOH + NaCl \\rightarrow CH_3COONa}</latex>"
+      ],
+      "answer": 0,
+      "chapter": "Carboxylic Acids",
+      "category": "Application",
+      "complexity": "high",
+      "reason": "Acids react with bicarbonates to form salt, water and carbon dioxide."
+    },
+    {
+      "question": "Which equation correctly represents esterification?",
+      "choices": [
+        "<latex>\\mathbf{CH_3COOH + C_2H_5OH \\rightleftharpoons CH_3COOC_2H_5 + H_2O}</latex>",
+        "<latex>\\mathbf{CH_3COOH + NaOH \\rightarrow CH_3COONa + H_2O}</latex>",
+        "<latex>\\mathbf{CH_4 + O_2 \\rightarrow CO_2 + H_2O}</latex>",
+        "<latex>\\mathbf{C_2H_4 + Br_2 \\rightarrow C_2H_4Br_2}</latex>"
+      ],
+      "answer": 0,
+      "chapter": "Alcohols and Carboxylic Acids",
+      "category": "Application",
+      "complexity": "high",
+      "reason": "Alcohol and carboxylic acid react to form an ester and water."
+    },
+    {
+      "question": "What is the name of the ester formed from ethanol and ethanoic acid?",
+      "choices": [
+        "Ethyl methanoate",
+        "Ethyl ethanoate",
+        "Methyl ethanoate",
+        "Ethanal"
+      ],
+      "answer": 1,
+      "chapter": "Alcohols and Carboxylic Acids",
+      "category": "Knowledge",
+      "complexity": "medium",
+      "reason": "The ester formed is ethyl ethanoate."
+    },
+    {
+      "question": "Which catalyst is used in esterification?",
+      "choices": [
+        "Dilute HCl",
+        "Concentrated H2SO4",
+        "NaOH",
+        "NH4OH"
+      ],
+      "answer": 1,
+      "chapter": "Alcohols and Carboxylic Acids",
+      "category": "Knowledge",
+      "complexity": "medium",
+      "reason": "Concentrated sulphuric acid acts as a catalyst and dehydrating agent."
+    },
+    {
+      "question": "Identify X in <latex>\\mathbf{CH_3COOC_2H_5 + NaOH \\rightarrow X + C_2H_5OH}</latex>.",
+      "choices": [
+        "<latex>\\mathbf{CH_3COONa}</latex>",
+        "<latex>\\mathbf{CH_3COOH}</latex>",
+        "<latex>\\mathbf{Na_2CO_3}</latex>",
+        "<latex>\\mathbf{CH_3CHO}</latex>"
+      ],
+      "answer": 0,
+      "chapter": "Alcohols and Carboxylic Acids",
+      "category": "Application",
+      "complexity": "high",
+      "reason": "Alkaline hydrolysis of an ester produces sodium ethanoate and ethanol."
+    },
+
+    {
+      "question": "Assertion (A): Ethanol is a neutral compound. Reason (R): Ethanol does not ionize appreciably in water.",
+      "choices": [
+        "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+        "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+        "Assertion (A) is true but Reason (R) is false",
+        "Assertion (A) is false but Reason (R) is true"
+      ],
+      "answer": 0,
+      "chapter": "Alcohols",
+      "category": "Analysis",
+      "complexity": "medium",
+      "reason": "Ethanol remains largely unionized in aqueous solution."
+    },
+    {
+      "question": "Assertion (A): Ethanoic acid turns blue litmus red. Reason (R): Ethanoic acid ionizes in water to produce hydrogen ions.",
+      "choices": [
+        "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+        "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+        "Assertion (A) is true but Reason (R) is false",
+        "Assertion (A) is false but Reason (R) is true"
+      ],
+      "answer": 0,
+      "chapter": "Carboxylic Acids",
+      "category": "Analysis",
+      "complexity": "medium",
+      "reason": "The acidic nature of ethanoic acid is due to the release of H+ ions."
+    },
+    {
+      "question": "Assertion (A): Esterification is a reversible reaction. Reason (R): Water formed during esterification can hydrolyse the ester.",
+      "choices": [
+        "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+        "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+        "Assertion (A) is true but Reason (R) is false",
+        "Assertion (A) is false but Reason (R) is true"
+      ],
+      "answer": 0,
+      "chapter": "Alcohols and Carboxylic Acids",
+      "category": "Analysis",
+      "complexity": "high",
+      "reason": "Esterification and hydrolysis are reverse processes."
+    },
+    {
+      "question": "Assertion (A): Ethanoic acid reacts with sodium bicarbonate. Reason (R): Ethanoic acid is acidic in nature.",
+      "choices": [
+        "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+        "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+        "Assertion (A) is true but Reason (R) is false",
+        "Assertion (A) is false but Reason (R) is true"
+      ],
+      "answer": 0,
+      "chapter": "Carboxylic Acids",
+      "category": "Analysis",
+      "complexity": "medium",
+      "reason": "Acids react with carbonates and bicarbonates liberating carbon dioxide."
+    },
+    {
+      "question": "Assertion (A): Concentrated sulphuric acid is used during esterification. Reason (R): It acts as both a catalyst and a dehydrating agent.",
+      "choices": [
+        "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
+        "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
+        "Assertion (A) is true but Reason (R) is false",
+        "Assertion (A) is false but Reason (R) is true"
+      ],
+      "answer": 0,
+      "chapter": "Alcohols and Carboxylic Acids",
+      "category": "Analysis",
+      "complexity": "high",
+      "reason": "Removal of water shifts the equilibrium toward ester formation."
+    }
 ]
