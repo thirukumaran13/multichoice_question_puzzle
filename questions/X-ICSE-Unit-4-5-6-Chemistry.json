@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "question": "Which of the following complex ions is formed when a gelatinous white precipitate of zinc hydroxide dissolves in an excess of ammonium hydroxide?",
     "choices": [
@@ -17,7 +17,7 @@
     "question": "A metal 'X' reacts with boiling caustic soda solution to form a colourless soluble salt and liberates hydrogen gas. However, when 'X' reacts with fused caustic soda, a different salt 'Y' is formed. Identify 'Y'.",
     "choices": [
       "Sodium meta aluminate",
-      "Sodium aluminate (Na3AlO3)",
+      "Sodium aluminate (<latex>Na_{3}AlO_{3}</latex>)",
       "Sodium zincate",
       "Sodium plumbite"
     ],
@@ -25,7 +25,7 @@
     "chapter": "Analytical Chemistry",
     "category": "Application",
     "complexity": "high",
-    "reason": "Aluminium reacts with boiling aqueous NaOH to form sodium meta aluminate (<latex>\\mathbf{NaAlO_2}</latex>), but with fused NaOH, it produces sodium aluminate. The equation is <latex>\\mathbf{2Al + 6NaOH \\rightarrow 2Na_3AlO_3 + 3H_2}</latex>."
+    "reason": "Aluminium reacts with boiling aqueous <latex>NaOH</latex> to form sodium meta aluminate (<latex>\\mathbf{NaAlO_2}</latex>), but with fused <latex>NaOH</latex>, it produces sodium aluminate. The equation is <latex>\\mathbf{2Al + 6NaOH \\rightarrow 2Na_3AlO_3 + 3H_2}</latex>."
   },
   {
     "question": "In qualitative analysis, an unknown salt solution produces a pale blue precipitate with ammonium hydroxide. Upon adding excess ammonium hydroxide, the precipitate dissolves to yield a deep blue solution. What is the balanced equation for the formation of the deep blue solution from the precipitate?",
@@ -53,7 +53,7 @@
     "chapter": "Analytical Chemistry",
     "category": "Analysis",
     "complexity": "high",
-    "reason": "Ammonium hydroxide is a weak base and partially ionizes. The concentration of OH- ions is so low that the ionic product does not exceed the solubility product of calcium hydroxide, hence no precipitation occurs."
+    "reason": "Ammonium hydroxide is a weak base and partially ionizes. The concentration of <latex>OH^-</latex> ions is so low that the ionic product does not exceed the solubility product of calcium hydroxide, hence no precipitation occurs."
   },
   {
     "question": "An aqueous solution of salt 'A' gives a reddish-brown precipitate with sodium hydroxide which remains insoluble in excess alkali. Identify the anion that could be present if the salt 'A' is yellow in solution.",
@@ -67,7 +67,7 @@
     "chapter": "Analytical Chemistry",
     "category": "Application",
     "complexity": "medium",
-    "reason": "The reddish-brown precipitate insoluble in excess NaOH indicates the presence of Iron(III) or Ferric ion (<latex>\\mathbf{Fe^{3+}}</latex>). Ferric chloride solution is yellow, meaning the anion is the chloride ion."
+    "reason": "The reddish-brown precipitate insoluble in excess <latex>NaOH</latex> indicates the presence of Iron(III) or Ferric ion (<latex>\\mathbf{Fe^{3+}}</latex>). Ferric chloride solution is yellow, meaning the anion is the chloride ion."
   },
   {
     "question": "Which of the following balanced chemical equations correctly represents the amphoteric nature of Lead(II) oxide when it reacts with an alkali?",
@@ -81,7 +81,7 @@
     "chapter": "Analytical Chemistry",
     "category": "Understanding",
     "complexity": "high",
-    "reason": "Lead oxide (PbO) is an amphoteric oxide. It reacts with alkalis like NaOH to form a salt (Sodium plumbite) and water. <latex>\\mathbf{PbO + 2NaOH \\rightarrow Na_2PbO_2 + H_2O}</latex>."
+    "reason": "Lead oxide (PbO) is an amphoteric oxide. It reacts with alkalis like <latex>NaOH</latex> to form a salt (Sodium plumbite) and water. <latex>\\mathbf{PbO + 2NaOH \\rightarrow Na_2PbO_2 + H_2O}</latex>."
   },
   {
     "question": "You are given a solution of Zinc sulphate. Which of the following observations will uniquely distinguish the action of sodium hydroxide from the action of ammonium hydroxide on this solution?",
@@ -95,7 +95,7 @@
     "chapter": "Analytical Chemistry",
     "category": "Analysis",
     "complexity": "high",
-    "reason": "Both NaOH and NH4OH form a gelatinous white precipitate of <latex>\\mathbf{Zn(OH)_2}</latex> when added dropwise to zinc salts. Furthermore, in both cases, the precipitate dissolves in excess reagent forming sodium zincate and tetraammine zinc sulphate respectively, making them visually identical in this specific test."
+    "reason": "Both <latex>NaOH</latex> and <latex>NH_{4}OH</latex> form a gelatinous white precipitate of <latex>\\mathbf{Zn(OH)_2}</latex> when added dropwise to zinc salts. Furthermore, in both cases, the precipitate dissolves in excess reagent forming sodium zincate and tetraammine zinc sulphate respectively, making them visually identical in this specific test."
   },
   {
     "question": "What is the colour of the complex salt formed when excess ammonium hydroxide is added to a solution of copper(II) sulphate?",
@@ -140,7 +140,7 @@
     "reason": "When ammonium salts are heated with alkalis, ammonia gas is evolved. The balanced chemical equation is <latex>\\mathbf{(NH_4)_2SO_4 + 2NaOH \\rightarrow Na_2SO_4 + 2H_2O + 2NH_3}</latex>."
   },
   {
-    "question": "During qualitative analysis, why is it specifically instructed to add the alkali reagent (like NaOH or NH4OH) drop by drop rather than pouring it all at once?",
+    "question": "During qualitative analysis, why is it specifically instructed to add the alkali reagent (like <latex>NaOH</latex> or <latex>NH_{4}OH</latex>) drop by drop rather than pouring it all at once?",
     "choices": [
       "To prevent the reaction from becoming too exothermic.",
       "To ensure that all the metal ions are neutralized simultaneously.",
@@ -193,7 +193,7 @@
     "chapter": "Analytical Chemistry",
     "category": "Understanding",
     "complexity": "medium",
-    "reason": "Ferrous sulphate contains <latex>\\mathbf{Fe^{2+}}</latex> ions which react with NaOH to form a dirty green precipitate of Ferrous hydroxide. <latex>\\mathbf{FeSO_4 + 2NaOH \\rightarrow Fe(OH)_2\\downarrow + Na_2SO_4}</latex>."
+    "reason": "Ferrous sulphate contains <latex>\\mathbf{Fe^{2+}}</latex> ions which react with <latex>NaOH</latex> to form a dirty green precipitate of Ferrous hydroxide. <latex>\\mathbf{FeSO_4 + 2NaOH \\rightarrow Fe(OH)_2\\downarrow + Na_2SO_4}</latex>."
   },
   {
     "question": "Identify the colour of the chromate ion (<latex>\\mathbf{CrO_4^{2-}}</latex>).",
@@ -291,7 +291,7 @@
     "chapter": "Analytical Chemistry",
     "category": "Understanding",
     "complexity": "medium",
-    "reason": "Calcium salts react with NaOH to form a sparingly soluble white precipitate of Calcium hydroxide. <latex>\\mathbf{Ca(NO_3)_2 + 2NaOH \\rightarrow Ca(OH)_2\\downarrow + 2NaNO_3}</latex>."
+    "reason": "Calcium salts react with <latex>NaOH</latex> to form a sparingly soluble white precipitate of Calcium hydroxide. <latex>\\mathbf{Ca(NO_3)_2 + 2NaOH \\rightarrow Ca(OH)_2\\downarrow + 2NaNO_3}</latex>."
   },
   {
     "question": "Which of the following equations accurately depicts the reaction between zinc oxide and hydrochloric acid?",
@@ -305,7 +305,7 @@
     "chapter": "Analytical Chemistry",
     "category": "Application",
     "complexity": "medium",
-    "reason": "Zinc oxide acts as a base when reacting with an acid like HCl, forming salt and water. <latex>\\mathbf{ZnO + 2HCl \\rightarrow ZnCl_2 + H_2O}</latex>."
+    "reason": "Zinc oxide acts as a base when reacting with an acid like <latex>HCl</latex>, forming salt and water. <latex>\\mathbf{ZnO + 2HCl \\rightarrow ZnCl_2 + H_2O}</latex>."
   },
   {
     "question": "Which transition metal cation forms a pale green solution?",
@@ -336,7 +336,7 @@
     "reason": "The reaction involves both the ammonium sulphate formed during precipitation and the excess ammonium hydroxide. <latex>\\mathbf{Cu(OH)_2 + (NH_4)_2SO_4 + 2NH_4OH \\rightarrow [Cu(NH_3)_4]SO_4 + 4H_2O}</latex>, forming Tetraammine copper(II) sulphate."
   },
   {
-    "question": "If you are given an unknown colourless solution and adding NaOH produces no precipitate but heating it evolves a gas that gives dense white fumes with HCl, the cation present is:",
+    "question": "If you are given an unknown colourless solution and adding <latex>NaOH</latex> produces no precipitate but heating it evolves a gas that gives dense white fumes with <latex>HCl</latex>, the cation present is:",
     "choices": [
       "Ammonium ion",
       "Calcium ion",
@@ -347,7 +347,7 @@
     "chapter": "Analytical Chemistry",
     "category": "Application",
     "complexity": "high",
-    "reason": "Ammonium salts do not form metallic hydroxide precipitates. Instead, when heated with NaOH, they evolve ammonia gas (<latex>\\mathbf{NH_3}</latex>), which gives dense white fumes with HCl. <latex>\\mathbf{NH_4Cl + NaOH \\xrightarrow{\\Delta} NaCl + H_2O + NH_3\\uparrow}</latex>."
+    "reason": "Ammonium salts do not form metallic hydroxide precipitates. Instead, when heated with <latex>NaOH</latex>, they evolve ammonia gas (<latex>\\mathbf{NH_3}</latex>), which gives dense white fumes with <latex>HCl</latex>. <latex>\\mathbf{NH_4Cl + NaOH \\xrightarrow{\\Delta} NaCl + H_2O + NH_3\\uparrow}</latex>."
   },
   {
     "question": "What is the primary purpose of Qualitative analysis in chemistry?",
@@ -389,7 +389,7 @@
     "chapter": "Analytical Chemistry",
     "category": "Understanding",
     "complexity": "medium",
-    "reason": "Ferric chloride reacts with NaOH to form a reddish-brown precipitate of <latex>\\mathbf{Fe(OH)_3}</latex> and a solution of Sodium chloride, which is colourless. <latex>\\mathbf{FeCl_3 + 3NaOH \\rightarrow Fe(OH)_3\\downarrow + 3NaCl}</latex>."
+    "reason": "Ferric chloride reacts with <latex>NaOH</latex> to form a reddish-brown precipitate of <latex>\\mathbf{Fe(OH)_3}</latex> and a solution of Sodium chloride, which is colourless. <latex>\\mathbf{FeCl_3 + 3NaOH \\rightarrow Fe(OH)_3\\downarrow + 3NaCl}</latex>."
   },
   {
     "question": "Which of the following is an amphoteric hydroxide?",
@@ -417,7 +417,7 @@
     "chapter": "Analytical Chemistry",
     "category": "Application",
     "complexity": "high",
-    "reason": "Aluminium hydroxide reacts with the strong alkali NaOH to form Sodium meta aluminate and water. <latex>\\mathbf{Al(OH)_3 + NaOH \\rightarrow NaAlO_2 + 2H_2O}</latex>."
+    "reason": "Aluminium hydroxide reacts with the strong alkali <latex>NaOH</latex> to form Sodium meta aluminate and water. <latex>\\mathbf{Al(OH)_3 + NaOH \\rightarrow NaAlO_2 + 2H_2O}</latex>."
   },
   {
     "question": "<b>Assertion (A)</b>: Calcium salt solutions do not form a precipitate when ammonium hydroxide is added.<br/><b>Reason (R)</b>: Ammonium hydroxide is a weak alkali and its degree of dissociation is very low, producing insufficient hydroxyl ions to reach the solubility product of calcium hydroxide.",
@@ -434,7 +434,7 @@
     "reason": "Because ammonium hydroxide is a weak base, the concentration of <latex>\\mathbf{OH^-}</latex> ions is too low to precipitate the sparingly soluble <latex>\\mathbf{Ca(OH)_2}</latex>."
   },
   {
-    "question": "<b>Assertion (A)</b>: Zinc hydroxide is soluble in an excess of both sodium hydroxide and ammonium hydroxide.<br/><b>Reason (R)</b>: Zinc hydroxide is an amphoteric hydroxide that forms sodium zincate with excess NaOH and tetraammine zinc sulphate with excess NH4OH.",
+    "question": "<b>Assertion (A)</b>: Zinc hydroxide is soluble in an excess of both sodium hydroxide and ammonium hydroxide.<br/><b>Reason (R)</b>: Zinc hydroxide is an amphoteric hydroxide that forms sodium zincate with excess <latex>NaOH</latex> and tetraammine zinc sulphate with excess <latex>NH_{4}OH</latex>.",
     "choices": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
@@ -529,7 +529,7 @@
     "chapter": "Analytical Chemistry",
     "category": "Analysis",
     "complexity": "high",
-    "reason": "The assertion is false; lead hydroxide is insoluble in excess ammonium hydroxide. It only dissolves in strong alkalis like NaOH to form sodium plumbite. Therefore, it does not form a soluble complex with *all* alkalis."
+    "reason": "The assertion is false; lead hydroxide is insoluble in excess ammonium hydroxide. It only dissolves in strong alkalis like <latex>NaOH</latex> to form sodium plumbite. Therefore, it does not form a soluble complex with *all* alkalis."
   },
   {
     "question": "<b>Assertion (A)</b>: Aluminium metal liberates hydrogen gas when treated with boiling caustic alkalis.<br/><b>Reason (R)</b>: Aluminium possesses an amphoteric nature, allowing it to react with strong bases to form aluminate salts.",
@@ -571,7 +571,7 @@
     "chapter": "Mole Concept and Stoichiometry",
     "category": "Numerical",
     "complexity": "high",
-    "reason": "According to Gay-Lussac's Law, the volumes of gases react in simple whole-number ratios. The equation is <latex>2CO + O_{2} \\rightarrow 2CO_{2}</latex>. Ratio is 2:1:2. Thus, 20 cc of CO reacts with <latex>20 \\times (1/2) = 10\\text{ cc of } O_{2}</latex> to produce <latex>20\\text{ cc of } CO_{2}</latex>."
+    "reason": "According to Gay-Lussac's Law, the volumes of gases react in simple whole-number ratios. The equation is <latex>2CO + O_{2} \\rightarrow 2CO_{2}</latex>. Ratio is 2:1:2. Thus, 20 cc of <latex>CO</latex> reacts with <latex>20 \\times (1/2) = 10\\text{ cc of } O_{2}</latex> to produce <latex>20\\text{ cc of } CO_{2}</latex>."
   },
   {
     "question": "Calculate the mass of calcium carbonate required to produce 11.2 litres of carbon dioxide at S.T.P. (Ca = 40, C = 12, O = 16)",
@@ -672,7 +672,7 @@
     "reason": "Empirical formula mass (<latex>CH_{2}</latex>) = <latex>12 + 2 = 14</latex>. Molecular mass = <latex>2 \\times VD = 2 \\times 42 = 84</latex>. $n = 84 / 14 = 6$. Molecular formula = <latex>C_{6}H_{12}</latex>."
   },
   {
-    "question": "Calculate the number of grams of magnesium required to produce 1120 cc of hydrogen at S.T.P. by reaction with dilute HCl. (Mg = 24)",
+    "question": "Calculate the number of grams of magnesium required to produce 1120 cc of hydrogen at S.T.P. by reaction with dilute <latex>HCl</latex>. (Mg = 24)",
     "choices": [
       "1.2 g",
       "2.4 g",
@@ -1061,7 +1061,7 @@
 	"chapter": "Electrolysis",
 	"category": "Application",
 	"complexity": "medium",
-	"reason": "According to the electrochemical series, hydrogen is placed below sodium, calcium, and potassium. Ions lower in the series have a lower discharge potential and are preferentially discharged. <latex>H^+ + e^- \\rightarrow H.</latex>"
+	"reason": "According to the electrochemical series, hydrogen is placed below sodium, calcium, and potassium. Ions lower in the series have a lower discharge potential and are preferentially discharged. <latex>H^+ + e^- \\rightarrow H</latex>."
 	},
 	{
 	"question": "Which of the following anions requires the least energy to get discharged at the anode?",
@@ -1173,7 +1173,7 @@
 	"chapter": "Electrolysis",
 	"category": "Understanding",
 	"complexity": "medium",
-	"reason": "At the anode, OH- ions are discharged in preference to SO4 2- ions because they are lower in the electrochemical series. They lose electrons to form water and oxygen gas. <latex>4OH^- - 4e^- \\rightarrow 2H_2O + O_2 \\uparrow.</latex>"
+  "reason": "At the anode, <latex>OH^-</latex> ions are discharged in preference to <latex>SO_4^{2-}</latex> ions because they are lower in the electrochemical series. They lose electrons to form water and oxygen gas. <latex>4OH^- - 4e^- \\rightarrow 2H_2O + O_2 \\uparrow</latex>."
 	},
 	{
 	"question": "During the electrolysis of aqueous copper (II) sulphate using copper electrodes, the colour of the electrolyte:",
@@ -1187,7 +1187,7 @@
 	"chapter": "Electrolysis",
 	"category": "Analysis",
 	"complexity": "high",
-	"reason": "The blue colour of the solution is due to Cu2+ ions. During electrolysis with active copper electrodes, Cu2+ ions discharged at the cathode are continuously replenished by the dissolution of the copper anode. <latex>Cu - 2e^- \\rightarrow Cu^{2+}</latex>."
+	"reason": "The blue colour of the solution is due to <latex>Cu^{2+}</latex> ions. During electrolysis with active copper electrodes, <latex>Cu^{2+}</latex> ions discharged at the cathode are continuously replenished by the dissolution of the copper anode. <latex>Cu - 2e^- \\rightarrow Cu^{2+}</latex>."
 	},
 	{
 	"question": "If platinum electrodes are used instead of copper electrodes for the electrolysis of aqueous copper (II) sulphate, the reaction at the anode will be:",
@@ -1201,7 +1201,7 @@
 	"chapter": "Electrolysis",
 	"category": "Application",
 	"complexity": "high",
-	"reason": "Platinum is an inert electrode. Therefore, it does not dissolve. Instead, the OH- ions from water are preferentially discharged at the anode to produce oxygen gas. <latex>4OH^- - 4e^- \\rightarrow 2H_2O + O_2 \\uparrow.</latex>"
+  "reason": "Platinum is an inert electrode. Therefore, it does not dissolve. Instead, the <latex>OH^-</latex> ions from water are preferentially discharged at the anode to produce oxygen gas. <latex>4OH^- - 4e^- \\rightarrow 2H_2O + O_2 \\uparrow</latex>."
 	},		
 	{
 	"question": "The process of depositing a thin, uniform layer of a superior metal over a baser metal by means of electrolysis is called:",
@@ -1327,7 +1327,7 @@
 	"chapter": "Electrolysis",
 	"category": "Understanding",
 	"complexity": "medium",
-	"reason": "In solid lead bromide, the Pb2+ and Br- ions are held rigidly in the crystal lattice by strong electrostatic forces. They are not free to migrate and conduct electricity until molten."
+	"reason": "In solid lead bromide, the <latex>Pb^{2+}</latex> and <latex>Br^{-}</latex> ions are held rigidly in the crystal lattice by strong electrostatic forces. They are not free to migrate and conduct electricity until molten."
 	},
 	{
 	"question": "Which of the following represents the cathodic reaction in electroplating an article with nickel?",
@@ -1355,7 +1355,7 @@
 	"chapter": "Electrolysis",
 	"category": "Recall",
 	"complexity": "low",
-	"reason": "Strong electrolytes ionize almost completely in their aqueous solution or molten state, providing a high concentration of free mobile ions. Example: <latex>NaCl (aq) \\rightarrow Na^+ + Cl^-.</latex>"
+	"reason": "Strong electrolytes ionize almost completely in their aqueous solution or molten state, providing a high concentration of free mobile ions. Example: <latex>NaCl (aq) \\rightarrow Na^+ + Cl^-</latex>."
 	},
 	{
 	"question": "The selective discharge of ions at an electrode does NOT depend on:",
@@ -1411,7 +1411,7 @@
 	"chapter": "Electrolysis",
 	"category": "Analysis",
 	"complexity": "medium",
-	"reason": "Lead ions (Pb2+) are cations. In an electrolytic cell, cations are attracted to the cathode (negative electrode) where they gain electrons and get reduced to form lead metal. <latex>Pb^{2+} + 2e^- \\rightarrow Pb</latex>."
+	"reason": "Lead ions (<latex>Pb^{2+}</latex>) are cations. In an electrolytic cell, cations are attracted to the cathode (negative electrode) where they gain electrons and get reduced to form lead metal. <latex>Pb^{2+} + 2e^- \\rightarrow Pb</latex>."
 	},
 	{
 	"question": "<b>Assertion (A)</b>: Solid sodium chloride does not conduct electricity, but its aqueous solution does. <b>Reason (R)</b>: Water is a good conductor of electricity.",
@@ -1425,7 +1425,7 @@
 	"chapter": "Electrolysis",
 	"category": "Analysis",
 	"complexity": "high",
-	"reason": "Solid NaCl has ions held by strong electrostatic forces. In water, it dissociates into free ions <latex>(Na^+ and Cl^-)</latex> which conduct electricity. Pure water itself is almost a non-conductor, making <b>Reason (R)</b> false."
+	"reason": "Solid <latex>NaCl</latex> has ions held by strong electrostatic forces. In water, it dissociates into free ions <latex>(Na^+ and Cl^-)</latex> which conduct electricity. Pure water itself is almost a non-conductor, making <b>Reason (R)</b> false."
 	},
 	{
 	"question": "<b>Assertion (A)</b>: During the electrolysis of aqueous copper (II) sulphate using copper electrodes, the blue colour of the solution remains unchanged. <b>Reason (R)</b>: Copper (II) ions discharged at the cathode are replenished by the oxidation of the copper anode.",
@@ -1439,7 +1439,7 @@
 	"chapter": "Electrolysis",
 	"category": "Analysis",
 	"complexity": "high",
-	"reason": "When active copper electrodes are used, the copper anode dissolves to form Cu2+ ions (Cu \rightarrow Cu^{2+} + 2e^-) at the exact same rate that Cu2+ ions deposit at the cathode, keeping the concentration of the blue Cu2+ ions constant."
+	"reason": "When active copper electrodes are used, the copper anode dissolves to form <latex>Cu^{2+}</latex> ions (<latex>Cu \\rightarrow Cu^{2+} + 2e^-</latex>) at the exact same rate that <latex>Cu^{2+}</latex> ions deposit at the cathode, keeping the concentration of the blue <latex>Cu^{2+}</latex> ions constant."
 	},
 	{
 	"question": "<b>Assertion (A)</b>: Aqueous solution of ammonium hydroxide is a weak electrolyte. <b>Reason (R)</b>: Ammonium hydroxide contains both ions and unionised molecules in its aqueous solution.",
@@ -1467,7 +1467,7 @@
 	"chapter": "Electrolysis",
 	"category": "Analysis",
 	"complexity": "high",
-	"reason": "Elements lower in the electrochemical series have a lower discharge potential. Since copper is placed below hydrogen, Cu2+ ions discharge more easily than H+ ions. Thus, H+ requires more energy."
+	"reason": "Elements lower in the electrochemical series have a lower discharge potential. Since copper is placed below hydrogen, <latex>Cu^{2+}</latex> ions discharge more easily than <latex>H^{+}</latex> ions. Thus, <latex>H^{+}</latex> requires more energy."
 	},
 	{
 	"question": "<b>Assertion (A)</b>: Silver nitrate solution is preferred over sodium argentocyanide for the electroplating of an article with silver. <br/><b>Reason (R)</b>: Silver nitrate is a strong electrolyte and provides a very rapid supply of silver ions.",
@@ -1537,7 +1537,7 @@
 	"chapter": "Electrolysis",
 	"category": "Analysis",
 	"complexity": "high",
-	"reason": "Although OH- ions are lower in the electrochemical series, a very high concentration of Cl- ions overrides the discharge potential factor, causing Cl- to be preferentially discharged to form chlorine gas. <latex>2Cl^- - 2e^- \\rightarrow Cl_2 \\uparrow </latex>."
+  "reason": "Although <latex>OH^-</latex> ions are lower in the electrochemical series, a very high concentration of Cl- ions overrides the discharge potential factor, causing Cl- to be preferentially discharged to form chlorine gas. <latex>2Cl^- - 2e^- \\rightarrow Cl_2 \\uparrow </latex>."
 	},
   {
     "question": "Which of the following is the most abundant metal in the earth's crust?",
@@ -1555,25 +1555,25 @@
     "chapter": "Metallurgy",
     "category": "Knowledge",
     "complexity": "low",
-    "reason": "Bauxite (Al₂O₃·2H₂O) is the chief ore from which aluminium is commercially extracted."
+    "reason": "Bauxite <latex>(Al_{2}O_{3} \\cdot 2H_{2}O)</latex> is the chief ore from which aluminium is commercially extracted."
   },
   {
     "question": "The chemical formula of zinc blende is:",
-    "choices": ["ZnO", "ZnCO₃", "ZnS", "ZnSO₄"],
+    "choices": ["<latex>ZnO</latex>", "<latex>ZnCO_{3}</latex>", "<latex>ZnS</latex>", "<latex>ZnSO_{4}</latex>"],
     "answer": 2,
     "chapter": "Metallurgy",
     "category": "Knowledge",
     "complexity": "low",
-    "reason": "Zinc blende is zinc sulphide, with the chemical formula ZnS."
+    "reason": "Zinc blende is zinc sulphide, with the chemical formula <latex>ZnS</latex>."
   },
   {
-    "question": "Which of the following ores of iron has the formula Fe₃O₄?",
+    "question": "Which of the following ores of iron has the formula <latex>Fe_{3}O_{4}</latex>?",
     "choices": ["Red haematite", "Brown haematite", "Iron pyrites", "Magnetite"],
     "answer": 3,
     "chapter": "Metallurgy",
     "category": "Knowledge",
     "complexity": "low",
-    "reason": "Magnetite (triferric tetraoxide) has the formula Fe₃O₄."
+    "reason": "Magnetite (triferric tetraoxide) has the formula <latex>Fe_{3}O_{4}</latex>."
   },
   {
     "question": "The process of removing gangue from crushed ore is called:",
@@ -1600,7 +1600,7 @@
     "chapter": "Metallurgy",
     "category": "Knowledge",
     "complexity": "low",
-    "reason": "Froth flotation is used for sulphide ores like ZnS and PbS because the ore is preferentially wetted by pine oil and rises with froth."
+    "reason": "Froth flotation is used for sulphide ores like <latex>ZnS</latex> and PbS because the ore is preferentially wetted by pine oil and rises with froth."
   },
   {
     "question": "Roasting is the process of heating concentrated ore at high temperature in:",
@@ -1622,35 +1622,35 @@
   },
   {
     "question": "Which gas is evolved when zinc sulphide is roasted?",
-    "choices": ["CO₂", "SO₂", "SO₃", "H₂S"],
+    "choices": ["<latex>CO_{2}</latex>", "<latex>SO_{2}</latex>", "<latex>SO_{3}</latex>", "<latex>H_{2}S</latex>"],
     "answer": 1,
     "chapter": "Metallurgy",
     "category": "Knowledge",
     "complexity": "low",
-    "reason": "2ZnS + 3O₂ → 2ZnO + 2SO₂. Sulphur dioxide is evolved when zinc sulphide is roasted."
+    "reason": "<latex>2ZnS + 3O_{2} \\rightarrow 2ZnO + 2SO_{2}</latex>. Sulphur dioxide is evolved when zinc sulphide is roasted."
   },
   {
     "question": "Which of the following metallic oxides cannot be reduced by carbon, hydrogen or carbon monoxide?",
-    "choices": ["CuO", "PbO", "FeO", "Al₂O₃"],
+    "choices": ["<latex>CuO</latex>", "<latex>PbO</latex>", "<latex>FeO</latex>", "<latex>Al_{2}O_{3}</latex>"],
     "answer": 3,
     "chapter": "Metallurgy",
     "category": "Application",
     "complexity": "medium",
-    "reason": "Al₂O₃ cannot be reduced by common reducing agents like C, CO or H₂ because aluminium is high in the activity series and has great affinity for oxygen."
+    "reason": "<latex>Al_{2}O_{3}</latex> cannot be reduced by common reducing agents like C, <latex>CO</latex> or <latex>H_{2}</latex> because aluminium is high in the activity series and has great affinity for oxygen."
   },
   {
     "question": "What is the correct equation for the reduction of lead oxide by carbon monoxide?",
     "choices": [
-      "PbO + CO → Pb + CO₂",
-      "PbO + C → Pb + CO",
-      "2PbO + C → 2Pb + CO₂",
-      "PbO + H₂ → Pb + H₂O"
+      "<latex>PbO + CO \\rightarrow Pb + CO_{2}</latex>",
+      "<latex>PbO + C \\rightarrow Pb + CO</latex>",
+      "<latex>2PbO + C \\rightarrow 2Pb + CO_{2}</latex>",
+      "<latex>PbO + H_{2} \\rightarrow Pb + H_{2}O</latex>"
     ],
     "answer": 0,
     "chapter": "Metallurgy",
     "category": "Application",
     "complexity": "medium",
-    "reason": "PbO + CO → Pb + CO₂ is the correct balanced equation for reduction of lead oxide by carbon monoxide."
+    "reason": "<latex>PbO + CO \\rightarrow Pb + CO_{2}</latex> is the correct balanced equation for reduction of lead oxide by carbon monoxide."
   },
   {
     "question": "Highly reactive metals like sodium, potassium and calcium are extracted by:",
@@ -1677,30 +1677,30 @@
   },
   {
     "question": "In Bayer's process, bauxite is treated with:",
-    "choices": ["Dilute HCl", "Concentrated NaOH", "Dilute H₂SO₄", "Lime water"],
+    "choices": ["Dilute <latex>HCl</latex>", "Concentrated <latex>NaOH</latex>", "Dilute <latex>H_{2}</latex><latex>SO_{4}</latex>", "Lime water"],
     "answer": 1,
     "chapter": "Metallurgy",
     "category": "Knowledge",
     "complexity": "low",
-    "reason": "In Bayer's process, bauxite is heated under pressure with concentrated caustic soda (NaOH) solution, dissolving Al₂O₃ as sodium meta-aluminate."
+    "reason": "In Bayer's process, bauxite is heated under pressure with concentrated caustic soda (NaOH) solution, dissolving <latex>Al_{2}O_{3}</latex> as sodium meta-aluminate."
   },
   {
-    "question": "What is the product formed when bauxite reacts with NaOH?",
-    "choices": ["Al(OH)₃", "NaAlO₂", "Al₂O₃", "AlCl₃"],
+    "question": "What is the product formed when bauxite reacts with <latex>NaOH</latex>?",
+    "choices": ["<latex>Al(OH)_{3}</latex>", "<latex>NaAlO_{2}</latex>", "<latex>Al_{2}O_{3}</latex>", "<latex>AlCl_{3}</latex>"],
     "answer": 1,
     "chapter": "Metallurgy",
     "category": "Knowledge",
     "complexity": "medium",
-    "reason": "Al₂O₃·2H₂O + 2NaOH → 2NaAlO₂ + 3H₂O. Sodium meta-aluminate (NaAlO₂) is formed."
+    "reason": "<latex>Al_{2}O_{3} \\cdot 2H_{2}O + 2NaOH \\rightarrow 2NaAlO_{2} + 3H_{2}O</latex>. Sodium meta-aluminate <latex>(NaAlO_{2})</latex> is formed."
   },
   {
-    "question": "The insoluble impurities left behind when bauxite is treated with NaOH are collectively called:",
+    "question": "The insoluble impurities left behind when bauxite is treated with <latex>NaOH</latex> are collectively called:",
     "choices": ["Gangue", "Slag", "Red mud", "Flux"],
     "answer": 2,
     "chapter": "Metallurgy",
     "category": "Knowledge",
     "complexity": "low",
-    "reason": "Ferric oxide, sand and other insoluble impurities remain as red mud when bauxite is dissolved in NaOH."
+    "reason": "Ferric oxide, sand and other insoluble impurities remain as red mud when bauxite is dissolved in <latex>NaOH</latex>."
   },
   {
     "question": "In Hall-Héroult's process, the electrolyte used is a mixture of alumina, cryolite and fluorspar in the ratio:",
@@ -1713,32 +1713,32 @@
   },
   {
     "question": "The chemical formula of cryolite is:",
-    "choices": ["Na₂AlF₄", "Na₃AlF₆", "NaAlO₂", "CaF₂"],
+    "choices": ["<latex>Na_{2}AlF_{4}</latex>", "<latex>Na_{3}AlF_{6}</latex>", "<latex>NaAlO_{2}</latex>", "<latex>CaF_{2}</latex>"],
     "answer": 1,
     "chapter": "Metallurgy",
     "category": "Knowledge",
     "complexity": "low",
-    "reason": "Cryolite is sodium aluminium fluoride with the formula Na₃AlF₆."
+    "reason": "Cryolite is sodium aluminium fluoride with the formula <latex>Na_{3}AlF_{6}</latex>."
   },
   {
     "question": "In Hall-Héroult's process, the cathode reaction is:",
     "choices": [
-      "4Al³⁺ + 12e⁻ → 4Al",
-      "6O²⁻ − 12e⁻ → 3O₂",
-      "Al − 3e⁻ → Al³⁺",
-      "2O²⁻ − 4e⁻ → O₂"
+      "<latex>4Al^{3+} + 12e^- \\rightarrow 4Al</latex>",
+      "<latex>6O^{2-} - 12e^- \\rightarrow 3O_{2}</latex>",
+      "<latex>Al - 3e^- \\rightarrow Al^{3+}</latex>",
+      "<latex>2O^{2-} - 4e^- \\rightarrow O_{2}</latex>"
     ],
     "answer": 0,
     "chapter": "Metallurgy",
     "category": "Knowledge",
     "complexity": "medium",
-    "reason": "At the cathode, aluminium ions are reduced: 4Al³⁺ + 12e⁻ → 4Al."
+    "reason": "At the cathode, aluminium ions are reduced: <latex>4Al^{3+} + 12e^- \\rightarrow 4Al</latex>."
   },
   {
     "question": "Why must the graphite anode in Hall-Héroult's process be replaced periodically?",
     "choices": [
       "It dissolves in the electrolyte",
-      "It is oxidised by oxygen evolved at the anode to form CO and CO₂",
+      "It is oxidised by oxygen evolved at the anode to form <latex>CO</latex> and <latex>CO_{2}</latex>",
       "It melts at 950°C",
       "It reacts with aluminium metal"
     ],
@@ -1746,7 +1746,7 @@
     "chapter": "Metallurgy",
     "category": "Application",
     "complexity": "medium",
-    "reason": "Oxygen evolved at the anode reacts with the graphite anode: 2C + O₂ → 2CO and 2CO + O₂ → 2CO₂, gradually consuming the anode."
+    "reason": "Oxygen evolved at the anode reacts with the graphite anode: <latex>2C + O_{2} \\rightarrow 2CO</latex> and <latex>2CO + O_{2} \\rightarrow 2CO_{2}</latex>, gradually consuming the anode."
   },
   {
     "question": "What is the primary function of cryolite in Hall-Héroult's process?",
@@ -1787,12 +1787,12 @@
   },
   {
     "question": "The aluminothermy process uses aluminium to reduce:",
-    "choices": ["ZnO", "Fe₂O₃", "CuO", "MgO"],
+    "choices": ["<latex>ZnO</latex>", "<latex>Fe_{2}O_{3}</latex>", "<latex>CuO</latex>", "<latex>MgO</latex>"],
     "answer": 1,
     "chapter": "Metallurgy",
     "category": "Knowledge",
     "complexity": "low",
-    "reason": "In aluminothermy, aluminium powder reduces iron oxide: Fe₂O₃ + 2Al → 2Fe + Al₂O₃ + Heat."
+    "reason": "In aluminothermy, aluminium powder reduces iron oxide: <latex>Fe_{2}O_{3} + 2Al \\rightarrow 2Fe + Al_{2}O_{3} + Heat</latex>."
   },
   {
     "question": "Which of the following alloys is used in making aircraft bodies?",
@@ -1865,7 +1865,7 @@
     "chapter": "Metallurgy",
     "category": "Knowledge",
     "complexity": "low",
-    "reason": "Calamine is zinc carbonate (ZnCO₃), an ore of zinc."
+    "reason": "Calamine is zinc carbonate <latex>(ZnCO_{3})</latex>, an ore of zinc."
   },
   {
     "question": "What is the chemical name of red haematite?",
@@ -1879,7 +1879,7 @@
     "chapter": "Metallurgy",
     "category": "Knowledge",
     "complexity": "low",
-    "reason": "Red haematite is anhydrous ferric oxide with the formula Fe₂O₃."
+    "reason": "Red haematite is anhydrous ferric oxide with the formula <latex>Fe_{2}O_{3}</latex>."
   },
   {
     "question": "Mercury is extracted from cinnabar (HgS) by first converting it to HgO and then:",
@@ -1893,21 +1893,21 @@
     "chapter": "Metallurgy",
     "category": "Application",
     "complexity": "medium",
-    "reason": "HgO decomposes on further heating above 300°C: 2HgO → 2Hg + O₂, since mercury is low in the activity series."
+    "reason": "HgO decomposes on further heating above 300°C: <latex>2HgO \\rightarrow 2Hg + O_{2}</latex>, since mercury is low in the activity series."
   },
   {
     "question": "The process by which zinc oxide is reduced using carbon at 1400°C is:",
     "choices": [
-      "ZnO + CO → Zn + CO₂",
-      "ZnO + C → Zn + CO",
-      "ZnO + H₂ → Zn + H₂O",
-      "2ZnO + C → 2Zn + CO₂"
+      "<latex>ZnO + CO \\rightarrow Zn + CO_{2}</latex>",
+      "<latex>ZnO + C \\rightarrow Zn + CO</latex>",
+      "<latex>ZnO + H_{2} \\rightarrow Zn + H_{2}O</latex>",
+      "<latex>2ZnO + C \\rightarrow 2Zn + CO_{2}</latex>"
     ],
     "answer": 1,
     "chapter": "Metallurgy",
     "category": "Application",
     "complexity": "medium",
-    "reason": "ZnO + C → Zn + CO at 1400°C. Carbon (coke) is a stronger reducing agent than CO or H₂ for zinc oxide."
+    "reason": "<latex>ZnO + C \\rightarrow Zn + CO</latex> at 1400°C. Carbon (coke) is a stronger reducing agent than <latex>CO</latex> or <latex>H_{2}</latex> for zinc oxide."
   },
   {
     "question": "Which of the following is NOT a method of ore concentration?",
@@ -1957,12 +1957,12 @@
   },
   {
     "question": "In Bayer's process, aluminium hydroxide is ignited at 1000°C to produce:",
-    "choices": ["NaAlO₂", "Al", "Al₂O₃", "AlOOH"],
+    "choices": ["<latex>NaAlO_{2}</latex>", "Al", "<latex>Al_{2}O_{3}</latex>", "AlOOH"],
     "answer": 2,
     "chapter": "Metallurgy",
     "category": "Knowledge",
     "complexity": "low",
-    "reason": "2Al(OH)₃ → Al₂O₃ + 3H₂O at 1000°C. Aluminium hydroxide decomposes to give alumina (Al₂O₃)."
+    "reason": "<latex>2Al(OH)_{3} \\rightarrow Al_{2}O_{3} + 3H_{2}O</latex> at 1000°C. Aluminium hydroxide decomposes to give alumina <latex>(Al_{2}O_{3})</latex>."
   },
   {
     "question": "Which of the following statements about alloys is INCORRECT?",
@@ -1990,16 +1990,16 @@
   {
     "question": "What happens to sodium meta-aluminate when diluted with water and cooled to 50°C?",
     "choices": [
-      "It decomposes to form Na₂O and Al₂O₃",
-      "It precipitates as NaOH",
-      "It hydrolyses to form Al(OH)₃ precipitate",
-      "It forms NaAlO₂ crystals"
+      "It decomposes to form <latex>Na_{2}O</latex> and <latex>Al_{2}O_{3}</latex>",
+      "It precipitates as <latex>NaOH</latex>",
+      "It hydrolyses to form <latex>Al(OH)_{3}</latex> precipitate",
+      "It forms <latex>NaAlO_{2}</latex> crystals"
     ],
     "answer": 2,
     "chapter": "Metallurgy",
     "category": "Application",
     "complexity": "medium",
-    "reason": "NaAlO₂ + 2H₂O → NaOH + Al(OH)₃↓. Sodium meta-aluminate hydrolyses to give aluminium hydroxide as a precipitate."
+    "reason": "<latex>NaAlO_{2} + 2H_{2}O \\rightarrow NaOH + Al(OH)_{3}\\downarrow</latex>. Sodium meta-aluminate hydrolyses to give aluminium hydroxide as a precipitate."
   },
   {
     "question": "The electrolyte used in the electrolytic extraction of sodium is:",
@@ -2027,7 +2027,7 @@
     "chapter": "Metallurgy",
     "category": "Application",
     "complexity": "medium",
-    "reason": "Fe₂O₃ + 2Al → 2Fe + Al₂O₃ + Heat. This is a highly exothermic displacement reaction where aluminium (more reactive) displaces iron from its oxide."
+    "reason": "<latex>Fe_{2}O_{3} + 2Al \\rightarrow 2Fe + Al_{2}O_{3} + Heat</latex>. This is a highly exothermic displacement reaction where aluminium (more reactive) displaces iron from its oxide."
   },
   {
     "question": "German silver is an alloy of:",
@@ -2050,7 +2050,7 @@
     "chapter": "Metallurgy",
     "category": "Knowledge",
     "complexity": "low",
-    "reason": "Cryolite (Na₃AlF₆), another ore of aluminium, is used as a flux in Hall-Héroult's process to lower the melting point and increase conductivity."
+    "reason": "Cryolite <latex>(Na_{3}AlF_{6})</latex>, another ore of aluminium, is used as a flux in Hall-Héroult's process to lower the melting point and increase conductivity."
   },
   {
     "question": "The auto-reduction process is used for extraction of:",
@@ -2059,7 +2059,7 @@
     "chapter": "Metallurgy",
     "category": "Knowledge",
     "complexity": "medium",
-    "reason": "Copper, found as Cu₂S, can be extracted by auto-reduction: 2Cu₂S + 3O₂ → 2Cu₂O + 2SO₂; then 2Cu₂O + Cu₂S → 6Cu + SO₂."
+    "reason": "Copper, found as <latex>Cu_{2}S</latex>, can be extracted by auto-reduction: <latex>2Cu_{2}S + 3O_{2} \\rightarrow 2Cu_{2}O + 2SO_{2}</latex>; then <latex>2Cu_{2}O + Cu_{2}S \\rightarrow 6Cu + SO_{2}</latex>."
   },
   {
     "question": "The cathode in Hall-Héroult's process is made of:",
@@ -2124,7 +2124,7 @@
     "chapter": "Metallurgy",
     "category": "Analysis",
     "complexity": "medium",
-    "reason": "2C + O₂ → 2CO and 2CO + O₂ → 2CO₂. The oxygen evolved at the anode oxidises the graphite electrode, causing it to be consumed and necessitating periodic replacement."
+    "reason": "<latex>2C + O_{2} \\rightarrow 2CO</latex> and <latex>2CO + O_{2} \\rightarrow 2CO_{2}</latex>. The oxygen evolved at the anode oxidises the graphite electrode, causing it to be consumed and necessitating periodic replacement."
   },
   {
     "question": "<b>Assertion (A)</b>: Calcination is carried out on zinc blende (ZnS) before reduction. <b>Reason (R)</b>: Carbonate and hydrated ores are heated in the absence of air to convert them into their oxides during calcination.",
@@ -2141,7 +2141,7 @@
     "reason": "Zinc blende (ZnS) is a sulphide ore. Sulphide ores are concentrated by roasting (not calcination). Calcination applies to carbonate and hydrated ores. Thus, the Assertion is false, but the Reason correctly describes calcination."
   },
   {
-    "question": "<b>Assertion (A)</b>: Aluminium cannot be extracted from Al₂O₃ by reduction with carbon or carbon monoxide. <b>Reason (R)</b>: Aluminium is a highly reactive metal and its oxide has a very high stability (great affinity for oxygen), making it difficult to reduce with common reducing agents.",
+    "question": "<b>Assertion (A)</b>: Aluminium cannot be extracted from <latex>Al_{2}O_{3}</latex> by reduction with carbon or carbon monoxide. <b>Reason (R)</b>: Aluminium is a highly reactive metal and its oxide has a very high stability (great affinity for oxygen), making it difficult to reduce with common reducing agents.",
     "choices": [
       "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
       "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
@@ -2152,7 +2152,7 @@
     "chapter": "Metallurgy",
     "category": "Analysis",
     "complexity": "high",
-    "reason": "Al₂O₃ is extremely stable due to aluminium's high reactivity and position at the top of the activity series. Common reducing agents like C, CO and H₂ cannot overcome this stability. Hence electrolytic reduction is used."
+    "reason": "<latex>Al_{2}O_{3}</latex> is extremely stable due to aluminium's high reactivity and position at the top of the activity series. Common reducing agents like C, <latex>CO</latex> and <latex>H_{2}</latex> cannot overcome this stability. Hence electrolytic reduction is used."
   },
   {
     "question": "<b>Assertion (A)</b>: Froth flotation method is used to concentrate sulphide ores. <b>Reason (R)</b>: Sulphide ore particles are preferentially wetted by pine oil rather than water, allowing them to rise with the froth.",
@@ -2208,7 +2208,7 @@
     "chapter": "Metallurgy",
     "category": "Analysis",
     "complexity": "high",
-    "reason": "Both statements are true. The anode (impure metal) dissolves: M − ne⁻ → Mⁿ⁺, and pure metal deposits at the cathode: Mⁿ⁺ + ne⁻ → M. The electrolyte is indeed a salt solution of the metal. However, the Reason (electrolyte identity) does not directly explain why the anode dissolves — the dissolution is due to oxidation at the anode driven by the electric current."
+    "reason": "Both statements are true. The anode (impure metal) dissolves: M − ne^{-} → Mⁿ^{+}, and pure metal deposits at the cathode: Mⁿ^{+} + ne^{-} → M. The electrolyte is indeed a salt solution of the metal. However, the Reason (electrolyte identity) does not directly explain why the anode dissolves — the dissolution is due to oxidation at the anode driven by the electric current."
   },
   {
     "question": "<b>Assertion (A)</b>: Sodium amalgam is less reactive than pure sodium. <b>Reason (R)</b>: Alloying sodium with mercury modifies its chemical activity by diluting its reactivity.",
@@ -2240,7 +2240,7 @@
   },
 {
 "question": "What is the molecular formula of hydrogen chloride?",
-"choices": ["HCl", "H2Cl", "HCl2", "H2Cl2"],
+"choices": ["<latex>HCl</latex>", "<latex>H_{2}Cl</latex>", "<latex>HCl_{2}</latex>", "<latex>H_{2}Cl_{2}</latex>"],
 "answer": 0,
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Knowledge",
@@ -2272,7 +2272,7 @@
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Application",
 "complexity": "easy",
-"reason": "The molar mass of HCl is greater than the average molar mass of air."
+"reason": "The molar mass of <latex>HCl</latex> is greater than the average molar mass of air."
 },
 {
 "question": "Hydrochloric acid is prepared by dissolving hydrogen chloride gas in:",
@@ -2290,7 +2290,7 @@
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Application",
 "complexity": "medium",
-"reason": "HCl is denser than air and highly soluble in water."
+"reason": "<latex>HCl</latex> is denser than air and highly soluble in water."
 },
 {
 "question": "Which acid is used in the laboratory preparation of hydrogen chloride gas?",
@@ -2299,7 +2299,7 @@
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Knowledge",
 "complexity": "easy",
-"reason": "Concentrated sulphuric acid is non-volatile and displaces volatile HCl."
+"reason": "Concentrated sulphuric acid is non-volatile and displaces volatile <latex>HCl</latex>."
 },
 {
 "question": "The raw material used for preparing hydrogen chloride gas is:",
@@ -2308,10 +2308,10 @@
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Knowledge",
 "complexity": "easy",
-"reason": "Common salt reacts with concentrated sulphuric acid to produce HCl gas."
+"reason": "Common salt reacts with concentrated sulphuric acid to produce <latex>HCl</latex> gas."
 },
 {
-"question": "The equation NaCl + H2SO4 → NaHSO4 + HCl is carried out at:",
+"question": "The equation <latex>NaCl + H_{2}SO_{4} \\rightarrow NaHSO_{4} + HCl</latex> is carried out at:",
 "choices": ["Below 200°C", "300°C", "500°C", "800°C"],
 "answer": 0,
 "chapter": "Study of Compounds - Hydrogen Chloride",
@@ -2320,7 +2320,7 @@
 "reason": "At temperatures below 200°C sodium bisulphate is formed."
 },
 {
-"question": "At temperatures above 200°C, the product formed along with HCl is:",
+"question": "At temperatures above 200°C, the product formed along with <latex>HCl</latex> is:",
 "choices": ["Sodium sulphate", "Sodium bisulphate", "Sodium sulphite", "Sodium thiosulphate"],
 "answer": 0,
 "chapter": "Study of Compounds - Hydrogen Chloride",
@@ -2335,7 +2335,7 @@
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Application",
 "complexity": "easy",
-"reason": "HCl dissolves rapidly in water."
+"reason": "<latex>HCl</latex> dissolves rapidly in water."
 },
 {
 "question": "The drying agent used for hydrogen chloride gas is:",
@@ -2344,16 +2344,16 @@
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Application",
 "complexity": "medium",
-"reason": "Concentrated sulphuric acid removes moisture without reacting with HCl."
+"reason": "Concentrated sulphuric acid removes moisture without reacting with <latex>HCl</latex>."
 },
 {
 "question": "Quicklime cannot be used to dry hydrogen chloride because it:",
-"choices": ["Reacts with HCl", "Absorbs HCl physically", "Produces hydrogen", "Melts easily"],
+"choices": ["Reacts with <latex>HCl</latex>", "Absorbs <latex>HCl</latex> physically", "Produces hydrogen", "Melts easily"],
 "answer": 0,
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Analysis",
 "complexity": "medium",
-"reason": "CaO reacts with HCl to form calcium chloride."
+"reason": "CaO reacts with <latex>HCl</latex> to form calcium chloride."
 },
 {
 "question": "Hydrogen chloride gas turns moist blue litmus paper:",
@@ -2362,7 +2362,7 @@
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Application",
 "complexity": "easy",
-"reason": "HCl forms hydrochloric acid in the presence of moisture."
+"reason": "<latex>HCl</latex> forms hydrochloric acid in the presence of moisture."
 },
 {
 "question": "Dry hydrogen chloride gas has no effect on dry blue litmus paper because:",
@@ -2375,12 +2375,12 @@
 },
 {
 "question": "The fountain experiment demonstrates the:",
-"choices": ["High solubility of HCl in water", "Combustibility of HCl", "Density of HCl", "Basic nature of HCl"],
+"choices": ["High solubility of <latex>HCl</latex> in water", "Combustibility of <latex>HCl</latex>", "Density of <latex>HCl</latex>", "Basic nature of <latex>HCl</latex>"],
 "answer": 0,
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Application",
 "complexity": "easy",
-"reason": "Rapid dissolution of HCl creates partial vacuum causing the fountain effect."
+"reason": "Rapid dissolution of <latex>HCl</latex> creates partial vacuum causing the fountain effect."
 },
 {
 "question": "The colour of hydrogen chloride gas is:",
@@ -2398,7 +2398,7 @@
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Knowledge",
 "complexity": "easy",
-"reason": "HCl gas has a characteristic pungent odour."
+"reason": "<latex>HCl</latex> gas has a characteristic pungent odour."
 },
 {
 "question": "Hydrogen chloride gas fumes in moist air because:",
@@ -2443,7 +2443,7 @@
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Application",
 "complexity": "medium",
-"reason": "Acids liberate H2S from metal sulphides."
+"reason": "Acids liberate <latex>H_{2}S</latex> from metal sulphides."
 },
 {
 "question": "Hydrochloric acid reacts with sodium sulphite to produce:",
@@ -2452,7 +2452,7 @@
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Application",
 "complexity": "medium",
-"reason": "Acids liberate SO2 from sulphites."
+"reason": "Acids liberate <latex>SO_{2}</latex> from sulphites."
 },
 {
 "question": "Which reagent gives a white curdy precipitate with hydrochloric acid?",
@@ -2461,16 +2461,16 @@
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Application",
 "complexity": "easy",
-"reason": "Ag+ ions react with chloride ions to form AgCl."
+"reason": "Ag+ ions react with chloride ions to form <latex>AgCl</latex>."
 },
 {
-"question": "The white precipitate formed when HCl reacts with silver nitrate is:",
+"question": "The white precipitate formed when <latex>HCl</latex> reacts with silver nitrate is:",
 "choices": ["Silver chloride", "Silver oxide", "Silver sulphate", "Silver nitrate"],
 "answer": 0,
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Knowledge",
 "complexity": "easy",
-"reason": "AgNO3 + HCl → AgCl + HNO3."
+"reason": "<latex>AgNO_{3} + HCl \\rightarrow AgCl + HNO_{3}</latex>."
 },
 {
 "question": "Hydrochloric acid gives a white precipitate with lead nitrate due to formation of:",
@@ -2479,7 +2479,7 @@
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Knowledge",
 "complexity": "medium",
-"reason": "Pb(NO3)2 reacts with chloride ions to form PbCl2."
+"reason": "<latex>Pb(NO_{3})_{2}</latex> reacts with chloride ions to form <latex>PbCl_{2}</latex>."
 },
 {
 "question": "Hydrogen chloride gas is manufactured industrially by direct combination of:",
@@ -2488,7 +2488,7 @@
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Knowledge",
 "complexity": "easy",
-"reason": "Hydrogen burns in chlorine to form HCl."
+"reason": "Hydrogen burns in chlorine to form <latex>HCl</latex>."
 },
 {
 "question": "The reaction between hydrogen and chlorine is explosive in:",
@@ -2533,7 +2533,7 @@
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Knowledge",
 "complexity": "easy",
-"reason": "HCl provides an acidic medium for digestive enzymes."
+"reason": "<latex>HCl</latex> provides an acidic medium for digestive enzymes."
 },
 {
 "question": "The concentration of hydrochloric acid in gastric juice is approximately:",
@@ -2551,7 +2551,7 @@
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Conceptual",
 "complexity": "medium",
-"reason": "HCl is covalent but ionizes in water."
+"reason": "<latex>HCl</latex> is covalent but ionizes in water."
 },
 {
 "question": "Back suction during preparation of hydrochloric acid is prevented by:",
@@ -2563,7 +2563,7 @@
 "reason": "The inverted funnel provides a large surface area and prevents water from entering the flask."
 },
 {
-"question": "Which of the following acids cannot be used to prepare HCl from sodium chloride?",
+"question": "Which of the following acids cannot be used to prepare <latex>HCl</latex> from sodium chloride?",
 "choices": ["Hydrochloric acid", "Concentrated sulphuric acid", "Oleum", "Sulphuric acid"],
 "answer": 0,
 "chapter": "Study of Compounds - Hydrogen Chloride",
@@ -2572,8 +2572,8 @@
 "reason": "A volatile acid cannot displace another volatile acid."
 },
 {
-"question": "Which statement about concentrated sulphuric acid is correct in the preparation of HCl?",
-"choices": ["It is a non-volatile acid", "It is a volatile acid", "It acts as a reducing agent", "It reacts with HCl gas"],
+"question": "Which statement about concentrated sulphuric acid is correct in the preparation of <latex>HCl</latex>?",
+"choices": ["It is a non-volatile acid", "It is a volatile acid", "It acts as a reducing agent", "It reacts with <latex>HCl</latex> gas"],
 "answer": 0,
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Conceptual",
@@ -2599,22 +2599,22 @@
 "reason": "Nitric acid does not introduce chloride ions."
 },
 {
-"question": "Which gas is evolved when HCl reacts with sodium bicarbonate?",
+"question": "Which gas is evolved when <latex>HCl</latex> reacts with sodium bicarbonate?",
 "choices": ["Carbon dioxide", "Hydrogen", "Sulphur dioxide", "Chlorine"],
 "answer": 0,
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Application",
 "complexity": "easy",
-"reason": "Acids react with bicarbonates to release CO2."
+"reason": "Acids react with bicarbonates to release <latex>CO_{2}</latex>."
 },
 {
-"question": "Which property of HCl gas is demonstrated by diffusion experiments?",
+"question": "Which property of <latex>HCl</latex> gas is demonstrated by diffusion experiments?",
 "choices": ["It diffuses rapidly in air", "It is insoluble in water", "It is combustible", "It supports combustion"],
 "answer": 0,
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Application",
 "complexity": "medium",
-"reason": "Like all gases, HCl diffuses, though more slowly than lighter gases."
+"reason": "Like all gases, <latex>HCl</latex> diffuses, though more slowly than lighter gases."
 },
 {
 "question": "Hydrogen chloride belongs to which class of compounds?",
@@ -2623,10 +2623,10 @@
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Knowledge",
 "complexity": "easy",
-"reason": "HCl is a hydrogen compound of a halogen."
+"reason": "<latex>HCl</latex> is a hydrogen compound of a halogen."
 },
 {
-"question": "Which one of the following metals does NOT liberate hydrogen with dilute HCl?",
+"question": "Which one of the following metals does NOT liberate hydrogen with dilute <latex>HCl</latex>?",
 "choices": ["Copper", "Magnesium", "Zinc", "Iron"],
 "answer": 0,
 "chapter": "Study of Compounds - Hydrogen Chloride",
@@ -2644,13 +2644,13 @@
 "reason": "Ammonium chloride is formed as white fumes."
 },
 {
-"question": "The white fumes produced when HCl reacts with ammonia consist of:",
+"question": "The white fumes produced when <latex>HCl</latex> reacts with ammonia consist of:",
 "choices": ["Ammonium chloride", "Ammonium hydroxide", "Ammonium nitrate", "Ammonium sulphate"],
 "answer": 0,
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Knowledge",
 "complexity": "easy",
-"reason": "NH3 + HCl → NH4Cl."
+"reason": "<latex>NH_{3} + HCl \\rightarrow NH_{4}Cl</latex>."
 },
 {
 "question": "Hydrochloric acid is classified as:",
@@ -2659,11 +2659,11 @@
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Conceptual",
 "complexity": "easy",
-"reason": "HCl ionizes almost completely in water."
+"reason": "<latex>HCl</latex> ionizes almost completely in water."
 },
 {
 "question": "Which ion is responsible for acidic properties of hydrochloric acid?",
-"choices": ["H3O+", "Cl-", "OH-", "Na+"],
+"choices": ["<latex>H_{3}O^{+}</latex>", "<latex>Cl^{-}</latex>", "<latex>OH^{-}</latex>", "<latex>Na^{+}</latex>"],
 "answer": 0,
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Conceptual",
@@ -2681,26 +2681,26 @@
 },
 
 {
-"question": "Assertion (A): Dry hydrogen chloride gas does not change the colour of dry blue litmus paper. Reason (R): Hydrogen chloride ionizes only in the presence of water.",
+"question": "<b>Assertion (A)</b>: Dry hydrogen chloride gas does not change the colour of dry blue litmus paper. <b>Reason (R)</b>: Hydrogen chloride ionizes only in the presence of water.",
 "choices": [
-"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-"Assertion (A) is true but Reason (R) is false",
-"Assertion (A) is false but Reason (R) is true"
+"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
 ],
 "answer": 0,
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Analysis",
 "complexity": "medium",
-"reason": "Acidic behaviour appears only when HCl forms hydronium ions in water."
+"reason": "Acidic behaviour appears only when <latex>HCl</latex> forms hydronium ions in water."
 },
 {
-"question": "Assertion (A): Hydrogen chloride gas is collected by upward displacement of air. Reason (R): Hydrogen chloride is denser than air and highly soluble in water.",
+"question": "<b>Assertion (A)</b>: Hydrogen chloride gas is collected by upward displacement of air. <b>Reason (R)</b>: Hydrogen chloride is denser than air and highly soluble in water.",
 "choices": [
-"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-"Assertion (A) is true but Reason (R) is false",
-"Assertion (A) is false but Reason (R) is true"
+"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
 ],
 "answer": 0,
 "chapter": "Study of Compounds - Hydrogen Chloride",
@@ -2709,12 +2709,12 @@
 "reason": "Its high density and high solubility prevent collection over water."
 },
 {
-"question": "Assertion (A): Concentrated sulphuric acid is used in the preparation of hydrogen chloride gas. Reason (R): Sulphuric acid is a non-volatile acid and displaces volatile hydrochloric acid from sodium chloride.",
+"question": "<b>Assertion (A)</b>: Concentrated sulphuric acid is used in the preparation of hydrogen chloride gas. <b>Reason (R)</b>: Sulphuric acid is a non-volatile acid and displaces volatile hydrochloric acid from sodium chloride.",
 "choices": [
-"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-"Assertion (A) is true but Reason (R) is false",
-"Assertion (A) is false but Reason (R) is true"
+"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
 ],
 "answer": 0,
 "chapter": "Study of Compounds - Hydrogen Chloride",
@@ -2723,40 +2723,40 @@
 "reason": "A non-volatile acid displaces a volatile acid from its salt."
 },
 {
-"question": "Assertion (A): Hydrogen chloride gas forms dense white fumes with ammonia gas. Reason (R): Ammonium chloride is produced during the reaction.",
+"question": "<b>Assertion (A)</b>: Hydrogen chloride gas forms dense white fumes with ammonia gas. <b>Reason (R)</b>: Ammonium chloride is produced during the reaction.",
 "choices": [
-"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-"Assertion (A) is true but Reason (R) is false",
-"Assertion (A) is false but Reason (R) is true"
+"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
 ],
 "answer": 0,
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Analysis",
 "complexity": "easy",
-"reason": "NH3 reacts with HCl to form white fumes of NH4Cl."
+"reason": "<latex>NH_{3}</latex> reacts with <latex>HCl</latex> to form white fumes of <latex>NH_{4}Cl</latex>."
 },
 {
-"question": "Assertion (A): Hydrogen chloride gas cannot be dried using quicklime. Reason (R): Quicklime reacts chemically with hydrogen chloride gas.",
+"question": "<b>Assertion (A)</b>: Hydrogen chloride gas cannot be dried using quicklime. <b>Reason (R)</b>: Quicklime reacts chemically with hydrogen chloride gas.",
 "choices": [
-"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-"Assertion (A) is true but Reason (R) is false",
-"Assertion (A) is false but Reason (R) is true"
+"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
 ],
 "answer": 0,
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Analysis",
 "complexity": "medium",
-"reason": "Calcium oxide neutralizes HCl forming calcium chloride."
+"reason": "Calcium oxide neutralizes <latex>HCl</latex> forming calcium chloride."
 },
 {
-"question": "Assertion (A): The fountain experiment with hydrogen chloride produces a fountain of water. Reason (R): Hydrogen chloride is highly soluble in water, creating a partial vacuum inside the flask.",
+"question": "<b>Assertion (A)</b>: The fountain experiment with hydrogen chloride produces a fountain of water. <b>Reason (R)</b>: Hydrogen chloride is highly soluble in water, creating a partial vacuum inside the flask.",
 "choices": [
-"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-"Assertion (A) is true but Reason (R) is false",
-"Assertion (A) is false but Reason (R) is true"
+"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
 ],
 "answer": 0,
 "chapter": "Study of Compounds - Hydrogen Chloride",
@@ -2765,12 +2765,12 @@
 "reason": "Rapid dissolution lowers pressure and draws water into the flask."
 },
 {
-"question": "Assertion (A): Hydrochloric acid reacts with sodium carbonate to evolve carbon dioxide. Reason (R): Carbonates react with acids to form salt, water and carbon dioxide.",
+"question": "<b>Assertion (A)</b>: Hydrochloric acid reacts with sodium carbonate to evolve carbon dioxide. <b>Reason (R)</b>: Carbonates react with acids to form salt, water and carbon dioxide.",
 "choices": [
-"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-"Assertion (A) is true but Reason (R) is false",
-"Assertion (A) is false but Reason (R) is true"
+"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
 ],
 "answer": 0,
 "chapter": "Study of Compounds - Hydrogen Chloride",
@@ -2779,26 +2779,26 @@
 "reason": "This is a characteristic reaction of acids with carbonates."
 },
 {
-"question": "Assertion (A): Hydrochloric acid gives a white curdy precipitate with silver nitrate solution. Reason (R): Silver chloride is insoluble in water.",
+"question": "<b>Assertion (A)</b>: Hydrochloric acid gives a white curdy precipitate with silver nitrate solution. <b>Reason (R)</b>: Silver chloride is insoluble in water.",
 "choices": [
-"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-"Assertion (A) is true but Reason (R) is false",
-"Assertion (A) is false but Reason (R) is true"
+"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
 ],
 "answer": 0,
 "chapter": "Study of Compounds - Hydrogen Chloride",
 "category": "Analysis",
 "complexity": "medium",
-"reason": "Chloride ions react with silver ions to form insoluble AgCl."
+"reason": "Chloride ions react with silver ions to form insoluble <latex>AgCl</latex>."
 },
 {
-"question": "Assertion (A): The reaction between hydrogen and chlorine is explosive in sunlight. Reason (R): Sunlight initiates a chain reaction by dissociating chlorine molecules into reactive radicals.",
+"question": "<b>Assertion (A)</b>: The reaction between hydrogen and chlorine is explosive in sunlight. <b>Reason (R)</b>: Sunlight initiates a chain reaction by dissociating chlorine molecules into reactive radicals.",
 "choices": [
-"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-"Assertion (A) is true but Reason (R) is false",
-"Assertion (A) is false but Reason (R) is true"
+"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
 ],
 "answer": 0,
 "chapter": "Study of Compounds - Hydrogen Chloride",
@@ -2807,12 +2807,12 @@
 "reason": "Ultraviolet light generates chlorine radicals, causing an explosive reaction."
 },
 {
-"question": "Assertion (A): An inverted funnel is used while dissolving hydrogen chloride gas in water. Reason (R): It prevents back suction of water into the generating flask.",
+"question": "<b>Assertion (A)</b>: An inverted funnel is used while dissolving hydrogen chloride gas in water. <b>Reason (R)</b>: It prevents back suction of water into the generating flask.",
 "choices": [
-"Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-"Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-"Assertion (A) is true but Reason (R) is false",
-"Assertion (A) is false but Reason (R) is true"
+"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+"Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+"<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+"<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
 ],
 "answer": 0,
 "chapter": "Study of Compounds - Hydrogen Chloride",
@@ -2821,7 +2821,7 @@
 "reason": "The inverted funnel increases surface area and avoids backflow."
 },
 {
-   "question": "What is the relative molecular mass of ammonia (NH3)?",
+   "question": "What is the relative molecular mass of ammonia (<latex>NH_{3}</latex>)?",
    "choices": [
      "14",
      "17",
@@ -2902,7 +2902,7 @@
    "chapter": "Study of Compounds: Ammonia",
    "category": "Knowledge",
    "complexity": "medium",
-   "reason": "Ammonia reacts with calcium chloride to form an addition product, making CaCl2 unsuitable as a drying agent."
+   "reason": "Ammonia reacts with calcium chloride to form an addition product, making <latex>CaCl_{2}</latex> unsuitable as a drying agent."
  },
  {
    "question": "Ammonia gas is collected by the downward displacement of air because it is:",
@@ -2944,7 +2944,7 @@
    "chapter": "Study of Compounds: Ammonia",
    "category": "Knowledge",
    "complexity": "low",
-   "reason": "Nitrides of Magnesium (Mg3N2) and Aluminium (AlN) react with warm water to produce ammonia."
+   "reason": "Nitrides of Magnesium (<latex>Mg_{3}N_{2}</latex>) and Aluminium (<latex>AlN</latex>) react with warm water to produce ammonia."
  },
  {
    "question": "Identify the balanced equation for the reaction of magnesium nitride with warm water.",
@@ -2961,12 +2961,12 @@
    "reason": "Magnesium nitride reacts with water to form magnesium hydroxide and ammonia gas."
  },
  {
-   "question": "Assertion (A): Ammonia gas cannot be collected over water. \nReason (R): Ammonia is highly soluble in water.",
+   "question": "<b>Assertion (A)</b>: Ammonia gas cannot be collected over water. \n<b>Reason (R)</b>: Ammonia is highly soluble in water.",
    "choices": [
-     "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-     "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-     "Assertion (A) is true but Reason (R) is false",
-     "Assertion (A) is false but Reason (R) is true"
+     "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+     "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+     "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+     "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
    ],
    "answer": 0,
    "chapter": "Study of Compounds: Ammonia",
@@ -3000,7 +3000,7 @@
    "chapter": "Study of Compounds: Ammonia",
    "category": "Knowledge",
    "complexity": "low",
-   "reason": "According to the equation N2 + 3H2 -> 2NH3, the ratio is 1 part Nitrogen to 3 parts Hydrogen by volume."
+   "reason": "According to the equation <latex>N_{2} + 3H_{2} \\rightarrow 2NH_{3}</latex>, the ratio is 1 part Nitrogen to 3 parts Hydrogen by volume."
  },
  {
    "question": "Which of the following conditions is favorable for the manufacture of ammonia by Haber's Process?",
@@ -3028,7 +3028,7 @@
    "chapter": "Study of Compounds: Ammonia",
    "category": "Knowledge",
    "complexity": "low",
-   "reason": "Molybdenum or Al2O3 acts as a promoter to increase the efficiency of the iron catalyst."
+   "reason": "Molybdenum or <latex>Al_{2}O_{3}</latex> acts as a promoter to increase the efficiency of the iron catalyst."
  },
  {
    "question": "Ammonia is separated from unreacted nitrogen and hydrogen in Haber's process because ammonia:",
@@ -3042,7 +3042,7 @@
    "chapter": "Study of Compounds: Ammonia",
    "category": "Analysis",
    "complexity": "medium",
-   "reason": "Ammonia can be liquefied under pressure at lower temperatures much more easily than N2 or H2."
+   "reason": "Ammonia can be liquefied under pressure at lower temperatures much more easily than <latex>N_{2}</latex> or <latex>H_{2}</latex>."
  },
  {
    "question": "What happens during the 'Fountain Experiment' when water is introduced into the flask containing ammonia?",
@@ -3073,18 +3073,18 @@
    "reason": "Ammonia turns red litmus solution blue, which indicates its alkaline (basic) nature."
  },
  {
-   "question": "Assertion (A): Dry ammonia gas has no effect on dry red litmus paper. \nReason (R): The basic nature of ammonia is due to the presence of hydroxyl ions which only form in the presence of moisture.",
+   "question": "<b>Assertion (A)</b>: Dry ammonia gas has no effect on dry red litmus paper. \n<b>Reason (R)</b>: The basic nature of ammonia is due to the presence of hydroxyl ions which only form in the presence of moisture.",
    "choices": [
-     "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-     "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-     "Assertion (A) is true but Reason (R) is false",
-     "Assertion (A) is false but Reason (R) is true"
+     "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+     "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+     "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+     "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
    ],
    "answer": 0,
    "chapter": "Study of Compounds: Ammonia",
    "category": "Analysis",
    "complexity": "high",
-   "reason": "Ammonia gas is a covalent molecule and only acts as a base when it reacts with water to form NH4+ and OH- ions."
+  "reason": "Ammonia gas is a covalent molecule and only acts as a base when it reacts with water to form <latex>NH_{4}^{+}</latex> and <latex>OH^{-}</latex> ions."
  },
  {
    "question": "Ammonia burns in an atmosphere of pure oxygen with a:",
@@ -3118,7 +3118,7 @@
    "question": "Which of the following is produced when excess ammonia reacts with chlorine?",
    "choices": [
      "Nitrogen and hydrochloric acid",
-     "Nitrogen trichloride and HCl",
+     "Nitrogen trichloride and <latex>HCl</latex>",
      "Nitrogen and ammonium chloride",
      "Nitric oxide and water"
    ],
@@ -3126,7 +3126,7 @@
    "chapter": "Study of Compounds: Ammonia",
    "category": "Knowledge",
    "complexity": "high",
-   "reason": "With excess ammonia, the HCl formed reacts with the remaining ammonia to produce white fumes of ammonium chloride (NH4Cl)."
+   "reason": "With excess ammonia, the <latex>HCl</latex> formed reacts with the remaining ammonia to produce white fumes of ammonium chloride (<latex>NH_{4}Cl</latex>)."
  },
  {
    "question": "When chlorine is in excess in a reaction with ammonia, the explosive product formed is:",
@@ -3140,24 +3140,24 @@
    "chapter": "Study of Compounds: Ammonia",
    "category": "Knowledge",
    "complexity": "medium",
-   "reason": "Reaction: NH3 + 3Cl2 -> 3HCl + NCl3. NCl3 (nitrogen trichloride) is a yellow, highly explosive liquid."
+   "reason": "Reaction: <latex>NH_{3} + 3Cl_{2} \\rightarrow 3HCl + NCl_{3}</latex>. <latex>NCl_{3}</latex> (nitrogen trichloride) is a yellow, highly explosive liquid."
  },
  {
-   "question": "Assertion (A): Ammonia acts as a reducing agent when passed over heated Copper (II) oxide.\nReason (R): Ammonia is oxidized to nitrogen while Copper (II) oxide is reduced to metallic copper.",
+   "question": "<b>Assertion (A)</b>: Ammonia acts as a reducing agent when passed over heated Copper (II) oxide.\n<b>Reason (R)</b>: Ammonia is oxidized to nitrogen while Copper (II) oxide is reduced to metallic copper.",
    "choices": [
-     "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-     "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-     "Assertion (A) is true but Reason (R) is false",
-     "Assertion (A) is false but Reason (R) is true"
+     "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+     "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+     "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+     "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
    ],
    "answer": 0,
    "chapter": "Study of Compounds: Ammonia",
    "category": "Analysis",
    "complexity": "medium",
-   "reason": "The reaction 2NH3 + 3CuO -> 3Cu + 3H2O + N2 shows copper oxide losing oxygen (reduction) and ammonia losing hydrogen (oxidation)."
+   "reason": "The reaction <latex>2NH_{3} + 3CuO \\rightarrow 3Cu + 3H_{2}O + N_{2}</latex> shows copper oxide losing oxygen (reduction) and ammonia losing hydrogen (oxidation)."
  },
  {
-   "question": "What is observed when a glass rod dipped in concentrated HCl is brought near the mouth of a jar containing ammonia gas?",
+   "question": "What is observed when a glass rod dipped in concentrated <latex>HCl</latex> is brought near the mouth of a jar containing ammonia gas?",
    "choices": [
      "No reaction",
      "The rod turns blue",
@@ -3168,10 +3168,10 @@
    "chapter": "Study of Compounds: Ammonia",
    "category": "Application",
    "complexity": "medium",
-   "reason": "HCl gas and NH3 gas react instantly to form solid ammonium chloride (NH4Cl) which appears as dense white fumes."
+   "reason": "<latex>HCl</latex> gas and <latex>NH_{3}</latex> gas react instantly to form solid ammonium chloride (<latex>NH_{4}Cl</latex>) which appears as dense white fumes."
  },
  {
-   "question": "Aqueous ammonia (NH4OH) reacts with Ferric chloride solution (FeCl3) to give a precipitate of:",
+   "question": "Aqueous ammonia (<latex>NH_{4}OH</latex>) reacts with Ferric chloride solution (<latex>FeCl_{3}</latex>) to give a precipitate of:",
    "choices": [
      "Dirty green color",
      "Pale blue color",
@@ -3182,21 +3182,21 @@
    "chapter": "Study of Compounds: Ammonia",
    "category": "Knowledge",
    "complexity": "medium",
-   "reason": "Ferric (Fe3+) salts react with NH4OH to form Fe(OH)3, which is a reddish-brown precipitate."
+   "reason": "Ferric (<latex>Fe^{3+}</latex>) salts react with <latex>NH_{4}OH</latex> to form <latex>Fe(OH)_{3}</latex>, which is a reddish-brown precipitate."
  },
  {
-   "question": "Assertion (A): On adding excess ammonium hydroxide to a copper sulphate solution, a deep blue solution is formed.\nReason (R): Copper hydroxide dissolves in excess NH4OH to form a soluble complex called tetraammine copper (II) sulphate.",
+   "question": "<b>Assertion (A)</b>: On adding excess ammonium hydroxide to a copper sulphate solution, a deep blue solution is formed.\n<b>Reason (R)</b>: Copper hydroxide dissolves in excess <latex>NH_{4}OH</latex> to form a soluble complex called tetraammine copper (II) sulphate.",
    "choices": [
-     "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-     "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-     "Assertion (A) is true but Reason (R) is false",
-     "Assertion (A) is false but Reason (R) is true"
+     "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+     "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+     "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+     "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
    ],
    "answer": 0,
    "chapter": "Study of Compounds: Ammonia",
    "category": "Analysis",
    "complexity": "high",
-   "reason": "The formation of [Cu(NH3)4]SO4 results in the characteristic deep/azure blue solution."
+   "reason": "The formation of <latex>[Cu(NH_{3})_{4}]SO_{4}</latex> results in the characteristic deep/azure blue solution."
  },
  {
    "question": "Which of the following precipitates is soluble in excess of ammonium hydroxide?",
@@ -3210,7 +3210,7 @@
    "chapter": "Study of Compounds: Ammonia",
    "category": "Knowledge",
    "complexity": "medium",
-   "reason": "Zinc hydroxide dissolves in excess NH4OH to form a colorless complex: tetraammine zinc sulphate."
+   "reason": "Zinc hydroxide dissolves in excess <latex>NH_{4}OH</latex> to form a colorless complex: tetraammine zinc sulphate."
  },
  {
    "question": "Nessler's reagent is used to detect ammonia. It turns ____________ in the presence of ammonia.",
@@ -3252,15 +3252,15 @@
    "chapter": "Study of Compounds: Ammonia",
    "category": "Knowledge",
    "complexity": "low",
-   "reason": "The reaction 2NH3 + CO2 -> NH2CONH2 + H2O produces urea."
+   "reason": "The reaction <latex>2NH_{3} + CO_{2} \\rightarrow NH_{2}CONH_{2} + H_{2}O</latex> produces urea."
  },
  {
-   "question": "Assertion (A): CFCs are being replaced by ammonia as refrigerants.\nReason (R): CFCs deplete the ozone layer, whereas ammonia is environmentally compatible.",
+   "question": "<b>Assertion (A)</b>: CFCs are being replaced by ammonia as refrigerants.\n<b>Reason (R)</b>: CFCs deplete the ozone layer, whereas ammonia is environmentally compatible.",
    "choices": [
-     "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-     "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-     "Assertion (A) is true but Reason (R) is false",
-     "Assertion (A) is false but Reason (R) is true"
+     "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+     "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+     "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+     "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
    ],
    "answer": 0,
    "chapter": "Study of Compounds: Ammonia",
@@ -3297,12 +3297,12 @@
    "reason": "Ammonia reduces the metallic oxide to metal (CuO to Cu), proving it is a reducing agent."
  },
  {
-   "question": "Assertion (A): Ammonium chloride undergoes thermal dissociation.\nReason (R): On heating, it breaks into ammonia and hydrogen chloride, which can recombine on cooling.",
+   "question": "<b>Assertion (A)</b>: Ammonium chloride undergoes thermal dissociation.\n<b>Reason (R)</b>: On heating, it breaks into ammonia and hydrogen chloride, which can recombine on cooling.",
    "choices": [
-     "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-     "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-     "Assertion (A) is true but Reason (R) is false",
-     "Assertion (A) is false but Reason (R) is true"
+     "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+     "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+     "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+     "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
    ],
    "answer": 0,
    "chapter": "Study of Compounds: Ammonia",
@@ -3327,10 +3327,10 @@
  {
    "question": "Which of these gases is highly soluble in water and turns phenolphthalein pink?",
    "choices": [
-     "HCl",
-     "SO2",
-     "NH3",
-     "CO2"
+     "<latex>HCl</latex>",
+     "<latex>SO_{2}</latex>",
+     "<latex>NH_{3}</latex>",
+     "<latex>CO_{2}</latex>"
    ],
    "answer": 2,
    "chapter": "Study of Compounds: Ammonia",
@@ -3353,18 +3353,18 @@
    "reason": "Fractional distillation of liquid air represents the industrial source of Nitrogen."
  },
  {
-   "question": "Assertion (A): In Haber’s process, the reacting gases must be purified from CO and H2S.\nReason (R): These impurities act as catalytic poisons and decrease the efficiency of the iron catalyst.",
+   "question": "<b>Assertion (A)</b>: In Haber’s process, the reacting gases must be purified from <latex>CO</latex> and <latex>H_{2}S</latex>.\n<b>Reason (R)</b>: These impurities act as catalytic poisons and decrease the efficiency of the iron catalyst.",
    "choices": [
-     "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-     "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-     "Assertion (A) is true but Reason (R) is false",
-     "Assertion (A) is false but Reason (R) is true"
+     "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+     "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+     "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+     "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
    ],
    "answer": 0,
    "chapter": "Study of Compounds: Ammonia",
    "category": "Analysis",
    "complexity": "medium",
-   "reason": "Impurities like CO and Sulphur compounds poison the catalyst, stopping the reaction from proceeding efficiently."
+   "reason": "Impurities like <latex>CO</latex> and Sulphur compounds poison the catalyst, stopping the reaction from proceeding efficiently."
  },
  {
    "question": "The Vapour Density of ammonia is 8.5. What is the Vapour Density of air?",
@@ -3406,15 +3406,15 @@
    "chapter": "Study of Compounds: Ammonia",
    "category": "Application",
    "complexity": "medium",
-   "reason": "This is catalytic oxidation: 4NH3 + 5O2 -> 4NO + 6H2O."
+   "reason": "This is catalytic oxidation: <latex>4NH_{3} + 5O_{2} \\rightarrow 4NO + 6H_{2}O</latex>."
  },
  {
-   "question": "Assertion (A): Ammonia behaves as a Lewis base.\nReason (R): The nitrogen atom in ammonia has a lone pair of electrons available for donation.",
+   "question": "<b>Assertion (A)</b>: Ammonia behaves as a Lewis base.\n<b>Reason (R)</b>: The nitrogen atom in ammonia has a lone pair of electrons available for donation.",
    "choices": [
-     "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-     "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-     "Assertion (A) is true but Reason (R) is false",
-     "Assertion (A) is false but Reason (R) is true"
+     "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+     "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+     "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+     "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
    ],
    "answer": 0,
    "chapter": "Study of Compounds: Ammonia",
@@ -3454,23 +3454,23 @@
    "question": "What happens when Ammonium hydroxide is added to a solution of Lead nitrate?",
    "choices": [
      "A reddish brown precipitate is formed.",
-     "A white precipitate is formed which is insoluble in excess NH4OH.",
-     "A white precipitate is formed which is soluble in excess NH4OH.",
+     "A white precipitate is formed which is insoluble in excess <latex>NH_{4}OH</latex>.",
+     "A white precipitate is formed which is soluble in excess <latex>NH_{4}OH</latex>.",
      "No precipitate is formed."
    ],
    "answer": 1,
    "chapter": "Study of Compounds: Ammonia",
    "category": "Application",
    "complexity": "high",
-   "reason": "Lead salts react with NH4OH to form Pb(OH)2, a white precipitate insoluble in excess ammonium hydroxide."
+   "reason": "Lead salts react with <latex>NH_{4}OH</latex> to form Pb(OH)2, a white precipitate insoluble in excess ammonium hydroxide."
  },
  {
-   "question": "Assertion (A): Ammonia cannot be dried using Conc. H2SO4.\nReason (R): Ammonia is a basic gas and reacts with acidic H2SO4 to form ammonium sulphate.",
+   "question": "<b>Assertion (A)</b>: Ammonia cannot be dried using Conc. <latex>H_{2}SO_{4}</latex>.\n<b>Reason (R)</b>: Ammonia is a basic gas and reacts with acidic <latex>H_{2}SO_{4}</latex> to form ammonium sulphate.",
    "choices": [
-     "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-     "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-     "Assertion (A) is true but Reason (R) is false",
-     "Assertion (A) is false but Reason (R) is true"
+     "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+     "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+     "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+     "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
    ],
    "answer": 0,
    "chapter": "Study of Compounds: Ammonia",
@@ -3490,7 +3490,7 @@
    "chapter": "Study of Compounds: Ammonia",
    "category": "Analysis",
    "complexity": "medium",
-   "reason": "As a weak base, NH4OH exists in dynamic equilibrium with NH3/H2O and NH4+/OH- ions."
+  "reason": "As a weak base, <latex>NH_{4}OH</latex> exists in dynamic equilibrium with <latex>NH_{3}</latex>/<latex>H_{2}O</latex> and <latex>NH_{4}^{+}</latex>/<latex>OH^{-}</latex> ions."
  },
  {
    "question": "Which of the following describes the Solvay process?",
@@ -3504,10 +3504,10 @@
    "chapter": "Study of Compounds: Ammonia",
    "category": "Knowledge",
    "complexity": "medium",
-   "reason": "The Solvay process uses ammonia to help convert salt and CO2 into Sodium carbonate."
+   "reason": "The Solvay process uses ammonia to help convert salt and <latex>CO_{2}</latex> into Sodium carbonate."
  },
  {
-   "question": "Which observation is correct for the reaction 8NH3 (excess) + 3Cl2 -> N2 + 6NH4Cl?",
+   "question": "Which observation is correct for the reaction <latex>8NH_{3} + 3Cl_{2} \\rightarrow N_{2} + 6NH_{4}Cl</latex> (excess ammonia)?",
    "choices": [
      "Yellow gas is evolved.",
      "Greenish-yellow color of chlorine disappears and white fumes appear.",
@@ -3521,12 +3521,12 @@
    "reason": "The reaction produces solid ammonium chloride, which looks like dense white fumes, and uses up the colored chlorine gas."
  },
  {
-   "question": "Assertion (A): Liquid ammonia can cause death if inhaled in large quantities.\nReason (R): Ammonia is a powerful heart stimulant and affects the respiratory system.",
+   "question": "<b>Assertion (A)</b>: Liquid ammonia can cause death if inhaled in large quantities.\n<b>Reason (R)</b>: Ammonia is a powerful heart stimulant and affects the respiratory system.",
    "choices": [
-     "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-     "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-     "Assertion (A) is true but Reason (R) is false",
-     "Assertion (A) is false but Reason (R) is true"
+     "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+     "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+     "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+     "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
    ],
    "answer": 0,
    "chapter": "Study of Compounds: Ammonia",
@@ -3619,12 +3619,12 @@
    "reason": "Ammonia's ability to emulsify fats makes it effective in removing perspiration and grease stains."
  },
  {
-   "question": "Assertion (A): Ammonia gas is lighter than air.\nReason (R): Its vapour density is 8.5 compared to the vapour density of air, which is 14.4.",
+   "question": "<b>Assertion (A)</b>: Ammonia gas is lighter than air.\n<b>Reason (R)</b>: Its vapour density is 8.5 compared to the vapour density of air, which is 14.4.",
    "choices": [
-     "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-     "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-     "Assertion (A) is true but Reason (R) is false",
-     "Assertion (A) is false but Reason (R) is true"
+     "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+     "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+     "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+     "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
    ],
    "answer": 0,
    "chapter": "Study of Compounds: Ammonia",
@@ -3644,7 +3644,7 @@
    "chapter": "Study of Compounds: Ammonia",
    "category": "Knowledge",
    "complexity": "low",
-   "reason": "Reaction: 2NH3 + H2SO4 -> (NH4)2SO4."
+   "reason": "Reaction: <latex>2NH_{3} + H_{2}SO_{4} \\rightarrow (NH_{4})_{2}SO_{4}</latex>."
  },
  {
    "question": "The boiling point of liquid ammonia is:",
@@ -3662,12 +3662,12 @@
  },
 {
   "question": "What is the molecular formula of nitric acid?",
-  "choices": ["HNO2", "HNO3", "H2NO3", "NHO3"],
+  "choices": ["<latex>HNO_{2}</latex>", "<latex>HNO_{3}</latex>", "<latex>H_{2}NO_{3}</latex>", "<latex>NHO_{3}</latex>"],
   "answer": 1,
   "chapter": "Nitric Acid",
   "category": "Knowledge",
   "complexity": "low",
-  "reason": "Nitric acid has the molecular formula HNO3."
+  "reason": "Nitric acid has the molecular formula <latex>HNO_{3}</latex>."
 },
 {
   "question": "What is the relative molecular mass of nitric acid?",
@@ -3676,7 +3676,7 @@
   "chapter": "Nitric Acid",
   "category": "Knowledge",
   "complexity": "low",
-  "reason": "The relative molecular mass of HNO3 is 63."
+  "reason": "The relative molecular mass of <latex>HNO_{3}</latex> is 63."
 },
 {
   "question": "Nitric acid was formerly known as:",
@@ -3707,15 +3707,15 @@
 },
 {
   "question": "Which of the following is Chile saltpetre?",
-  "choices": ["KNO3", "NaNO3", "Ca(NO3)2", "NH4NO3"],
+  "choices": ["<latex>KNO_{3}</latex>", "<latex>NaNO_{3}</latex>", "<latex>Ca(NO_{3})_{2}</latex>", "<latex>NH_{4}NO_{3}</latex>"],
   "answer": 1,
   "chapter": "Nitric Acid",
   "category": "Knowledge",
   "complexity": "medium",
-  "reason": "Chile saltpetre is sodium nitrate (NaNO3)."
+  "reason": "Chile saltpetre is sodium nitrate (<latex>NaNO_{3}</latex>)."
 },
 {
-  "question": "The reaction N2 + O2 → 2NO occurs during:",
+  "question": "The reaction <latex>N_{2} + O_{2} \\rightarrow 2NO</latex> occurs during:",
   "choices": ["Electrolysis", "Lightning discharge", "Combustion of sulphur", "Photosynthesis"],
   "answer": 1,
   "chapter": "Nitric Acid",
@@ -3725,7 +3725,7 @@
 },
 {
   "question": "Nitric oxide is oxidised to:",
-  "choices": ["N2O", "NO2", "N2O5", "NH3"],
+  "choices": ["<latex>N_{2}O</latex>", "<latex>NO_{2}</latex>", "<latex>N_{2}O_{5}</latex>", "<latex>NH_{3}</latex>"],
   "answer": 1,
   "chapter": "Nitric Acid",
   "category": "Knowledge",
@@ -3803,7 +3803,7 @@
 },
 {
   "question": "The yellow colour of laboratory nitric acid is due to dissolved:",
-  "choices": ["NO", "N2O", "NO2", "NH3"],
+  "choices": ["<latex>NO</latex>", "<latex>N_{2}O</latex>", "<latex>NO_{2}</latex>", "<latex>NH_{3}</latex>"],
   "answer": 2,
   "chapter": "Nitric Acid",
   "category": "Knowledge",
@@ -3851,7 +3851,7 @@
   "choices": [
     "Oxidation of nitrogen dioxide",
     "Catalytic oxidation of ammonia",
-    "Absorption of NO2",
+    "Absorption of <latex>NO_{2}</latex>",
     "Formation of aqua regia"
   ],
   "answer": 1,
@@ -3934,7 +3934,7 @@
 },
 {
   "question": "Cold dilute nitric acid reacting with copper produces:",
-  "choices": ["NO", "NO2", "N2O", "NH3"],
+  "choices": ["<latex>NO</latex>", "<latex>NO_{2}</latex>", "<latex>N_{2}O</latex>", "<latex>NH_{3}</latex>"],
   "answer": 0,
   "chapter": "Nitric Acid",
   "category": "Application",
@@ -3943,7 +3943,7 @@
 },
 {
   "question": "Concentrated nitric acid reacting with copper produces:",
-  "choices": ["NO", "NO2", "N2", "NH3"],
+  "choices": ["<latex>NO</latex>", "<latex>NO_{2}</latex>", "<latex>N_{2}</latex>", "<latex>NH_{3}</latex>"],
   "answer": 1,
   "chapter": "Nitric Acid",
   "category": "Application",
@@ -3961,7 +3961,7 @@
 },
 {
   "question": "Very dilute nitric acid reacts with magnesium to liberate:",
-  "choices": ["NO2", "NO", "H2", "N2"],
+  "choices": ["<latex>NO_{2}</latex>", "<latex>NO</latex>", "<latex>H_{2}</latex>", "<latex>N_{2}</latex>"],
   "answer": 2,
   "chapter": "Nitric Acid",
   "category": "Application",
@@ -3969,7 +3969,7 @@
   "reason": "The oxidising action is greatly reduced in very dilute acid."
 },
 {
-  "question": "Aqua regia is prepared by mixing concentrated HNO3 and HCl in the ratio:",
+  "question": "Aqua regia is prepared by mixing concentrated <latex>HNO_{3}</latex> and <latex>HCl</latex> in the ratio:",
   "choices": ["1:1", "3:1", "1:3", "2:3"],
   "answer": 2,
   "chapter": "Nitric Acid",
@@ -3988,12 +3988,12 @@
 },
 
 {
-  "question": "Assertion (A): Nitric acid is stored in coloured bottles. Reason (R): Sunlight decomposes nitric acid producing nitrogen dioxide.",
+  "question": "<b>Assertion (A)</b>: Nitric acid is stored in coloured bottles. <b>Reason (R)</b>: Sunlight decomposes nitric acid producing nitrogen dioxide.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Nitric Acid",
@@ -4002,12 +4002,12 @@
   "reason": "Coloured bottles reduce decomposition caused by light."
 },
 {
-  "question": "Assertion (A): Concentrated sulphuric acid is used in preparing nitric acid. Reason (R): Concentrated sulphuric acid is non-volatile.",
+  "question": "<b>Assertion (A)</b>: Concentrated sulphuric acid is used in preparing nitric acid. <b>Reason (R)</b>: Concentrated sulphuric acid is non-volatile.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Nitric Acid",
@@ -4016,12 +4016,12 @@
   "reason": "Non-volatile sulphuric acid displaces volatile nitric acid."
 },
 {
-  "question": "Assertion (A): Nitric acid is a strong acid. Reason (R): It ionises almost completely in water.",
+  "question": "<b>Assertion (A)</b>: Nitric acid is a strong acid. <b>Reason (R)</b>: It ionises almost completely in water.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Nitric Acid",
@@ -4030,26 +4030,26 @@
   "reason": "Complete ionisation makes nitric acid a strong acid."
 },
 {
-  "question": "Assertion (A): Copper reacts with nitric acid but not with dilute hydrochloric acid. Reason (R): Nitric acid is an oxidising acid.",
+  "question": "<b>Assertion (A)</b>: Copper reacts with nitric acid but not with dilute hydrochloric acid. <b>Reason (R)</b>: Nitric acid is an oxidising acid.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Nitric Acid",
   "category": "Analysis",
   "complexity": "high",
-  "reason": "Nitric acid oxidises copper whereas HCl does not."
+  "reason": "Nitric acid oxidises copper whereas <latex>HCl</latex> does not."
 },
 {
-  "question": "Assertion (A): Iron becomes passive in concentrated nitric acid. Reason (R): A protective oxide layer forms on its surface.",
+  "question": "<b>Assertion (A)</b>: Iron becomes passive in concentrated nitric acid. <b>Reason (R)</b>: A protective oxide layer forms on its surface.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Nitric Acid",
@@ -4058,12 +4058,12 @@
   "reason": "Passivity results from an oxide coating."
 },
 {
-  "question": "Assertion (A): Nitric acid usually does not liberate hydrogen from metals. Reason (R): The hydrogen formed is oxidised to water.",
+  "question": "<b>Assertion (A)</b>: Nitric acid usually does not liberate hydrogen from metals. <b>Reason (R)</b>: The hydrogen formed is oxidised to water.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Nitric Acid",
@@ -4072,26 +4072,26 @@
   "reason": "Nascent oxygen oxidises hydrogen to water."
 },
 {
-  "question": "Assertion (A): Nitric acid turns yellow on standing. Reason (R): Nitrogen dioxide dissolves in nitric acid.",
+  "question": "<b>Assertion (A)</b>: Nitric acid turns yellow on standing. <b>Reason (R)</b>: Nitrogen dioxide dissolves in nitric acid.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Nitric Acid",
   "category": "Analysis",
   "complexity": "medium",
-  "reason": "NO2 produced by decomposition dissolves in the acid."
+  "reason": "<latex>NO_{2}</latex> produced by decomposition dissolves in the acid."
 },
 {
-  "question": "Assertion (A): Platinum gauze is used in the Ostwald process. Reason (R): Platinum acts as a catalyst for ammonia oxidation.",
+  "question": "<b>Assertion (A)</b>: Platinum gauze is used in the Ostwald process. <b>Reason (R)</b>: Platinum acts as a catalyst for ammonia oxidation.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Nitric Acid",
@@ -4100,12 +4100,12 @@
   "reason": "Platinum catalyses oxidation of ammonia to nitric oxide."
 },
 {
-  "question": "Assertion (A): Quartz is packed in the absorption tower. Reason (R): Quartz is acid resistant and aids uniform absorption.",
+  "question": "<b>Assertion (A)</b>: Quartz is packed in the absorption tower. <b>Reason (R)</b>: Quartz is acid resistant and aids uniform absorption.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Nitric Acid",
@@ -4114,12 +4114,12 @@
   "reason": "Quartz helps efficient absorption and resists corrosion."
 },
 {
-  "question": "Assertion (A): Aqua regia can dissolve gold. Reason (R): Aqua regia generates nascent chlorine.",
+  "question": "<b>Assertion (A)</b>: Aqua regia can dissolve gold. <b>Reason (R)</b>: Aqua regia generates nascent chlorine.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Nitric Acid",
@@ -4139,7 +4139,7 @@
 },
 {
   "question": "The oxidation chamber in the Ostwald process converts:",
-  "choices": ["NH3 to NO", "NO to NO2", "NO2 to HNO3", "N2 to NH3"],
+  "choices": ["<latex>NH_3</latex> to <latex>NO</latex>", "<latex>NO</latex> to <latex>NO_2</latex>", "<latex>NO_2</latex> to <latex>HNO_3</latex>", "<latex>N_2</latex> to <latex>NH_3</latex>"],
   "answer": 1,
   "chapter": "Nitric Acid",
   "category": "Application",
@@ -4157,16 +4157,16 @@
 },
 {
   "question": "Which gas is evolved when concentrated nitric acid reacts with copper?",
-  "choices": ["NO", "NO2", "SO2", "CO2"],
+  "choices": ["<latex>NO</latex>", "<latex>NO_2</latex>", "<latex>SO_2</latex>", "<latex>CO_2</latex>"],
   "answer": 1,
   "chapter": "Nitric Acid",
   "category": "Application",
   "complexity": "medium",
-  "reason": "Brown fumes of NO2 are evolved."
+  "reason": "Brown fumes of <latex>NO_{2}</latex> are evolved."
 },
 {
   "question": "Which gas gives the brown fumes observed during nitric acid preparation?",
-  "choices": ["NO", "N2", "NO2", "O2"],
+  "choices": ["<latex>NO</latex>", "<latex>N_2</latex>", "<latex>NO_2</latex>", "<latex>O_2</latex>"],
   "answer": 2,
   "chapter": "Nitric Acid",
   "category": "Knowledge",
@@ -4221,7 +4221,7 @@
   "chapter": "Nitric Acid",
   "category": "Application",
   "complexity": "medium",
-  "reason": "Carbon is oxidised to CO2."
+  "reason": "Carbon is oxidised to <latex>CO_{2}</latex>."
 },
 {
   "question": "The nitric acid obtained at the bottom of the absorption tower is concentrated to about:",
@@ -4248,12 +4248,12 @@
 },
 {
   "question": "What is the molecular formula of sulphuric acid?",
-  "choices": ["H2SO3", "H2SO4", "HSO4", "H2S2O7"],
+  "choices": ["<latex>H_2SO_3</latex>", "<latex>H_2SO_4</latex>", "<latex>HSO_4</latex>", "<latex>H_2S_2O_7</latex>"],
   "answer": 1,
   "chapter": "Sulphuric Acid",
   "category": "Knowledge",
   "complexity": "low",
-  "reason": "Sulphuric acid has the molecular formula H2SO4."
+  "reason": "Sulphuric acid has the molecular formula <latex>H_{2}SO_{4}</latex>."
 },
 {
   "question": "What is the relative molecular mass of sulphuric acid?",
@@ -4262,7 +4262,7 @@
   "chapter": "Sulphuric Acid",
   "category": "Knowledge",
   "complexity": "low",
-  "reason": "The molecular mass of H2SO4 is 98."
+  "reason": "The molecular mass of <latex>H_{2}SO_{4}</latex> is 98."
 },
 {
   "question": "Sulphuric acid is commonly known as:",
@@ -4280,7 +4280,7 @@
   "chapter": "Sulphuric Acid",
   "category": "Knowledge",
   "complexity": "medium",
-  "reason": "Sulphur has an oxidation state of +6 in H2SO4."
+  "reason": "Sulphur has an oxidation state of +6 in <latex>H_{2}SO_{4}</latex>."
 },
 {
   "question": "Sulphuric acid is classified as a:",
@@ -4302,7 +4302,7 @@
 },
 {
   "question": "The gas produced by burning sulphur in air is:",
-  "choices": ["SO3", "H2S", "SO2", "CS2"],
+  "choices": ["<latex>\\mathbf{SO_3}</latex>", "<latex>\\mathbf{H_2S}</latex>", "<latex>\\mathbf{SO_2}</latex>", "<latex>\\mathbf{CS_2}</latex>"],
   "answer": 2,
   "chapter": "Sulphuric Acid",
   "category": "Application",
@@ -4330,10 +4330,10 @@
   "chapter": "Sulphuric Acid",
   "category": "Knowledge",
   "complexity": "medium",
-  "reason": "V2O5 is used as the catalyst in the Contact Process."
+  "reason": "<latex>V_{2}O_{5}</latex> is used as the catalyst in the Contact Process."
 },
 {
-  "question": "The catalytic oxidation of SO2 to SO3 is carried out at approximately:",
+  "question": "The catalytic oxidation of <latex>SO_{2}</latex> to <latex>SO_{3}</latex> is carried out at approximately:",
   "choices": ["100°C", "250°C", "450°C", "900°C"],
   "answer": 2,
   "chapter": "Sulphuric Acid",
@@ -4366,12 +4366,12 @@
 },
 {
   "question": "Oleum is chemically represented as:",
-  "choices": ["H2SO3", "H2SO4", "H2S2O7", "SO3"],
+  "choices": ["<latex>\\mathbf{H_2SO_3}</latex>", "<latex>\\mathbf{H_2SO_4}</latex>", "<latex>\\mathbf{H_2S_2O_7}</latex>", "<latex>\\mathbf{SO_3}</latex>"],
   "answer": 2,
   "chapter": "Sulphuric Acid",
   "category": "Knowledge",
   "complexity": "medium",
-  "reason": "Oleum is pyrosulphuric acid, H2S2O7."
+  "reason": "Oleum is pyrosulphuric acid, <latex>H_{2}S_{2}O_{7}</latex>."
 },
 {
   "question": "<latex>\\mathbf{SO_3 + H_2SO_4 \\rightarrow ?}</latex>",
@@ -4385,7 +4385,7 @@
   "chapter": "Sulphuric Acid",
   "category": "Application",
   "complexity": "medium",
-  "reason": "SO3 dissolves in concentrated sulphuric acid to form oleum."
+  "reason": "<latex>SO_{3}</latex> dissolves in concentrated sulphuric acid to form oleum."
 },
 {
   "question": "Concentrated sulphuric acid contains approximately:",
@@ -4407,7 +4407,7 @@
 },
 {
   "question": "The drying agent used in many laboratory experiments is:",
-  "choices": ["NaOH", "Conc. H2SO4", "HCl", "NH4OH"],
+  "choices": ["<latex>\\mathbf{NaOH}</latex>", "<latex>\\mathbf{Conc. H_2SO_4}</latex>", "<latex>\\mathbf{HCl}</latex>", "<latex>\\mathbf{NH_4OH}</latex>"],
   "answer": 1,
   "chapter": "Sulphuric Acid",
   "category": "Application",
@@ -4452,12 +4452,12 @@
 },
 {
   "question": "Copper reacts with hot concentrated sulphuric acid to produce:",
-  "choices": ["H2", "SO2", "H2S", "O2"],
+  "choices": ["<latex>H_{2}</latex>", "<latex>SO_{2}</latex>", "<latex>H_{2}S</latex>", "<latex>O_{2}</latex>"],
   "answer": 1,
   "chapter": "Sulphuric Acid",
   "category": "Application",
   "complexity": "high",
-  "reason": "Sulphuric acid oxidises copper producing SO2."
+  "reason": "Sulphuric acid oxidises copper producing <latex>SO_{2}</latex>."
 },
 {
   "question": "<latex>\\mathbf{Cu + 2H_2SO_4 \\rightarrow CuSO_4 + SO_2 + 2H_2O}</latex> shows sulphuric acid acting as:",
@@ -4466,7 +4466,7 @@
   "chapter": "Sulphuric Acid",
   "category": "Analysis",
   "complexity": "high",
-  "reason": "Sulphuric acid oxidises copper and itself gets reduced to SO2."
+  "reason": "Sulphuric acid oxidises copper and itself gets reduced to <latex>SO_{2}</latex>."
 },
 {
   "question": "Which metal is not attacked by dilute sulphuric acid?",
@@ -4479,7 +4479,7 @@
 },
 {
   "question": "Dilute sulphuric acid reacts with zinc to liberate:",
-  "choices": ["SO2", "O2", "H2", "N2"],
+  "choices": ["<latex>SO_{2}</latex>", "<latex>O_{2}</latex>", "<latex>H_{2}</latex>", "<latex>N_{2}</latex>"],
   "answer": 2,
   "chapter": "Sulphuric Acid",
   "category": "Application",
@@ -4488,12 +4488,12 @@
 },
 
 {
-  "question": "Assertion (A): Sulphur trioxide is not directly dissolved in water during the Contact Process. Reason (R): Direct absorption produces dense acid mist.",
+  "question": "<b>Assertion (A)</b>: Sulphur trioxide is not directly dissolved in water during the Contact Process. <b>Reason (R)</b>: Direct absorption produces dense acid mist.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Sulphuric Acid",
@@ -4502,26 +4502,26 @@
   "reason": "Dense acid fog prevents efficient absorption."
 },
 {
-  "question": "Assertion (A): Vanadium pentoxide is used in the Contact Process. Reason (R): It acts as a catalyst for oxidation of SO2.",
+  "question": "<b>Assertion (A)</b>: Vanadium pentoxide is used in the Contact Process. <b>Reason (R)</b>: It acts as a catalyst for oxidation of <latex>SO_{2}</latex>.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Sulphuric Acid",
   "category": "Analysis",
   "complexity": "medium",
-  "reason": "V2O5 speeds up conversion of SO2 into SO3."
+  "reason": "<latex>V_{2}O_{5}</latex> speeds up conversion of <latex>SO_{2}</latex> into <latex>SO_{3}</latex>."
 },
 {
-  "question": "Assertion (A): Concentrated sulphuric acid chars sugar. Reason (R): It removes water molecules from sugar.",
+  "question": "<b>Assertion (A)</b>: Concentrated sulphuric acid chars sugar. <b>Reason (R)</b>: It removes water molecules from sugar.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Sulphuric Acid",
@@ -4530,12 +4530,12 @@
   "reason": "The dehydration leaves behind black carbon."
 },
 {
-  "question": "Assertion (A): Concentrated sulphuric acid is used as a drying agent. Reason (R): It is highly hygroscopic.",
+  "question": "<b>Assertion (A)</b>: Concentrated sulphuric acid is used as a drying agent. <b>Reason (R)</b>: It is highly hygroscopic.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Sulphuric Acid",
@@ -4544,12 +4544,12 @@
   "reason": "Its hygroscopic nature enables it to absorb moisture."
 },
 {
-  "question": "Assertion (A): Ammonia cannot be dried with concentrated sulphuric acid. Reason (R): Ammonia reacts with sulphuric acid.",
+  "question": "<b>Assertion (A)</b>: Ammonia cannot be dried with concentrated sulphuric acid. <b>Reason (R)</b>: Ammonia reacts with sulphuric acid.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Sulphuric Acid",
@@ -4558,12 +4558,12 @@
   "reason": "Drying agents must not react with the gas."
 },
 {
-  "question": "Assertion (A): Copper reacts with hot concentrated sulphuric acid. Reason (R): Hot concentrated sulphuric acid acts as an oxidising agent.",
+  "question": "<b>Assertion (A)</b>: Copper reacts with hot concentrated sulphuric acid. <b>Reason (R)</b>: Hot concentrated sulphuric acid acts as an oxidising agent.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Sulphuric Acid",
@@ -4572,12 +4572,12 @@
   "reason": "Copper is oxidised while sulphuric acid is reduced."
 },
 {
-  "question": "Assertion (A): Sulphuric acid is a dibasic acid. Reason (R): It contains two replaceable hydrogen atoms.",
+  "question": "<b>Assertion (A)</b>: Sulphuric acid is a dibasic acid. <b>Reason (R)</b>: It contains two replaceable hydrogen atoms.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Sulphuric Acid",
@@ -4586,12 +4586,12 @@
   "reason": "Dibasic acids furnish two H+ ions."
 },
 {
-  "question": "Assertion (A): Oleum is used for transporting sulphuric acid. Reason (R): Oleum is less corrosive and safer to transport.",
+  "question": "<b>Assertion (A)</b>: Oleum is used for transporting sulphuric acid. <b>Reason (R)</b>: Oleum is less corrosive and safer to transport.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Sulphuric Acid",
@@ -4600,12 +4600,12 @@
   "reason": "Oleum is transported and later diluted to obtain sulphuric acid."
 },
 {
-  "question": "Assertion (A): Low temperature favors SO3 formation. Reason (R): The oxidation of SO2 is exothermic.",
+  "question": "<b>Assertion (A)</b>: Low temperature favors <latex>SO_{3}</latex> formation. <b>Reason (R)</b>: The oxidation of <latex>SO_{2}</latex> is exothermic.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Sulphuric Acid",
@@ -4614,12 +4614,12 @@
   "reason": "Le Chatelier's principle favors product formation at lower temperatures."
 },
 {
-  "question": "Assertion (A): Dilute sulphuric acid liberates hydrogen from zinc. Reason (R): Zinc is above hydrogen in the activity series.",
+  "question": "<b>Assertion (A)</b>: Dilute sulphuric acid liberates hydrogen from zinc. <b>Reason (R)</b>: Zinc is above hydrogen in the activity series.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Sulphuric Acid",
@@ -4630,12 +4630,12 @@
 
 {
   "question": "Which gas is evolved when iron pyrites are roasted?",
-  "choices": ["SO2", "SO3", "CO2", "H2S"],
+  "choices": ["<latex>SO_{2}</latex>", "<latex>SO_{3}</latex>", "<latex>CO_{2}</latex>", "<latex>H_{2}S</latex>"],
   "answer": 0,
   "chapter": "Sulphuric Acid",
   "category": "Knowledge",
   "complexity": "medium",
-  "reason": "Roasting FeS2 produces sulphur dioxide."
+  "reason": "Roasting <latex>FeS_{2}</latex> produces sulphur dioxide."
 },
 {
   "question": "<latex>\\mathbf{4FeS_2 + 11O_2 \\rightarrow 2Fe_2O_3 + ?}</latex>",
@@ -4680,12 +4680,12 @@
 },
 {
   "question": "The density of concentrated sulphuric acid is approximately:",
-  "choices": ["1.0 g/cm³", "1.4 g/cm³", "1.84 g/cm³", "2.5 g/cm³"],
+  "choices": ["1.0 g/cm^3", "1.4 g/cm^3", "1.84 g/cm^3", "2.5 g/cm^3"],
   "answer": 2,
   "chapter": "Sulphuric Acid",
   "category": "Knowledge",
   "complexity": "medium",
-  "reason": "Concentrated sulphuric acid has a density of about 1.84 g/cm³."
+  "reason": "Concentrated sulphuric acid has a density of about 1.84 g/cm^3."
 },
 {
   "question": "When diluting sulphuric acid, one should:",
@@ -4713,7 +4713,7 @@
   "chapter": "Sulphuric Acid",
   "category": "Analysis",
   "complexity": "high",
-  "reason": "Hydration of H+ and SO4²⁻ ions releases large amounts of heat."
+  "reason": "Hydration of <latex>H^+</latex> and <latex>SO_{4}^{2-}</latex> ions releases large amounts of heat."
 },
 {
   "question": "Which industry consumes the largest quantity of sulphuric acid?",
@@ -4739,7 +4739,7 @@
   "reason": "Soap is not manufactured from ammonia using sulphuric acid."
 },
 {
-  "question": "What is the oxidation state of sulphur in SO2?",
+  "question": "What is the oxidation state of sulphur in <latex>SO_{2}</latex>?",
   "choices": ["+2", "+4", "+6", "+8"],
   "answer": 1,
   "chapter": "Sulphuric Acid",
@@ -4748,7 +4748,7 @@
   "reason": "Sulphur has oxidation state +4 in sulphur dioxide."
 },
 {
-  "question": "What is the oxidation state of sulphur in SO3?",
+  "question": "What is the oxidation state of sulphur in <latex>SO_{3}</latex>?",
   "choices": ["+2", "+4", "+5", "+6"],
   "answer": 3,
   "chapter": "Sulphuric Acid",
@@ -4757,7 +4757,7 @@
   "reason": "Sulphur has oxidation state +6 in sulphur trioxide."
 },
 {
-  "question": "The conversion of SO2 to SO3 represents:",
+  "question": "The conversion of <latex>SO_{2}</latex> to <latex>SO_{3}</latex> represents:",
   "choices": ["Reduction", "Oxidation", "Neutralisation", "Hydrolysis"],
   "answer": 1,
   "chapter": "Sulphuric Acid",
@@ -4767,12 +4767,12 @@
 },
 {
   "question": "Which gas is released when hot concentrated sulphuric acid reacts with carbon?",
-  "choices": ["CO", "CO2", "SO2", "Both CO2 and SO2"],
+  "choices": ["<latex>CO</latex>", "<latex>CO_{2}</latex>", "<latex>SO_{2}</latex>", "Both <latex>CO_{2}</latex> and <latex>SO_{2}</latex>"],
   "answer": 3,
   "chapter": "Sulphuric Acid",
   "category": "Application",
   "complexity": "high",
-  "reason": "Carbon is oxidised to CO2 while sulphuric acid is reduced to SO2."
+  "reason": "Carbon is oxidised to <latex>CO_{2}</latex> while sulphuric acid is reduced to <latex>SO_{2}</latex>."
 },
 {
   "question": "<latex>\\mathbf{C + 2H_2SO_4 \\rightarrow CO_2 + 2SO_2 + 2H_2O}</latex> demonstrates sulphuric acid acting as:",
@@ -4850,8 +4850,8 @@
   "choices": [
     "-COOH",
     "-CHO",
-    "-OH",
-    "-CO-"
+    "-<latex>OH</latex>",
+    "-<latex>CO-</latex>"
   ],
   "answer": 2,
   "chapter": "Organic Compounds",
@@ -4899,7 +4899,7 @@
   "chapter": "Organic Compounds",
   "category": "Knowledge",
   "complexity": "low",
-  "reason": "CH3OH is methanol."
+  "reason": "<latex>CH_{3}OH</latex> is methanol."
 },
 {
   "question": "What is the IUPAC name of <latex>\\mathbf{CH_3COOH}</latex>?",
@@ -4913,7 +4913,7 @@
   "chapter": "Organic Compounds",
   "category": "Knowledge",
   "complexity": "low",
-  "reason": "CH3COOH is ethanoic acid."
+  "reason": "<latex>CH_{3}COOH</latex> is ethanoic acid."
 },
 {
   "question": "Identify the product X: <latex>\\mathbf{C_2H_5OH + 2[O] \\rightarrow X + H_2O}</latex>",
@@ -4932,7 +4932,7 @@
 {
   "question": "Which reagent is used to oxidize ethanol to ethanoic acid?",
   "choices": [
-    "Dilute HCl",
+    "Dilute <latex>HCl</latex>",
     "Acidified potassium dichromate",
     "Sodium hydroxide",
     "Bromine water"
@@ -4974,10 +4974,10 @@
 {
   "question": "Which catalyst is used during esterification?",
   "choices": [
-    "Dilute HCl",
-    "Concentrated H2SO4",
-    "NaOH",
-    "NH4OH"
+    "Dilute <latex>HCl</latex>",
+    "Concentrated <latex>H_{2}SO_{4}</latex>",
+    "<latex>NaOH</latex>",
+    "<latex>NH_{4}OH</latex>"
   ],
   "answer": 1,
   "chapter": "Organic Compounds",
@@ -5001,12 +5001,12 @@
 },
 
 {
-  "question": "Assertion (A): Ethene decolourises bromine water. Reason (R): Ethene contains a carbon-carbon double bond.",
+  "question": "<b>Assertion (A)</b>: Ethene decolourises bromine water. <b>Reason (R)</b>: Ethene contains a carbon-carbon double bond.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Organic Compounds",
@@ -5015,12 +5015,12 @@
   "reason": "Unsaturated compounds undergo addition reactions with bromine."
 },
 {
-  "question": "Assertion (A): Ethanol is a neutral compound. Reason (R): Ethanol does not ionize appreciably in water.",
+  "question": "<b>Assertion (A)</b>: Ethanol is a neutral compound. <b>Reason (R)</b>: Ethanol does not ionize appreciably in water.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Organic Compounds",
@@ -5029,12 +5029,12 @@
   "reason": "Ethanol remains largely unionized in water."
 },
 {
-  "question": "Assertion (A): Ethanoic acid turns blue litmus red. Reason (R): Ethanoic acid ionizes in water to produce H+ ions.",
+  "question": "<b>Assertion (A)</b>: Ethanoic acid turns blue litmus red. <b>Reason (R)</b>: Ethanoic acid ionizes in water to produce H+ ions.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Organic Compounds",
@@ -5043,12 +5043,12 @@
   "reason": "The acidic nature is due to ionization."
 },
 {
-  "question": "Assertion (A): Esterification is reversible. Reason (R): Water formed can hydrolyze the ester.",
+  "question": "<b>Assertion (A)</b>: Esterification is reversible. <b>Reason (R)</b>: Water formed can hydrolyze the ester.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Organic Compounds",
@@ -5057,12 +5057,12 @@
   "reason": "The reaction is reversible in nature."
 },
 {
-  "question": "Assertion (A): Methane undergoes substitution reactions. Reason (R): Methane is a saturated hydrocarbon.",
+  "question": "<b>Assertion (A)</b>: Methane undergoes substitution reactions. <b>Reason (R)</b>: Methane is a saturated hydrocarbon.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Organic Compounds",
@@ -5180,7 +5180,7 @@
   "chapter": "Organic Compounds",
   "category": "Knowledge",
   "complexity": "medium",
-  "reason": "Alkynes have the general formula CnH2n−2."
+  "reason": "Alkynes have the general formula <latex>C_{n}H_{2n-2}</latex>."
 },
 {
   "question": "Which equation correctly represents complete combustion of ethene?",
@@ -5201,8 +5201,8 @@
   "choices": [
     "-COOH",
     "-CHO",
-    "-OH",
-    "-CO-"
+    "-<latex>OH</latex>",
+    "-<latex>CO-</latex>"
   ],
   "answer": 1,
   "chapter": "Organic Compounds",
@@ -5230,7 +5230,7 @@
     "-CHO",
     "-COOH",
     ">C=O",
-    "-OH"
+    "-<latex>OH</latex>"
   ],
   "answer": 2,
   "chapter": "Organic Compounds",
@@ -5282,12 +5282,12 @@
 },
 
 {
-  "question": "Assertion (A): Ethyne decolourises bromine water faster than ethane. Reason (R): Ethyne is an unsaturated hydrocarbon.",
+  "question": "<b>Assertion (A)</b>: Ethyne decolourises bromine water faster than ethane. <b>Reason (R)</b>: Ethyne is an unsaturated hydrocarbon.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Organic Compounds",
@@ -5296,12 +5296,12 @@
   "reason": "Unsaturated hydrocarbons undergo addition reactions readily."
 },
 {
-  "question": "Assertion (A): Methane burns with a clean blue flame. Reason (R): Methane has a low carbon-to-hydrogen ratio.",
+  "question": "<b>Assertion (A)</b>: Methane burns with a clean blue flame. <b>Reason (R)</b>: Methane has a low carbon-to-hydrogen ratio.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Organic Compounds",
@@ -5310,12 +5310,12 @@
   "reason": "Methane undergoes more complete combustion than unsaturated hydrocarbons."
 },
 {
-  "question": "Assertion (A): Ethene undergoes addition reactions. Reason (R): Ethene contains a carbon-carbon double bond.",
+  "question": "<b>Assertion (A)</b>: Ethene undergoes addition reactions. <b>Reason (R)</b>: Ethene contains a carbon-carbon double bond.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Organic Compounds",
@@ -5324,12 +5324,12 @@
   "reason": "The double bond breaks allowing addition of atoms."
 },
 {
-  "question": "Assertion (A): Ethanoic acid reacts with active metals. Reason (R): Ethanoic acid is acidic in nature.",
+  "question": "<b>Assertion (A)</b>: Ethanoic acid reacts with active metals. <b>Reason (R)</b>: Ethanoic acid is acidic in nature.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Organic Compounds",
@@ -5338,12 +5338,12 @@
   "reason": "Acids react with active metals liberating hydrogen."
 },
 {
-  "question": "Assertion (A): Concentrated sulphuric acid is used in preparation of ethene from ethanol. Reason (R): It acts as a dehydrating agent.",
+  "question": "<b>Assertion (A)</b>: Concentrated sulphuric acid is used in preparation of ethene from ethanol. <b>Reason (R)</b>: It acts as a dehydrating agent.",
   "choices": [
-    "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-    "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-    "Assertion (A) is true but Reason (R) is false",
-    "Assertion (A) is false but Reason (R) is true"
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+    "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+    "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+    "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
   ],
   "answer": 0,
   "chapter": "Organic Compounds",
@@ -5563,12 +5563,12 @@
   },
 
   {
-    "question": "Assertion (A): Alkanes are called saturated hydrocarbons. Reason (R): They contain only single covalent bonds between carbon atoms.",
+    "question": "<b>Assertion (A)</b>: Alkanes are called saturated hydrocarbons. <b>Reason (R)</b>: They contain only single covalent bonds between carbon atoms.",
     "choices": [
-      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-      "Assertion (A) is true but Reason (R) is false",
-      "Assertion (A) is false but Reason (R) is true"
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+      "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+      "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
     ],
     "answer": 0,
     "chapter": "Alkanes",
@@ -5577,12 +5577,12 @@
     "reason": "Presence of only single bonds makes alkanes saturated."
   },
   {
-    "question": "Assertion (A): Methane does not decolourise bromine water. Reason (R): Methane is a saturated hydrocarbon.",
+    "question": "<b>Assertion (A)</b>: Methane does not decolourise bromine water. <b>Reason (R)</b>: Methane is a saturated hydrocarbon.",
     "choices": [
-      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-      "Assertion (A) is true but Reason (R) is false",
-      "Assertion (A) is false but Reason (R) is true"
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+      "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+      "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
     ],
     "answer": 0,
     "chapter": "Alkanes",
@@ -5591,12 +5591,12 @@
     "reason": "Only unsaturated compounds readily decolourise bromine water."
   },
   {
-    "question": "Assertion (A): Methane undergoes substitution rather than addition reactions. Reason (R): Methane contains only single covalent bonds.",
+    "question": "<b>Assertion (A)</b>: Methane undergoes substitution rather than addition reactions. <b>Reason (R)</b>: Methane contains only single covalent bonds.",
     "choices": [
-      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-      "Assertion (A) is true but Reason (R) is false",
-      "Assertion (A) is false but Reason (R) is true"
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+      "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+      "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
     ],
     "answer": 0,
     "chapter": "Alkanes",
@@ -5605,12 +5605,12 @@
     "reason": "Addition reactions are characteristic of unsaturated hydrocarbons."
   },
   {
-    "question": "Assertion (A): Complete combustion of methane produces a blue flame. Reason (R): Sufficient oxygen ensures complete oxidation to carbon dioxide and water.",
+    "question": "<b>Assertion (A)</b>: Complete combustion of methane produces a blue flame. <b>Reason (R)</b>: Sufficient oxygen ensures complete oxidation to carbon dioxide and water.",
     "choices": [
-      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-      "Assertion (A) is true but Reason (R) is false",
-      "Assertion (A) is false but Reason (R) is true"
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+      "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+      "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
     ],
     "answer": 0,
     "chapter": "Alkanes",
@@ -5619,12 +5619,12 @@
     "reason": "Complete combustion produces a non-luminous blue flame."
   },
   {
-    "question": "Assertion (A): Chlorination of methane is a photochemical reaction. Reason (R): The reaction requires sunlight or UV radiation to initiate free radicals.",
+    "question": "<b>Assertion (A)</b>: Chlorination of methane is a photochemical reaction. <b>Reason (R)</b>: The reaction requires sunlight or UV radiation to initiate free radicals.",
     "choices": [
-      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-      "Assertion (A) is true but Reason (R) is false",
-      "Assertion (A) is false but Reason (R) is true"
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+      "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+      "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
     ],
     "answer": 0,
     "chapter": "Alkanes",
@@ -5845,12 +5845,12 @@
   },
 
   {
-    "question": "Assertion (A): Ethene decolourises bromine water. Reason (R): Ethene contains a carbon-carbon double bond.",
+    "question": "<b>Assertion (A)</b>: Ethene decolourises bromine water. <b>Reason (R)</b>: Ethene contains a carbon-carbon double bond.",
     "choices": [
-      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-      "Assertion (A) is true but Reason (R) is false",
-      "Assertion (A) is false but Reason (R) is true"
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+      "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+      "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
     ],
     "answer": 0,
     "chapter": "Alkenes",
@@ -5859,12 +5859,12 @@
     "reason": "The double bond undergoes addition with bromine."
   },
   {
-    "question": "Assertion (A): Alkenes are unsaturated hydrocarbons. Reason (R): They contain at least one carbon-carbon double bond.",
+    "question": "<b>Assertion (A)</b>: Alkenes are unsaturated hydrocarbons. <b>Reason (R)</b>: They contain at least one carbon-carbon double bond.",
     "choices": [
-      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-      "Assertion (A) is true but Reason (R) is false",
-      "Assertion (A) is false but Reason (R) is true"
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+      "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+      "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
     ],
     "answer": 0,
     "chapter": "Alkenes",
@@ -5873,12 +5873,12 @@
     "reason": "The presence of a double bond makes the compound unsaturated."
   },
   {
-    "question": "Assertion (A): Ethene undergoes addition reactions. Reason (R): The carbon-carbon double bond can break and accommodate new atoms.",
+    "question": "<b>Assertion (A)</b>: Ethene undergoes addition reactions. <b>Reason (R)</b>: The carbon-carbon double bond can break and accommodate new atoms.",
     "choices": [
-      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-      "Assertion (A) is true but Reason (R) is false",
-      "Assertion (A) is false but Reason (R) is true"
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+      "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+      "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
     ],
     "answer": 0,
     "chapter": "Alkenes",
@@ -5887,12 +5887,12 @@
     "reason": "Addition reactions occur due to the reactive π-bond."
   },
   {
-    "question": "Assertion (A): Hydrogenation converts unsaturated hydrocarbons into saturated hydrocarbons. Reason (R): Hydrogen adds across multiple bonds.",
+    "question": "<b>Assertion (A)</b>: Hydrogenation converts unsaturated hydrocarbons into saturated hydrocarbons. <b>Reason (R)</b>: Hydrogen adds across multiple bonds.",
     "choices": [
-      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-      "Assertion (A) is true but Reason (R) is false",
-      "Assertion (A) is false but Reason (R) is true"
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+      "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+      "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
     ],
     "answer": 0,
     "chapter": "Alkenes",
@@ -5901,12 +5901,12 @@
     "reason": "Hydrogenation removes unsaturation by converting double bonds into single bonds."
   },
   {
-    "question": "Assertion (A): Ethene burns with a luminous smoky flame. Reason (R): Ethene has a higher carbon-to-hydrogen ratio than methane.",
+    "question": "<b>Assertion (A)</b>: Ethene burns with a luminous smoky flame. <b>Reason (R)</b>: Ethene has a higher carbon-to-hydrogen ratio than methane.",
     "choices": [
-      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-      "Assertion (A) is true but Reason (R) is false",
-      "Assertion (A) is false but Reason (R) is true"
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+      "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+      "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
     ],
     "answer": 0,
     "chapter": "Alkenes",
@@ -6126,12 +6126,12 @@
   },
 
   {
-    "question": "Assertion (A): Alkynes are more unsaturated than alkenes. Reason (R): Alkynes contain a carbon-carbon triple bond.",
+    "question": "<b>Assertion (A)</b>: Alkynes are more unsaturated than alkenes. <b>Reason (R)</b>: Alkynes contain a carbon-carbon triple bond.",
     "choices": [
-      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-      "Assertion (A) is true but Reason (R) is false",
-      "Assertion (A) is false but Reason (R) is true"
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+      "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+      "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
     ],
     "answer": 0,
     "chapter": "Alkynes",
@@ -6140,12 +6140,12 @@
     "reason": "The triple bond contains two π-bonds and one σ-bond, making alkynes more unsaturated."
   },
   {
-    "question": "Assertion (A): Ethyne decolourises bromine water. Reason (R): Ethyne undergoes addition reactions due to the presence of a triple bond.",
+    "question": "<b>Assertion (A)</b>: Ethyne decolourises bromine water. <b>Reason (R)</b>: Ethyne undergoes addition reactions due to the presence of a triple bond.",
     "choices": [
-      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-      "Assertion (A) is true but Reason (R) is false",
-      "Assertion (A) is false but Reason (R) is true"
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+      "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+      "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
     ],
     "answer": 0,
     "chapter": "Alkynes",
@@ -6154,12 +6154,12 @@
     "reason": "Addition of bromine across the triple bond removes the colour of bromine water."
   },
   {
-    "question": "Assertion (A): Ethyne burns with a smoky flame. Reason (R): Ethyne has a high carbon-to-hydrogen ratio.",
+    "question": "<b>Assertion (A)</b>: Ethyne burns with a smoky flame. <b>Reason (R)</b>: Ethyne has a high carbon-to-hydrogen ratio.",
     "choices": [
-      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-      "Assertion (A) is true but Reason (R) is false",
-      "Assertion (A) is false but Reason (R) is true"
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+      "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+      "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
     ],
     "answer": 0,
     "chapter": "Alkynes",
@@ -6168,12 +6168,12 @@
     "reason": "The higher carbon content leads to incomplete combustion and soot formation."
   },
   {
-    "question": "Assertion (A): Hydrogenation converts alkynes into alkanes. Reason (R): Hydrogen adds across the triple bond until saturation is achieved.",
+    "question": "<b>Assertion (A)</b>: Hydrogenation converts alkynes into alkanes. <b>Reason (R)</b>: Hydrogen adds across the triple bond until saturation is achieved.",
     "choices": [
-      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-      "Assertion (A) is true but Reason (R) is false",
-      "Assertion (A) is false but Reason (R) is true"
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+      "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+      "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
     ],
     "answer": 0,
     "chapter": "Alkynes",
@@ -6182,12 +6182,12 @@
     "reason": "Complete hydrogenation removes all unsaturation."
   },
   {
-    "question": "Assertion (A): Ethyne can undergo two successive addition reactions. Reason (R): Ethyne contains two π-bonds in its triple bond.",
+    "question": "<b>Assertion (A)</b>: Ethyne can undergo two successive addition reactions. <b>Reason (R)</b>: Ethyne contains two π-bonds in its triple bond.",
     "choices": [
-      "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-      "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-      "Assertion (A) is true but Reason (R) is false",
-      "Assertion (A) is false but Reason (R) is true"
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+      "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+      "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+      "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
     ],
     "answer": 0,
     "chapter": "Alkynes",
@@ -6199,7 +6199,7 @@
       "question": "What is the functional group present in alcohols?",
       "choices": [
         "-COOH",
-        "-OH",
+        "-<latex>OH</latex>",
         "-CHO",
         ">C=O"
       ],
@@ -6235,7 +6235,7 @@
       "chapter": "Alcohols",
       "category": "Knowledge",
       "complexity": "low",
-      "reason": "CH3OH is methanol."
+      "reason": "<latex>CH_{3}OH</latex> is methanol."
     },
     {
       "question": "Which equation represents complete combustion of ethanol?",
@@ -6296,7 +6296,7 @@
     {
       "question": "What is the functional group present in carboxylic acids?",
       "choices": [
-        "-OH",
+        "-<latex>OH</latex>",
         "-CHO",
         "-COOH",
         ">C=O"
@@ -6319,7 +6319,7 @@
       "chapter": "Carboxylic Acids",
       "category": "Knowledge",
       "complexity": "low",
-      "reason": "CH3COOH is ethanoic acid."
+      "reason": "<latex>CH_{3}COOH</latex> is ethanoic acid."
     },
     {
       "question": "Which gas is evolved when ethanoic acid reacts with sodium bicarbonate?",
@@ -6380,10 +6380,10 @@
     {
       "question": "Which catalyst is used in esterification?",
       "choices": [
-        "Dilute HCl",
-        "Concentrated H2SO4",
-        "NaOH",
-        "NH4OH"
+        "Dilute <latex>HCl</latex>",
+        "Concentrated <latex>H_{2}SO_{4}</latex>",
+        "<latex>NaOH</latex>",
+        "<latex>NH_{4}OH</latex>"
       ],
       "answer": 1,
       "chapter": "Alcohols and Carboxylic Acids",
@@ -6407,12 +6407,12 @@
     },
 
     {
-      "question": "Assertion (A): Ethanol is a neutral compound. Reason (R): Ethanol does not ionize appreciably in water.",
+      "question": "<b>Assertion (A)</b>: Ethanol is a neutral compound. <b>Reason (R)</b>: Ethanol does not ionize appreciably in water.",
       "choices": [
-        "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-        "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-        "Assertion (A) is true but Reason (R) is false",
-        "Assertion (A) is false but Reason (R) is true"
+        "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+        "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+        "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+        "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
       ],
       "answer": 0,
       "chapter": "Alcohols",
@@ -6421,12 +6421,12 @@
       "reason": "Ethanol remains largely unionized in aqueous solution."
     },
     {
-      "question": "Assertion (A): Ethanoic acid turns blue litmus red. Reason (R): Ethanoic acid ionizes in water to produce hydrogen ions.",
+      "question": "<b>Assertion (A)</b>: Ethanoic acid turns blue litmus red. <b>Reason (R)</b>: Ethanoic acid ionizes in water to produce hydrogen ions.",
       "choices": [
-        "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-        "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-        "Assertion (A) is true but Reason (R) is false",
-        "Assertion (A) is false but Reason (R) is true"
+        "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+        "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+        "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+        "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
       ],
       "answer": 0,
       "chapter": "Carboxylic Acids",
@@ -6435,12 +6435,12 @@
       "reason": "The acidic nature of ethanoic acid is due to the release of H+ ions."
     },
     {
-      "question": "Assertion (A): Esterification is a reversible reaction. Reason (R): Water formed during esterification can hydrolyse the ester.",
+      "question": "<b>Assertion (A)</b>: Esterification is a reversible reaction. <b>Reason (R)</b>: Water formed during esterification can hydrolyse the ester.",
       "choices": [
-        "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-        "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-        "Assertion (A) is true but Reason (R) is false",
-        "Assertion (A) is false but Reason (R) is true"
+        "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+        "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+        "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+        "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
       ],
       "answer": 0,
       "chapter": "Alcohols and Carboxylic Acids",
@@ -6449,12 +6449,12 @@
       "reason": "Esterification and hydrolysis are reverse processes."
     },
     {
-      "question": "Assertion (A): Ethanoic acid reacts with sodium bicarbonate. Reason (R): Ethanoic acid is acidic in nature.",
+      "question": "<b>Assertion (A)</b>: Ethanoic acid reacts with sodium bicarbonate. <b>Reason (R)</b>: Ethanoic acid is acidic in nature.",
       "choices": [
-        "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-        "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-        "Assertion (A) is true but Reason (R) is false",
-        "Assertion (A) is false but Reason (R) is true"
+        "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+        "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+        "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+        "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
       ],
       "answer": 0,
       "chapter": "Carboxylic Acids",
@@ -6463,12 +6463,12 @@
       "reason": "Acids react with carbonates and bicarbonates liberating carbon dioxide."
     },
     {
-      "question": "Assertion (A): Concentrated sulphuric acid is used during esterification. Reason (R): It acts as both a catalyst and a dehydrating agent.",
+      "question": "<b>Assertion (A)</b>: Concentrated sulphuric acid is used during esterification. <b>Reason (R)</b>: It acts as both a catalyst and a dehydrating agent.",
       "choices": [
-        "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A",
-        "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A",
-        "Assertion (A) is true but Reason (R) is false",
-        "Assertion (A) is false but Reason (R) is true"
+        "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true and R is the correct explanation of A",
+        "Both <b>Assertion (A)</b> and <b>Reason (R)</b> are true but R is not the correct explanation of A",
+        "<b>Assertion (A)</b> is true but <b>Reason (R)</b> is false",
+        "<b>Assertion (A)</b> is false but <b>Reason (R)</b> is true"
       ],
       "answer": 0,
       "chapter": "Alcohols and Carboxylic Acids",
@@ -6477,3 +6477,7 @@
       "reason": "Removal of water shifts the equilibrium toward ester formation."
     }
 ]
+
+
+
+
